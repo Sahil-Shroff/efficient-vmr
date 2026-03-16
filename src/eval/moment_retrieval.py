@@ -44,6 +44,65 @@ def _load_windows_by_video(windows_dir: Path) -> dict[str, list[dict[str, Any]]]
     return windows_by_video
 
 
+def _filter_examples_by_video_ids(
+    examples: list[dict[str, Any]],
+    *,
+    video_ids: set[str] | None = None,
+    max_videos: int = 0,
+) -> list[dict[str, Any]]:
+    if video_ids is not None:
+        examples = [example for example in examples if str(example.get("video_id", "")) in video_ids]
+
+    if max_videos <= 0:
+        return examples
+
+    selected_video_ids: set[str] = set()
+    filtered_examples: list[dict[str, Any]] = []
+    for example in examples:
+        video_id = str(example.get("video_id", ""))
+        if not video_id:
+            continue
+        if video_id in selected_video_ids or len(selected_video_ids) < max_videos:
+            selected_video_ids.add(video_id)
+            filtered_examples.append(example)
+    return filtered_examples
+
+
+def _load_requested_video_ids(path: str | None) -> set[str] | None:
+    if not path:
+        return None
+
+    requested_video_ids: set[str] = set()
+    with Path(path).open("r", encoding="utf-8") as handle:
+        for line in handle:
+            video_id = line.strip()
+            if video_id:
+                requested_video_ids.add(video_id)
+    return requested_video_ids
+
+
+def _load_gold_spans(path: str | None) -> dict[str, dict[str, float]]:
+    if not path:
+        return {}
+
+    gold_spans: dict[str, dict[str, float]] = {}
+    for row in read_jsonl(path):
+        question_id = str(row.get("question_id", "")).strip()
+        if not question_id:
+            continue
+
+        start_time = row.get("start_time", row.get("gold_start_time"))
+        end_time = row.get("end_time", row.get("gold_end_time"))
+        if start_time is None or end_time is None:
+            continue
+
+        gold_spans[question_id] = {
+            "start_time": float(start_time),
+            "end_time": float(end_time),
+        }
+    return gold_spans
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Run a subtitle-based temporal retrieval baseline for Video Moment Retrieval.")
     parser.add_argument("--split", default="Video_MMLU")
@@ -51,15 +110,25 @@ def main() -> None:
     parser.add_argument("--top-k", type=int, default=3)
     parser.add_argument("--output-dir", default="outputs/vmr")
     parser.add_argument("--max-examples", type=int, default=0)
+    parser.add_argument("--max-videos", type=int, default=0)
+    parser.add_argument("--video-ids-path", default="")
+    parser.add_argument("--gold-spans-path", default="")
     args = parser.parse_args()
 
     examples = load_flattened_examples(split=args.split)
+    requested_video_ids = _load_requested_video_ids(args.video_ids_path or None)
+    examples = _filter_examples_by_video_ids(
+        examples,
+        video_ids=requested_video_ids,
+        max_videos=args.max_videos,
+    )
     if args.max_examples > 0:
         examples = examples[: args.max_examples]
     if not examples:
         raise ValueError("No flattened examples available for evaluation.")
 
     windows_by_video = _load_windows_by_video(Path(args.windows_dir))
+    gold_spans_by_question_id = _load_gold_spans(args.gold_spans_path or None)
     index_cache: dict[str, tuple[list[dict[str, Any]], Any]] = {}
     out_dir = ensure_dir(args.output_dir)
     predictions_path = out_dir / f"predictions_{args.split}.jsonl"
@@ -74,12 +143,15 @@ def main() -> None:
     num_examples_with_windows = 0
     num_examples_with_gold_spans = 0
     predictions: list[dict[str, Any]] = []
+    evaluated_video_ids = {str(example.get("video_id", "")) for example in examples if example.get("video_id")}
 
     for example in tqdm(examples, desc="VMR baseline"):
         video_id = str(example.get("video_id", ""))
         question = str(example.get("question", ""))
-        gold_start = example.get("start_time")
-        gold_end = example.get("end_time")
+        question_id = str(example.get("question_id", ""))
+        gold_span = gold_spans_by_question_id.get(question_id)
+        gold_start = gold_span["start_time"] if gold_span else example.get("start_time")
+        gold_end = gold_span["end_time"] if gold_span else example.get("end_time")
         windows = windows_by_video.get(video_id, [])
 
         if video_id not in index_cache and windows:
@@ -110,7 +182,7 @@ def main() -> None:
 
         row: dict[str, Any] = {
             "video_id": video_id,
-            "question_id": example.get("question_id"),
+            "question_id": question_id,
             "qa_type": example.get("qa_type"),
             "question": question,
             "predicted_start_time": predicted_start,
@@ -162,6 +234,7 @@ def main() -> None:
     summary = {
         "split": args.split,
         "num_examples": len(examples),
+        "num_videos": len(evaluated_video_ids),
         "num_examples_with_windows": num_examples_with_windows,
         "num_examples_with_gold_spans": num_examples_with_gold_spans,
         "avg_retrieval_time_ms": _mean(retrieval_latencies),
@@ -174,6 +247,7 @@ def main() -> None:
         "recall_at_1_iou_0_5": None,
         "recall_at_3_iou_0_3": None,
         "recall_at_3_iou_0_5": None,
+        "gold_spans_path": args.gold_spans_path or None,
         "predictions_file": str(predictions_path),
     }
     if num_examples_with_gold_spans > 0:

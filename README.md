@@ -83,6 +83,7 @@ Important current limitation:
 - the released flattened data does **not** include gold timestamp spans for VMR
 - the VMR evaluation code is structured for IoU / Recall once spans exist
 - until then, the baseline still produces timestamp predictions, but gold-span metrics remain `null`
+- a gold timestamp means the ground-truth relevant moment for a question, typically `start_time` and `end_time` in seconds
 
 ## Setup
 
@@ -241,6 +242,49 @@ python -m src.eval.moment_retrieval \
   --top-k 3 \
   --output-dir outputs/vmr
 ```
+
+For quick iteration on a subset of videos:
+
+```bash
+source .venv/bin/activate
+VIDEOMMLU_HF_DATASET=Enxin/Video-MMLU \
+python -m src.eval.moment_retrieval \
+  --split Video_MMLU \
+  --windows-dir data/subtitles/windows \
+  --max-videos 10 \
+  --top-k 3 \
+  --output-dir outputs/vmr10
+```
+
+If you have gold span annotations for those questions, pass them as JSONL:
+
+```json
+{"question_id": "abc123:captions_qa:0", "start_time": 12.3, "end_time": 18.9}
+```
+
+Then run:
+
+```bash
+source .venv/bin/activate
+VIDEOMMLU_HF_DATASET=Enxin/Video-MMLU \
+python -m src.eval.moment_retrieval \
+  --split Video_MMLU \
+  --windows-dir data/subtitles/windows \
+  --max-videos 10 \
+  --gold-spans-path data/annotations/vmr10_gold_spans.jsonl \
+  --top-k 3 \
+  --output-dir outputs/vmr10_eval
+```
+
+Once gold spans are available, the summary reports:
+
+- `mean_top1_iou`
+- `recall_at_1_iou_0_3`
+- `recall_at_1_iou_0_5`
+- `recall_at_3_iou_0_3`
+- `recall_at_3_iou_0_5`
+- `mean_start_error`
+- `mean_end_error`
 
 The VMR baseline:
 

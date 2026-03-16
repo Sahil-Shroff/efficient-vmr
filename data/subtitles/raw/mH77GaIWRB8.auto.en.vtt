@@ -1,0 +1,264 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.240 --> 00:00:02.430 align:start position:0%
+ 
+let's<00:00:00.480><c> solve</c><00:00:00.799><c> this</c><00:00:01.040><c> calculus</c><00:00:01.680><c> problem</c><00:00:02.120><c> step</c>
+
+00:00:02.430 --> 00:00:02.440 align:start position:0%
+let's solve this calculus problem step
+ 
+
+00:00:02.440 --> 00:00:05.470 align:start position:0%
+let's solve this calculus problem step
+by<00:00:02.760><c> step</c><00:00:03.560><c> we</c><00:00:03.719><c> need</c><00:00:03.879><c> to</c><00:00:04.080><c> find</c><00:00:04.359><c> the</c><00:00:04.520><c> derivative</c>
+
+00:00:05.470 --> 00:00:05.480 align:start position:0%
+by step we need to find the derivative
+ 
+
+00:00:05.480 --> 00:00:10.549 align:start position:0%
+by step we need to find the derivative
+of<00:00:05.720><c> Ln</c><00:00:06.319><c> sin</c><00:00:07.120><c> of</c><00:00:07.800><c> 2x</c><00:00:08.800><c> first</c><00:00:09.480><c> let's</c><00:00:09.800><c> identify</c><00:00:10.360><c> the</c>
+
+00:00:10.549 --> 00:00:10.559 align:start position:0%
+of Ln sin of 2x first let's identify the
+ 
+
+00:00:10.559 --> 00:00:13.110 align:start position:0%
+of Ln sin of 2x first let's identify the
+structure<00:00:11.240><c> of</c><00:00:11.360><c> our</c><00:00:11.639><c> function</c><00:00:12.559><c> we</c><00:00:12.759><c> have</c><00:00:12.920><c> an</c>
+
+00:00:13.110 --> 00:00:13.120 align:start position:0%
+structure of our function we have an
+ 
+
+00:00:13.120 --> 00:00:16.349 align:start position:0%
+structure of our function we have an
+outer<00:00:13.519><c> natural</c><00:00:13.920><c> log</c><00:00:14.440><c> function</c><00:00:15.440><c> and</c><00:00:15.639><c> inside</c>
+
+00:00:16.349 --> 00:00:16.359 align:start position:0%
+outer natural log function and inside
+ 
+
+00:00:16.359 --> 00:00:20.150 align:start position:0%
+outer natural log function and inside
+that<00:00:17.080><c> we</c><00:00:17.279><c> have</c><00:00:17.600><c> S</c><00:00:17.880><c> of</c><00:00:18.439><c> 2x</c><00:00:19.439><c> this</c><00:00:19.600><c> means</c><00:00:19.960><c> we'll</c>
+
+00:00:20.150 --> 00:00:20.160 align:start position:0%
+that we have S of 2x this means we'll
+ 
+
+00:00:20.160 --> 00:00:22.710 align:start position:0%
+that we have S of 2x this means we'll
+need<00:00:20.320><c> to</c><00:00:20.480><c> use</c><00:00:20.680><c> the</c><00:00:20.800><c> chain</c><00:00:21.199><c> rule</c><00:00:22.080><c> let's</c><00:00:22.359><c> recall</c>
+
+00:00:22.710 --> 00:00:22.720 align:start position:0%
+need to use the chain rule let's recall
+ 
+
+00:00:22.720 --> 00:00:25.189 align:start position:0%
+need to use the chain rule let's recall
+the<00:00:22.880><c> chain</c><00:00:23.279><c> rule</c><00:00:24.119><c> the</c><00:00:24.320><c> derivative</c><00:00:24.880><c> of</c><00:00:25.000><c> a</c>
+
+00:00:25.189 --> 00:00:25.199 align:start position:0%
+the chain rule the derivative of a
+ 
+
+00:00:25.199 --> 00:00:27.630 align:start position:0%
+the chain rule the derivative of a
+composite<00:00:25.880><c> function</c><00:00:26.439><c> is</c><00:00:26.640><c> the</c><00:00:26.840><c> derivative</c><00:00:27.480><c> of</c>
+
+00:00:27.630 --> 00:00:27.640 align:start position:0%
+composite function is the derivative of
+ 
+
+00:00:27.640 --> 00:00:30.429 align:start position:0%
+composite function is the derivative of
+the<00:00:27.800><c> outer</c><00:00:28.359><c> function</c><00:00:29.359><c> evaluated</c><00:00:30.160><c> at</c><00:00:30.320><c> the</c>
+
+00:00:30.429 --> 00:00:30.439 align:start position:0%
+the outer function evaluated at the
+ 
+
+00:00:30.439 --> 00:00:33.430 align:start position:0%
+the outer function evaluated at the
+inner<00:00:31.000><c> function</c><00:00:32.000><c> times</c><00:00:32.480><c> the</c><00:00:32.680><c> derivative</c><00:00:33.320><c> of</c>
+
+00:00:33.430 --> 00:00:33.440 align:start position:0%
+inner function times the derivative of
+ 
+
+00:00:33.440 --> 00:00:36.430 align:start position:0%
+inner function times the derivative of
+the<00:00:33.559><c> inner</c><00:00:34.040><c> function</c><00:00:35.040><c> now</c><00:00:35.640><c> let's</c><00:00:35.960><c> find</c><00:00:36.239><c> the</c>
+
+00:00:36.430 --> 00:00:36.440 align:start position:0%
+the inner function now let's find the
+ 
+
+00:00:36.440 --> 00:00:38.790 align:start position:0%
+the inner function now let's find the
+derivative<00:00:37.000><c> of</c><00:00:37.120><c> the</c><00:00:37.280><c> outer</c><00:00:37.640><c> function</c><00:00:38.600><c> the</c>
+
+00:00:38.790 --> 00:00:38.800 align:start position:0%
+derivative of the outer function the
+ 
+
+00:00:38.800 --> 00:00:42.430 align:start position:0%
+derivative of the outer function the
+derivative<00:00:39.280><c> of</c><00:00:39.520><c> natural</c><00:00:39.960><c> log</c><00:00:40.480><c> is</c><00:00:40.680><c> 1</c><00:00:40.879><c> /</c><00:00:41.160><c> U</c><00:00:42.039><c> so</c><00:00:42.320><c> in</c>
+
+00:00:42.430 --> 00:00:42.440 align:start position:0%
+derivative of natural log is 1 / U so in
+ 
+
+00:00:42.440 --> 00:00:46.709 align:start position:0%
+derivative of natural log is 1 / U so in
+our<00:00:42.760><c> case</c><00:00:43.120><c> that's</c><00:00:43.360><c> 1</c><00:00:43.559><c> /</c><00:00:43.920><c> sin</c><00:00:44.160><c> of</c><00:00:44.600><c> 2x</c><00:00:45.600><c> next</c><00:00:46.360><c> let's</c>
+
+00:00:46.709 --> 00:00:46.719 align:start position:0%
+our case that's 1 / sin of 2x next let's
+ 
+
+00:00:46.719 --> 00:00:48.549 align:start position:0%
+our case that's 1 / sin of 2x next let's
+find<00:00:47.120><c> the</c><00:00:47.320><c> derivative</c><00:00:47.960><c> of</c><00:00:48.079><c> the</c><00:00:48.199><c> inner</c>
+
+00:00:48.549 --> 00:00:48.559 align:start position:0%
+find the derivative of the inner
+ 
+
+00:00:48.559 --> 00:00:51.950 align:start position:0%
+find the derivative of the inner
+function<00:00:49.480><c> the</c><00:00:49.680><c> derivative</c><00:00:50.120><c> of</c><00:00:50.320><c> s</c><00:00:50.600><c> is</c><00:00:50.960><c> cosine</c>
+
+00:00:51.950 --> 00:00:51.960 align:start position:0%
+function the derivative of s is cosine
+ 
+
+00:00:51.960 --> 00:00:54.630 align:start position:0%
+function the derivative of s is cosine
+and<00:00:52.120><c> when</c><00:00:52.280><c> we</c><00:00:52.440><c> have</c><00:00:52.840><c> 2X</c><00:00:53.520><c> inside</c><00:00:54.160><c> we</c><00:00:54.280><c> need</c><00:00:54.440><c> to</c>
+
+00:00:54.630 --> 00:00:54.640 align:start position:0%
+and when we have 2X inside we need to
+ 
+
+00:00:54.640 --> 00:00:57.110 align:start position:0%
+and when we have 2X inside we need to
+multiply<00:00:55.280><c> by</c><00:00:55.440><c> the</c><00:00:55.600><c> derivative</c><00:00:56.039><c> of</c><00:00:56.239><c> 2x</c><00:00:57.000><c> which</c>
+
+00:00:57.110 --> 00:00:57.120 align:start position:0%
+multiply by the derivative of 2x which
+ 
+
+00:00:57.120 --> 00:01:02.830 align:start position:0%
+multiply by the derivative of 2x which
+is<00:00:57.399><c> 2</c><00:00:58.280><c> so</c><00:00:58.480><c> we</c><00:00:58.640><c> get</c><00:00:58.920><c> cosine</c><00:00:59.399><c> of</c><00:00:59.559><c> 2</c><00:01:00.079><c> x</c><00:01:00.280><c> *</c><00:01:00.879><c> 2</c><00:01:01.879><c> now</c>
+
+00:01:02.830 --> 00:01:02.840 align:start position:0%
+is 2 so we get cosine of 2 x * 2 now
+ 
+
+00:01:02.840 --> 00:01:05.670 align:start position:0%
+is 2 so we get cosine of 2 x * 2 now
+let's<00:01:03.120><c> put</c><00:01:03.239><c> it</c><00:01:03.399><c> all</c><00:01:03.760><c> together</c><00:01:04.640><c> we</c><00:01:04.879><c> multiply</c><00:01:05.479><c> 1</c>
+
+00:01:05.670 --> 00:01:05.680 align:start position:0%
+let's put it all together we multiply 1
+ 
+
+00:01:05.680 --> 00:01:12.109 align:start position:0%
+let's put it all together we multiply 1
+/<00:01:06.080><c> s</c><00:01:06.799><c> of</c><00:01:07.200><c> 2x</c><00:01:08.040><c> *</c><00:01:08.640><c> cine</c><00:01:09.439><c> of</c><00:01:09.720><c> 2x</c><00:01:10.360><c> *</c><00:01:10.880><c> 2</c><00:01:11.759><c> we</c><00:01:11.880><c> can</c>
+
+00:01:12.109 --> 00:01:12.119 align:start position:0%
+/ s of 2x * cine of 2x * 2 we can
+ 
+
+00:01:12.119 --> 00:01:15.469 align:start position:0%
+/ s of 2x * cine of 2x * 2 we can
+rearrange<00:01:12.880><c> this</c><00:01:13.720><c> the</c><00:01:13.880><c> two</c><00:01:14.360><c> can</c><00:01:14.520><c> be</c><00:01:14.759><c> moved</c><00:01:15.320><c> to</c>
+
+00:01:15.469 --> 00:01:15.479 align:start position:0%
+rearrange this the two can be moved to
+ 
+
+00:01:15.479 --> 00:01:18.510 align:start position:0%
+rearrange this the two can be moved to
+the<00:01:15.680><c> front</c><00:01:16.680><c> and</c><00:01:17.040><c> cosine</c><00:01:17.479><c> over</c><00:01:17.799><c> s</c><00:01:18.119><c> is</c><00:01:18.320><c> the</c>
+
+00:01:18.510 --> 00:01:18.520 align:start position:0%
+the front and cosine over s is the
+ 
+
+00:01:18.520 --> 00:01:21.350 align:start position:0%
+the front and cosine over s is the
+definition<00:01:19.040><c> of</c><00:01:19.600><c> cotangent</c><00:01:20.600><c> and</c><00:01:20.759><c> there's</c><00:01:20.960><c> our</c>
+
+00:01:21.350 --> 00:01:21.360 align:start position:0%
+definition of cotangent and there's our
+ 
+
+00:01:21.360 --> 00:01:24.990 align:start position:0%
+definition of cotangent and there's our
+final<00:01:21.880><c> answer</c><00:01:22.799><c> the</c><00:01:22.960><c> derivative</c><00:01:23.520><c> of</c><00:01:23.720><c> Ln</c><00:01:24.280><c> sin</c><00:01:24.600><c> of</c>
+
+00:01:24.990 --> 00:01:25.000 align:start position:0%
+final answer the derivative of Ln sin of
+ 
+
+00:01:25.000 --> 00:01:31.310 align:start position:0%
+final answer the derivative of Ln sin of
+2x<00:01:25.840><c> =</c><00:01:26.479><c> 2</c><00:01:27.360><c> cent</c><00:01:28.360><c> of</c><00:01:28.799><c> 2x</c><00:01:30.119><c> let's</c><00:01:30.400><c> review</c><00:01:30.799><c> the</c><00:01:31.000><c> key</c>
+
+00:01:31.310 --> 00:01:31.320 align:start position:0%
+2x = 2 cent of 2x let's review the key
+ 
+
+00:01:31.320 --> 00:01:34.710 align:start position:0%
+2x = 2 cent of 2x let's review the key
+steps<00:01:31.720><c> we</c><00:01:32.200><c> used</c><00:01:33.200><c> first</c><00:01:33.600><c> we</c><00:01:33.840><c> identified</c><00:01:34.520><c> the</c>
+
+00:01:34.710 --> 00:01:34.720 align:start position:0%
+steps we used first we identified the
+ 
+
+00:01:34.720 --> 00:01:37.190 align:start position:0%
+steps we used first we identified the
+composite<00:01:35.360><c> function</c><00:01:35.799><c> structure</c><00:01:36.799><c> then</c><00:01:37.000><c> we</c>
+
+00:01:37.190 --> 00:01:37.200 align:start position:0%
+composite function structure then we
+ 
+
+00:01:37.200 --> 00:01:40.030 align:start position:0%
+composite function structure then we
+applied<00:01:37.560><c> the</c><00:01:37.640><c> chain</c><00:01:38.040><c> rule</c><00:01:39.000><c> next</c><00:01:39.360><c> we</c><00:01:39.520><c> found</c><00:01:39.840><c> the</c>
+
+00:01:40.030 --> 00:01:40.040 align:start position:0%
+applied the chain rule next we found the
+ 
+
+00:01:40.040 --> 00:01:43.429 align:start position:0%
+applied the chain rule next we found the
+derivatives<00:01:41.040><c> of</c><00:01:41.280><c> both</c><00:01:41.520><c> the</c><00:01:41.720><c> outer</c><00:01:42.479><c> and</c><00:01:42.680><c> inner</c>
+
+00:01:43.429 --> 00:01:43.439 align:start position:0%
+derivatives of both the outer and inner
+ 
+
+00:01:43.439 --> 00:01:46.709 align:start position:0%
+derivatives of both the outer and inner
+functions<00:01:44.560><c> finally</c><00:01:45.560><c> we</c><00:01:45.880><c> simplified</c><00:01:46.439><c> our</c>
+
+00:01:46.709 --> 00:01:46.719 align:start position:0%
+functions finally we simplified our
+ 
+
+00:01:46.719 --> 00:01:52.280 align:start position:0%
+functions finally we simplified our
+expression<00:01:47.600><c> using</c><00:01:47.960><c> the</c><00:01:48.159><c> definition</c><00:01:48.920><c> of</c><00:01:49.280><c> coent</c>
+

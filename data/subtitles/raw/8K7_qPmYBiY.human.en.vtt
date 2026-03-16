@@ -1,0 +1,151 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.120 --> 00:00:04.620
+In theoretical physics, especially in the
+theory of relativity and quantum mechanics,
+
+00:00:04.620 --> 00:00:09.800
+we will regularly encounter symmetric and
+antisymmetric tensors.
+
+00:00:09.800 --> 00:00:15.460
+A symmetric tensor t_{ij} remains the same
+if we swap its indices.
+
+00:00:15.460 --> 00:00:20.430
+Specifically, swapping the indices of the
+second-level tensor as a matrix means that
+
+00:00:20.430 --> 00:00:25.640
+the matrix remains the same if we transpose
+it, in other words if we mirror the rows and
+
+00:00:25.640 --> 00:00:27.590
+columns on the diagonal.
+
+00:00:27.590 --> 00:00:33.820
+This symmetry property of tensors is very
+useful and simplifies calculations in computer
+
+00:00:33.820 --> 00:00:35.460
+physics enormously.
+
+00:00:35.460 --> 00:00:40.710
+Moreover, this property is crucial in quantum
+mechanics, because symmetric matrices have
+
+00:00:40.710 --> 00:00:42.550
+real eigenvalues.
+
+00:00:42.550 --> 00:00:47.020
+They therefore represent physical quantities
+(we call them observables) that we can measure
+
+00:00:47.020 --> 00:00:48.960
+in an experiment.
+
+00:00:48.960 --> 00:00:53.500
+So if you have a symmetric tensor in front
+of you, as a theoretical physicist you should
+
+00:00:53.500 --> 00:00:55.750
+immediately get a dopamine kick.
+
+00:00:55.750 --> 00:01:00.660
+The Kronecker delta, for example, is an example
+of a simple symmetric tensor.
+
+00:01:00.660 --> 00:01:03.210
+We have considered a second-order tensor.
+
+00:01:03.210 --> 00:01:05.780
+What if the tensor is of a HIGHER order?
+
+00:01:05.780 --> 00:01:08.410
+What about its symmetry property THEN?
+
+00:01:08.410 --> 00:01:13.320
+For example, if the tensor has four indices
+and it remains EQUAL when we swap the first
+
+00:01:13.320 --> 00:01:18.420
+two indices, then we are talking about a symmetric
+tensor in the indices m and k.
+
+00:01:18.420 --> 00:01:23.390
+However, we will also encounter tensors that
+are antisymmetric.
+
+00:01:23.390 --> 00:01:28.850
+An antisymmetric tensor changes sign when
+we swap its indices.
+
+00:01:28.850 --> 00:01:34.060
+If the antisymmetric tensor is represented
+as a matrix, then it is equal to its negative
+
+00:01:34.060 --> 00:01:35.500
+transpose.
+
+00:01:35.500 --> 00:01:40.340
+Unfortunately, most tensors are neither symmetric
+nor antisymmetric.
+
+00:01:40.340 --> 00:01:46.180
+But the great thing is: Mathematically, we
+can split every tensor T into a symmetric
+
+00:01:46.180 --> 00:01:51.869
+and an antisymmetric part: T is equal to S
+plus A.
+
+00:01:51.869 --> 00:01:56.909
+Let's take a look at how we practically split
+a general second-level tensor T into its two
+
+00:01:56.909 --> 00:01:58.200
+parts.
+
+00:01:58.200 --> 00:02:05.120
+The symmetric part S of the tensor T is "One
+and a half times t_{ij} plus t_{ji}.
+
+00:02:05.120 --> 00:02:08.140
+In the second term, we have swapped the two
+indices.
+
+00:02:08.140 --> 00:02:10.479
+Then we added the two tensors together.
+
+00:02:10.479 --> 00:02:15.900
+The factor of one and a half is important
+because we have counted the tensor twice here.
+
+00:02:15.900 --> 00:02:23.200
+The antisymmetric part A of the tensor T is
+"One and a half times t_{ij}, minus t_{ji}.
+
+00:02:23.200 --> 00:02:28.030
+Here we have swapped the two indices, which
+gives the swapped tensor a minus sign.
+
+00:02:28.030 --> 00:02:31.670
+The factor of one and a half must not be missing
+here either.
+
+00:02:31.670 --> 00:02:36.160
+We then add the symmetric and antisymmetric
+parts together to obtain the total tensor.
+
+00:02:36.160 --> 00:02:37.160
+We are done.
+
+00:02:37.160 --> 00:02:41.650
+The first summand is the symmetric part of
+the tensor t_{ij} and the second summand is
+
+00:02:41.650 --> 00:02:43.170
+the antisymmetric part.
+

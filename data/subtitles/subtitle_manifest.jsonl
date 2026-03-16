@@ -20,6 +20,7 @@
 {"video_id": "0Kv20Dl8ua0", "status": "success_auto", "subtitle_path": "data/subtitles/raw/0Kv20Dl8ua0.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "0QNWU-He7uc", "status": "success_auto", "subtitle_path": "data/subtitles/raw/0QNWU-He7uc.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "0YqZIHFmVzg", "status": "success_auto", "subtitle_path": "data/subtitles/raw/0YqZIHFmVzg.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "0bMkbIqH71I", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "0d59pTzdtaM", "status": "success_auto", "subtitle_path": "data/subtitles/raw/0d59pTzdtaM.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "0etJmJ6p-5k", "status": "success_auto", "subtitle_path": "data/subtitles/raw/0etJmJ6p-5k.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "0ggGQ96eaiE", "status": "success_auto", "subtitle_path": "data/subtitles/raw/0ggGQ96eaiE.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
@@ -153,7 +154,9 @@
 {"video_id": "8CWLG0HuGtA", "status": "success_auto", "subtitle_path": "data/subtitles/raw/8CWLG0HuGtA.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "8D_pZfYOsFk", "status": "success_auto", "subtitle_path": "data/subtitles/raw/8D_pZfYOsFk.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "8Ji3g4yp4VE", "status": "success_auto", "subtitle_path": "data/subtitles/raw/8Ji3g4yp4VE.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "8K7_qPmYBiY", "status": "success_human", "subtitle_path": "data/subtitles/raw/8K7_qPmYBiY.human.en.vtt", "subtitle_type": "human", "error_message": null}
 {"video_id": "8MyXwsDvHnc", "status": "success_auto", "subtitle_path": "data/subtitles/raw/8MyXwsDvHnc.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "8Q5HsVrcu6g", "status": "success_auto", "subtitle_path": "data/subtitles/raw/8Q5HsVrcu6g.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "8RKYvQ6ltEw", "status": "success_auto", "subtitle_path": "data/subtitles/raw/8RKYvQ6ltEw.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "8TDSID0BhwI", "status": "success_auto", "subtitle_path": "data/subtitles/raw/8TDSID0BhwI.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "8TMcliZOu0M", "status": "success_auto", "subtitle_path": "data/subtitles/raw/8TMcliZOu0M.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
@@ -180,6 +183,7 @@
 {"video_id": "9htXV7n02AM", "status": "success_auto", "subtitle_path": "data/subtitles/raw/9htXV7n02AM.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "9kSv-OyKPlE", "status": "success_auto", "subtitle_path": "data/subtitles/raw/9kSv-OyKPlE.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "9kTVNmejpco", "status": "success_human", "subtitle_path": "data/subtitles/raw/9kTVNmejpco.human.en.vtt", "subtitle_type": "human", "error_message": null}
+{"video_id": "9p3IeoK00_s", "status": "success_auto", "subtitle_path": "data/subtitles/raw/9p3IeoK00_s.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "9uTWUr2rupw", "status": "success_auto", "subtitle_path": "data/subtitles/raw/9uTWUr2rupw.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "A0ZvO_F-LZo", "status": "success_auto", "subtitle_path": "data/subtitles/raw/A0ZvO_F-LZo.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "A6JupdOzvKA", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
@@ -198,6 +202,7 @@
 {"video_id": "AtHKh6b_bPo", "status": "success_auto", "subtitle_path": "data/subtitles/raw/AtHKh6b_bPo.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "AuxqpiDTCyU", "status": "success_auto", "subtitle_path": "data/subtitles/raw/AuxqpiDTCyU.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "Av8XpmkFEnI", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
+{"video_id": "AyzBLbayARo", "status": "failed", "subtitle_path": null, "subtitle_type": null, "error_message": "ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests"}
 {"video_id": "AzAsz5itOfQ", "status": "failed", "subtitle_path": null, "subtitle_type": null, "error_message": "ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests"}
 {"video_id": "B272ylT_cZ0", "status": "failed", "subtitle_path": null, "subtitle_type": null, "error_message": "ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests"}
 {"video_id": "B3S1r2kqPAQ", "status": "success_auto", "subtitle_path": "data/subtitles/raw/B3S1r2kqPAQ.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
@@ -237,6 +242,7 @@
 {"video_id": "DBYXbjyw9sc", "status": "success_auto", "subtitle_path": "data/subtitles/raw/DBYXbjyw9sc.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "DBvtIwI5KzI", "status": "success_auto", "subtitle_path": "data/subtitles/raw/DBvtIwI5KzI.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "DG9NUPaPVbE", "status": "success_auto", "subtitle_path": "data/subtitles/raw/DG9NUPaPVbE.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "DKtfJ--YSIY", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "DN2Ftkcnq1g", "status": "success_auto", "subtitle_path": "data/subtitles/raw/DN2Ftkcnq1g.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "DWu7tTqtHyY", "status": "success_auto", "subtitle_path": "data/subtitles/raw/DWu7tTqtHyY.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "DZPYavJtjNA", "status": "success_auto", "subtitle_path": "data/subtitles/raw/DZPYavJtjNA.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
@@ -280,6 +286,7 @@
 {"video_id": "FokVSqVoHck", "status": "success_auto", "subtitle_path": "data/subtitles/raw/FokVSqVoHck.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "Fq7-mkUafLI", "status": "success_auto", "subtitle_path": "data/subtitles/raw/Fq7-mkUafLI.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "Fy1voKCutUk", "status": "success_auto", "subtitle_path": "data/subtitles/raw/Fy1voKCutUk.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "Fy4Gvlnc1aA", "status": "success_auto", "subtitle_path": "data/subtitles/raw/Fy4Gvlnc1aA.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "Fyqp17JnyOQ", "status": "success_human", "subtitle_path": "data/subtitles/raw/Fyqp17JnyOQ.human.en.vtt", "subtitle_type": "human", "error_message": null}
 {"video_id": "G1JrE3875M8", "status": "success_auto", "subtitle_path": "data/subtitles/raw/G1JrE3875M8.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "G4NLidjwbEA", "status": "success_auto", "subtitle_path": "data/subtitles/raw/G4NLidjwbEA.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
@@ -301,6 +308,7 @@
 {"video_id": "HFGSsPbYc-s", "status": "success_auto", "subtitle_path": "data/subtitles/raw/HFGSsPbYc-s.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "HFu5-kUjKz0", "status": "failed", "subtitle_path": null, "subtitle_type": null, "error_message": "ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests"}
 {"video_id": "HGGCKB7XixI", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
+{"video_id": "HGsmx7Mz9Is", "status": "success_auto", "subtitle_path": "data/subtitles/raw/HGsmx7Mz9Is.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "HLbnXSC4qfc", "status": "success_auto", "subtitle_path": "data/subtitles/raw/HLbnXSC4qfc.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "HQgzTbymElc", "status": "failed", "subtitle_path": null, "subtitle_type": null, "error_message": "ERROR: [youtube] HQgzTbymElc: Video unavailable"}
 {"video_id": "HZEvtMMq1TA", "status": "failed", "subtitle_path": null, "subtitle_type": null, "error_message": "ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests"}
@@ -324,10 +332,12 @@
 {"video_id": "I7iGhHVkFYU", "status": "success_auto", "subtitle_path": "data/subtitles/raw/I7iGhHVkFYU.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "I8lhlcUFdZs", "status": "success_auto", "subtitle_path": "data/subtitles/raw/I8lhlcUFdZs.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "IAsaNUUrfj4", "status": "success_auto", "subtitle_path": "data/subtitles/raw/IAsaNUUrfj4.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "IBzWkt5Non0", "status": "success_auto", "subtitle_path": "data/subtitles/raw/IBzWkt5Non0.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "IBzmAtVe9OQ", "status": "success_auto", "subtitle_path": "data/subtitles/raw/IBzmAtVe9OQ.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "ICHWuY9W0n4", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "IFHZQ6MaG6w", "status": "success_auto", "subtitle_path": "data/subtitles/raw/IFHZQ6MaG6w.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "IGYkttzlqq8", "status": "success_auto", "subtitle_path": "data/subtitles/raw/IGYkttzlqq8.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "IJ0EQCkJCTc", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "IJGwvvQdfgg", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "ITEvaacpDUU", "status": "success_auto", "subtitle_path": "data/subtitles/raw/ITEvaacpDUU.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "IZt-Oo-Y-ME", "status": "failed", "subtitle_path": null, "subtitle_type": null, "error_message": "ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests"}
@@ -379,6 +389,7 @@
 {"video_id": "LNSfM86I8is", "status": "success_auto", "subtitle_path": "data/subtitles/raw/LNSfM86I8is.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "LPAH4mzWgjc", "status": "success_auto", "subtitle_path": "data/subtitles/raw/LPAH4mzWgjc.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "LQUy83xFL5E", "status": "success_auto", "subtitle_path": "data/subtitles/raw/LQUy83xFL5E.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "LRriv5ujNwo", "status": "failed", "subtitle_path": null, "subtitle_type": null, "error_message": "ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests"}
 {"video_id": "LVEKcZNzgC8", "status": "failed", "subtitle_path": null, "subtitle_type": null, "error_message": "ERROR: [youtube] LVEKcZNzgC8: Video unavailable"}
 {"video_id": "LWVog8hg74I", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "LYfKapE_g1Q", "status": "success_auto", "subtitle_path": "data/subtitles/raw/LYfKapE_g1Q.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
@@ -390,6 +401,7 @@
 {"video_id": "LxNZ-u7KejI", "status": "success_auto", "subtitle_path": "data/subtitles/raw/LxNZ-u7KejI.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "LyPCzG86nBo", "status": "success_auto", "subtitle_path": "data/subtitles/raw/LyPCzG86nBo.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "LypmeZ0tnJA", "status": "success_auto", "subtitle_path": "data/subtitles/raw/LypmeZ0tnJA.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "M1dQNwyBjg0", "status": "success_auto", "subtitle_path": "data/subtitles/raw/M1dQNwyBjg0.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "M90S9Nl50v0", "status": "success_auto", "subtitle_path": "data/subtitles/raw/M90S9Nl50v0.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "MCPpctAGcIU", "status": "success_auto", "subtitle_path": "data/subtitles/raw/MCPpctAGcIU.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "MEzgGGq2l5E", "status": "success_auto", "subtitle_path": "data/subtitles/raw/MEzgGGq2l5E.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
@@ -478,6 +490,7 @@
 {"video_id": "RWFPRzuFO3M", "status": "success_auto", "subtitle_path": "data/subtitles/raw/RWFPRzuFO3M.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "RXHtCIin2A8", "status": "failed", "subtitle_path": null, "subtitle_type": null, "error_message": "ERROR: [youtube] RXHtCIin2A8: Video unavailable"}
 {"video_id": "RdeTrQKz3fk", "status": "success_auto", "subtitle_path": "data/subtitles/raw/RdeTrQKz3fk.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "RmTZmNrkqss", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "RoovN01q83Y", "status": "success_auto", "subtitle_path": "data/subtitles/raw/RoovN01q83Y.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "S2hsaTO0bO8", "status": "success_human", "subtitle_path": "data/subtitles/raw/S2hsaTO0bO8.human.en.vtt", "subtitle_type": "human", "error_message": null}
 {"video_id": "S32sIhukA9E", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
@@ -486,6 +499,7 @@
 {"video_id": "SENMQFQsoY8", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "SEPkdPWKdO0", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "SKrDublRm_g", "status": "failed", "subtitle_path": null, "subtitle_type": null, "error_message": "ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests"}
+{"video_id": "SY0CmfXrcL4", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "SZsMVGqUiic", "status": "success_auto", "subtitle_path": "data/subtitles/raw/SZsMVGqUiic.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "SeKGZ2DLAwo", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "SfYY8SSTyFU", "status": "success_auto", "subtitle_path": "data/subtitles/raw/SfYY8SSTyFU.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
@@ -511,6 +525,7 @@
 {"video_id": "U0_MroEJBh0", "status": "success_auto", "subtitle_path": "data/subtitles/raw/U0_MroEJBh0.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "U1mXWZs5UDE", "status": "success_auto", "subtitle_path": "data/subtitles/raw/U1mXWZs5UDE.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "U2zPxuj8mnI", "status": "success_auto", "subtitle_path": "data/subtitles/raw/U2zPxuj8mnI.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "U3O1nzSojnc", "status": "success_human", "subtitle_path": "data/subtitles/raw/U3O1nzSojnc.human.en.vtt", "subtitle_type": "human", "error_message": null}
 {"video_id": "U7sQ4b7DAHg", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "UFZZW6r-IIU", "status": "failed", "subtitle_path": null, "subtitle_type": null, "error_message": "manual_error=None; auto_error=ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests"}
 {"video_id": "UKbrwPL3wXE", "status": "success_auto", "subtitle_path": "data/subtitles/raw/UKbrwPL3wXE.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
@@ -521,6 +536,7 @@
 {"video_id": "Un9GgPjx-v0", "status": "success_auto", "subtitle_path": "data/subtitles/raw/Un9GgPjx-v0.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "UnBuC0HZ5q4", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "UqVmocdLFGc", "status": "success_auto", "subtitle_path": "data/subtitles/raw/UqVmocdLFGc.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "Uvs6lNSngfY", "status": "success_auto", "subtitle_path": "data/subtitles/raw/Uvs6lNSngfY.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "VFAmg_Sy6nI", "status": "success_auto", "subtitle_path": "data/subtitles/raw/VFAmg_Sy6nI.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "VFbyGEZLMZw", "status": "success_auto", "subtitle_path": "data/subtitles/raw/VFbyGEZLMZw.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "VJO6AeAtERU", "status": "success_auto", "subtitle_path": "data/subtitles/raw/VJO6AeAtERU.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
@@ -567,6 +583,7 @@
 {"video_id": "XdCtop7NbDI", "status": "success_auto", "subtitle_path": "data/subtitles/raw/XdCtop7NbDI.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "XjVTfw5E0bQ", "status": "failed", "subtitle_path": null, "subtitle_type": null, "error_message": "ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests"}
 {"video_id": "XuWNGuJn9h4", "status": "failed", "subtitle_path": null, "subtitle_type": null, "error_message": "ERROR: [youtube] XuWNGuJn9h4: Video unavailable"}
+{"video_id": "XvF7hDIeQ5w", "status": "success_auto", "subtitle_path": "data/subtitles/raw/XvF7hDIeQ5w.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "Xy97t7l6MYg", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "XzG-fi__hsU", "status": "success_auto", "subtitle_path": "data/subtitles/raw/XzG-fi__hsU.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "Y8KMa8tJw-o", "status": "success_auto", "subtitle_path": "data/subtitles/raw/Y8KMa8tJw-o.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
@@ -595,6 +612,7 @@
 {"video_id": "ZMhkvFwLOR4", "status": "success_auto", "subtitle_path": "data/subtitles/raw/ZMhkvFwLOR4.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "ZO5mcBor-vo", "status": "success_auto", "subtitle_path": "data/subtitles/raw/ZO5mcBor-vo.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "ZOWesnHaR6c", "status": "success_auto", "subtitle_path": "data/subtitles/raw/ZOWesnHaR6c.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "ZP6P63JQh8c", "status": "success_auto", "subtitle_path": "data/subtitles/raw/ZP6P63JQh8c.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "ZPkNv0FBTrM", "status": "success_auto", "subtitle_path": "data/subtitles/raw/ZPkNv0FBTrM.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "Z_FNVP5eJrI", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "Za-F8jqKxjA", "status": "success_auto", "subtitle_path": "data/subtitles/raw/Za-F8jqKxjA.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
@@ -652,19 +670,24 @@
 {"video_id": "balwICkRogk", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "bbhPoOeErWk", "status": "success_auto", "subtitle_path": "data/subtitles/raw/bbhPoOeErWk.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "beGTKvMOQoM", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
+{"video_id": "befcLpAer8A", "status": "success_auto", "subtitle_path": "data/subtitles/raw/befcLpAer8A.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "bg7SxQ1x5rE", "status": "success_auto", "subtitle_path": "data/subtitles/raw/bg7SxQ1x5rE.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "bmDJ3iD99nU", "status": "success_auto", "subtitle_path": "data/subtitles/raw/bmDJ3iD99nU.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "bpRsuccb6dI", "status": "success_auto", "subtitle_path": "data/subtitles/raw/bpRsuccb6dI.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "bpTZi01Mlqw", "status": "success_auto", "subtitle_path": "data/subtitles/raw/bpTZi01Mlqw.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "brB70hgaKxw", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
+{"video_id": "btYoN4yn8v8", "status": "success_auto", "subtitle_path": "data/subtitles/raw/btYoN4yn8v8.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "buT9V5_ro5c", "status": "success_auto", "subtitle_path": "data/subtitles/raw/buT9V5_ro5c.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "bwzzD6UGPr4", "status": "success_human", "subtitle_path": "data/subtitles/raw/bwzzD6UGPr4.human.en.vtt", "subtitle_type": "human", "error_message": null}
 {"video_id": "bxSCJR6RRxs", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "bzzxXwNqBjk", "status": "success_human", "subtitle_path": "data/subtitles/raw/bzzxXwNqBjk.human.en.vtt", "subtitle_type": "human", "error_message": null}
 {"video_id": "cFwtph4OCho", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "cI-N3qBV-A4", "status": "success_auto", "subtitle_path": "data/subtitles/raw/cI-N3qBV-A4.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "cI92ZID95g4", "status": "success_auto", "subtitle_path": "data/subtitles/raw/cI92ZID95g4.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "cMoUMcDErJs", "status": "success_auto", "subtitle_path": "data/subtitles/raw/cMoUMcDErJs.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "cPvrOLKUre4", "status": "failed", "subtitle_path": null, "subtitle_type": null, "error_message": "ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests"}
 {"video_id": "cQiyDUiIcOQ", "status": "success_auto", "subtitle_path": "data/subtitles/raw/cQiyDUiIcOQ.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "cSj82GG6MX4", "status": "success_auto", "subtitle_path": "data/subtitles/raw/cSj82GG6MX4.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "cWBSZClqUwA", "status": "success_auto", "subtitle_path": "data/subtitles/raw/cWBSZClqUwA.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "cWdB2lrcoTw", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "cXhSXGyC5F4", "status": "success_auto", "subtitle_path": "data/subtitles/raw/cXhSXGyC5F4.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
@@ -702,6 +725,7 @@
 {"video_id": "eE4IGCAzmqA", "status": "success_auto", "subtitle_path": "data/subtitles/raw/eE4IGCAzmqA.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "eG72HxNceEs", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "eJq0nzORwzU", "status": "success_auto", "subtitle_path": "data/subtitles/raw/eJq0nzORwzU.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "eMMErKcw8yM", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "eMrsLqgl4GM", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "eUJ_wcAy00E", "status": "failed", "subtitle_path": null, "subtitle_type": null, "error_message": "ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests"}
 {"video_id": "eVeRxA2gJBI", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
@@ -744,6 +768,7 @@
 {"video_id": "gRq6pX8WvVw", "status": "success_auto", "subtitle_path": "data/subtitles/raw/gRq6pX8WvVw.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "gVgTOiC-pGk", "status": "success_auto", "subtitle_path": "data/subtitles/raw/gVgTOiC-pGk.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "gY3rw6S6q5I", "status": "success_auto", "subtitle_path": "data/subtitles/raw/gY3rw6S6q5I.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "gYLSVLlzim0", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "gkF9zNccqiE", "status": "success_auto", "subtitle_path": "data/subtitles/raw/gkF9zNccqiE.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "gmxEfMJ2Hm0", "status": "success_auto", "subtitle_path": "data/subtitles/raw/gmxEfMJ2Hm0.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "gnGxF0XcGZ8", "status": "success_auto", "subtitle_path": "data/subtitles/raw/gnGxF0XcGZ8.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
@@ -768,6 +793,7 @@
 {"video_id": "iAk4Bj7IS8E", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "iH-hil58FzQ", "status": "success_auto", "subtitle_path": "data/subtitles/raw/iH-hil58FzQ.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "iOR8yl_eOxw", "status": "failed", "subtitle_path": null, "subtitle_type": null, "error_message": "ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests"}
+{"video_id": "iQsu3Kz9NYo", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "iR52F1l_qW0", "status": "success_auto", "subtitle_path": "data/subtitles/raw/iR52F1l_qW0.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "iVLE8gEJfPA", "status": "success_auto", "subtitle_path": "data/subtitles/raw/iVLE8gEJfPA.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "i_6cH6WvH5A", "status": "success_auto", "subtitle_path": "data/subtitles/raw/i_6cH6WvH5A.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
@@ -788,6 +814,7 @@
 {"video_id": "jS1eDEPIS24", "status": "success_auto", "subtitle_path": "data/subtitles/raw/jS1eDEPIS24.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "jWpyrXYZNiI", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "jYlABP8WAyo", "status": "success_auto", "subtitle_path": "data/subtitles/raw/jYlABP8WAyo.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "jZ-eL71AyzU", "status": "success_auto", "subtitle_path": "data/subtitles/raw/jZ-eL71AyzU.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "je2i-kLbNpI", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "jfNZjX-oaF8", "status": "success_auto", "subtitle_path": "data/subtitles/raw/jfNZjX-oaF8.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "jhMy4br_m1o", "status": "success_auto", "subtitle_path": "data/subtitles/raw/jhMy4br_m1o.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
@@ -826,10 +853,12 @@
 {"video_id": "m7YLVtlghfI", "status": "success_auto", "subtitle_path": "data/subtitles/raw/m7YLVtlghfI.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "m8WVsRAntqk", "status": "success_auto", "subtitle_path": "data/subtitles/raw/m8WVsRAntqk.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "mCnjpnhLeDU", "status": "success_auto", "subtitle_path": "data/subtitles/raw/mCnjpnhLeDU.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "mH77GaIWRB8", "status": "success_auto", "subtitle_path": "data/subtitles/raw/mH77GaIWRB8.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "mInLJyUj39s", "status": "success_auto", "subtitle_path": "data/subtitles/raw/mInLJyUj39s.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "mKg_gVagHy8", "status": "failed", "subtitle_path": null, "subtitle_type": null, "error_message": "ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests"}
 {"video_id": "mMvqnLT3WQs", "status": "success_auto", "subtitle_path": "data/subtitles/raw/mMvqnLT3WQs.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "mWhhFOTHPZY", "status": "success_auto", "subtitle_path": "data/subtitles/raw/mWhhFOTHPZY.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "mZujswzs7Qg", "status": "success_auto", "subtitle_path": "data/subtitles/raw/mZujswzs7Qg.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "mq_2WN0s6L0", "status": "success_auto", "subtitle_path": "data/subtitles/raw/mq_2WN0s6L0.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "msTcsxCxgmY", "status": "success_human", "subtitle_path": "data/subtitles/raw/msTcsxCxgmY.human.en.vtt", "subtitle_type": "human", "error_message": null}
 {"video_id": "n1ULL27cxHk", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
@@ -838,6 +867,7 @@
 {"video_id": "n9icb0lwrqM", "status": "success_auto", "subtitle_path": "data/subtitles/raw/n9icb0lwrqM.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "nAT-MCsJeik", "status": "success_auto", "subtitle_path": "data/subtitles/raw/nAT-MCsJeik.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "nJqOPayFPMk", "status": "success_auto", "subtitle_path": "data/subtitles/raw/nJqOPayFPMk.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "nQBC00jIiHE", "status": "success_human", "subtitle_path": "data/subtitles/raw/nQBC00jIiHE.human.en.vtt", "subtitle_type": "human", "error_message": null}
 {"video_id": "nQb11RIEXkI", "status": "success_auto", "subtitle_path": "data/subtitles/raw/nQb11RIEXkI.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "nZlLCFSGWG8", "status": "success_auto", "subtitle_path": "data/subtitles/raw/nZlLCFSGWG8.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "nbEabAEA_ng", "status": "success_auto", "subtitle_path": "data/subtitles/raw/nbEabAEA_ng.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
@@ -886,6 +916,7 @@
 {"video_id": "qk1IPvvWfr0", "status": "success_auto", "subtitle_path": "data/subtitles/raw/qk1IPvvWfr0.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "rK5IQwmykiI", "status": "success_auto", "subtitle_path": "data/subtitles/raw/rK5IQwmykiI.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "rKWXzrOJt3A", "status": "success_auto", "subtitle_path": "data/subtitles/raw/rKWXzrOJt3A.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "rWSOA0H-cuU", "status": "success_auto", "subtitle_path": "data/subtitles/raw/rWSOA0H-cuU.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "rYUXDwUD3J4", "status": "success_auto", "subtitle_path": "data/subtitles/raw/rYUXDwUD3J4.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "rYjo774UpHI", "status": "success_auto", "subtitle_path": "data/subtitles/raw/rYjo774UpHI.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "rZ3kdOIDsQU", "status": "success_human", "subtitle_path": "data/subtitles/raw/rZ3kdOIDsQU.human.en.vtt", "subtitle_type": "human", "error_message": null}
@@ -937,6 +968,7 @@
 {"video_id": "u0L7rvNumjw", "status": "success_auto", "subtitle_path": "data/subtitles/raw/u0L7rvNumjw.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "u8X9ymLUC38", "status": "success_auto", "subtitle_path": "data/subtitles/raw/u8X9ymLUC38.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "uDUP_Q78bYU", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
+{"video_id": "uIDVRUGkfM8", "status": "success_auto", "subtitle_path": "data/subtitles/raw/uIDVRUGkfM8.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "uKkVazoO1KU", "status": "success_auto", "subtitle_path": "data/subtitles/raw/uKkVazoO1KU.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "uSG8ANBTaN0", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "uUByQvoS7ew", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
@@ -953,6 +985,7 @@
 {"video_id": "v6n8XKlFY3k", "status": "success_auto", "subtitle_path": "data/subtitles/raw/v6n8XKlFY3k.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "v6s8LbQSDKE", "status": "success_auto", "subtitle_path": "data/subtitles/raw/v6s8LbQSDKE.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "v75E_yfX3l4", "status": "success_auto", "subtitle_path": "data/subtitles/raw/v75E_yfX3l4.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "vJTchOUHT7M", "status": "failed", "subtitle_path": null, "subtitle_type": null, "error_message": "ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests"}
 {"video_id": "vLVS2ld2xbI", "status": "success_auto", "subtitle_path": "data/subtitles/raw/vLVS2ld2xbI.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "vMmmBTCiqfY", "status": "success_auto", "subtitle_path": "data/subtitles/raw/vMmmBTCiqfY.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "vNCe7ciFwVc", "status": "success_auto", "subtitle_path": "data/subtitles/raw/vNCe7ciFwVc.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
@@ -968,6 +1001,7 @@
 {"video_id": "vtpKoC0XfUY", "status": "success_auto", "subtitle_path": "data/subtitles/raw/vtpKoC0XfUY.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "vzLO-1efXrQ", "status": "success_auto", "subtitle_path": "data/subtitles/raw/vzLO-1efXrQ.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "w1pPty1k2YA", "status": "success_auto", "subtitle_path": "data/subtitles/raw/w1pPty1k2YA.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "w4_rLRONUIM", "status": "success_auto", "subtitle_path": "data/subtitles/raw/w4_rLRONUIM.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "w6TVJVQSIPU", "status": "success_auto", "subtitle_path": "data/subtitles/raw/w6TVJVQSIPU.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "wWEZ-rUlBDQ", "status": "success_auto", "subtitle_path": "data/subtitles/raw/wWEZ-rUlBDQ.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "wXdoqPMlVRU", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
@@ -1004,12 +1038,14 @@
 {"video_id": "y7D6U7vnrUw", "status": "success_auto", "subtitle_path": "data/subtitles/raw/y7D6U7vnrUw.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "y7FFgEnM9f0", "status": "success_auto", "subtitle_path": "data/subtitles/raw/y7FFgEnM9f0.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "y8R0Oqbtp9U", "status": "success_auto", "subtitle_path": "data/subtitles/raw/y8R0Oqbtp9U.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
+{"video_id": "yDHkNDrHfIw", "status": "success_auto", "subtitle_path": "data/subtitles/raw/yDHkNDrHfIw.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "yFMEWEKQdB0", "status": "success_auto", "subtitle_path": "data/subtitles/raw/yFMEWEKQdB0.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "yK5nqi_MdM4", "status": "success_auto", "subtitle_path": "data/subtitles/raw/yK5nqi_MdM4.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "yOJQ5OlvSAo", "status": "success_auto", "subtitle_path": "data/subtitles/raw/yOJQ5OlvSAo.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "yOLaNOgoWqk", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "yQLr755ccf8", "status": "success_auto", "subtitle_path": "data/subtitles/raw/yQLr755ccf8.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "yTpzDEDP090", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
+{"video_id": "yXBIShDu-Yk", "status": "success_auto", "subtitle_path": "data/subtitles/raw/yXBIShDu-Yk.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "yYeNJL4ILoU", "status": "success_auto", "subtitle_path": "data/subtitles/raw/yYeNJL4ILoU.auto.en.vtt", "subtitle_type": "auto", "error_message": null}
 {"video_id": "yeHDXdv5KH4", "status": "unavailable", "subtitle_path": null, "subtitle_type": null, "error_message": null}
 {"video_id": "yfGtbNgcrQ8", "status": "success_auto", "subtitle_path": "data/subtitles/raw/yfGtbNgcrQ8.auto.en.vtt", "subtitle_type": "auto", "error_message": null}

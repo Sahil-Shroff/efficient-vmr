@@ -1,0 +1,344 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.920 --> 00:00:03.669 align:start position:0%
+ 
+welcome<00:00:01.920><c> today</c><00:00:02.280><c> we'll</c><00:00:02.520><c> solve</c><00:00:02.800><c> a</c><00:00:03.040><c> challenging</c>
+
+00:00:03.669 --> 00:00:03.679 align:start position:0%
+welcome today we'll solve a challenging
+ 
+
+00:00:03.679 --> 00:00:06.110 align:start position:0%
+welcome today we'll solve a challenging
+differentiation<00:00:04.640><c> problem</c><00:00:05.440><c> using</c>
+
+00:00:06.110 --> 00:00:06.120 align:start position:0%
+differentiation problem using
+ 
+
+00:00:06.120 --> 00:00:07.509 align:start position:0%
+differentiation problem using
+logarithmic
+
+00:00:07.509 --> 00:00:07.519 align:start position:0%
+logarithmic
+ 
+
+00:00:07.519 --> 00:00:10.190 align:start position:0%
+logarithmic
+differentiation<00:00:08.519><c> our</c><00:00:09.000><c> task</c><00:00:09.440><c> is</c><00:00:09.559><c> to</c><00:00:09.760><c> find</c><00:00:10.040><c> the</c>
+
+00:00:10.190 --> 00:00:10.200 align:start position:0%
+differentiation our task is to find the
+ 
+
+00:00:10.200 --> 00:00:13.509 align:start position:0%
+differentiation our task is to find the
+derivative<00:00:10.639><c> of</c><00:00:10.840><c> x</c><00:00:11.160><c> to</c><00:00:11.360><c> the</c><00:00:11.559><c> X</c><00:00:12.000><c> Power</c><00:00:12.840><c> Plus</c><00:00:13.160><c> sin</c>
+
+00:00:13.509 --> 00:00:13.519 align:start position:0%
+derivative of x to the X Power Plus sin
+ 
+
+00:00:13.519 --> 00:00:16.750 align:start position:0%
+derivative of x to the X Power Plus sin
+x<00:00:13.880><c> raised</c><00:00:14.400><c> to</c><00:00:14.599><c> the</c><00:00:14.799><c> natural</c><00:00:15.200><c> log</c><00:00:15.440><c> of</c><00:00:15.599><c> x</c><00:00:16.480><c> let's</c>
+
+00:00:16.750 --> 00:00:16.760 align:start position:0%
+x raised to the natural log of x let's
+ 
+
+00:00:16.760 --> 00:00:18.910 align:start position:0%
+x raised to the natural log of x let's
+break<00:00:17.160><c> this</c><00:00:17.400><c> into</c><00:00:17.720><c> two</c><00:00:18.000><c> parts</c><00:00:18.359><c> to</c><00:00:18.560><c> make</c><00:00:18.680><c> it</c>
+
+00:00:18.910 --> 00:00:18.920 align:start position:0%
+break this into two parts to make it
+ 
+
+00:00:18.920 --> 00:00:23.310 align:start position:0%
+break this into two parts to make it
+easier<00:00:19.840><c> we'll</c><00:00:20.080><c> call</c><00:00:20.320><c> the</c><00:00:20.519><c> first</c><00:00:20.920><c> part</c><00:00:21.560><c> y1</c><00:00:22.359><c> =</c><00:00:22.760><c> x</c>
+
+00:00:23.310 --> 00:00:23.320 align:start position:0%
+easier we'll call the first part y1 = x
+ 
+
+00:00:23.320 --> 00:00:28.269 align:start position:0%
+easier we'll call the first part y1 = x
+x<00:00:24.039><c> and</c><00:00:24.240><c> the</c><00:00:24.439><c> second</c><00:00:24.800><c> part</c><00:00:25.760><c> Y</c><00:00:26.160><c> 2</c><00:00:26.599><c> =</c><00:00:27.160><c> sinx</c><00:00:27.840><c> to</c><00:00:28.039><c> the</c>
+
+00:00:28.269 --> 00:00:28.279 align:start position:0%
+x and the second part Y 2 = sinx to the
+ 
+
+00:00:28.279 --> 00:00:31.749 align:start position:0%
+x and the second part Y 2 = sinx to the
+natural<00:00:28.679><c> log</c><00:00:28.920><c> of</c><00:00:29.080><c> x</c><00:00:29.759><c> let</c><00:00:30.000><c> let's</c><00:00:30.160><c> start</c><00:00:30.400><c> with</c><00:00:30.759><c> y1</c>
+
+00:00:31.749 --> 00:00:31.759 align:start position:0%
+natural log of x let let's start with y1
+ 
+
+00:00:31.759 --> 00:00:34.310 align:start position:0%
+natural log of x let let's start with y1
+to<00:00:32.040><c> differentiate</c><00:00:32.880><c> this</c><00:00:33.640><c> we'll</c><00:00:33.840><c> use</c>
+
+00:00:34.310 --> 00:00:34.320 align:start position:0%
+to differentiate this we'll use
+ 
+
+00:00:34.320 --> 00:00:35.790 align:start position:0%
+to differentiate this we'll use
+logarithmic
+
+00:00:35.790 --> 00:00:35.800 align:start position:0%
+logarithmic
+ 
+
+00:00:35.800 --> 00:00:38.430 align:start position:0%
+logarithmic
+differentiation<00:00:36.800><c> first</c><00:00:37.520><c> take</c><00:00:37.719><c> the</c><00:00:38.040><c> natural</c>
+
+00:00:38.430 --> 00:00:38.440 align:start position:0%
+differentiation first take the natural
+ 
+
+00:00:38.440 --> 00:00:41.229 align:start position:0%
+differentiation first take the natural
+log<00:00:38.719><c> of</c><00:00:38.960><c> both</c><00:00:39.280><c> sides</c><00:00:40.280><c> using</c><00:00:40.640><c> the</c><00:00:40.840><c> properties</c>
+
+00:00:41.229 --> 00:00:41.239 align:start position:0%
+log of both sides using the properties
+ 
+
+00:00:41.239 --> 00:00:42.029 align:start position:0%
+log of both sides using the properties
+of
+
+00:00:42.029 --> 00:00:42.039 align:start position:0%
+of
+ 
+
+00:00:42.039 --> 00:00:46.430 align:start position:0%
+of
+logarithms<00:00:43.039><c> this</c><00:00:43.239><c> simplifies</c><00:00:43.920><c> to</c><00:00:44.160><c> x</c><00:00:44.480><c> *</c><00:00:45.440><c> lnx</c>
+
+00:00:46.430 --> 00:00:46.440 align:start position:0%
+logarithms this simplifies to x * lnx
+ 
+
+00:00:46.440 --> 00:00:49.310 align:start position:0%
+logarithms this simplifies to x * lnx
+now<00:00:47.039><c> we</c><00:00:47.199><c> can</c><00:00:47.440><c> differentiate</c><00:00:48.239><c> both</c><00:00:48.600><c> sides</c><00:00:49.079><c> with</c>
+
+00:00:49.310 --> 00:00:49.320 align:start position:0%
+now we can differentiate both sides with
+ 
+
+00:00:49.320 --> 00:00:53.069 align:start position:0%
+now we can differentiate both sides with
+respect<00:00:49.640><c> to</c><00:00:49.920><c> X</c><00:00:50.840><c> on</c><00:00:51.000><c> the</c><00:00:51.239><c> left</c><00:00:51.600><c> side</c><00:00:52.440><c> we</c><00:00:52.600><c> get</c><00:00:52.800><c> 1</c>
+
+00:00:53.069 --> 00:00:53.079 align:start position:0%
+respect to X on the left side we get 1
+ 
+
+00:00:53.079 --> 00:00:58.750 align:start position:0%
+respect to X on the left side we get 1
+over<00:00:53.800><c> y1</c><00:00:54.399><c> *</c><00:00:54.879><c> dy1</c><00:00:55.680><c> DX</c><00:00:56.680><c> on</c><00:00:56.879><c> the</c><00:00:57.079><c> right</c><00:00:57.440><c> side</c><00:00:58.399><c> using</c>
+
+00:00:58.750 --> 00:00:58.760 align:start position:0%
+over y1 * dy1 DX on the right side using
+ 
+
+00:00:58.760 --> 00:01:02.509 align:start position:0%
+over y1 * dy1 DX on the right side using
+the<00:00:58.960><c> product</c><00:00:59.280><c> rule</c><00:01:00.120><c> we</c><00:01:00.280><c> get</c><00:01:00.600><c> x</c><00:01:00.840><c> *</c><00:01:01.239><c> d</c><00:01:01.600><c> by</c><00:01:01.760><c> DX</c><00:01:02.239><c> of</c>
+
+00:01:02.509 --> 00:01:02.519 align:start position:0%
+the product rule we get x * d by DX of
+ 
+
+00:01:02.519 --> 00:01:08.310 align:start position:0%
+the product rule we get x * d by DX of
+Ln<00:01:03.160><c> x</c><00:01:03.480><c> +</c><00:01:03.920><c> Ln</c><00:01:04.600><c> x</c><00:01:04.879><c> *</c><00:01:05.239><c> d</c><00:01:05.960><c> by</c><00:01:06.159><c> DX</c><00:01:06.560><c> of</c><00:01:06.720><c> X</c><00:01:07.600><c> simplifying</c>
+
+00:01:08.310 --> 00:01:08.320 align:start position:0%
+Ln x + Ln x * d by DX of X simplifying
+ 
+
+00:01:08.320 --> 00:01:12.910 align:start position:0%
+Ln x + Ln x * d by DX of X simplifying
+the<00:01:08.560><c> right</c><00:01:08.840><c> side</c><00:01:09.640><c> we</c><00:01:09.840><c> get</c><00:01:10.200><c> 1</c><00:01:10.640><c> +</c><00:01:11.080><c> Ln</c><00:01:11.520><c> X</c><00:01:12.520><c> then</c>
+
+00:01:12.910 --> 00:01:12.920 align:start position:0%
+the right side we get 1 + Ln X then
+ 
+
+00:01:12.920 --> 00:01:17.149 align:start position:0%
+the right side we get 1 + Ln X then
+multiply<00:01:13.600><c> both</c><00:01:13.920><c> sides</c><00:01:14.360><c> by</c><00:01:14.720><c> y1</c><00:01:15.240><c> to</c><00:01:15.439><c> get</c><00:01:15.600><c> Dy</c><00:01:16.360><c> 1</c><00:01:16.600><c> DX</c>
+
+00:01:17.149 --> 00:01:17.159 align:start position:0%
+multiply both sides by y1 to get Dy 1 DX
+ 
+
+00:01:17.159 --> 00:01:23.590 align:start position:0%
+multiply both sides by y1 to get Dy 1 DX
+=<00:01:17.720><c> y1</c><00:01:18.280><c> *</c><00:01:19.159><c> 1</c><00:01:19.520><c> +</c><00:01:20.400><c> lnx</c><00:01:21.560><c> finally</c><00:01:22.560><c> substitute</c><00:01:23.280><c> back</c>
+
+00:01:23.590 --> 00:01:23.600 align:start position:0%
+= y1 * 1 + lnx finally substitute back
+ 
+
+00:01:23.600 --> 00:01:30.030 align:start position:0%
+= y1 * 1 + lnx finally substitute back
+y1<00:01:24.240><c> =</c><00:01:24.640><c> X</c><00:01:24.960><c> to</c><00:01:25.479><c> X</c><00:01:26.479><c> now</c><00:01:27.159><c> let's</c><00:01:27.479><c> tackle</c><00:01:27.920><c> Y</c><00:01:28.159><c> 2</c><00:01:29.159><c> again</c>
+
+00:01:30.030 --> 00:01:30.040 align:start position:0%
+y1 = X to X now let's tackle Y 2 again
+ 
+
+00:01:30.040 --> 00:01:33.030 align:start position:0%
+y1 = X to X now let's tackle Y 2 again
+we'll<00:01:30.280><c> take</c><00:01:30.520><c> the</c><00:01:30.720><c> natural</c><00:01:31.119><c> log</c><00:01:31.400><c> of</c><00:01:31.640><c> both</c><00:01:32.040><c> sides</c>
+
+00:01:33.030 --> 00:01:33.040 align:start position:0%
+we'll take the natural log of both sides
+ 
+
+00:01:33.040 --> 00:01:39.310 align:start position:0%
+we'll take the natural log of both sides
+this<00:01:33.280><c> gives</c><00:01:33.520><c> us</c><00:01:33.880><c> Ln</c><00:01:34.880><c> Y2</c><00:01:35.479><c> =</c><00:01:36.000><c> Ln</c><00:01:36.479><c> x</c><00:01:36.920><c> *</c><00:01:37.479><c> Ln</c><00:01:37.960><c> of</c><00:01:38.320><c> sinx</c>
+
+00:01:39.310 --> 00:01:39.320 align:start position:0%
+this gives us Ln Y2 = Ln x * Ln of sinx
+ 
+
+00:01:39.320 --> 00:01:43.069 align:start position:0%
+this gives us Ln Y2 = Ln x * Ln of sinx
+differentiating<00:01:40.200><c> both</c><00:01:40.520><c> sides</c><00:01:41.439><c> we</c><00:01:41.640><c> get</c><00:01:41.880><c> 1</c><00:01:42.119><c> /</c><00:01:42.520><c> Y2</c>
+
+00:01:43.069 --> 00:01:43.079 align:start position:0%
+differentiating both sides we get 1 / Y2
+ 
+
+00:01:43.079 --> 00:01:48.429 align:start position:0%
+differentiating both sides we get 1 / Y2
+*<00:01:43.479><c> dy2</c><00:01:44.280><c> DX</c><00:01:44.840><c> =</c><00:01:45.360><c> Ln</c><00:01:46.360><c> x</c><00:01:46.640><c> *</c><00:01:47.079><c> the</c><00:01:47.240><c> derivative</c><00:01:47.719><c> of</c><00:01:47.920><c> Ln</c>
+
+00:01:48.429 --> 00:01:48.439 align:start position:0%
+* dy2 DX = Ln x * the derivative of Ln
+ 
+
+00:01:48.439 --> 00:01:53.310 align:start position:0%
+* dy2 DX = Ln x * the derivative of Ln
+sin<00:01:49.000><c> x</c><00:01:49.280><c> +</c><00:01:49.719><c> Ln</c><00:01:50.200><c> sin</c><00:01:50.960><c> x</c><00:01:51.240><c> *</c><00:01:51.680><c> the</c><00:01:51.840><c> derivative</c><00:01:52.600><c> of</c><00:01:52.880><c> Ln</c>
+
+00:01:53.310 --> 00:01:53.320 align:start position:0%
+sin x + Ln sin x * the derivative of Ln
+ 
+
+00:01:53.320 --> 00:01:58.069 align:start position:0%
+sin x + Ln sin x * the derivative of Ln
+X<00:01:54.200><c> after</c><00:01:54.759><c> simplifying</c><00:01:55.759><c> we</c><00:01:55.960><c> get</c><00:01:56.200><c> Ln</c><00:01:56.640><c> X</c><00:01:57.039><c> Cent</c><00:01:57.680><c> X</c>
+
+00:01:58.069 --> 00:01:58.079 align:start position:0%
+X after simplifying we get Ln X Cent X
+ 
+
+00:01:58.079 --> 00:02:00.550 align:start position:0%
+X after simplifying we get Ln X Cent X
+Plus<00:01:58.560><c> Ln</c><00:01:59.119><c> sin</c><00:01:59.520><c> x</c>
+
+00:02:00.550 --> 00:02:00.560 align:start position:0%
+Plus Ln sin x
+ 
+
+00:02:00.560 --> 00:02:04.149 align:start position:0%
+Plus Ln sin x
+/x<00:02:01.560><c> now</c><00:02:01.960><c> we</c><00:02:02.079><c> can</c><00:02:02.360><c> combine</c><00:02:02.759><c> our</c><00:02:03.039><c> results</c><00:02:04.000><c> the</c>
+
+00:02:04.149 --> 00:02:04.159 align:start position:0%
+/x now we can combine our results the
+ 
+
+00:02:04.159 --> 00:02:06.270 align:start position:0%
+/x now we can combine our results the
+derivative<00:02:04.640><c> of</c><00:02:04.799><c> the</c><00:02:04.920><c> original</c><00:02:05.439><c> expression</c><00:02:06.079><c> is</c>
+
+00:02:06.270 --> 00:02:06.280 align:start position:0%
+derivative of the original expression is
+ 
+
+00:02:06.280 --> 00:02:11.589 align:start position:0%
+derivative of the original expression is
+the<00:02:06.399><c> sum</c><00:02:06.640><c> of</c><00:02:06.799><c> Dy</c><00:02:07.479><c> 1</c><00:02:07.920><c> DX</c><00:02:08.920><c> and</c><00:02:09.119><c> dy2</c><00:02:10.200><c> DX</c><00:02:11.200><c> this</c><00:02:11.400><c> gives</c>
+
+00:02:11.589 --> 00:02:11.599 align:start position:0%
+the sum of Dy 1 DX and dy2 DX this gives
+ 
+
+00:02:11.599 --> 00:02:17.190 align:start position:0%
+the sum of Dy 1 DX and dy2 DX this gives
+us<00:02:11.840><c> x</c><00:02:12.360><c> x</c><00:02:12.599><c> *</c><00:02:13.000><c> 1</c><00:02:13.239><c> +</c><00:02:13.680><c> Ln</c><00:02:14.120><c> X</c><00:02:15.120><c> Plus</c><00:02:15.400><c> sin</c><00:02:15.680><c> x</c><00:02:16.000><c> to</c><00:02:16.160><c> the</c><00:02:16.319><c> Ln</c><00:02:16.879><c> x</c>
+
+00:02:17.190 --> 00:02:17.200 align:start position:0%
+us x x * 1 + Ln X Plus sin x to the Ln x
+ 
+
+00:02:17.200 --> 00:02:23.390 align:start position:0%
+us x x * 1 + Ln X Plus sin x to the Ln x
+*<00:02:17.640><c> Ln</c><00:02:18.200><c> xent</c><00:02:19.200><c> x</c><00:02:19.760><c> +</c><00:02:20.120><c> Ln</c><00:02:20.599><c> sin</c><00:02:21.000><c> x</c><00:02:21.560><c> /x</c><00:02:22.560><c> and</c><00:02:22.800><c> that's</c><00:02:23.040><c> our</c>
+
+00:02:23.390 --> 00:02:23.400 align:start position:0%
+* Ln xent x + Ln sin x /x and that's our
+ 
+
+00:02:23.400 --> 00:02:26.589 align:start position:0%
+* Ln xent x + Ln sin x /x and that's our
+final<00:02:23.840><c> answer</c><00:02:24.840><c> we</c><00:02:25.000><c> used</c><00:02:25.680><c> logarithmic</c>
+
+00:02:26.589 --> 00:02:26.599 align:start position:0%
+final answer we used logarithmic
+ 
+
+00:02:26.599 --> 00:02:29.190 align:start position:0%
+final answer we used logarithmic
+differentiation<00:02:27.519><c> to</c><00:02:27.800><c> handle</c><00:02:28.200><c> these</c><00:02:28.560><c> complex</c>
+
+00:02:29.190 --> 00:02:29.200 align:start position:0%
+differentiation to handle these complex
+ 
+
+00:02:29.200 --> 00:02:31.670 align:start position:0%
+differentiation to handle these complex
+expressions<00:02:29.959><c> with</c><00:02:30.239><c> variables</c><00:02:31.080><c> in</c><00:02:31.239><c> the</c>
+
+00:02:31.670 --> 00:02:31.680 align:start position:0%
+expressions with variables in the
+ 
+
+00:02:31.680 --> 00:02:34.390 align:start position:0%
+expressions with variables in the
+exponents<00:02:32.680><c> this</c><00:02:32.959><c> technique</c><00:02:33.680><c> is</c><00:02:34.040><c> very</c>
+
+00:02:34.390 --> 00:02:34.400 align:start position:0%
+exponents this technique is very
+ 
+
+00:02:34.400 --> 00:02:36.270 align:start position:0%
+exponents this technique is very
+powerful<00:02:34.879><c> for</c><00:02:35.200><c> differentiating</c><00:02:36.000><c> such</c>
+
+00:02:36.270 --> 00:02:36.280 align:start position:0%
+powerful for differentiating such
+ 
+
+00:02:36.280 --> 00:02:39.280 align:start position:0%
+powerful for differentiating such
+expressions
+

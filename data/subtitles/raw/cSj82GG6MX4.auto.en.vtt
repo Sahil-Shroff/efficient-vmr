@@ -1,0 +1,600 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.930 align:start position:0%
+ 
+the<00:00:00.719><c> rank</c><00:00:01.020><c> of</c><00:00:01.199><c> a</c><00:00:01.380><c> matrix</c><00:00:01.740><c> is</c><00:00:02.159><c> the</c><00:00:02.399><c> number</c><00:00:02.580><c> of</c>
+
+00:00:02.930 --> 00:00:02.940 align:start position:0%
+the rank of a matrix is the number of
+ 
+
+00:00:02.940 --> 00:00:06.170 align:start position:0%
+the rank of a matrix is the number of
+linearly<00:00:03.540><c> independent</c><00:00:04.319><c> rows</c><00:00:04.920><c> that</c><00:00:05.220><c> it</c><00:00:05.400><c> has</c><00:00:05.700><c> or</c>
+
+00:00:06.170 --> 00:00:06.180 align:start position:0%
+linearly independent rows that it has or
+ 
+
+00:00:06.180 --> 00:00:08.509 align:start position:0%
+linearly independent rows that it has or
+equivalently<00:00:06.839><c> the</c><00:00:07.440><c> number</c><00:00:07.620><c> of</c><00:00:07.919><c> linearly</c>
+
+00:00:08.509 --> 00:00:08.519 align:start position:0%
+equivalently the number of linearly
+ 
+
+00:00:08.519 --> 00:00:11.330 align:start position:0%
+equivalently the number of linearly
+independent<00:00:09.300><c> columns</c><00:00:09.960><c> the</c><00:00:10.440><c> rank</c><00:00:10.679><c> of</c><00:00:10.860><c> a</c><00:00:10.980><c> matrix</c>
+
+00:00:11.330 --> 00:00:11.340 align:start position:0%
+independent columns the rank of a matrix
+ 
+
+00:00:11.340 --> 00:00:13.970 align:start position:0%
+independent columns the rank of a matrix
+is<00:00:11.639><c> always</c><00:00:11.880><c> positive</c><00:00:12.420><c> except</c><00:00:13.139><c> in</c><00:00:13.320><c> the</c><00:00:13.500><c> case</c><00:00:13.620><c> of</c>
+
+00:00:13.970 --> 00:00:13.980 align:start position:0%
+is always positive except in the case of
+ 
+
+00:00:13.980 --> 00:00:17.090 align:start position:0%
+is always positive except in the case of
+the<00:00:14.219><c> zero</c><00:00:14.580><c> Matrix</c><00:00:15.000><c> which</c><00:00:15.420><c> has</c><00:00:15.660><c> rank</c><00:00:16.080><c> 0.</c><00:00:16.680><c> let's</c>
+
+00:00:17.090 --> 00:00:17.100 align:start position:0%
+the zero Matrix which has rank 0. let's
+ 
+
+00:00:17.100 --> 00:00:19.130 align:start position:0%
+the zero Matrix which has rank 0. let's
+go<00:00:17.340><c> through</c><00:00:17.520><c> five</c><00:00:17.760><c> examples</c><00:00:18.300><c> of</c><00:00:18.660><c> calculating</c>
+
+00:00:19.130 --> 00:00:19.140 align:start position:0%
+go through five examples of calculating
+ 
+
+00:00:19.140 --> 00:00:20.870 align:start position:0%
+go through five examples of calculating
+the<00:00:19.380><c> rank</c><00:00:19.560><c> of</c><00:00:19.680><c> a</c><00:00:19.859><c> matrix</c><00:00:20.100><c> we'll</c><00:00:20.400><c> do</c><00:00:20.580><c> the</c><00:00:20.760><c> first</c>
+
+00:00:20.870 --> 00:00:20.880 align:start position:0%
+the rank of a matrix we'll do the first
+ 
+
+00:00:20.880 --> 00:00:22.490 align:start position:0%
+the rank of a matrix we'll do the first
+four<00:00:21.119><c> real</c><00:00:21.420><c> quick</c><00:00:21.600><c> and</c><00:00:21.900><c> we'll</c><00:00:22.020><c> be</c><00:00:22.140><c> a</c><00:00:22.260><c> bit</c><00:00:22.320><c> more</c>
+
+00:00:22.490 --> 00:00:22.500 align:start position:0%
+four real quick and we'll be a bit more
+ 
+
+00:00:22.500 --> 00:00:24.290 align:start position:0%
+four real quick and we'll be a bit more
+thorough<00:00:22.920><c> with</c><00:00:23.100><c> the</c><00:00:23.279><c> last</c><00:00:23.400><c> one</c><00:00:23.580><c> here's</c><00:00:24.180><c> a</c>
+
+00:00:24.290 --> 00:00:24.300 align:start position:0%
+thorough with the last one here's a
+ 
+
+00:00:24.300 --> 00:00:27.170 align:start position:0%
+thorough with the last one here's a
+matrix<00:00:24.660><c> a</c><00:00:25.080><c> it's</c><00:00:25.380><c> not</c><00:00:25.680><c> the</c><00:00:25.859><c> zero</c><00:00:26.220><c> Matrix</c><00:00:26.519><c> so</c><00:00:26.820><c> its</c>
+
+00:00:27.170 --> 00:00:27.180 align:start position:0%
+matrix a it's not the zero Matrix so its
+ 
+
+00:00:27.180 --> 00:00:29.509 align:start position:0%
+matrix a it's not the zero Matrix so its
+rank<00:00:27.420><c> is</c><00:00:27.599><c> positive</c><00:00:28.080><c> generally</c><00:00:28.859><c> to</c><00:00:29.099><c> find</c><00:00:29.340><c> the</c>
+
+00:00:29.509 --> 00:00:29.519 align:start position:0%
+rank is positive generally to find the
+ 
+
+00:00:29.519 --> 00:00:31.370 align:start position:0%
+rank is positive generally to find the
+rank<00:00:29.699><c> of</c><00:00:29.880><c> a</c><00:00:30.000><c> matrix</c><00:00:30.300><c> we'll</c><00:00:30.720><c> want</c><00:00:30.960><c> to</c><00:00:31.080><c> put</c><00:00:31.260><c> it</c>
+
+00:00:31.370 --> 00:00:31.380 align:start position:0%
+rank of a matrix we'll want to put it
+ 
+
+00:00:31.380 --> 00:00:34.430 align:start position:0%
+rank of a matrix we'll want to put it
+into<00:00:31.740><c> row</c><00:00:32.160><c> Echelon</c><00:00:32.820><c> form</c><00:00:33.120><c> doing</c><00:00:33.660><c> this</c><00:00:33.960><c> to</c><00:00:34.200><c> a</c>
+
+00:00:34.430 --> 00:00:34.440 align:start position:0%
+into row Echelon form doing this to a
+ 
+
+00:00:34.440 --> 00:00:37.130 align:start position:0%
+into row Echelon form doing this to a
+gives<00:00:34.860><c> us</c><00:00:35.040><c> this</c><00:00:35.520><c> Matrix</c><00:00:36.000><c> and</c><00:00:36.420><c> this</c><00:00:36.660><c> tells</c><00:00:37.020><c> us</c>
+
+00:00:37.130 --> 00:00:37.140 align:start position:0%
+gives us this Matrix and this tells us
+ 
+
+00:00:37.140 --> 00:00:39.590 align:start position:0%
+gives us this Matrix and this tells us
+the<00:00:37.500><c> number</c><00:00:37.680><c> of</c><00:00:37.980><c> linearly</c><00:00:38.460><c> independent</c><00:00:39.180><c> rows</c>
+
+00:00:39.590 --> 00:00:39.600 align:start position:0%
+the number of linearly independent rows
+ 
+
+00:00:39.600 --> 00:00:42.490 align:start position:0%
+the number of linearly independent rows
+that<00:00:39.899><c> a</c><00:00:40.140><c> has</c><00:00:40.440><c> it's</c><00:00:41.160><c> simply</c><00:00:41.520><c> the</c><00:00:41.820><c> number</c><00:00:42.059><c> of</c>
+
+00:00:42.490 --> 00:00:42.500 align:start position:0%
+that a has it's simply the number of
+ 
+
+00:00:42.500 --> 00:00:46.430 align:start position:0%
+that a has it's simply the number of
+non-zero<00:00:43.500><c> rows</c><00:00:43.920><c> in</c><00:00:44.399><c> the</c><00:00:44.579><c> row</c><00:00:44.879><c> Echelon</c><00:00:45.420><c> form</c><00:00:45.660><c> in</c>
+
+00:00:46.430 --> 00:00:46.440 align:start position:0%
+non-zero rows in the row Echelon form in
+ 
+
+00:00:46.440 --> 00:00:49.610 align:start position:0%
+non-zero rows in the row Echelon form in
+this<00:00:46.500><c> case</c><00:00:46.680><c> we</c><00:00:47.100><c> see</c><00:00:47.399><c> that's</c><00:00:47.940><c> three</c><00:00:48.420><c> so</c><00:00:49.140><c> the</c>
+
+00:00:49.610 --> 00:00:49.620 align:start position:0%
+this case we see that's three so the
+ 
+
+00:00:49.620 --> 00:00:52.970 align:start position:0%
+this case we see that's three so the
+rank<00:00:49.920><c> of</c><00:00:50.160><c> a</c><00:00:50.520><c> is</c><00:00:51.120><c> equal</c><00:00:51.420><c> to</c><00:00:51.780><c> three</c><00:00:52.140><c> similarly</c>
+
+00:00:52.970 --> 00:00:52.980 align:start position:0%
+rank of a is equal to three similarly
+ 
+
+00:00:52.980 --> 00:00:55.670 align:start position:0%
+rank of a is equal to three similarly
+for<00:00:53.280><c> this</c><00:00:53.460><c> Matrix</c><00:00:53.879><c> B</c><00:00:54.239><c> if</c><00:00:54.660><c> we</c><00:00:54.840><c> put</c><00:00:55.020><c> it</c><00:00:55.140><c> into</c><00:00:55.320><c> row</c>
+
+00:00:55.670 --> 00:00:55.680 align:start position:0%
+for this Matrix B if we put it into row
+ 
+
+00:00:55.680 --> 00:00:58.490 align:start position:0%
+for this Matrix B if we put it into row
+Echelon<00:00:56.219><c> form</c><00:00:56.460><c> this</c><00:00:57.120><c> is</c><00:00:57.239><c> what</c><00:00:57.480><c> we</c><00:00:57.719><c> get</c><00:00:57.899><c> the</c>
+
+00:00:58.490 --> 00:00:58.500 align:start position:0%
+Echelon form this is what we get the
+ 
+
+00:00:58.500 --> 00:01:00.950 align:start position:0%
+Echelon form this is what we get the
+number<00:00:58.680><c> of</c><00:00:58.980><c> linearly</c><00:00:59.520><c> independent</c><00:00:59.940><c> it</c><00:01:00.480><c> rows</c>
+
+00:01:00.950 --> 00:01:00.960 align:start position:0%
+number of linearly independent it rows
+ 
+
+00:01:00.960 --> 00:01:04.850 align:start position:0%
+number of linearly independent it rows
+in<00:01:01.140><c> B</c><00:01:01.379><c> is</c><00:01:02.100><c> the</c><00:01:02.340><c> number</c><00:01:02.520><c> of</c><00:01:02.879><c> non-zero</c><00:01:03.840><c> rows</c><00:01:04.260><c> in</c>
+
+00:01:04.850 --> 00:01:04.860 align:start position:0%
+in B is the number of non-zero rows in
+ 
+
+00:01:04.860 --> 00:01:07.789 align:start position:0%
+in B is the number of non-zero rows in
+the<00:01:05.100><c> row</c><00:01:05.400><c> Echelon</c><00:01:06.000><c> form</c><00:01:06.299><c> in</c><00:01:06.960><c> this</c><00:01:07.080><c> case</c><00:01:07.260><c> there</c>
+
+00:01:07.789 --> 00:01:07.799 align:start position:0%
+the row Echelon form in this case there
+ 
+
+00:01:07.799 --> 00:01:10.850 align:start position:0%
+the row Echelon form in this case there
+are<00:01:07.979><c> two</c><00:01:08.220><c> non-zero</c><00:01:08.939><c> rows</c><00:01:09.240><c> so</c><00:01:09.720><c> the</c><00:01:10.020><c> rank</c><00:01:10.320><c> of</c><00:01:10.560><c> B</c>
+
+00:01:10.850 --> 00:01:10.860 align:start position:0%
+are two non-zero rows so the rank of B
+ 
+
+00:01:10.860 --> 00:01:13.250 align:start position:0%
+are two non-zero rows so the rank of B
+is<00:01:11.340><c> two</c><00:01:11.580><c> some</c><00:01:12.060><c> matrices</c><00:01:12.600><c> are</c><00:01:12.840><c> simple</c><00:01:13.020><c> enough</c>
+
+00:01:13.250 --> 00:01:13.260 align:start position:0%
+is two some matrices are simple enough
+ 
+
+00:01:13.260 --> 00:01:14.870 align:start position:0%
+is two some matrices are simple enough
+that<00:01:13.500><c> we</c><00:01:13.740><c> don't</c><00:01:13.860><c> need</c><00:01:14.040><c> to</c><00:01:14.220><c> put</c><00:01:14.340><c> them</c><00:01:14.460><c> in</c><00:01:14.640><c> row</c>
+
+00:01:14.870 --> 00:01:14.880 align:start position:0%
+that we don't need to put them in row
+ 
+
+00:01:14.880 --> 00:01:17.510 align:start position:0%
+that we don't need to put them in row
+Echelon<00:01:15.360><c> form</c><00:01:15.600><c> this</c><00:01:16.320><c> Matrix</c><00:01:16.680><c> C</c><00:01:16.920><c> is</c><00:01:17.159><c> not</c><00:01:17.340><c> the</c>
+
+00:01:17.510 --> 00:01:17.520 align:start position:0%
+Echelon form this Matrix C is not the
+ 
+
+00:01:17.520 --> 00:01:19.670 align:start position:0%
+Echelon form this Matrix C is not the
+zero<00:01:17.880><c> Matrix</c><00:01:18.180><c> so</c><00:01:18.479><c> it</c><00:01:18.720><c> does</c><00:01:18.840><c> have</c><00:01:19.080><c> a</c><00:01:19.320><c> positive</c>
+
+00:01:19.670 --> 00:01:19.680 align:start position:0%
+zero Matrix so it does have a positive
+ 
+
+00:01:19.680 --> 00:01:22.789 align:start position:0%
+zero Matrix so it does have a positive
+rank<00:01:20.040><c> but</c><00:01:20.400><c> I</c><00:01:20.580><c> notice</c><00:01:20.880><c> the</c><00:01:21.299><c> two</c><00:01:21.540><c> rows</c><00:01:21.960><c> are</c><00:01:22.500><c> not</c>
+
+00:01:22.789 --> 00:01:22.799 align:start position:0%
+rank but I notice the two rows are not
+ 
+
+00:01:22.799 --> 00:01:25.670 align:start position:0%
+rank but I notice the two rows are not
+independent<00:01:23.640><c> the</c><00:01:24.240><c> second</c><00:01:24.420><c> row</c><00:01:24.900><c> is</c><00:01:25.320><c> simply</c>
+
+00:01:25.670 --> 00:01:25.680 align:start position:0%
+independent the second row is simply
+ 
+
+00:01:25.680 --> 00:01:28.550 align:start position:0%
+independent the second row is simply
+equal<00:01:26.040><c> to</c><00:01:26.520><c> negative</c><00:01:27.000><c> two</c><00:01:27.420><c> times</c><00:01:27.900><c> the</c><00:01:28.380><c> first</c>
+
+00:01:28.550 --> 00:01:28.560 align:start position:0%
+equal to negative two times the first
+ 
+
+00:01:28.560 --> 00:01:32.570 align:start position:0%
+equal to negative two times the first
+row<00:01:29.040><c> so</c><00:01:29.640><c> C</c><00:01:30.000><c> has</c><00:01:30.420><c> only</c><00:01:30.840><c> one</c><00:01:31.500><c> independent</c><00:01:32.159><c> row</c>
+
+00:01:32.570 --> 00:01:32.580 align:start position:0%
+row so C has only one independent row
+ 
+
+00:01:32.580 --> 00:01:34.910 align:start position:0%
+row so C has only one independent row
+and<00:01:33.000><c> its</c><00:01:33.360><c> rank</c><00:01:33.600><c> which</c><00:01:33.960><c> we</c><00:01:34.140><c> could</c><00:01:34.259><c> also</c><00:01:34.560><c> denote</c>
+
+00:01:34.910 --> 00:01:34.920 align:start position:0%
+and its rank which we could also denote
+ 
+
+00:01:34.920 --> 00:01:38.450 align:start position:0%
+and its rank which we could also denote
+like<00:01:35.220><c> this</c><00:01:35.460><c> is</c><00:01:36.060><c> equal</c><00:01:36.360><c> to</c><00:01:36.840><c> one</c><00:01:37.020><c> this</c><00:01:37.560><c> Matrix</c><00:01:37.979><c> D</c>
+
+00:01:38.450 --> 00:01:38.460 align:start position:0%
+like this is equal to one this Matrix D
+ 
+
+00:01:38.460 --> 00:01:41.690 align:start position:0%
+like this is equal to one this Matrix D
+has<00:01:39.000><c> fewer</c><00:01:39.600><c> columns</c><00:01:40.020><c> than</c><00:01:40.259><c> it</c><00:01:40.439><c> has</c><00:01:40.619><c> rows</c><00:01:41.159><c> so</c><00:01:41.579><c> it</c>
+
+00:01:41.690 --> 00:01:41.700 align:start position:0%
+has fewer columns than it has rows so it
+ 
+
+00:01:41.700 --> 00:01:44.270 align:start position:0%
+has fewer columns than it has rows so it
+may<00:01:41.880><c> be</c><00:01:42.000><c> simpler</c><00:01:42.479><c> to</c><00:01:42.720><c> look</c><00:01:42.840><c> at</c><00:01:43.079><c> the</c><00:01:43.259><c> columns</c><00:01:43.680><c> we</c>
+
+00:01:44.270 --> 00:01:44.280 align:start position:0%
+may be simpler to look at the columns we
+ 
+
+00:01:44.280 --> 00:01:46.490 align:start position:0%
+may be simpler to look at the columns we
+notice<00:01:44.579><c> the</c><00:01:45.000><c> first</c><00:01:45.180><c> two</c><00:01:45.420><c> columns</c><00:01:45.960><c> are</c>
+
+00:01:46.490 --> 00:01:46.500 align:start position:0%
+notice the first two columns are
+ 
+
+00:01:46.500 --> 00:01:48.950 align:start position:0%
+notice the first two columns are
+linearly<00:01:47.040><c> independent</c><00:01:47.759><c> there's</c><00:01:48.240><c> no</c><00:01:48.540><c> way</c><00:01:48.720><c> to</c>
+
+00:01:48.950 --> 00:01:48.960 align:start position:0%
+linearly independent there's no way to
+ 
+
+00:01:48.960 --> 00:01:51.590 align:start position:0%
+linearly independent there's no way to
+multiply<00:01:49.320><c> column</c><00:01:49.799><c> one</c><00:01:50.040><c> to</c><00:01:50.640><c> get</c><00:01:50.820><c> column</c><00:01:51.299><c> two</c>
+
+00:01:51.590 --> 00:01:51.600 align:start position:0%
+multiply column one to get column two
+ 
+
+00:01:51.600 --> 00:01:55.010 align:start position:0%
+multiply column one to get column two
+however<00:01:52.380><c> column</c><00:01:53.100><c> three</c><00:01:53.520><c> is</c><00:01:54.360><c> a</c><00:01:54.720><c> linear</c>
+
+00:01:55.010 --> 00:01:55.020 align:start position:0%
+however column three is a linear
+ 
+
+00:01:55.020 --> 00:01:58.069 align:start position:0%
+however column three is a linear
+combination<00:01:55.680><c> of</c><00:01:56.159><c> the</c><00:01:56.460><c> first</c><00:01:56.579><c> two</c><00:01:56.880><c> columns</c><00:01:57.420><c> in</c>
+
+00:01:58.069 --> 00:01:58.079 align:start position:0%
+combination of the first two columns in
+ 
+
+00:01:58.079 --> 00:02:00.289 align:start position:0%
+combination of the first two columns in
+fact<00:01:58.200><c> if</c><00:01:58.560><c> we</c><00:01:58.740><c> just</c><00:01:58.979><c> add</c><00:01:59.340><c> column</c><00:01:59.640><c> one</c><00:01:59.759><c> in</c><00:01:59.880><c> in</c>
+
+00:02:00.289 --> 00:02:00.299 align:start position:0%
+fact if we just add column one in in
+ 
+
+00:02:00.299 --> 00:02:03.649 align:start position:0%
+fact if we just add column one in in
+column<00:02:00.659><c> 2</c><00:02:00.960><c> that</c><00:02:01.619><c> gives</c><00:02:01.860><c> us</c><00:02:02.100><c> column</c><00:02:02.579><c> three</c><00:02:02.880><c> so</c>
+
+00:02:03.649 --> 00:02:03.659 align:start position:0%
+column 2 that gives us column three so
+ 
+
+00:02:03.659 --> 00:02:06.830 align:start position:0%
+column 2 that gives us column three so
+the<00:02:04.140><c> Matrix</c><00:02:04.500><c> D</c><00:02:04.799><c> has</c><00:02:05.219><c> only</c><00:02:05.520><c> two</c><00:02:06.180><c> linearly</c>
+
+00:02:06.830 --> 00:02:06.840 align:start position:0%
+the Matrix D has only two linearly
+ 
+
+00:02:06.840 --> 00:02:08.930 align:start position:0%
+the Matrix D has only two linearly
+independent<00:02:07.500><c> columns</c><00:02:08.039><c> and</c><00:02:08.399><c> we</c><00:02:08.640><c> would</c><00:02:08.759><c> say</c>
+
+00:02:08.930 --> 00:02:08.940 align:start position:0%
+independent columns and we would say
+ 
+
+00:02:08.940 --> 00:02:12.110 align:start position:0%
+independent columns and we would say
+that<00:02:09.239><c> the</c><00:02:09.539><c> rank</c><00:02:09.840><c> of</c><00:02:10.140><c> D</c><00:02:10.440><c> is</c><00:02:10.860><c> equal</c><00:02:11.099><c> to</c><00:02:11.400><c> two</c><00:02:11.640><c> if</c>
+
+00:02:12.110 --> 00:02:12.120 align:start position:0%
+that the rank of D is equal to two if
+ 
+
+00:02:12.120 --> 00:02:13.850 align:start position:0%
+that the rank of D is equal to two if
+all<00:02:12.239><c> else</c><00:02:12.420><c> fails</c><00:02:12.900><c> we</c><00:02:13.140><c> can</c><00:02:13.319><c> always</c><00:02:13.440><c> put</c><00:02:13.739><c> the</c>
+
+00:02:13.850 --> 00:02:13.860 align:start position:0%
+all else fails we can always put the
+ 
+
+00:02:13.860 --> 00:02:16.010 align:start position:0%
+all else fails we can always put the
+Matrix<00:02:14.220><c> into</c><00:02:14.459><c> row</c><00:02:14.760><c> Echelon</c><00:02:15.180><c> form</c><00:02:15.420><c> and</c><00:02:15.780><c> count</c>
+
+00:02:16.010 --> 00:02:16.020 align:start position:0%
+Matrix into row Echelon form and count
+ 
+
+00:02:16.020 --> 00:02:18.350 align:start position:0%
+Matrix into row Echelon form and count
+the<00:02:16.260><c> non-zero</c><00:02:16.920><c> rows</c><00:02:17.220><c> let's</c><00:02:17.700><c> do</c><00:02:17.940><c> one</c><00:02:18.180><c> more</c>
+
+00:02:18.350 --> 00:02:18.360 align:start position:0%
+the non-zero rows let's do one more
+ 
+
+00:02:18.360 --> 00:02:21.170 align:start position:0%
+the non-zero rows let's do one more
+example<00:02:18.720><c> of</c><00:02:18.900><c> that</c><00:02:19.140><c> with</c><00:02:19.560><c> this</c><00:02:19.800><c> Matrix</c><00:02:20.280><c> e</c><00:02:20.640><c> we</c>
+
+00:02:21.170 --> 00:02:21.180 align:start position:0%
+example of that with this Matrix e we
+ 
+
+00:02:21.180 --> 00:02:23.510 align:start position:0%
+example of that with this Matrix e we
+want<00:02:21.300><c> to</c><00:02:21.480><c> make</c><00:02:21.660><c> the</c><00:02:21.959><c> entries</c><00:02:22.379><c> below</c><00:02:23.160><c> each</c>
+
+00:02:23.510 --> 00:02:23.520 align:start position:0%
+want to make the entries below each
+ 
+
+00:02:23.520 --> 00:02:26.750 align:start position:0%
+want to make the entries below each
+leading<00:02:24.060><c> entry</c><00:02:24.540><c> equal</c><00:02:24.900><c> to</c><00:02:25.200><c> zero</c><00:02:25.680><c> so</c><00:02:26.280><c> below</c>
+
+00:02:26.750 --> 00:02:26.760 align:start position:0%
+leading entry equal to zero so below
+ 
+
+00:02:26.760 --> 00:02:29.750 align:start position:0%
+leading entry equal to zero so below
+this<00:02:26.940><c> two</c><00:02:27.239><c> we</c><00:02:27.720><c> want</c><00:02:27.900><c> only</c><00:02:28.200><c> zeros</c><00:02:28.860><c> to</c><00:02:29.340><c> get</c><00:02:29.520><c> that</c>
+
+00:02:29.750 --> 00:02:29.760 align:start position:0%
+this two we want only zeros to get that
+ 
+
+00:02:29.760 --> 00:02:33.710 align:start position:0%
+this two we want only zeros to get that
+we'll<00:02:30.180><c> set</c><00:02:30.480><c> row</c><00:02:30.959><c> two</c><00:02:31.200><c> equal</c><00:02:31.620><c> to</c><00:02:32.040><c> row</c><00:02:32.819><c> two</c><00:02:33.000><c> minus</c>
+
+00:02:33.710 --> 00:02:33.720 align:start position:0%
+we'll set row two equal to row two minus
+ 
+
+00:02:33.720 --> 00:02:35.990 align:start position:0%
+we'll set row two equal to row two minus
+row<00:02:34.080><c> four</c><00:02:34.260><c> so</c><00:02:34.620><c> those</c><00:02:34.860><c> ones</c><00:02:35.280><c> will</c><00:02:35.459><c> cancel</c><00:02:35.700><c> out</c>
+
+00:02:35.990 --> 00:02:36.000 align:start position:0%
+row four so those ones will cancel out
+ 
+
+00:02:36.000 --> 00:02:38.390 align:start position:0%
+row four so those ones will cancel out
+to<00:02:36.599><c> get</c><00:02:36.720><c> rid</c><00:02:36.840><c> of</c><00:02:37.020><c> this</c><00:02:37.260><c> one</c><00:02:37.379><c> we</c><00:02:37.860><c> will</c><00:02:37.980><c> subtract</c>
+
+00:02:38.390 --> 00:02:38.400 align:start position:0%
+to get rid of this one we will subtract
+ 
+
+00:02:38.400 --> 00:02:41.270 align:start position:0%
+to get rid of this one we will subtract
+row<00:02:38.940><c> two</c><00:02:39.120><c> from</c><00:02:39.660><c> row</c><00:02:40.020><c> four</c><00:02:40.200><c> to</c><00:02:40.620><c> again</c><00:02:40.860><c> cancel</c>
+
+00:02:41.270 --> 00:02:41.280 align:start position:0%
+row two from row four to again cancel
+ 
+
+00:02:41.280 --> 00:02:43.850 align:start position:0%
+row two from row four to again cancel
+out<00:02:41.640><c> the</c><00:02:41.940><c> ones</c><00:02:42.239><c> that</c><00:02:42.660><c> gets</c><00:02:42.959><c> us</c><00:02:43.080><c> here</c><00:02:43.319><c> we</c><00:02:43.739><c> have</c>
+
+00:02:43.850 --> 00:02:43.860 align:start position:0%
+out the ones that gets us here we have
+ 
+
+00:02:43.860 --> 00:02:46.490 align:start position:0%
+out the ones that gets us here we have
+zeros<00:02:44.340><c> below</c><00:02:44.700><c> the</c><00:02:44.879><c> two</c><00:02:45.060><c> like</c><00:02:45.360><c> we</c><00:02:45.540><c> want</c><00:02:45.720><c> now</c><00:02:46.319><c> we</c>
+
+00:02:46.490 --> 00:02:46.500 align:start position:0%
+zeros below the two like we want now we
+ 
+
+00:02:46.500 --> 00:02:48.650 align:start position:0%
+zeros below the two like we want now we
+want<00:02:46.620><c> to</c><00:02:46.739><c> get</c><00:02:46.860><c> zeros</c><00:02:47.400><c> below</c><00:02:47.819><c> the</c><00:02:48.000><c> next</c><00:02:48.180><c> leading</c>
+
+00:02:48.650 --> 00:02:48.660 align:start position:0%
+want to get zeros below the next leading
+ 
+
+00:02:48.660 --> 00:02:51.290 align:start position:0%
+want to get zeros below the next leading
+entry<00:02:49.019><c> of</c><00:02:49.260><c> negative</c><00:02:49.739><c> one</c><00:02:50.040><c> to</c><00:02:50.580><c> make</c><00:02:50.760><c> this</c><00:02:51.060><c> two</c>
+
+00:02:51.290 --> 00:02:51.300 align:start position:0%
+entry of negative one to make this two
+ 
+
+00:02:51.300 --> 00:02:54.830 align:start position:0%
+entry of negative one to make this two
+equal<00:02:51.599><c> to</c><00:02:51.900><c> zero</c><00:02:52.319><c> We'll</c><00:02:53.040><c> add</c><00:02:53.459><c> two</c><00:02:53.940><c> copies</c><00:02:54.420><c> of</c>
+
+00:02:54.830 --> 00:02:54.840 align:start position:0%
+equal to zero We'll add two copies of
+ 
+
+00:02:54.840 --> 00:02:57.650 align:start position:0%
+equal to zero We'll add two copies of
+row<00:02:55.200><c> two</c><00:02:55.440><c> into</c><00:02:56.099><c> this</c><00:02:56.400><c> third</c><00:02:56.700><c> row</c><00:02:57.120><c> and</c><00:02:57.480><c> that</c>
+
+00:02:57.650 --> 00:02:57.660 align:start position:0%
+row two into this third row and that
+ 
+
+00:02:57.660 --> 00:03:00.530 align:start position:0%
+row two into this third row and that
+gets<00:02:58.019><c> us</c><00:02:58.140><c> here</c><00:02:58.440><c> now</c><00:02:59.160><c> we</c><00:02:59.400><c> also</c><00:02:59.640><c> want</c><00:02:59.700><c> to</c><00:02:59.819><c> get</c><00:03:00.360><c> rid</c>
+
+00:03:00.530 --> 00:03:00.540 align:start position:0%
+gets us here now we also want to get rid
+ 
+
+00:03:00.540 --> 00:03:02.630 align:start position:0%
+gets us here now we also want to get rid
+of<00:03:00.660><c> this</c><00:03:01.019><c> one</c><00:03:01.200><c> that's</c><00:03:01.620><c> below</c><00:03:02.040><c> the</c><00:03:02.220><c> leading</c>
+
+00:03:02.630 --> 00:03:02.640 align:start position:0%
+of this one that's below the leading
+ 
+
+00:03:02.640 --> 00:03:04.850 align:start position:0%
+of this one that's below the leading
+entry<00:03:02.940><c> of</c><00:03:03.180><c> negative</c><00:03:03.540><c> one</c><00:03:03.720><c> and</c><00:03:04.200><c> in</c><00:03:04.379><c> order</c><00:03:04.500><c> to</c><00:03:04.739><c> do</c>
+
+00:03:04.850 --> 00:03:04.860 align:start position:0%
+entry of negative one and in order to do
+ 
+
+00:03:04.860 --> 00:03:07.910 align:start position:0%
+entry of negative one and in order to do
+that<00:03:05.040><c> we'll</c><00:03:05.459><c> simply</c><00:03:05.819><c> add</c><00:03:06.180><c> Row</c><00:03:06.599><c> 2</c><00:03:06.840><c> to</c><00:03:07.379><c> Row</c><00:03:07.739><c> 4</c>
+
+00:03:07.910 --> 00:03:07.920 align:start position:0%
+that we'll simply add Row 2 to Row 4
+ 
+
+00:03:07.920 --> 00:03:10.550 align:start position:0%
+that we'll simply add Row 2 to Row 4
+which<00:03:08.400><c> will</c><00:03:08.580><c> eliminate</c><00:03:09.120><c> Row</c><00:03:09.420><c> 4</c><00:03:09.599><c> completely</c><00:03:10.140><c> so</c>
+
+00:03:10.550 --> 00:03:10.560 align:start position:0%
+which will eliminate Row 4 completely so
+ 
+
+00:03:10.560 --> 00:03:13.369 align:start position:0%
+which will eliminate Row 4 completely so
+Row<00:03:10.860><c> 4</c><00:03:11.040><c> is</c><00:03:11.280><c> all</c><00:03:11.580><c> zeros</c><00:03:12.060><c> and</c><00:03:12.420><c> we</c><00:03:12.599><c> can</c><00:03:12.720><c> see</c><00:03:12.900><c> we</c><00:03:13.200><c> are</c>
+
+00:03:13.369 --> 00:03:13.379 align:start position:0%
+Row 4 is all zeros and we can see we are
+ 
+
+00:03:13.379 --> 00:03:15.890 align:start position:0%
+Row 4 is all zeros and we can see we are
+now<00:03:13.560><c> in</c><00:03:13.800><c> row</c><00:03:14.099><c> Echelon</c><00:03:14.519><c> form</c><00:03:14.819><c> and</c><00:03:15.420><c> there</c><00:03:15.720><c> are</c>
+
+00:03:15.890 --> 00:03:15.900 align:start position:0%
+now in row Echelon form and there are
+ 
+
+00:03:15.900 --> 00:03:19.729 align:start position:0%
+now in row Echelon form and there are
+three<00:03:16.440><c> non-zero</c><00:03:17.220><c> rows</c><00:03:17.580><c> thus</c><00:03:18.239><c> the</c><00:03:18.599><c> rank</c><00:03:18.959><c> of</c><00:03:19.260><c> E</c>
+
+00:03:19.729 --> 00:03:19.739 align:start position:0%
+three non-zero rows thus the rank of E
+ 
+
+00:03:19.739 --> 00:03:22.190 align:start position:0%
+three non-zero rows thus the rank of E
+equals<00:03:20.400><c> three</c><00:03:20.819><c> thanks</c><00:03:21.300><c> for</c><00:03:21.480><c> watching</c><00:03:21.780><c> let</c><00:03:22.019><c> me</c>
+
+00:03:22.190 --> 00:03:22.200 align:start position:0%
+equals three thanks for watching let me
+ 
+
+00:03:22.200 --> 00:03:25.040 align:start position:0%
+equals three thanks for watching let me
+know<00:03:22.260><c> if</c><00:03:22.440><c> you</c><00:03:22.500><c> have</c><00:03:22.620><c> any</c><00:03:22.800><c> questions</c>
+

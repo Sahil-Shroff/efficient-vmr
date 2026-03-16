@@ -1,0 +1,280 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.280 --> 00:00:02.389 align:start position:0%
+ 
+let's<00:00:00.520><c> solve</c><00:00:00.880><c> this</c><00:00:01.079><c> calculus</c><00:00:01.680><c> problem</c><00:00:02.080><c> step</c>
+
+00:00:02.389 --> 00:00:02.399 align:start position:0%
+let's solve this calculus problem step
+ 
+
+00:00:02.399 --> 00:00:05.430 align:start position:0%
+let's solve this calculus problem step
+by<00:00:02.720><c> step</c><00:00:03.520><c> we</c><00:00:03.679><c> need</c><00:00:03.879><c> to</c><00:00:04.160><c> find</c><00:00:04.680><c> the</c><00:00:04.880><c> derivative</c>
+
+00:00:05.430 --> 00:00:05.440 align:start position:0%
+by step we need to find the derivative
+ 
+
+00:00:05.440 --> 00:00:08.709 align:start position:0%
+by step we need to find the derivative
+of<00:00:05.600><c> the</c><00:00:05.879><c> square</c><00:00:06.279><c> root</c><00:00:06.879><c> of</c><00:00:07.200><c> tangent</c><00:00:07.719><c> Theta</c>
+
+00:00:08.709 --> 00:00:08.719 align:start position:0%
+of the square root of tangent Theta
+ 
+
+00:00:08.719 --> 00:00:10.790 align:start position:0%
+of the square root of tangent Theta
+first<00:00:09.120><c> let's</c><00:00:09.440><c> rewrite</c><00:00:10.000><c> this</c><00:00:10.160><c> in</c><00:00:10.280><c> a</c><00:00:10.440><c> form</c>
+
+00:00:10.790 --> 00:00:10.800 align:start position:0%
+first let's rewrite this in a form
+ 
+
+00:00:10.800 --> 00:00:13.470 align:start position:0%
+first let's rewrite this in a form
+that's<00:00:11.160><c> easier</c><00:00:11.559><c> to</c><00:00:11.759><c> work</c><00:00:12.040><c> with</c><00:00:12.759><c> the</c><00:00:13.040><c> square</c>
+
+00:00:13.470 --> 00:00:13.480 align:start position:0%
+that's easier to work with the square
+ 
+
+00:00:13.480 --> 00:00:16.349 align:start position:0%
+that's easier to work with the square
+root<00:00:14.000><c> is</c><00:00:14.440><c> equivalent</c><00:00:15.200><c> to</c><00:00:15.440><c> raising</c><00:00:16.039><c> something</c>
+
+00:00:16.349 --> 00:00:16.359 align:start position:0%
+root is equivalent to raising something
+ 
+
+00:00:16.359 --> 00:00:20.230 align:start position:0%
+root is equivalent to raising something
+to<00:00:16.520><c> the</c><00:00:16.640><c> 1/2</c><00:00:17.279><c> power</c><00:00:18.279><c> so</c><00:00:19.279><c> square</c><00:00:19.680><c> root</c><00:00:19.960><c> of</c>
+
+00:00:20.230 --> 00:00:20.240 align:start position:0%
+to the 1/2 power so square root of
+ 
+
+00:00:20.240 --> 00:00:23.269 align:start position:0%
+to the 1/2 power so square root of
+tangent<00:00:20.760><c> Theta</c><00:00:21.519><c> can</c><00:00:21.720><c> be</c><00:00:21.920><c> written</c><00:00:22.359><c> as</c><00:00:22.720><c> tangent</c>
+
+00:00:23.269 --> 00:00:23.279 align:start position:0%
+tangent Theta can be written as tangent
+ 
+
+00:00:23.279 --> 00:00:26.830 align:start position:0%
+tangent Theta can be written as tangent
+Theta<00:00:24.000><c> to</c><00:00:24.160><c> the</c><00:00:24.279><c> 1/2</c><00:00:24.920><c> power</c><00:00:25.920><c> now</c><00:00:26.160><c> we</c><00:00:26.279><c> can</c><00:00:26.519><c> use</c>
+
+00:00:26.830 --> 00:00:26.840 align:start position:0%
+Theta to the 1/2 power now we can use
+ 
+
+00:00:26.840 --> 00:00:29.749 align:start position:0%
+Theta to the 1/2 power now we can use
+the<00:00:27.080><c> power</c><00:00:27.400><c> rule</c><00:00:27.840><c> for</c><00:00:28.279><c> derivatives</c><00:00:29.279><c> the</c><00:00:29.480><c> power</c>
+
+00:00:29.749 --> 00:00:29.759 align:start position:0%
+the power rule for derivatives the power
+ 
+
+00:00:29.759 --> 00:00:31.269 align:start position:0%
+the power rule for derivatives the power
+rule<00:00:30.000><c> rule</c><00:00:30.279><c> states</c><00:00:30.759><c> that</c><00:00:30.960><c> when</c>
+
+00:00:31.269 --> 00:00:31.279 align:start position:0%
+rule rule states that when
+ 
+
+00:00:31.279 --> 00:00:34.590 align:start position:0%
+rule rule states that when
+differentiating<00:00:32.079><c> x</c><00:00:32.399><c> to</c><00:00:32.599><c> the</c><00:00:32.759><c> N</c><00:00:33.239><c> power</c><00:00:34.239><c> we</c>
+
+00:00:34.590 --> 00:00:34.600 align:start position:0%
+differentiating x to the N power we
+ 
+
+00:00:34.600 --> 00:00:37.229 align:start position:0%
+differentiating x to the N power we
+multiply<00:00:35.280><c> by</c><00:00:35.440><c> the</c><00:00:35.680><c> power</c><00:00:36.320><c> and</c><00:00:36.520><c> reduce</c><00:00:37.040><c> the</c>
+
+00:00:37.229 --> 00:00:37.239 align:start position:0%
+multiply by the power and reduce the
+ 
+
+00:00:37.239 --> 00:00:40.630 align:start position:0%
+multiply by the power and reduce the
+exponent<00:00:37.840><c> by</c><00:00:38.360><c> one</c><00:00:39.360><c> however</c><00:00:40.079><c> since</c><00:00:40.320><c> we're</c>
+
+00:00:40.630 --> 00:00:40.640 align:start position:0%
+exponent by one however since we're
+ 
+
+00:00:40.640 --> 00:00:43.110 align:start position:0%
+exponent by one however since we're
+differentiating<00:00:41.480><c> with</c><00:00:41.719><c> respect</c><00:00:42.120><c> to</c><00:00:42.399><c> Theta</c>
+
+00:00:43.110 --> 00:00:43.120 align:start position:0%
+differentiating with respect to Theta
+ 
+
+00:00:43.120 --> 00:00:46.110 align:start position:0%
+differentiating with respect to Theta
+and<00:00:43.320><c> have</c><00:00:43.480><c> a</c><00:00:43.719><c> tangent</c><00:00:44.200><c> function</c><00:00:44.760><c> inside</c><00:00:45.760><c> we'll</c>
+
+00:00:46.110 --> 00:00:46.120 align:start position:0%
+and have a tangent function inside we'll
+ 
+
+00:00:46.120 --> 00:00:48.790 align:start position:0%
+and have a tangent function inside we'll
+also<00:00:46.399><c> need</c><00:00:46.600><c> to</c><00:00:46.800><c> use</c><00:00:47.079><c> the</c><00:00:47.239><c> chain</c><00:00:47.600><c> rule</c><00:00:48.520><c> let's</c>
+
+00:00:48.790 --> 00:00:48.800 align:start position:0%
+also need to use the chain rule let's
+ 
+
+00:00:48.800 --> 00:00:51.910 align:start position:0%
+also need to use the chain rule let's
+apply<00:00:49.239><c> the</c><00:00:49.480><c> power</c><00:00:49.760><c> rule</c><00:00:50.160><c> first</c><00:00:51.000><c> we</c><00:00:51.239><c> multiply</c>
+
+00:00:51.910 --> 00:00:51.920 align:start position:0%
+apply the power rule first we multiply
+ 
+
+00:00:51.920 --> 00:00:56.069 align:start position:0%
+apply the power rule first we multiply
+by<00:00:52.280><c> 1/2</c><00:00:53.280><c> and</c><00:00:53.520><c> reduce</c><00:00:54.000><c> the</c><00:00:54.239><c> power</c><00:00:54.640><c> by</c><00:00:54.879><c> 1</c><00:00:55.840><c> this</c>
+
+00:00:56.069 --> 00:00:56.079 align:start position:0%
+by 1/2 and reduce the power by 1 this
+ 
+
+00:00:56.079 --> 00:01:00.990 align:start position:0%
+by 1/2 and reduce the power by 1 this
+gives<00:00:56.320><c> us</c><00:00:56.960><c> 12</c><00:00:57.239><c> *</c><00:00:57.760><c> Tang</c><00:00:58.280><c> thet</c><00:00:58.600><c> to</c><00:00:58.760><c> the2</c><00:01:00.039><c> power</c>
+
+00:01:00.990 --> 00:01:01.000 align:start position:0%
+gives us 12 * Tang thet to the2 power
+ 
+
+00:01:01.000 --> 00:01:03.709 align:start position:0%
+gives us 12 * Tang thet to the2 power
+now<00:01:01.280><c> for</c><00:01:01.480><c> the</c><00:01:01.600><c> chain</c><00:01:01.960><c> rule</c><00:01:02.359><c> part</c><00:01:03.160><c> we</c><00:01:03.320><c> need</c><00:01:03.519><c> to</c>
+
+00:01:03.709 --> 00:01:03.719 align:start position:0%
+now for the chain rule part we need to
+ 
+
+00:01:03.719 --> 00:01:06.270 align:start position:0%
+now for the chain rule part we need to
+multiply<00:01:04.439><c> by</c><00:01:04.600><c> the</c><00:01:04.799><c> derivative</c><00:01:05.400><c> of</c><00:01:05.519><c> the</c><00:01:05.720><c> inside</c>
+
+00:01:06.270 --> 00:01:06.280 align:start position:0%
+multiply by the derivative of the inside
+ 
+
+00:01:06.280 --> 00:01:08.870 align:start position:0%
+multiply by the derivative of the inside
+function<00:01:06.960><c> which</c><00:01:07.080><c> is</c><00:01:07.400><c> tangent</c><00:01:07.920><c> Theta</c><00:01:08.720><c> the</c>
+
+00:01:08.870 --> 00:01:08.880 align:start position:0%
+function which is tangent Theta the
+ 
+
+00:01:08.880 --> 00:01:12.630 align:start position:0%
+function which is tangent Theta the
+derivative<00:01:09.400><c> of</c><00:01:09.600><c> tangent</c><00:01:10.080><c> Theta</c><00:01:10.640><c> is</c><00:01:11.040><c> secant</c><00:01:12.040><c> s</c>
+
+00:01:12.630 --> 00:01:12.640 align:start position:0%
+derivative of tangent Theta is secant s
+ 
+
+00:01:12.640 --> 00:01:16.910 align:start position:0%
+derivative of tangent Theta is secant s
+thet<00:01:13.479><c> putting</c><00:01:13.720><c> it</c><00:01:13.880><c> all</c><00:01:14.200><c> together</c><00:01:14.960><c> we</c><00:01:15.119><c> get</c><00:01:15.720><c> 12</c><00:01:16.080><c> *</c>
+
+00:01:16.910 --> 00:01:16.920 align:start position:0%
+thet putting it all together we get 12 *
+ 
+
+00:01:16.920 --> 00:01:22.590 align:start position:0%
+thet putting it all together we get 12 *
+Tang<00:01:17.439><c> thet</c><00:01:17.759><c> to</c><00:01:18.400><c> -2</c><00:01:19.280><c> power</c><00:01:19.920><c> *</c><00:01:20.479><c> SEC</c><00:01:21.040><c> 2</c><00:01:21.560><c> thet</c><00:01:22.439><c> this</c>
+
+00:01:22.590 --> 00:01:22.600 align:start position:0%
+Tang thet to -2 power * SEC 2 thet this
+ 
+
+00:01:22.600 --> 00:01:26.149 align:start position:0%
+Tang thet to -2 power * SEC 2 thet this
+can<00:01:22.720><c> be</c><00:01:22.960><c> Rewritten</c><00:01:23.680><c> as</c><00:01:24.000><c> 1</c><00:01:24.240><c> /</c><00:01:24.560><c> 2</c><00:01:25.360><c> &lt;</c><00:01:25.479><c> TK</c><00:01:25.840><c> of</c>
+
+00:01:26.149 --> 00:01:26.159 align:start position:0%
+can be Rewritten as 1 / 2 &lt; TK of
+ 
+
+00:01:26.159 --> 00:01:29.710 align:start position:0%
+can be Rewritten as 1 / 2 &lt; TK of
+tangent<00:01:26.640><c> thet</c><00:01:27.000><c> *</c><00:01:27.759><c> secant</c><00:01:28.320><c> 2</c><00:01:28.759><c> thet</c><00:01:29.479><c> which</c><00:01:29.600><c> is</c>
+
+00:01:29.710 --> 00:01:29.720 align:start position:0%
+tangent thet * secant 2 thet which is
+ 
+
+00:01:29.720 --> 00:01:33.389 align:start position:0%
+tangent thet * secant 2 thet which is
+our<00:01:29.920><c> our</c><00:01:30.119><c> final</c><00:01:30.520><c> answer</c><00:01:31.400><c> to</c><00:01:31.720><c> review</c><00:01:32.720><c> we</c><00:01:32.920><c> solve</c>
+
+00:01:33.389 --> 00:01:33.399 align:start position:0%
+our our final answer to review we solve
+ 
+
+00:01:33.399 --> 00:01:36.190 align:start position:0%
+our our final answer to review we solve
+this<00:01:33.759><c> by</c><00:01:34.079><c> first</c><00:01:34.479><c> rewriting</c><00:01:35.159><c> the</c><00:01:35.439><c> square</c><00:01:35.840><c> root</c>
+
+00:01:36.190 --> 00:01:36.200 align:start position:0%
+this by first rewriting the square root
+ 
+
+00:01:36.200 --> 00:01:39.230 align:start position:0%
+this by first rewriting the square root
+as<00:01:36.320><c> a</c><00:01:36.640><c> power</c><00:01:37.640><c> then</c><00:01:37.920><c> using</c><00:01:38.240><c> the</c><00:01:38.399><c> power</c><00:01:38.680><c> rule</c><00:01:39.079><c> and</c>
+
+00:01:39.230 --> 00:01:39.240 align:start position:0%
+as a power then using the power rule and
+ 
+
+00:01:39.240 --> 00:01:41.910 align:start position:0%
+as a power then using the power rule and
+chain<00:01:39.560><c> rule</c><00:01:40.000><c> together</c><00:01:40.840><c> the</c><00:01:41.040><c> key</c><00:01:41.320><c> steps</c><00:01:41.640><c> were</c>
+
+00:01:41.910 --> 00:01:41.920 align:start position:0%
+chain rule together the key steps were
+ 
+
+00:01:41.920 --> 00:01:45.149 align:start position:0%
+chain rule together the key steps were
+reducing<00:01:42.399><c> the</c><00:01:42.640><c> power</c><00:01:43.079><c> by</c><00:01:43.280><c> one</c><00:01:44.240><c> multiplying</c><00:01:45.000><c> by</c>
+
+00:01:45.149 --> 00:01:45.159 align:start position:0%
+reducing the power by one multiplying by
+ 
+
+00:01:45.159 --> 00:01:48.069 align:start position:0%
+reducing the power by one multiplying by
+the<00:01:45.439><c> power</c><00:01:46.439><c> and</c><00:01:46.719><c> including</c><00:01:47.200><c> the</c><00:01:47.439><c> derivative</c>
+
+00:01:48.069 --> 00:01:48.079 align:start position:0%
+the power and including the derivative
+ 
+
+00:01:48.079 --> 00:01:51.920 align:start position:0%
+the power and including the derivative
+of<00:01:48.240><c> the</c><00:01:48.399><c> inside</c><00:01:48.920><c> function</c>
+

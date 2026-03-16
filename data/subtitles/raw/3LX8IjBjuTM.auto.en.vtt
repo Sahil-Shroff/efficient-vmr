@@ -1,0 +1,240 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.240 --> 00:00:02.389 align:start position:0%
+ 
+let's<00:00:00.520><c> solve</c><00:00:00.799><c> this</c><00:00:01.040><c> calculus</c><00:00:01.640><c> problem</c><00:00:02.080><c> step</c>
+
+00:00:02.389 --> 00:00:02.399 align:start position:0%
+let's solve this calculus problem step
+ 
+
+00:00:02.399 --> 00:00:05.150 align:start position:0%
+let's solve this calculus problem step
+by<00:00:02.679><c> step</c><00:00:03.480><c> we</c><00:00:03.600><c> need</c><00:00:03.800><c> to</c><00:00:04.000><c> find</c><00:00:04.319><c> the</c><00:00:04.520><c> derivative</c>
+
+00:00:05.150 --> 00:00:05.160 align:start position:0%
+by step we need to find the derivative
+ 
+
+00:00:05.160 --> 00:00:08.990 align:start position:0%
+by step we need to find the derivative
+of<00:00:05.400><c> tan</c><00:00:05.879><c> x</c><00:00:06.240><c> *</c><00:00:06.759><c> sin</c><00:00:07.240><c> inverse</c><00:00:07.759><c> X</c><00:00:08.480><c> using</c><00:00:08.800><c> the</c>
+
+00:00:08.990 --> 00:00:09.000 align:start position:0%
+of tan x * sin inverse X using the
+ 
+
+00:00:09.000 --> 00:00:11.709 align:start position:0%
+of tan x * sin inverse X using the
+product<00:00:09.360><c> rule</c><00:00:10.200><c> the</c><00:00:10.440><c> product</c><00:00:10.920><c> rule</c><00:00:11.280><c> states</c>
+
+00:00:11.709 --> 00:00:11.719 align:start position:0%
+product rule the product rule states
+ 
+
+00:00:11.719 --> 00:00:13.990 align:start position:0%
+product rule the product rule states
+that<00:00:11.920><c> the</c><00:00:12.080><c> derivative</c><00:00:12.599><c> of</c><00:00:12.719><c> a</c><00:00:12.920><c> product</c><00:00:13.280><c> of</c><00:00:13.639><c> two</c>
+
+00:00:13.990 --> 00:00:14.000 align:start position:0%
+that the derivative of a product of two
+ 
+
+00:00:14.000 --> 00:00:16.390 align:start position:0%
+that the derivative of a product of two
+functions<00:00:14.559><c> equals</c><00:00:15.000><c> the</c><00:00:15.200><c> first</c><00:00:15.559><c> function</c><00:00:16.080><c> time</c>
+
+00:00:16.390 --> 00:00:16.400 align:start position:0%
+functions equals the first function time
+ 
+
+00:00:16.400 --> 00:00:18.790 align:start position:0%
+functions equals the first function time
+the<00:00:16.560><c> derivative</c><00:00:17.039><c> of</c><00:00:17.199><c> the</c><00:00:17.359><c> second</c><00:00:18.359><c> plus</c><00:00:18.640><c> the</c>
+
+00:00:18.790 --> 00:00:18.800 align:start position:0%
+the derivative of the second plus the
+ 
+
+00:00:18.800 --> 00:00:21.150 align:start position:0%
+the derivative of the second plus the
+second<00:00:19.199><c> function</c><00:00:19.880><c> time</c><00:00:20.279><c> the</c><00:00:20.439><c> derivative</c><00:00:21.000><c> of</c>
+
+00:00:21.150 --> 00:00:21.160 align:start position:0%
+second function time the derivative of
+ 
+
+00:00:21.160 --> 00:00:23.950 align:start position:0%
+second function time the derivative of
+the<00:00:21.359><c> first</c><00:00:22.279><c> let's</c><00:00:22.519><c> write</c><00:00:22.840><c> this</c><00:00:23.119><c> out</c>
+
+00:00:23.950 --> 00:00:23.960 align:start position:0%
+the first let's write this out
+ 
+
+00:00:23.960 --> 00:00:27.870 align:start position:0%
+the first let's write this out
+mathematically<00:00:24.960><c> in</c><00:00:25.119><c> our</c><00:00:25.400><c> case</c><00:00:25.680><c> U</c><00:00:26.000><c> =</c><00:00:26.400><c> Tan</c><00:00:26.760><c> x</c><00:00:27.640><c> and</c>
+
+00:00:27.870 --> 00:00:27.880 align:start position:0%
+mathematically in our case U = Tan x and
+ 
+
+00:00:27.880 --> 00:00:31.390 align:start position:0%
+mathematically in our case U = Tan x and
+V<00:00:28.400><c> =</c><00:00:28.840><c> sin</c><00:00:29.119><c> inverse</c><00:00:29.560><c> X</c><00:00:30.439><c> let's</c><00:00:30.759><c> apply</c><00:00:31.160><c> the</c>
+
+00:00:31.390 --> 00:00:31.400 align:start position:0%
+V = sin inverse X let's apply the
+ 
+
+00:00:31.400 --> 00:00:34.069 align:start position:0%
+V = sin inverse X let's apply the
+product<00:00:31.759><c> rule</c><00:00:32.000><c> to</c><00:00:32.200><c> these</c><00:00:32.680><c> functions</c><00:00:33.680><c> now</c><00:00:33.920><c> we</c>
+
+00:00:34.069 --> 00:00:34.079 align:start position:0%
+product rule to these functions now we
+ 
+
+00:00:34.079 --> 00:00:35.910 align:start position:0%
+product rule to these functions now we
+need<00:00:34.239><c> to</c><00:00:34.440><c> find</c><00:00:34.680><c> the</c><00:00:34.879><c> derivatives</c><00:00:35.399><c> of</c><00:00:35.640><c> sin</c>
+
+00:00:35.910 --> 00:00:35.920 align:start position:0%
+need to find the derivatives of sin
+ 
+
+00:00:35.920 --> 00:00:39.630 align:start position:0%
+need to find the derivatives of sin
+inverse<00:00:36.440><c> X</c><00:00:37.360><c> and</c><00:00:37.640><c> tanx</c><00:00:38.480><c> separately</c><00:00:39.480><c> the</c>
+
+00:00:39.630 --> 00:00:39.640 align:start position:0%
+inverse X and tanx separately the
+ 
+
+00:00:39.640 --> 00:00:42.470 align:start position:0%
+inverse X and tanx separately the
+derivative<00:00:40.120><c> of</c><00:00:40.320><c> sin</c><00:00:40.559><c> inverse</c><00:00:41.079><c> X</c><00:00:41.399><c> is</c><00:00:41.680><c> 1</c><00:00:42.200><c> over</c>
+
+00:00:42.470 --> 00:00:42.480 align:start position:0%
+derivative of sin inverse X is 1 over
+ 
+
+00:00:42.480 --> 00:00:46.510 align:start position:0%
+derivative of sin inverse X is 1 over
+the<00:00:43.120><c> &lt;</c><00:00:43.239><c> TK</c><00:00:43.520><c> of</c><00:00:43.760><c> 1</c><00:00:44.039><c> -</c><00:00:44.680><c> x^2</c><00:00:45.680><c> and</c><00:00:45.840><c> the</c><00:00:46.039><c> derivative</c>
+
+00:00:46.510 --> 00:00:46.520 align:start position:0%
+the &lt; TK of 1 - x^2 and the derivative
+ 
+
+00:00:46.520 --> 00:00:50.990 align:start position:0%
+the &lt; TK of 1 - x^2 and the derivative
+of<00:00:46.760><c> tan</c><00:00:47.079><c> X</c><00:00:47.800><c> is</c><00:00:48.079><c> secant</c><00:00:48.640><c> 2</c><00:00:49.120><c> x</c><00:00:50.039><c> let's</c><00:00:50.320><c> substitute</c>
+
+00:00:50.990 --> 00:00:51.000 align:start position:0%
+of tan X is secant 2 x let's substitute
+ 
+
+00:00:51.000 --> 00:00:53.670 align:start position:0%
+of tan X is secant 2 x let's substitute
+these<00:00:51.280><c> derivatives</c><00:00:51.920><c> back</c><00:00:52.120><c> into</c><00:00:52.399><c> our</c><00:00:52.680><c> equation</c>
+
+00:00:53.670 --> 00:00:53.680 align:start position:0%
+these derivatives back into our equation
+ 
+
+00:00:53.680 --> 00:01:00.029 align:start position:0%
+these derivatives back into our equation
+we<00:00:53.960><c> get</c><00:00:54.160><c> tan</c><00:00:54.520><c> x</c><00:00:54.840><c> *</c><00:00:55.440><c> 1</c><00:00:56.399><c> &lt;</c><00:00:56.520><c> TK</c><00:00:57.199><c> 1</c><00:00:57.520><c> -</c><00:00:58.320><c> x^2</c><00:00:59.320><c> plus</c><00:00:59.600><c> s</c>
+
+00:01:00.029 --> 00:01:00.039 align:start position:0%
+we get tan x * 1 &lt; TK 1 - x^2 plus s
+ 
+
+00:01:00.039 --> 00:01:03.910 align:start position:0%
+we get tan x * 1 &lt; TK 1 - x^2 plus s
+inverse<00:01:00.519><c> x</c><00:01:00.840><c> *</c><00:01:01.320><c> SEC</c><00:01:01.840><c> 2</c><00:01:02.239><c> x</c><00:01:03.120><c> and</c><00:01:03.359><c> this</c><00:01:03.519><c> gives</c><00:01:03.760><c> us</c>
+
+00:01:03.910 --> 00:01:03.920 align:start position:0%
+inverse x * SEC 2 x and this gives us
+ 
+
+00:01:03.920 --> 00:01:07.350 align:start position:0%
+inverse x * SEC 2 x and this gives us
+our<00:01:04.239><c> final</c><00:01:04.680><c> answer</c><00:01:05.600><c> the</c><00:01:05.760><c> derivative</c><00:01:06.320><c> of</c><00:01:06.640><c> tan</c><00:01:07.000><c> x</c>
+
+00:01:07.350 --> 00:01:07.360 align:start position:0%
+our final answer the derivative of tan x
+ 
+
+00:01:07.360 --> 00:01:12.990 align:start position:0%
+our final answer the derivative of tan x
+*<00:01:07.759><c> sin</c><00:01:08.159><c> inverse</c><00:01:08.680><c> X</c><00:01:09.000><c> =</c><00:01:09.560><c> Tan</c><00:01:09.920><c> x</c><00:01:10.240><c> over</c><00:01:11.000><c> &lt;</c><00:01:11.119><c> TK</c><00:01:11.640><c> of</c><00:01:11.920><c> 1</c><00:01:12.240><c> -</c>
+
+00:01:12.990 --> 00:01:13.000 align:start position:0%
+* sin inverse X = Tan x over &lt; TK of 1 -
+ 
+
+00:01:13.000 --> 00:01:18.670 align:start position:0%
+* sin inverse X = Tan x over &lt; TK of 1 -
+x^2<00:01:14.000><c> +</c><00:01:14.320><c> sin</c><00:01:14.640><c> inverse</c><00:01:15.159><c> x</c><00:01:15.520><c> *</c><00:01:16.159><c> secant</c><00:01:17.080><c> 2</c><00:01:17.520><c> x</c><00:01:18.439><c> let's</c>
+
+00:01:18.670 --> 00:01:18.680 align:start position:0%
+x^2 + sin inverse x * secant 2 x let's
+ 
+
+00:01:18.680 --> 00:01:20.990 align:start position:0%
+x^2 + sin inverse x * secant 2 x let's
+summarize<00:01:19.240><c> what</c><00:01:19.400><c> we</c><00:01:19.600><c> did</c><00:01:20.320><c> we</c><00:01:20.479><c> used</c><00:01:20.799><c> the</c>
+
+00:01:20.990 --> 00:01:21.000 align:start position:0%
+summarize what we did we used the
+ 
+
+00:01:21.000 --> 00:01:23.789 align:start position:0%
+summarize what we did we used the
+product<00:01:21.400><c> rule</c><00:01:22.360><c> to</c><00:01:22.680><c> split</c><00:01:23.079><c> the</c><00:01:23.280><c> derivative</c>
+
+00:01:23.789 --> 00:01:23.799 align:start position:0%
+product rule to split the derivative
+ 
+
+00:01:23.799 --> 00:01:26.710 align:start position:0%
+product rule to split the derivative
+into<00:01:24.200><c> two</c><00:01:24.759><c> terms</c><00:01:25.759><c> then</c><00:01:26.040><c> we</c><00:01:26.200><c> found</c><00:01:26.520><c> the</c>
+
+00:01:26.710 --> 00:01:26.720 align:start position:0%
+into two terms then we found the
+ 
+
+00:01:26.720 --> 00:01:30.030 align:start position:0%
+into two terms then we found the
+derivatives<00:01:27.240><c> of</c><00:01:27.479><c> sin</c><00:01:27.720><c> inverse</c><00:01:28.240><c> X</c><00:01:28.799><c> and</c><00:01:29.040><c> Tan</c><00:01:29.400><c> x</c>
+
+00:01:30.030 --> 00:01:30.040 align:start position:0%
+derivatives of sin inverse X and Tan x
+ 
+
+00:01:30.040 --> 00:01:32.469 align:start position:0%
+derivatives of sin inverse X and Tan x
+separately<00:01:31.040><c> and</c><00:01:31.320><c> substituted</c><00:01:32.000><c> them</c><00:01:32.280><c> back</c>
+
+00:01:32.469 --> 00:01:32.479 align:start position:0%
+separately and substituted them back
+ 
+
+00:01:32.479 --> 00:01:34.429 align:start position:0%
+separately and substituted them back
+into<00:01:32.759><c> our</c><00:01:33.000><c> equation</c><00:01:33.439><c> to</c><00:01:33.640><c> get</c><00:01:33.759><c> our</c><00:01:34.040><c> final</c>
+
+00:01:34.429 --> 00:01:34.439 align:start position:0%
+into our equation to get our final
+ 
+
+00:01:34.439 --> 00:01:37.439 align:start position:0%
+into our equation to get our final
+answer
+

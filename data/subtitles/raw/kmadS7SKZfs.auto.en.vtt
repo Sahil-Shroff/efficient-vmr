@@ -1,0 +1,256 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.320 --> 00:00:02.510 align:start position:0%
+ 
+let's<00:00:00.560><c> solve</c><00:00:00.919><c> this</c><00:00:01.160><c> calculus</c><00:00:01.760><c> problem</c><00:00:02.120><c> step</c>
+
+00:00:02.510 --> 00:00:02.520 align:start position:0%
+let's solve this calculus problem step
+ 
+
+00:00:02.520 --> 00:00:05.349 align:start position:0%
+let's solve this calculus problem step
+by<00:00:02.960><c> step</c><00:00:03.320><c> using</c><00:00:03.600><c> the</c><00:00:03.760><c> quotient</c><00:00:04.160><c> rule</c><00:00:05.000><c> we</c><00:00:05.160><c> need</c>
+
+00:00:05.349 --> 00:00:05.359 align:start position:0%
+by step using the quotient rule we need
+ 
+
+00:00:05.359 --> 00:00:10.390 align:start position:0%
+by step using the quotient rule we need
+to<00:00:05.600><c> find</c><00:00:05.879><c> the</c><00:00:06.080><c> derivative</c><00:00:06.720><c> of</c><00:00:06.960><c> 1</c><00:00:07.319><c> +</c><00:00:07.680><c> sinx</c><00:00:08.519><c> /</c><00:00:09.320><c> 1</c><00:00:09.639><c> -</c>
+
+00:00:10.390 --> 00:00:10.400 align:start position:0%
+to find the derivative of 1 + sinx / 1 -
+ 
+
+00:00:10.400 --> 00:00:13.070 align:start position:0%
+to find the derivative of 1 + sinx / 1 -
+sinx<00:00:11.400><c> first</c><00:00:11.759><c> let's</c><00:00:12.040><c> recall</c><00:00:12.440><c> the</c><00:00:12.639><c> quotient</c>
+
+00:00:13.070 --> 00:00:13.080 align:start position:0%
+sinx first let's recall the quotient
+ 
+
+00:00:13.080 --> 00:00:16.790 align:start position:0%
+sinx first let's recall the quotient
+rule<00:00:13.480><c> formula</c><00:00:14.440><c> for</c><00:00:14.639><c> a</c><00:00:14.839><c> fraction</c><00:00:15.240><c> U</c><00:00:15.480><c> over</c><00:00:15.719><c> V</c><00:00:16.640><c> the</c>
+
+00:00:16.790 --> 00:00:16.800 align:start position:0%
+rule formula for a fraction U over V the
+ 
+
+00:00:16.800 --> 00:00:18.790 align:start position:0%
+rule formula for a fraction U over V the
+derivative<00:00:17.320><c> is</c><00:00:17.480><c> V</c><00:00:17.760><c> *</c>
+
+00:00:18.790 --> 00:00:18.800 align:start position:0%
+derivative is V *
+ 
+
+00:00:18.800 --> 00:00:21.590 align:start position:0%
+derivative is V *
+DX<00:00:19.800><c> minus</c><00:00:20.400><c> U</c><00:00:20.600><c> *</c>
+
+00:00:21.590 --> 00:00:21.600 align:start position:0%
+DX minus U *
+ 
+
+00:00:21.600 --> 00:00:26.349 align:start position:0%
+DX minus U *
+dvdx<00:00:22.600><c> all</c><00:00:22.920><c> over</c><00:00:23.160><c> V</c><00:00:23.439><c> ^2</c><00:00:24.439><c> let's</c><00:00:24.760><c> identify</c><00:00:25.359><c> our</c><00:00:25.680><c> u</c>
+
+00:00:26.349 --> 00:00:26.359 align:start position:0%
+dvdx all over V ^2 let's identify our u
+ 
+
+00:00:26.359 --> 00:00:32.069 align:start position:0%
+dvdx all over V ^2 let's identify our u
+and<00:00:26.599><c> v</c><00:00:27.240><c> functions</c><00:00:28.240><c> here</c><00:00:28.720><c> u</c><00:00:28.960><c> =</c><00:00:29.400><c> 1</c><00:00:29.640><c> +</c><00:00:30.080><c> sinx</c><00:00:31.080><c> and</c><00:00:31.720><c> V</c>
+
+00:00:32.069 --> 00:00:32.079 align:start position:0%
+and v functions here u = 1 + sinx and V
+ 
+
+00:00:32.079 --> 00:00:35.630 align:start position:0%
+and v functions here u = 1 + sinx and V
+=<00:00:32.559><c> 1</c><00:00:32.880><c> -</c><00:00:33.600><c> sinx</c><00:00:34.600><c> now</c><00:00:34.879><c> let's</c><00:00:35.200><c> find</c><00:00:35.480><c> the</c>
+
+00:00:35.630 --> 00:00:35.640 align:start position:0%
+= 1 - sinx now let's find the
+ 
+
+00:00:35.640 --> 00:00:38.549 align:start position:0%
+= 1 - sinx now let's find the
+derivatives<00:00:36.160><c> of</c><00:00:36.360><c> u</c><00:00:36.719><c> and</c><00:00:36.960><c> v</c><00:00:37.760><c> the</c><00:00:37.960><c> derivative</c><00:00:38.399><c> of</c>
+
+00:00:38.549 --> 00:00:38.559 align:start position:0%
+derivatives of u and v the derivative of
+ 
+
+00:00:38.559 --> 00:00:42.470 align:start position:0%
+derivatives of u and v the derivative of
+U<00:00:38.840><c> is</c><00:00:39.120><c> cine</c><00:00:39.559><c> X</c><00:00:40.280><c> and</c><00:00:40.480><c> the</c><00:00:40.600><c> derivative</c><00:00:41.079><c> of</c><00:00:41.239><c> V</c><00:00:41.719><c> is</c>
+
+00:00:42.470 --> 00:00:42.480 align:start position:0%
+U is cine X and the derivative of V is
+ 
+
+00:00:42.480 --> 00:00:45.950 align:start position:0%
+U is cine X and the derivative of V is
+cosine<00:00:42.920><c> X</c><00:00:43.879><c> let's</c><00:00:44.239><c> substitute</c><00:00:45.120><c> these</c><00:00:45.440><c> into</c><00:00:45.680><c> the</c>
+
+00:00:45.950 --> 00:00:45.960 align:start position:0%
+cosine X let's substitute these into the
+ 
+
+00:00:45.960 --> 00:00:50.229 align:start position:0%
+cosine X let's substitute these into the
+quotient<00:00:46.360><c> rule</c><00:00:46.840><c> formula</c><00:00:47.840><c> we</c><00:00:48.039><c> get</c><00:00:48.360><c> 1</c><00:00:48.680><c> -</c><00:00:49.120><c> sin</c><00:00:49.440><c> x</c><00:00:49.719><c> *</c>
+
+00:00:50.229 --> 00:00:50.239 align:start position:0%
+quotient rule formula we get 1 - sin x *
+ 
+
+00:00:50.239 --> 00:00:56.470 align:start position:0%
+quotient rule formula we get 1 - sin x *
+cosine<00:00:50.680><c> X</c><00:00:51.680><c> -</c><00:00:52.079><c> 1</c><00:00:52.359><c> +</c><00:00:52.719><c> sin</c><00:00:53.039><c> x</c><00:00:53.440><c> *</c><00:00:54.440><c> cosin</c><00:00:54.840><c> X</c><00:00:55.800><c> all</c><00:00:56.039><c> over</c>
+
+00:00:56.470 --> 00:00:56.480 align:start position:0%
+cosine X - 1 + sin x * cosin X all over
+ 
+
+00:00:56.480 --> 00:01:00.869 align:start position:0%
+cosine X - 1 + sin x * cosin X all over
+1<00:00:56.760><c> -</c><00:00:57.160><c> sin</c><00:00:57.760><c> x^2</c><00:00:58.760><c> now</c><00:00:59.640><c> let's</c><00:01:00.120><c> expand</c><00:01:00.559><c> the</c>
+
+00:01:00.869 --> 00:01:00.879 align:start position:0%
+1 - sin x^2 now let's expand the
+ 
+
+00:01:00.879 --> 00:01:04.109 align:start position:0%
+1 - sin x^2 now let's expand the
+numerator<00:01:01.879><c> from</c><00:01:02.039><c> the</c><00:01:02.239><c> first</c><00:01:02.600><c> term</c><00:01:03.559><c> we</c><00:01:03.719><c> get</c>
+
+00:01:04.109 --> 00:01:04.119 align:start position:0%
+numerator from the first term we get
+ 
+
+00:01:04.119 --> 00:01:08.429 align:start position:0%
+numerator from the first term we get
+cine<00:01:04.640><c> x</c><00:01:05.119><c> -</c><00:01:05.600><c> sin</c><00:01:06.000><c> x</c><00:01:06.360><c> cosine</c><00:01:06.799><c> X</c><00:01:07.640><c> from</c><00:01:07.799><c> the</c><00:01:08.119><c> second</c>
+
+00:01:08.429 --> 00:01:08.439 align:start position:0%
+cine x - sin x cosine X from the second
+ 
+
+00:01:08.439 --> 00:01:12.149 align:start position:0%
+cine x - sin x cosine X from the second
+term<00:01:09.320><c> we</c><00:01:09.479><c> get</c><00:01:09.759><c> plus</c><00:01:10.119><c> cosine</c><00:01:10.520><c> X</c><00:01:10.920><c> Plus</c><00:01:11.240><c> sin</c><00:01:11.720><c> x</c>
+
+00:01:12.149 --> 00:01:12.159 align:start position:0%
+term we get plus cosine X Plus sin x
+ 
+
+00:01:12.159 --> 00:01:15.950 align:start position:0%
+term we get plus cosine X Plus sin x
+cine<00:01:12.640><c> X</c><00:01:13.560><c> let's</c><00:01:13.880><c> simplify</c><00:01:14.400><c> the</c><00:01:14.680><c> numerator</c><00:01:15.680><c> the</c>
+
+00:01:15.950 --> 00:01:15.960 align:start position:0%
+cine X let's simplify the numerator the
+ 
+
+00:01:15.960 --> 00:01:19.230 align:start position:0%
+cine X let's simplify the numerator the
+sin<00:01:16.200><c> x</c><00:01:16.600><c> cine</c><00:01:17.000><c> X</c><00:01:17.280><c> terms</c><00:01:17.720><c> cancel</c><00:01:18.119><c> out</c><00:01:18.840><c> and</c><00:01:19.000><c> we're</c>
+
+00:01:19.230 --> 00:01:19.240 align:start position:0%
+sin x cine X terms cancel out and we're
+ 
+
+00:01:19.240 --> 00:01:22.710 align:start position:0%
+sin x cine X terms cancel out and we're
+left<00:01:19.520><c> with</c><00:01:19.799><c> cine</c><00:01:20.360><c> X+</c><00:01:21.240><c> cosine</c><00:01:21.640><c> X</c><00:01:22.000><c> which</c><00:01:22.119><c> is</c><00:01:22.280><c> 2</c>
+
+00:01:22.710 --> 00:01:22.720 align:start position:0%
+left with cine X+ cosine X which is 2
+ 
+
+00:01:22.720 --> 00:01:25.789 align:start position:0%
+left with cine X+ cosine X which is 2
+cosine<00:01:23.159><c> X</c><00:01:24.119><c> and</c><00:01:24.320><c> there</c><00:01:24.479><c> we</c><00:01:24.720><c> have</c><00:01:24.920><c> our</c><00:01:25.320><c> final</c>
+
+00:01:25.789 --> 00:01:25.799 align:start position:0%
+cosine X and there we have our final
+ 
+
+00:01:25.799 --> 00:01:29.590 align:start position:0%
+cosine X and there we have our final
+answer<00:01:26.720><c> the</c><00:01:26.920><c> derivative</c><00:01:27.600><c> of</c><00:01:27.920><c> 1</c><00:01:28.280><c> +</c><00:01:28.640><c> sin</c><00:01:28.960><c> x</c><00:01:29.280><c> over</c>
+
+00:01:29.590 --> 00:01:29.600 align:start position:0%
+answer the derivative of 1 + sin x over
+ 
+
+00:01:29.600 --> 00:01:36.149 align:start position:0%
+answer the derivative of 1 + sin x over
+1<00:01:29.920><c> 1</c><00:01:30.119><c> -</c><00:01:30.560><c> sin</c><00:01:30.920><c> x</c><00:01:31.320><c> =</c><00:01:31.799><c> 2</c><00:01:32.240><c> cosin</c><00:01:32.720><c> x</c><00:01:33.200><c> /</c><00:01:33.640><c> 1</c><00:01:33.960><c> -</c><00:01:34.439><c> sin</c><00:01:35.159><c> x^2</c>
+
+00:01:36.149 --> 00:01:36.159 align:start position:0%
+1 1 - sin x = 2 cosin x / 1 - sin x^2
+ 
+
+00:01:36.159 --> 00:01:38.910 align:start position:0%
+1 1 - sin x = 2 cosin x / 1 - sin x^2
+this<00:01:36.640><c> problem</c><00:01:37.079><c> demonstrates</c><00:01:38.040><c> how</c><00:01:38.280><c> to</c><00:01:38.479><c> use</c><00:01:38.759><c> the</c>
+
+00:01:38.910 --> 00:01:38.920 align:start position:0%
+this problem demonstrates how to use the
+ 
+
+00:01:38.920 --> 00:01:41.429 align:start position:0%
+this problem demonstrates how to use the
+quotient<00:01:39.360><c> rule</c><00:01:40.079><c> to</c><00:01:40.280><c> find</c><00:01:40.560><c> the</c><00:01:40.759><c> derivative</c><00:01:41.320><c> of</c>
+
+00:01:41.429 --> 00:01:41.439 align:start position:0%
+quotient rule to find the derivative of
+ 
+
+00:01:41.439 --> 00:01:43.630 align:start position:0%
+quotient rule to find the derivative of
+a<00:01:41.759><c> complex</c><00:01:42.439><c> fraction</c><00:01:43.040><c> involving</c>
+
+00:01:43.630 --> 00:01:43.640 align:start position:0%
+a complex fraction involving
+ 
+
+00:01:43.640 --> 00:01:46.350 align:start position:0%
+a complex fraction involving
+trigonometric<00:01:44.520><c> functions</c><00:01:45.520><c> remember</c><00:01:46.079><c> to</c>
+
+00:01:46.350 --> 00:01:46.360 align:start position:0%
+trigonometric functions remember to
+ 
+
+00:01:46.360 --> 00:01:49.310 align:start position:0%
+trigonometric functions remember to
+carefully<00:01:47.040><c> identify</c><00:01:47.680><c> your</c><00:01:47.920><c> u</c><00:01:48.479><c> and</c><00:01:48.920><c> v</c>
+
+00:01:49.310 --> 00:01:49.320 align:start position:0%
+carefully identify your u and v
+ 
+
+00:01:49.320 --> 00:01:51.709 align:start position:0%
+carefully identify your u and v
+functions<00:01:49.880><c> find</c><00:01:50.119><c> their</c><00:01:50.560><c> derivatives</c><00:01:51.560><c> and</c>
+
+00:01:51.709 --> 00:01:51.719 align:start position:0%
+functions find their derivatives and
+ 
+
+00:01:51.719 --> 00:01:56.880 align:start position:0%
+functions find their derivatives and
+then<00:01:52.000><c> apply</c><00:01:52.799><c> the</c><00:01:53.000><c> quotient</c><00:01:53.439><c> rule</c><00:01:53.880><c> formula</c>
+

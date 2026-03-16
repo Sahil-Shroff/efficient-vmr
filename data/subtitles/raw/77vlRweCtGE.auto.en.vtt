@@ -1,0 +1,240 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.040 --> 00:00:01.630 align:start position:0%
+ 
+draw<00:00:00.280><c> the</c><00:00:00.399><c> circle</c><00:00:00.680><c> of</c><00:00:00.840><c> radius</c><00:00:01.160><c> 1</c><00:00:01.360><c> at</c><00:00:01.520><c> the</c>
+
+00:00:01.630 --> 00:00:01.640 align:start position:0%
+draw the circle of radius 1 at the
+ 
+
+00:00:01.640 --> 00:00:04.110 align:start position:0%
+draw the circle of radius 1 at the
+origin<00:00:02.280><c> rotate</c><00:00:02.639><c> an</c><00:00:02.800><c> angle</c><00:00:03.199><c> Theta</c><00:00:03.760><c> the</c><00:00:03.919><c> point</c>
+
+00:00:04.110 --> 00:00:04.120 align:start position:0%
+origin rotate an angle Theta the point
+ 
+
+00:00:04.120 --> 00:00:06.030 align:start position:0%
+origin rotate an angle Theta the point
+on<00:00:04.240><c> the</c><00:00:04.359><c> unit</c><00:00:04.640><c> circle</c><00:00:04.960><c> for</c><00:00:05.200><c> Theta</c><00:00:05.560><c> has</c><00:00:05.680><c> an</c><00:00:05.839><c> x</c>
+
+00:00:06.030 --> 00:00:06.040 align:start position:0%
+on the unit circle for Theta has an x
+ 
+
+00:00:06.040 --> 00:00:07.470 align:start position:0%
+on the unit circle for Theta has an x
+coordinate<00:00:06.359><c> of</c><00:00:06.520><c> cosine</c><00:00:06.879><c> Theta</c><00:00:07.240><c> and</c><00:00:07.319><c> a</c>
+
+00:00:07.470 --> 00:00:07.480 align:start position:0%
+coordinate of cosine Theta and a
+ 
+
+00:00:07.480 --> 00:00:09.629 align:start position:0%
+coordinate of cosine Theta and a
+y-coordinate<00:00:08.000><c> of</c><00:00:08.200><c> sin</c><00:00:08.519><c> Theta</c><00:00:09.080><c> if</c><00:00:09.200><c> we</c><00:00:09.320><c> draw</c><00:00:09.519><c> the</c>
+
+00:00:09.629 --> 00:00:09.639 align:start position:0%
+y-coordinate of sin Theta if we draw the
+ 
+
+00:00:09.639 --> 00:00:11.070 align:start position:0%
+y-coordinate of sin Theta if we draw the
+tangent<00:00:09.960><c> line</c><00:00:10.120><c> to</c><00:00:10.240><c> the</c><00:00:10.320><c> circle</c><00:00:10.639><c> at</c><00:00:10.759><c> the</c><00:00:10.880><c> point</c>
+
+00:00:11.070 --> 00:00:11.080 align:start position:0%
+tangent line to the circle at the point
+ 
+
+00:00:11.080 --> 00:00:13.549 align:start position:0%
+tangent line to the circle at the point
+and<00:00:11.200><c> connect</c><00:00:11.440><c> to</c><00:00:11.599><c> the</c><00:00:11.920><c> x-axis</c><00:00:12.920><c> by</c><00:00:13.040><c> triangle</c>
+
+00:00:13.549 --> 00:00:13.559 align:start position:0%
+and connect to the x-axis by triangle
+ 
+
+00:00:13.559 --> 00:00:15.789 align:start position:0%
+and connect to the x-axis by triangle
+similarity<00:00:14.240><c> the</c><00:00:14.400><c> distance</c><00:00:14.719><c> labeled</c><00:00:15.120><c> D</c><00:00:15.480><c> here</c>
+
+00:00:15.789 --> 00:00:15.799 align:start position:0%
+similarity the distance labeled D here
+ 
+
+00:00:15.799 --> 00:00:19.230 align:start position:0%
+similarity the distance labeled D here
+satisfies<00:00:16.440><c> d/</c><00:00:16.960><c> 1</c><00:00:17.520><c> is</c><00:00:17.680><c> equal</c><00:00:17.960><c> to</c><00:00:18.279><c> sin</c><00:00:18.600><c> thet</c><00:00:18.960><c> over</c>
+
+00:00:19.230 --> 00:00:19.240 align:start position:0%
+satisfies d/ 1 is equal to sin thet over
+ 
+
+00:00:19.240 --> 00:00:21.790 align:start position:0%
+satisfies d/ 1 is equal to sin thet over
+cosine<00:00:19.680><c> thet</c><00:00:20.080><c> which</c><00:00:20.199><c> is</c><00:00:20.320><c> the</c><00:00:20.480><c> tangent</c><00:00:20.840><c> of</c><00:00:21.039><c> thet</c>
+
+00:00:21.790 --> 00:00:21.800 align:start position:0%
+cosine thet which is the tangent of thet
+ 
+
+00:00:21.800 --> 00:00:23.390 align:start position:0%
+cosine thet which is the tangent of thet
+also<00:00:22.080><c> by</c><00:00:22.199><c> triangle</c><00:00:22.680><c> similarity</c><00:00:23.279><c> the</c>
+
+00:00:23.390 --> 00:00:23.400 align:start position:0%
+also by triangle similarity the
+ 
+
+00:00:23.400 --> 00:00:25.109 align:start position:0%
+also by triangle similarity the
+hypotenuse<00:00:23.880><c> of</c><00:00:24.039><c> the</c><00:00:24.119><c> picture</c><00:00:24.439><c> triangle</c><00:00:24.880><c> is</c><00:00:24.960><c> 1</c>
+
+00:00:25.109 --> 00:00:25.119 align:start position:0%
+hypotenuse of the picture triangle is 1
+ 
+
+00:00:25.119 --> 00:00:26.589 align:start position:0%
+hypotenuse of the picture triangle is 1
+over<00:00:25.279><c> the</c><00:00:25.439><c> cosine</c><00:00:25.720><c> of</c><00:00:25.880><c> theta</c><00:00:26.199><c> so</c><00:00:26.320><c> it's</c><00:00:26.480><c> the</c>
+
+00:00:26.589 --> 00:00:26.599 align:start position:0%
+over the cosine of theta so it's the
+ 
+
+00:00:26.599 --> 00:00:28.910 align:start position:0%
+over the cosine of theta so it's the
+secant<00:00:26.960><c> of</c><00:00:27.119><c> theta</c><00:00:27.800><c> if</c><00:00:27.880><c> we</c><00:00:28.039><c> extend</c><00:00:28.359><c> the</c><00:00:28.519><c> tangent</c>
+
+00:00:28.910 --> 00:00:28.920 align:start position:0%
+secant of theta if we extend the tangent
+ 
+
+00:00:28.920 --> 00:00:31.269 align:start position:0%
+secant of theta if we extend the tangent
+line<00:00:29.199><c> to</c><00:00:29.359><c> the</c><00:00:29.519><c> Y</c><00:00:29.679><c> AIS</c><00:00:30.199><c> like</c><00:00:30.439><c> this</c><00:00:30.880><c> then</c><00:00:31.000><c> the</c><00:00:31.080><c> two</c>
+
+00:00:31.269 --> 00:00:31.279 align:start position:0%
+line to the Y AIS like this then the two
+ 
+
+00:00:31.279 --> 00:00:33.110 align:start position:0%
+line to the Y AIS like this then the two
+picture<00:00:31.599><c> triangles</c><00:00:32.040><c> are</c><00:00:32.200><c> similar</c><00:00:32.800><c> so</c><00:00:33.000><c> that</c>
+
+00:00:33.110 --> 00:00:33.120 align:start position:0%
+picture triangles are similar so that
+ 
+
+00:00:33.120 --> 00:00:36.110 align:start position:0%
+picture triangles are similar so that
+the<00:00:33.239><c> labeled</c><00:00:33.680><c> distance</c><00:00:34.120><c> D</c><00:00:34.680><c> satisfies</c><00:00:35.160><c> D</c><00:00:35.520><c> 1al</c>
+
+00:00:36.110 --> 00:00:36.120 align:start position:0%
+the labeled distance D satisfies D 1al
+ 
+
+00:00:36.120 --> 00:00:37.950 align:start position:0%
+the labeled distance D satisfies D 1al
+cosine<00:00:36.440><c> Theta</c><00:00:36.719><c> over</c><00:00:36.960><c> sin</c><00:00:37.200><c> Theta</c><00:00:37.559><c> which</c><00:00:37.640><c> is</c><00:00:37.719><c> the</c>
+
+00:00:37.950 --> 00:00:37.960 align:start position:0%
+cosine Theta over sin Theta which is the
+ 
+
+00:00:37.960 --> 00:00:40.110 align:start position:0%
+cosine Theta over sin Theta which is the
+cent<00:00:38.440><c> of</c><00:00:38.640><c> theta</c><00:00:39.120><c> and</c><00:00:39.239><c> the</c><00:00:39.399><c> hypotenuse</c><00:00:39.920><c> of</c><00:00:40.039><c> the</c>
+
+00:00:40.110 --> 00:00:40.120 align:start position:0%
+cent of theta and the hypotenuse of the
+ 
+
+00:00:40.120 --> 00:00:42.630 align:start position:0%
+cent of theta and the hypotenuse of the
+green<00:00:40.399><c> triangle</c><00:00:40.960><c> is</c><00:00:41.120><c> 1/</c><00:00:41.640><c> sin</c><00:00:41.920><c> Theta</c><00:00:42.320><c> which</c><00:00:42.440><c> is</c>
+
+00:00:42.630 --> 00:00:42.640 align:start position:0%
+green triangle is 1/ sin Theta which is
+ 
+
+00:00:42.640 --> 00:00:44.709 align:start position:0%
+green triangle is 1/ sin Theta which is
+cosecant<00:00:43.120><c> Theta</c><00:00:43.680><c> these</c><00:00:43.920><c> definitions</c><00:00:44.399><c> of</c><00:00:44.559><c> the</c>
+
+00:00:44.709 --> 00:00:44.719 align:start position:0%
+cosecant Theta these definitions of the
+ 
+
+00:00:44.719 --> 00:00:46.110 align:start position:0%
+cosecant Theta these definitions of the
+six<00:00:44.960><c> standard</c><00:00:45.280><c> trig</c><00:00:45.520><c> functions</c><00:00:45.840><c> can</c><00:00:46.000><c> be</c>
+
+00:00:46.110 --> 00:00:46.120 align:start position:0%
+six standard trig functions can be
+ 
+
+00:00:46.120 --> 00:00:47.910 align:start position:0%
+six standard trig functions can be
+extended<00:00:46.480><c> to</c><00:00:46.600><c> the</c><00:00:46.719><c> other</c><00:00:46.920><c> quadrants</c><00:00:47.399><c> as</c><00:00:47.520><c> well</c>
+
+00:00:47.910 --> 00:00:47.920 align:start position:0%
+extended to the other quadrants as well
+ 
+
+00:00:47.920 --> 00:00:49.310 align:start position:0%
+extended to the other quadrants as well
+and<00:00:48.039><c> this</c><00:00:48.239><c> animation</c><00:00:48.640><c> demonstrates</c><00:00:49.160><c> their</c>
+
+00:00:49.310 --> 00:00:49.320 align:start position:0%
+and this animation demonstrates their
+ 
+
+00:00:49.320 --> 00:00:51.590 align:start position:0%
+and this animation demonstrates their
+range<00:00:49.640><c> restrictions</c><00:00:50.480><c> the</c><00:00:50.600><c> prefix</c><00:00:51.079><c> Co</c><00:00:51.360><c> stands</c>
+
+00:00:51.590 --> 00:00:51.600 align:start position:0%
+range restrictions the prefix Co stands
+ 
+
+00:00:51.600 --> 00:00:53.069 align:start position:0%
+range restrictions the prefix Co stands
+for<00:00:51.879><c> complimentary</c><00:00:52.600><c> because</c><00:00:52.800><c> the</c><00:00:52.920><c> two</c>
+
+00:00:53.069 --> 00:00:53.079 align:start position:0%
+for complimentary because the two
+ 
+
+00:00:53.079 --> 00:00:54.630 align:start position:0%
+for complimentary because the two
+picture<00:00:53.399><c> triangles</c><00:00:53.840><c> have</c><00:00:54.120><c> complimentary</c>
+
+00:00:54.630 --> 00:00:54.640 align:start position:0%
+picture triangles have complimentary
+ 
+
+00:00:54.640 --> 00:00:56.869 align:start position:0%
+picture triangles have complimentary
+angles<00:00:55.000><c> Theta</c><00:00:55.239><c> and</c><00:00:55.399><c> pi/</c><00:00:55.680><c> 2</c><00:00:55.840><c> minus</c><00:00:56.199><c> Theta</c><00:00:56.719><c> so</c>
+
+00:00:56.869 --> 00:00:56.879 align:start position:0%
+angles Theta and pi/ 2 minus Theta so
+ 
+
+00:00:56.879 --> 00:00:58.270 align:start position:0%
+angles Theta and pi/ 2 minus Theta so
+the<00:00:57.079><c> cosine</c><00:00:57.600><c> is</c><00:00:57.760><c> the</c><00:00:57.879><c> sign</c><00:00:58.079><c> of</c><00:00:58.160><c> the</c>
+
+00:00:58.270 --> 00:00:58.280 align:start position:0%
+the cosine is the sign of the
+ 
+
+00:00:58.280 --> 00:01:01.239 align:start position:0%
+the cosine is the sign of the
+complimentary<00:00:58.800><c> angle</c>
+

@@ -1,0 +1,224 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.280 --> 00:00:02.550 align:start position:0%
+ 
+let's<00:00:00.560><c> solve</c><00:00:00.880><c> this</c><00:00:01.079><c> calculus</c><00:00:01.760><c> problem</c><00:00:02.120><c> step</c>
+
+00:00:02.550 --> 00:00:02.560 align:start position:0%
+let's solve this calculus problem step
+ 
+
+00:00:02.560 --> 00:00:05.230 align:start position:0%
+let's solve this calculus problem step
+by<00:00:02.919><c> step</c><00:00:03.240><c> using</c><00:00:03.520><c> the</c><00:00:03.639><c> quotient</c><00:00:04.080><c> rule</c><00:00:04.920><c> we</c><00:00:05.080><c> need</c>
+
+00:00:05.230 --> 00:00:05.240 align:start position:0%
+by step using the quotient rule we need
+ 
+
+00:00:05.240 --> 00:00:07.590 align:start position:0%
+by step using the quotient rule we need
+to<00:00:05.440><c> find</c><00:00:05.680><c> the</c><00:00:05.839><c> derivative</c><00:00:06.359><c> of</c><00:00:06.480><c> the</c><00:00:06.680><c> function</c><00:00:07.160><c> f</c>
+
+00:00:07.590 --> 00:00:07.600 align:start position:0%
+to find the derivative of the function f
+ 
+
+00:00:07.600 --> 00:00:15.390 align:start position:0%
+to find the derivative of the function f
+ofx<00:00:08.440><c> =</c><00:00:09.040><c> x^2</c><00:00:10.040><c> +</c><00:00:10.440><c> 1</c><00:00:11.400><c> /</c><00:00:12.080><c> x^2</c><00:00:12.840><c> +</c><00:00:13.280><c> 3</c><00:00:14.280><c> first</c><00:00:15.120><c> let's</c>
+
+00:00:15.390 --> 00:00:15.400 align:start position:0%
+ofx = x^2 + 1 / x^2 + 3 first let's
+ 
+
+00:00:15.400 --> 00:00:17.910 align:start position:0%
+ofx = x^2 + 1 / x^2 + 3 first let's
+recall<00:00:15.719><c> the</c><00:00:16.000><c> quotient</c><00:00:16.359><c> rule</c><00:00:16.760><c> formula</c><00:00:17.760><c> the</c>
+
+00:00:17.910 --> 00:00:17.920 align:start position:0%
+recall the quotient rule formula the
+ 
+
+00:00:17.920 --> 00:00:21.189 align:start position:0%
+recall the quotient rule formula the
+derivative<00:00:18.400><c> of</c><00:00:18.520><c> U</c><00:00:18.840><c> over</c><00:00:19.119><c> v</c><00:00:19.480><c> =</c><00:00:20.080><c> v</c><00:00:20.480><c> *</c><00:00:21.000><c> the</c>
+
+00:00:21.189 --> 00:00:21.199 align:start position:0%
+derivative of U over v = v * the
+ 
+
+00:00:21.199 --> 00:00:24.390 align:start position:0%
+derivative of U over v = v * the
+derivative<00:00:21.680><c> of</c><00:00:21.840><c> U</c><00:00:22.720><c> minus</c><00:00:23.160><c> U</c><00:00:23.359><c> *</c><00:00:23.760><c> the</c><00:00:23.960><c> derivative</c>
+
+00:00:24.390 --> 00:00:24.400 align:start position:0%
+derivative of U minus U * the derivative
+ 
+
+00:00:24.400 --> 00:00:28.950 align:start position:0%
+derivative of U minus U * the derivative
+of<00:00:24.560><c> V</c><00:00:25.359><c> all</c><00:00:25.680><c> over</c><00:00:26.160><c> v^2</c><00:00:27.160><c> let's</c><00:00:27.439><c> identify</c><00:00:28.039><c> our</c><00:00:28.279><c> u</c>
+
+00:00:28.950 --> 00:00:28.960 align:start position:0%
+of V all over v^2 let's identify our u
+ 
+
+00:00:28.960 --> 00:00:30.749 align:start position:0%
+of V all over v^2 let's identify our u
+and<00:00:29.199><c> v</c><00:00:29.519><c> function</c>
+
+00:00:30.749 --> 00:00:30.759 align:start position:0%
+and v function
+ 
+
+00:00:30.759 --> 00:00:37.670 align:start position:0%
+and v function
+U<00:00:31.000><c> of</c><00:00:31.279><c> X</c><00:00:31.679><c> =</c><00:00:32.119><c> x^2</c><00:00:32.759><c> +</c><00:00:33.120><c> 1</c><00:00:34.000><c> and</c><00:00:34.200><c> V</c><00:00:34.440><c> of</c><00:00:34.640><c> X</c><00:00:34.960><c> =</c><00:00:35.440><c> x^2</c><00:00:36.280><c> +</c><00:00:36.680><c> 3</c>
+
+00:00:37.670 --> 00:00:37.680 align:start position:0%
+U of X = x^2 + 1 and V of X = x^2 + 3
+ 
+
+00:00:37.680 --> 00:00:39.590 align:start position:0%
+U of X = x^2 + 1 and V of X = x^2 + 3
+next<00:00:38.040><c> we</c><00:00:38.160><c> need</c><00:00:38.320><c> to</c><00:00:38.520><c> find</c><00:00:38.719><c> the</c><00:00:38.920><c> derivatives</c><00:00:39.440><c> of</c>
+
+00:00:39.590 --> 00:00:39.600 align:start position:0%
+next we need to find the derivatives of
+ 
+
+00:00:39.600 --> 00:00:44.110 align:start position:0%
+next we need to find the derivatives of
+u<00:00:40.239><c> and</c><00:00:40.440><c> v</c><00:00:41.239><c> the</c><00:00:41.440><c> derivative</c><00:00:41.879><c> of</c><00:00:42.039><c> U</c><00:00:42.280><c> equal</c><00:00:42.960><c> 2X</c><00:00:43.960><c> and</c>
+
+00:00:44.110 --> 00:00:44.120 align:start position:0%
+u and v the derivative of U equal 2X and
+ 
+
+00:00:44.120 --> 00:00:47.990 align:start position:0%
+u and v the derivative of U equal 2X and
+the<00:00:44.320><c> derivative</c><00:00:44.800><c> of</c><00:00:44.960><c> V</c><00:00:45.399><c> also</c><00:00:45.760><c> equal</c><00:00:46.680><c> 2x</c><00:00:47.680><c> now</c>
+
+00:00:47.990 --> 00:00:48.000 align:start position:0%
+the derivative of V also equal 2x now
+ 
+
+00:00:48.000 --> 00:00:50.189 align:start position:0%
+the derivative of V also equal 2x now
+let's<00:00:48.360><c> substitute</c><00:00:49.280><c> everything</c><00:00:49.800><c> into</c><00:00:50.039><c> the</c>
+
+00:00:50.189 --> 00:00:50.199 align:start position:0%
+let's substitute everything into the
+ 
+
+00:00:50.199 --> 00:00:54.470 align:start position:0%
+let's substitute everything into the
+quotient<00:00:50.600><c> rule</c><00:00:51.039><c> formula</c><00:00:52.039><c> we</c><00:00:52.239><c> get</c><00:00:52.480><c> x^2</c><00:00:53.199><c> +</c><00:00:53.559><c> 3</c><00:00:53.879><c> *</c>
+
+00:00:54.470 --> 00:00:54.480 align:start position:0%
+quotient rule formula we get x^2 + 3 *
+ 
+
+00:00:54.480 --> 00:01:01.990 align:start position:0%
+quotient rule formula we get x^2 + 3 *
+2x<00:00:55.480><c> -</c><00:00:55.960><c> x^2</c><00:00:56.680><c> +</c><00:00:57.039><c> 1</c><00:00:57.280><c> *</c><00:00:58.000><c> 2x</c><00:00:59.000><c> all</c><00:00:59.239><c> over</c><00:00:59.519><c> X</c><00:01:00.000><c> 2</c><00:01:00.359><c> +</c><00:01:00.719><c> 3^</c><00:01:01.000><c> 2</c>
+
+00:01:01.990 --> 00:01:02.000 align:start position:0%
+2x - x^2 + 1 * 2x all over X 2 + 3^ 2
+ 
+
+00:01:02.000 --> 00:01:05.590 align:start position:0%
+2x - x^2 + 1 * 2x all over X 2 + 3^ 2
+let's<00:01:02.320><c> distribute</c><00:01:02.960><c> the</c><00:01:03.160><c> 2x</c><00:01:04.159><c> in</c><00:01:04.280><c> the</c><00:01:04.600><c> numerator</c>
+
+00:01:05.590 --> 00:01:05.600 align:start position:0%
+let's distribute the 2x in the numerator
+ 
+
+00:01:05.600 --> 00:01:10.510 align:start position:0%
+let's distribute the 2x in the numerator
+in<00:01:05.720><c> the</c><00:01:05.960><c> first</c><00:01:06.240><c> term</c><00:01:06.640><c> we</c><00:01:06.799><c> get</c><00:01:07.000><c> 2x</c><00:01:07.799><c> CU</c><00:01:08.560><c> +</c><00:01:09.360><c> 6x</c><00:01:10.360><c> and</c>
+
+00:01:10.510 --> 00:01:10.520 align:start position:0%
+in the first term we get 2x CU + 6x and
+ 
+
+00:01:10.520 --> 00:01:15.109 align:start position:0%
+in the first term we get 2x CU + 6x and
+in<00:01:10.680><c> the</c><00:01:10.880><c> second</c><00:01:11.200><c> term</c><00:01:12.000><c> we</c><00:01:12.159><c> get</c><00:01:12.400><c> 2x</c><00:01:13.080><c> Cub</c><00:01:13.479><c> +</c><00:01:14.119><c> 2x</c>
+
+00:01:15.109 --> 00:01:15.119 align:start position:0%
+in the second term we get 2x Cub + 2x
+ 
+
+00:01:15.119 --> 00:01:17.630 align:start position:0%
+in the second term we get 2x Cub + 2x
+now<00:01:15.439><c> we</c><00:01:15.560><c> can</c><00:01:15.799><c> combine</c><00:01:16.400><c> like</c><00:01:16.840><c> terms</c><00:01:17.200><c> in</c><00:01:17.360><c> the</c>
+
+00:01:17.630 --> 00:01:17.640 align:start position:0%
+now we can combine like terms in the
+ 
+
+00:01:17.640 --> 00:01:21.670 align:start position:0%
+now we can combine like terms in the
+numerator<00:01:18.640><c> the</c><00:01:18.799><c> 2x</c><00:01:19.520><c> cubed</c><00:01:20.079><c> terms</c><00:01:20.560><c> cancel</c><00:01:20.920><c> out</c>
+
+00:01:21.670 --> 00:01:21.680 align:start position:0%
+numerator the 2x cubed terms cancel out
+ 
+
+00:01:21.680 --> 00:01:25.630 align:start position:0%
+numerator the 2x cubed terms cancel out
+and<00:01:21.799><c> we're</c><00:01:22.079><c> left</c><00:01:22.360><c> with</c><00:01:22.720><c> 6x</c><00:01:23.600><c> -</c><00:01:24.040><c> 2x</c><00:01:24.759><c> which</c><00:01:25.000><c> equal</c>
+
+00:01:25.630 --> 00:01:25.640 align:start position:0%
+and we're left with 6x - 2x which equal
+ 
+
+00:01:25.640 --> 00:01:29.990 align:start position:0%
+and we're left with 6x - 2x which equal
+4X<00:01:26.640><c> therefore</c><00:01:27.600><c> the</c><00:01:27.759><c> derivative</c><00:01:28.240><c> of</c><00:01:28.439><c> x^2</c><00:01:29.119><c> +</c><00:01:29.520><c> 1</c>
+
+00:01:29.990 --> 00:01:30.000 align:start position:0%
+4X therefore the derivative of x^2 + 1
+ 
+
+00:01:30.000 --> 00:01:37.670 align:start position:0%
+4X therefore the derivative of x^2 + 1
+/x^2<00:01:30.720><c> +</c><00:01:31.520><c> 3</c><00:01:31.920><c> =</c><00:01:32.640><c> 4X</c><00:01:33.640><c> x^2</c><00:01:34.399><c> +</c><00:01:34.759><c> 3^</c><00:01:35.079><c> 2</c><00:01:36.079><c> let's</c><00:01:36.680><c> verify</c>
+
+00:01:37.670 --> 00:01:37.680 align:start position:0%
+/x^2 + 3 = 4X x^2 + 3^ 2 let's verify
+ 
+
+00:01:37.680 --> 00:01:40.670 align:start position:0%
+/x^2 + 3 = 4X x^2 + 3^ 2 let's verify
+this<00:01:38.119><c> matches</c><00:01:38.920><c> our</c><00:01:39.200><c> original</c><00:01:39.799><c> problem</c>
+
+00:01:40.670 --> 00:01:40.680 align:start position:0%
+this matches our original problem
+ 
+
+00:01:40.680 --> 00:01:42.710 align:start position:0%
+this matches our original problem
+looking<00:01:41.119><c> back</c><00:01:41.320><c> at</c><00:01:41.479><c> our</c><00:01:41.680><c> original</c><00:01:42.200><c> function</c>
+
+00:01:42.710 --> 00:01:42.720 align:start position:0%
+looking back at our original function
+ 
+
+00:01:42.720 --> 00:01:45.350 align:start position:0%
+looking back at our original function
+and<00:01:42.920><c> following</c><00:01:43.360><c> the</c><00:01:43.560><c> quotient</c><00:01:43.960><c> rule</c><00:01:44.360><c> steps</c>
+
+00:01:45.350 --> 00:01:45.360 align:start position:0%
+and following the quotient rule steps
+ 
+
+00:01:45.360 --> 00:01:50.360 align:start position:0%
+and following the quotient rule steps
+we've<00:01:45.600><c> arrived</c><00:01:46.159><c> at</c><00:01:46.320><c> the</c><00:01:46.560><c> correct</c><00:01:47.360><c> derivative</c>
+

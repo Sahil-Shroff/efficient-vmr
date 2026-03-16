@@ -1,0 +1,208 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.450 align:start position:0%
+ 
+many<00:00:00.480><c> people</c><00:00:00.719><c> draw</c><00:00:01.020><c> this</c><00:00:01.380><c> diagram</c><00:00:01.740><c> when</c><00:00:02.280><c> they</c>
+
+00:00:02.450 --> 00:00:02.460 align:start position:0%
+many people draw this diagram when they
+ 
+
+00:00:02.460 --> 00:00:04.490 align:start position:0%
+many people draw this diagram when they
+want<00:00:02.639><c> to</c><00:00:02.820><c> represent</c><00:00:03.240><c> a</c><00:00:03.600><c> four</c><00:00:03.780><c> set</c><00:00:04.080><c> Venn</c>
+
+00:00:04.490 --> 00:00:04.500 align:start position:0%
+want to represent a four set Venn
+ 
+
+00:00:04.500 --> 00:00:06.710 align:start position:0%
+want to represent a four set Venn
+diagram<00:00:04.740><c> unfortunately</c><00:00:05.580><c> this</c><00:00:06.000><c> is</c><00:00:06.180><c> not</c><00:00:06.359><c> valid</c>
+
+00:00:06.710 --> 00:00:06.720 align:start position:0%
+diagram unfortunately this is not valid
+ 
+
+00:00:06.720 --> 00:00:08.570 align:start position:0%
+diagram unfortunately this is not valid
+can<00:00:07.080><c> you</c><00:00:07.200><c> figure</c><00:00:07.379><c> out</c><00:00:07.680><c> what's</c><00:00:07.980><c> missing</c><00:00:08.340><c> from</c>
+
+00:00:08.570 --> 00:00:08.580 align:start position:0%
+can you figure out what's missing from
+ 
+
+00:00:08.580 --> 00:00:09.530 align:start position:0%
+can you figure out what's missing from
+this<00:00:08.760><c> diagram</c>
+
+00:00:09.530 --> 00:00:09.540 align:start position:0%
+this diagram
+ 
+
+00:00:09.540 --> 00:00:12.110 align:start position:0%
+this diagram
+but<00:00:10.019><c> we</c><00:00:10.260><c> can</c><00:00:10.440><c> actually</c><00:00:10.800><c> draw</c><00:00:11.219><c> a</c><00:00:11.580><c> valid</c><00:00:11.940><c> four</c>
+
+00:00:12.110 --> 00:00:12.120 align:start position:0%
+but we can actually draw a valid four
+ 
+
+00:00:12.120 --> 00:00:14.930 align:start position:0%
+but we can actually draw a valid four
+set<00:00:12.420><c> Venn</c><00:00:12.840><c> diagram</c><00:00:13.139><c> here's</c><00:00:13.860><c> one</c><00:00:14.280><c> possible</c><00:00:14.639><c> way</c>
+
+00:00:14.930 --> 00:00:14.940 align:start position:0%
+set Venn diagram here's one possible way
+ 
+
+00:00:14.940 --> 00:00:17.210 align:start position:0%
+set Venn diagram here's one possible way
+to<00:00:15.240><c> draw</c><00:00:15.480><c> such</c><00:00:15.839><c> a</c><00:00:16.020><c> diagram</c><00:00:16.320><c> we</c><00:00:16.740><c> can</c><00:00:16.859><c> check</c><00:00:17.039><c> that</c>
+
+00:00:17.210 --> 00:00:17.220 align:start position:0%
+to draw such a diagram we can check that
+ 
+
+00:00:17.220 --> 00:00:18.950 align:start position:0%
+to draw such a diagram we can check that
+it's<00:00:17.400><c> valid</c><00:00:17.760><c> by</c><00:00:17.940><c> finding</c><00:00:18.240><c> all</c><00:00:18.480><c> the</c><00:00:18.600><c> regions</c>
+
+00:00:18.950 --> 00:00:18.960 align:start position:0%
+it's valid by finding all the regions
+ 
+
+00:00:18.960 --> 00:00:20.929 align:start position:0%
+it's valid by finding all the regions
+here's<00:00:19.560><c> the</c><00:00:19.680><c> regions</c><00:00:19.980><c> for</c><00:00:20.160><c> elements</c><00:00:20.580><c> only</c><00:00:20.699><c> in</c>
+
+00:00:20.929 --> 00:00:20.939 align:start position:0%
+here's the regions for elements only in
+ 
+
+00:00:20.939 --> 00:00:23.870 align:start position:0%
+here's the regions for elements only in
+a<00:00:21.180><c> the</c><00:00:21.600><c> ones</c><00:00:21.779><c> only</c><00:00:22.020><c> in</c><00:00:22.199><c> B</c><00:00:22.439><c> the</c><00:00:22.920><c> ones</c><00:00:23.160><c> only</c><00:00:23.340><c> in</c><00:00:23.640><c> C</c>
+
+00:00:23.870 --> 00:00:23.880 align:start position:0%
+a the ones only in B the ones only in C
+ 
+
+00:00:23.880 --> 00:00:26.210 align:start position:0%
+a the ones only in B the ones only in C
+and<00:00:24.300><c> the</c><00:00:24.420><c> ones</c><00:00:24.600><c> only</c><00:00:24.779><c> in</c><00:00:25.019><c> D</c><00:00:25.260><c> next</c><00:00:25.859><c> are</c><00:00:26.100><c> the</c>
+
+00:00:26.210 --> 00:00:26.220 align:start position:0%
+and the ones only in D next are the
+ 
+
+00:00:26.220 --> 00:00:27.950 align:start position:0%
+and the ones only in D next are the
+double<00:00:26.340><c> intersection</c><00:00:26.880><c> regions</c><00:00:27.359><c> here's</c><00:00:27.840><c> the</c>
+
+00:00:27.950 --> 00:00:27.960 align:start position:0%
+double intersection regions here's the
+ 
+
+00:00:27.960 --> 00:00:30.230 align:start position:0%
+double intersection regions here's the
+region<00:00:28.140><c> for</c><00:00:28.320><c> elements</c><00:00:28.680><c> only</c><00:00:28.859><c> in</c><00:00:29.099><c> A</c><00:00:29.220><c> and</c><00:00:29.400><c> B</c><00:00:29.580><c> this</c>
+
+00:00:30.230 --> 00:00:30.240 align:start position:0%
+region for elements only in A and B this
+ 
+
+00:00:30.240 --> 00:00:32.690 align:start position:0%
+region for elements only in A and B this
+one<00:00:30.359><c> for</c><00:00:30.599><c> those</c><00:00:30.779><c> only</c><00:00:31.080><c> in</c><00:00:31.320><c> a</c><00:00:31.500><c> and</c><00:00:31.679><c> C</c><00:00:31.859><c> this</c><00:00:32.520><c> one</c>
+
+00:00:32.690 --> 00:00:32.700 align:start position:0%
+one for those only in a and C this one
+ 
+
+00:00:32.700 --> 00:00:34.910 align:start position:0%
+one for those only in a and C this one
+for<00:00:32.820><c> those</c><00:00:33.000><c> in</c><00:00:33.300><c> A</c><00:00:33.540><c> and</c><00:00:33.719><c> D</c><00:00:33.960><c> this</c><00:00:34.500><c> one</c><00:00:34.620><c> for</c><00:00:34.739><c> those</c>
+
+00:00:34.910 --> 00:00:34.920 align:start position:0%
+for those in A and D this one for those
+ 
+
+00:00:34.920 --> 00:00:37.910 align:start position:0%
+for those in A and D this one for those
+in<00:00:35.160><c> B</c><00:00:35.340><c> and</c><00:00:35.520><c> C</c><00:00:35.700><c> only</c><00:00:36.000><c> and</c><00:00:36.420><c> in</c><00:00:36.600><c> B</c><00:00:36.780><c> and</c><00:00:36.960><c> D</c><00:00:37.140><c> only</c><00:00:37.440><c> and</c>
+
+00:00:37.910 --> 00:00:37.920 align:start position:0%
+in B and C only and in B and D only and
+ 
+
+00:00:37.920 --> 00:00:40.010 align:start position:0%
+in B and C only and in B and D only and
+this<00:00:38.100><c> one</c><00:00:38.219><c> for</c><00:00:38.340><c> those</c><00:00:38.520><c> in</c><00:00:38.760><c> C</c><00:00:38.940><c> and</c><00:00:39.120><c> D</c><00:00:39.300><c> only</c><00:00:39.540><c> next</c>
+
+00:00:40.010 --> 00:00:40.020 align:start position:0%
+this one for those in C and D only next
+ 
+
+00:00:40.020 --> 00:00:41.810 align:start position:0%
+this one for those in C and D only next
+we<00:00:40.200><c> have</c><00:00:40.320><c> the</c><00:00:40.559><c> triple</c><00:00:40.920><c> intersection</c><00:00:41.340><c> regions</c>
+
+00:00:41.810 --> 00:00:41.820 align:start position:0%
+we have the triple intersection regions
+ 
+
+00:00:41.820 --> 00:00:45.350 align:start position:0%
+we have the triple intersection regions
+a<00:00:42.180><c> b</c><00:00:42.360><c> and</c><00:00:42.480><c> c</c><00:00:42.719><c> only</c><00:00:42.899><c> a</c><00:00:43.320><c> b</c><00:00:43.500><c> and</c><00:00:43.680><c> d</c><00:00:43.860><c> only</c><00:00:44.160><c> a</c><00:00:44.760><c> c</c><00:00:45.000><c> and</c><00:00:45.120><c> d</c>
+
+00:00:45.350 --> 00:00:45.360 align:start position:0%
+a b and c only a b and d only a c and d
+ 
+
+00:00:45.360 --> 00:00:47.990 align:start position:0%
+a b and c only a b and d only a c and d
+only<00:00:45.600><c> and</c><00:00:46.140><c> b</c><00:00:46.379><c> c</c><00:00:46.620><c> and</c><00:00:46.800><c> d</c><00:00:46.980><c> only</c><00:00:47.280><c> here's</c><00:00:47.879><c> the</c>
+
+00:00:47.990 --> 00:00:48.000 align:start position:0%
+only and b c and d only here's the
+ 
+
+00:00:48.000 --> 00:00:50.029 align:start position:0%
+only and b c and d only here's the
+region<00:00:48.300><c> for</c><00:00:48.480><c> elements</c><00:00:48.840><c> in</c><00:00:48.960><c> all</c><00:00:49.140><c> four</c><00:00:49.260><c> sets</c><00:00:49.739><c> and</c>
+
+00:00:50.029 --> 00:00:50.039 align:start position:0%
+region for elements in all four sets and
+ 
+
+00:00:50.039 --> 00:00:51.529 align:start position:0%
+region for elements in all four sets and
+here's<00:00:50.280><c> the</c><00:00:50.399><c> region</c><00:00:50.640><c> for</c><00:00:50.820><c> elements</c><00:00:51.180><c> in</c><00:00:51.360><c> none</c>
+
+00:00:51.529 --> 00:00:51.539 align:start position:0%
+here's the region for elements in none
+ 
+
+00:00:51.539 --> 00:00:53.810 align:start position:0%
+here's the region for elements in none
+of<00:00:51.660><c> the</c><00:00:51.780><c> four</c><00:00:51.899><c> sets</c><00:00:52.320><c> we've</c><00:00:52.680><c> pictured</c><00:00:53.039><c> all</c><00:00:53.399><c> 16</c>
+
+00:00:53.810 --> 00:00:53.820 align:start position:0%
+of the four sets we've pictured all 16
+ 
+
+00:00:53.820 --> 00:00:56.510 align:start position:0%
+of the four sets we've pictured all 16
+possible<00:00:54.600><c> regions</c><00:00:55.140><c> so</c><00:00:55.379><c> this</c><00:00:55.559><c> is</c><00:00:55.680><c> a</c><00:00:55.920><c> valid</c><00:00:56.160><c> Venn</c>
+
+00:00:56.510 --> 00:00:56.520 align:start position:0%
+possible regions so this is a valid Venn
+ 
+
+00:00:56.520 --> 00:00:58.699 align:start position:0%
+possible regions so this is a valid Venn
+diagram
+

@@ -1,0 +1,139 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:06.320 --> 00:00:10.580
+okay let's try a question
+relating to spontaneity consider the
+
+00:00:10.590 --> 00:00:17.310
+conversion of limestone to lime so we
+have calcium carbonate caco3 yielding
+
+00:00:17.310 --> 00:00:25.920
+calcium oxide CA o and co2 gas the
+values of Delta H and Delta S are 179
+
+00:00:25.920 --> 00:00:32.550
+point 1 kilojoules per mole and 160
+point 2 joules per Kelvin respectively
+
+00:00:32.550 --> 00:00:38.489
+at 298 K and 1 bar assuming that these
+values do not change with temperature
+
+00:00:38.489 --> 00:00:44.850
+what is the temperature above which
+conversion of limestone to lime will be
+
+00:00:44.850 --> 00:00:51.030
+spontaneous so we need to know some
+things about Gibbs free energy enthalpy
+
+00:00:51.030 --> 00:00:55.620
+entropy we need to know how those values
+correlate we need to know something
+
+00:00:55.620 --> 00:01:00.570
+about the conditions within which a
+reaction will be spontaneous so go ahead
+
+00:01:00.570 --> 00:01:05.220
+and check out my tutorial on Gibbs free
+energy if you need some review and when
+
+00:01:05.220 --> 00:01:06.520
+you're ready give it a try
+
+00:01:21.980 --> 00:01:24.260
+so the first
+thing we have to remember is that
+
+00:01:24.270 --> 00:01:30.150
+reactions are spontaneous when Delta G
+is less than zero so we need Delta G to
+
+00:01:30.150 --> 00:01:35.820
+be negative in order for a reaction to
+be spontaneous so if we have Delta G
+
+00:01:35.820 --> 00:01:41.520
+equals Delta H minus T Delta s and we
+need Delta G to be less than zero then
+
+00:01:41.520 --> 00:01:46.229
+we also need Delta H minus T Delta s to
+be less than zero because those are
+
+00:01:46.229 --> 00:01:51.869
+equivalent now because we're trying to
+figure out the temperature above which
+
+00:01:51.869 --> 00:01:55.829
+conversion of limestone to lime will be
+spontaneous that means we're going to be
+
+00:01:55.829 --> 00:02:00.570
+solving for a temperature so let's
+rearrange this inequality to solve for
+
+00:02:00.570 --> 00:02:06.149
+temperature all we do is add T Delta s
+to both sides and then divide by Delta s
+
+00:02:06.149 --> 00:02:13.319
+and we get T is greater than Delta H
+over Delta S so we can just go ahead and
+
+00:02:13.319 --> 00:02:16.920
+plug in the
+use that we know now we have 179.1
+
+00:02:16.920 --> 00:02:22.500
+kilojoules per mole for Delta H but our
+entropy value has joules so these are
+
+00:02:22.500 --> 00:02:26.580
+gonna need to agree let's just go ahead
+and multiply this one by a thousand that
+
+00:02:26.580 --> 00:02:29.670
+way we'll have it in joules so one
+hundred and seventy-nine thousand one
+
+00:02:29.670 --> 00:02:34.349
+hundred joules per mole and then we can
+divide that by a hundred and sixty point
+
+00:02:34.349 --> 00:02:40.880
+two joules per Kelvin that way the
+joules will cancel and we end up with
+
+00:02:40.880 --> 00:02:48.060
+1118 Kelvin so that means that despite
+the enthalpic unfavorability we see that
+
+00:02:48.060 --> 00:02:51.930
+this is endothermic right one hundred
+seventy nine point one kilojoules per
+
+00:02:51.930 --> 00:02:56.640
+mole this is an endothermic reaction
+which we typically expect to not be
+
+00:02:56.640 --> 00:03:01.530
+spontaneous however it is entropically
+favorable we're producing more
+
+00:03:01.530 --> 00:03:05.610
+substances we're producing a gas
+therefore if we raise the temperature
+
+00:03:05.610 --> 00:03:10.829
+high enough that T Delta s term will
+outweigh the Delta H term and it happens
+
+00:03:10.829 --> 00:03:18.740
+to be this value 1118 Kelvin above that
+temperature this will be a spontaneous process.
+

@@ -1,0 +1,336 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.930 --> 00:00:08.150 align:start position:0%
+ 
+[Music]
+
+00:00:08.150 --> 00:00:08.160 align:start position:0%
+[Music]
+ 
+
+00:00:08.160 --> 00:00:11.669 align:start position:0%
+[Music]
+start<00:00:08.480><c> with</c><00:00:08.720><c> a</c><00:00:08.880><c> square</c><00:00:09.840><c> of</c><00:00:10.160><c> side</c><00:00:10.480><c> length</c><00:00:10.880><c> y</c>
+
+00:00:11.669 --> 00:00:11.679 align:start position:0%
+start with a square of side length y
+ 
+
+00:00:11.679 --> 00:00:15.190 align:start position:0%
+start with a square of side length y
+covering<00:00:12.080><c> an</c><00:00:12.240><c> area</c><00:00:13.120><c> of</c><00:00:13.280><c> y</c><00:00:13.679><c> squared</c>
+
+00:00:15.190 --> 00:00:15.200 align:start position:0%
+covering an area of y squared
+ 
+
+00:00:15.200 --> 00:00:17.590 align:start position:0%
+covering an area of y squared
+then<00:00:15.440><c> remove</c><00:00:16.000><c> a</c><00:00:16.160><c> square</c><00:00:16.720><c> from</c><00:00:16.880><c> the</c><00:00:17.039><c> lower</c><00:00:17.279><c> left</c>
+
+00:00:17.590 --> 00:00:17.600 align:start position:0%
+then remove a square from the lower left
+ 
+
+00:00:17.600 --> 00:00:20.070 align:start position:0%
+then remove a square from the lower left
+corner<00:00:18.080><c> with</c><00:00:18.320><c> side</c><00:00:18.560><c> length</c><00:00:18.960><c> z</c><00:00:19.600><c> so</c><00:00:19.760><c> that</c><00:00:19.920><c> the</c>
+
+00:00:20.070 --> 00:00:20.080 align:start position:0%
+corner with side length z so that the
+ 
+
+00:00:20.080 --> 00:00:22.710 align:start position:0%
+corner with side length z so that the
+resulting<00:00:20.640><c> area</c><00:00:21.039><c> is</c><00:00:21.279><c> y</c><00:00:21.520><c> squared</c><00:00:21.920><c> minus</c><00:00:22.400><c> z</c>
+
+00:00:22.710 --> 00:00:22.720 align:start position:0%
+resulting area is y squared minus z
+ 
+
+00:00:22.720 --> 00:00:24.310 align:start position:0%
+resulting area is y squared minus z
+squared
+
+00:00:24.310 --> 00:00:24.320 align:start position:0%
+squared
+ 
+
+00:00:24.320 --> 00:00:27.029 align:start position:0%
+squared
+we<00:00:24.480><c> can</c><00:00:24.800><c> cut</c><00:00:25.039><c> the</c><00:00:25.119><c> resulting</c><00:00:25.680><c> nomen</c><00:00:26.160><c> in</c><00:00:26.320><c> half</c>
+
+00:00:27.029 --> 00:00:27.039 align:start position:0%
+we can cut the resulting nomen in half
+ 
+
+00:00:27.039 --> 00:00:28.950 align:start position:0%
+we can cut the resulting nomen in half
+along<00:00:27.279><c> the</c><00:00:27.439><c> diagonal</c><00:00:28.160><c> creating</c><00:00:28.720><c> two</c>
+
+00:00:28.950 --> 00:00:28.960 align:start position:0%
+along the diagonal creating two
+ 
+
+00:00:28.960 --> 00:00:30.950 align:start position:0%
+along the diagonal creating two
+trapezoids
+
+00:00:30.950 --> 00:00:30.960 align:start position:0%
+trapezoids
+ 
+
+00:00:30.960 --> 00:00:33.430 align:start position:0%
+trapezoids
+move<00:00:31.279><c> one</c><00:00:31.439><c> of</c><00:00:31.519><c> the</c><00:00:31.599><c> trapezoids</c><00:00:32.320><c> down</c>
+
+00:00:33.430 --> 00:00:33.440 align:start position:0%
+move one of the trapezoids down
+ 
+
+00:00:33.440 --> 00:00:34.709 align:start position:0%
+move one of the trapezoids down
+rotate<00:00:33.920><c> it</c>
+
+00:00:34.709 --> 00:00:34.719 align:start position:0%
+rotate it
+ 
+
+00:00:34.719 --> 00:00:36.709 align:start position:0%
+rotate it
+and<00:00:34.800><c> then</c><00:00:35.120><c> flip</c><00:00:35.440><c> it</c><00:00:35.760><c> to</c><00:00:35.920><c> connect</c><00:00:36.320><c> it</c><00:00:36.399><c> to</c><00:00:36.559><c> the</c>
+
+00:00:36.709 --> 00:00:36.719 align:start position:0%
+and then flip it to connect it to the
+ 
+
+00:00:36.719 --> 00:00:39.590 align:start position:0%
+and then flip it to connect it to the
+other<00:00:36.960><c> trapezoid</c><00:00:37.760><c> resulting</c><00:00:38.160><c> in</c><00:00:38.320><c> a</c><00:00:38.399><c> rectangle</c>
+
+00:00:39.590 --> 00:00:39.600 align:start position:0%
+other trapezoid resulting in a rectangle
+ 
+
+00:00:39.600 --> 00:00:42.470 align:start position:0%
+other trapezoid resulting in a rectangle
+the<00:00:39.840><c> rectangle</c><00:00:40.320><c> has</c><00:00:40.559><c> side</c><00:00:40.719><c> length</c><00:00:41.040><c> y</c><00:00:41.360><c> minus</c><00:00:41.760><c> z</c>
+
+00:00:42.470 --> 00:00:42.480 align:start position:0%
+the rectangle has side length y minus z
+ 
+
+00:00:42.480 --> 00:00:45.910 align:start position:0%
+the rectangle has side length y minus z
+and<00:00:42.640><c> the</c><00:00:42.800><c> other</c><00:00:43.040><c> side</c><00:00:43.280><c> length</c><00:00:43.840><c> is</c><00:00:44.079><c> y</c><00:00:44.559><c> plus</c><00:00:44.879><c> z</c>
+
+00:00:45.910 --> 00:00:45.920 align:start position:0%
+and the other side length is y plus z
+ 
+
+00:00:45.920 --> 00:00:48.229 align:start position:0%
+and the other side length is y plus z
+therefore<00:00:46.320><c> the</c><00:00:46.559><c> original</c><00:00:47.200><c> area</c><00:00:47.600><c> of</c><00:00:47.760><c> y</c><00:00:48.000><c> squared</c>
+
+00:00:48.229 --> 00:00:48.239 align:start position:0%
+therefore the original area of y squared
+ 
+
+00:00:48.239 --> 00:00:50.549 align:start position:0%
+therefore the original area of y squared
+minus<00:00:48.559><c> z</c><00:00:48.800><c> squared</c><00:00:49.680><c> is</c><00:00:49.840><c> the</c><00:00:50.000><c> same</c><00:00:50.239><c> as</c><00:00:50.399><c> the</c>
+
+00:00:50.549 --> 00:00:50.559 align:start position:0%
+minus z squared is the same as the
+ 
+
+00:00:50.559 --> 00:00:52.790 align:start position:0%
+minus z squared is the same as the
+product<00:00:51.280><c> of</c><00:00:51.520><c> y</c><00:00:51.840><c> plus</c><00:00:52.079><c> z</c>
+
+00:00:52.790 --> 00:00:52.800 align:start position:0%
+product of y plus z
+ 
+
+00:00:52.800 --> 00:00:54.709 align:start position:0%
+product of y plus z
+and<00:00:52.960><c> y</c><00:00:53.280><c> minus</c><00:00:53.680><c> z</c>
+
+00:00:54.709 --> 00:00:54.719 align:start position:0%
+and y minus z
+ 
+
+00:00:54.719 --> 00:00:56.709 align:start position:0%
+and y minus z
+this<00:00:54.960><c> formula</c><00:00:55.680><c> is</c><00:00:55.840><c> known</c><00:00:56.079><c> as</c><00:00:56.160><c> the</c><00:00:56.399><c> difference</c>
+
+00:00:56.709 --> 00:00:56.719 align:start position:0%
+this formula is known as the difference
+ 
+
+00:00:56.719 --> 00:00:58.549 align:start position:0%
+this formula is known as the difference
+of<00:00:56.879><c> squares</c><00:00:57.280><c> formula</c>
+
+00:00:58.549 --> 00:00:58.559 align:start position:0%
+of squares formula
+ 
+
+00:00:58.559 --> 00:01:01.750 align:start position:0%
+of squares formula
+we<00:00:58.800><c> can</c><00:00:59.039><c> plug</c><00:00:59.440><c> in</c><00:01:00.000><c> x</c><00:01:00.239><c> plus</c><00:01:00.480><c> a</c><00:01:00.640><c> over</c><00:01:00.800><c> 2</c><00:01:00.960><c> for</c><00:01:01.199><c> y</c><00:01:01.600><c> and</c>
+
+00:01:01.750 --> 00:01:01.760 align:start position:0%
+we can plug in x plus a over 2 for y and
+ 
+
+00:01:01.760 --> 00:01:04.950 align:start position:0%
+we can plug in x plus a over 2 for y and
+a<00:01:02.000><c> over</c><00:01:02.160><c> 2</c><00:01:02.399><c> for</c><00:01:02.640><c> z</c><00:01:03.280><c> so</c><00:01:03.440><c> that</c><00:01:03.680><c> y</c><00:01:03.920><c> plus</c><00:01:04.239><c> z</c><00:01:04.559><c> is</c><00:01:04.720><c> x</c>
+
+00:01:04.950 --> 00:01:04.960 align:start position:0%
+a over 2 for z so that y plus z is x
+ 
+
+00:01:04.960 --> 00:01:08.149 align:start position:0%
+a over 2 for z so that y plus z is x
+plus<00:01:05.199><c> a</c><00:01:05.600><c> and</c><00:01:05.840><c> y</c><00:01:06.080><c> minus</c><00:01:06.400><c> z</c><00:01:06.880><c> is</c><00:01:07.119><c> x</c>
+
+00:01:08.149 --> 00:01:08.159 align:start position:0%
+plus a and y minus z is x
+ 
+
+00:01:08.159 --> 00:01:08.950 align:start position:0%
+plus a and y minus z is x
+then
+
+00:01:08.950 --> 00:01:08.960 align:start position:0%
+then
+ 
+
+00:01:08.960 --> 00:01:11.190 align:start position:0%
+then
+the<00:01:09.040><c> resulting</c><00:01:09.600><c> equation</c><00:01:10.080><c> becomes</c><00:01:10.560><c> x</c><00:01:10.799><c> plus</c><00:01:11.040><c> a</c>
+
+00:01:11.190 --> 00:01:11.200 align:start position:0%
+the resulting equation becomes x plus a
+ 
+
+00:01:11.200 --> 00:01:14.550 align:start position:0%
+the resulting equation becomes x plus a
+over<00:01:11.439><c> 2</c><00:01:11.760><c> squared</c><00:01:12.560><c> minus</c><00:01:12.960><c> a</c><00:01:13.119><c> over</c><00:01:13.360><c> 2</c><00:01:13.600><c> squared</c><00:01:14.320><c> is</c>
+
+00:01:14.550 --> 00:01:14.560 align:start position:0%
+over 2 squared minus a over 2 squared is
+ 
+
+00:01:14.560 --> 00:01:17.109 align:start position:0%
+over 2 squared minus a over 2 squared is
+equal<00:01:14.799><c> to</c><00:01:15.040><c> x</c><00:01:15.280><c> plus</c><00:01:15.600><c> a</c><00:01:16.159><c> times</c>
+
+00:01:17.109 --> 00:01:17.119 align:start position:0%
+equal to x plus a times
+ 
+
+00:01:17.119 --> 00:01:17.990 align:start position:0%
+equal to x plus a times
+x
+
+00:01:17.990 --> 00:01:18.000 align:start position:0%
+x
+ 
+
+00:01:18.000 --> 00:01:20.390 align:start position:0%
+x
+but<00:01:18.240><c> the</c><00:01:18.400><c> latter</c><00:01:18.799><c> quantity</c><00:01:19.600><c> is</c><00:01:19.759><c> just</c><00:01:20.159><c> x</c>
+
+00:01:20.390 --> 00:01:20.400 align:start position:0%
+but the latter quantity is just x
+ 
+
+00:01:20.400 --> 00:01:23.109 align:start position:0%
+but the latter quantity is just x
+squared<00:01:20.880><c> plus</c><00:01:21.119><c> a</c><00:01:21.360><c> times</c><00:01:21.680><c> x</c>
+
+00:01:23.109 --> 00:01:23.119 align:start position:0%
+squared plus a times x
+ 
+
+00:01:23.119 --> 00:01:25.270 align:start position:0%
+squared plus a times x
+therefore<00:01:23.520><c> the</c><00:01:23.759><c> quantity</c><00:01:24.240><c> x</c><00:01:24.400><c> plus</c><00:01:24.640><c> a</c><00:01:24.799><c> over</c><00:01:25.040><c> 2</c>
+
+00:01:25.270 --> 00:01:25.280 align:start position:0%
+therefore the quantity x plus a over 2
+ 
+
+00:01:25.280 --> 00:01:28.149 align:start position:0%
+therefore the quantity x plus a over 2
+squared<00:01:25.920><c> minus</c><00:01:26.479><c> a</c><00:01:26.640><c> over</c><00:01:26.880><c> 2</c><00:01:27.119><c> squared</c><00:01:27.759><c> is</c><00:01:27.920><c> equal</c>
+
+00:01:28.149 --> 00:01:28.159 align:start position:0%
+squared minus a over 2 squared is equal
+ 
+
+00:01:28.159 --> 00:01:30.469 align:start position:0%
+squared minus a over 2 squared is equal
+to<00:01:28.400><c> x</c><00:01:28.560><c> squared</c><00:01:28.880><c> plus</c><00:01:29.200><c> ax</c>
+
+00:01:30.469 --> 00:01:30.479 align:start position:0%
+to x squared plus ax
+ 
+
+00:01:30.479 --> 00:01:32.230 align:start position:0%
+to x squared plus ax
+this<00:01:30.720><c> equation</c><00:01:31.119><c> is</c><00:01:31.280><c> known</c><00:01:31.520><c> as</c><00:01:31.600><c> completing</c><00:01:32.079><c> the</c>
+
+00:01:32.230 --> 00:01:32.240 align:start position:0%
+this equation is known as completing the
+ 
+
+00:01:32.240 --> 00:01:33.109 align:start position:0%
+this equation is known as completing the
+square
+
+00:01:33.109 --> 00:01:33.119 align:start position:0%
+square
+ 
+
+00:01:33.119 --> 00:01:34.550 align:start position:0%
+square
+and<00:01:33.200><c> therefore</c><00:01:33.840><c> we</c><00:01:34.000><c> have</c><00:01:34.240><c> used</c><00:01:34.479><c> the</c>
+
+00:01:34.550 --> 00:01:34.560 align:start position:0%
+and therefore we have used the
+ 
+
+00:01:34.560 --> 00:01:36.069 align:start position:0%
+and therefore we have used the
+difference<00:01:34.960><c> of</c><00:01:35.040><c> squares</c><00:01:35.360><c> formula</c><00:01:35.920><c> to</c>
+
+00:01:36.069 --> 00:01:36.079 align:start position:0%
+difference of squares formula to
+ 
+
+00:01:36.079 --> 00:01:37.820 align:start position:0%
+difference of squares formula to
+complete<00:01:36.400><c> the</c><00:01:36.560><c> square</c>
+
+00:01:37.820 --> 00:01:37.830 align:start position:0%
+complete the square
+ 
+
+00:01:37.830 --> 00:01:51.830 align:start position:0%
+complete the square
+[Music]
+
+00:01:51.830 --> 00:01:51.840 align:start position:0%
+ 
+ 
+
+00:01:51.840 --> 00:01:53.920 align:start position:0%
+ 
+you
+

@@ -1,0 +1,296 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.320 --> 00:00:02.629 align:start position:0%
+ 
+let's<00:00:00.640><c> solve</c><00:00:01.040><c> this</c><00:00:01.319><c> challenging</c><00:00:02.000><c> derivative</c>
+
+00:00:02.629 --> 00:00:02.639 align:start position:0%
+let's solve this challenging derivative
+ 
+
+00:00:02.639 --> 00:00:05.590 align:start position:0%
+let's solve this challenging derivative
+problem<00:00:03.040><c> step</c><00:00:03.360><c> by</c><00:00:03.679><c> step</c><00:00:04.560><c> we</c><00:00:04.680><c> need</c><00:00:04.880><c> to</c><00:00:05.040><c> find</c><00:00:05.319><c> the</c>
+
+00:00:05.590 --> 00:00:05.600 align:start position:0%
+problem step by step we need to find the
+ 
+
+00:00:05.600 --> 00:00:10.110 align:start position:0%
+problem step by step we need to find the
+derivative<00:00:06.600><c> of</c><00:00:07.279><c> y</c><00:00:07.600><c> equal</c><00:00:08.200><c> inverse</c><00:00:08.719><c> tangent</c><00:00:09.719><c> of</c>
+
+00:00:10.110 --> 00:00:10.120 align:start position:0%
+derivative of y equal inverse tangent of
+ 
+
+00:00:10.120 --> 00:00:16.310 align:start position:0%
+derivative of y equal inverse tangent of
+1<00:00:10.440><c> -</c><00:00:11.240><c> &lt;</c><00:00:11.400><c> TK</c><00:00:12.120><c> X</c><00:00:12.679><c> over</c><00:00:13.360><c> 1</c><00:00:13.759><c> +</c><00:00:14.400><c> &lt;</c><00:00:14.519><c> TK</c><00:00:14.799><c> X</c><00:00:15.639><c> the</c><00:00:15.839><c> key</c><00:00:16.160><c> to</c>
+
+00:00:16.310 --> 00:00:16.320 align:start position:0%
+1 - &lt; TK X over 1 + &lt; TK X the key to
+ 
+
+00:00:16.320 --> 00:00:18.510 align:start position:0%
+1 - &lt; TK X over 1 + &lt; TK X the key to
+solving<00:00:16.760><c> this</c><00:00:17.000><c> problem</c><00:00:17.439><c> is</c><00:00:17.560><c> to</c><00:00:17.840><c> recognize</c>
+
+00:00:18.510 --> 00:00:18.520 align:start position:0%
+solving this problem is to recognize
+ 
+
+00:00:18.520 --> 00:00:21.590 align:start position:0%
+solving this problem is to recognize
+that<00:00:18.680><c> we</c><00:00:18.800><c> can</c><00:00:19.039><c> rewrite</c><00:00:19.760><c> this</c><00:00:20.320><c> as</c><00:00:20.439><c> a</c><00:00:20.720><c> difference</c>
+
+00:00:21.590 --> 00:00:21.600 align:start position:0%
+that we can rewrite this as a difference
+ 
+
+00:00:21.600 --> 00:00:24.470 align:start position:0%
+that we can rewrite this as a difference
+of<00:00:21.880><c> inverse</c><00:00:22.439><c> tangents</c><00:00:23.439><c> there's</c><00:00:23.640><c> a</c><00:00:24.000><c> useful</c>
+
+00:00:24.470 --> 00:00:24.480 align:start position:0%
+of inverse tangents there's a useful
+ 
+
+00:00:24.480 --> 00:00:27.750 align:start position:0%
+of inverse tangents there's a useful
+identity<00:00:25.199><c> that</c><00:00:25.519><c> states</c><00:00:26.519><c> inverse</c><00:00:27.039><c> tangent</c><00:00:27.640><c> of</c>
+
+00:00:27.750 --> 00:00:27.760 align:start position:0%
+identity that states inverse tangent of
+ 
+
+00:00:27.760 --> 00:00:30.910 align:start position:0%
+identity that states inverse tangent of
+a<00:00:28.000><c> minus</c><00:00:28.400><c> inverse</c><00:00:28.960><c> tangent</c><00:00:29.800><c> of</c><00:00:30.039><c> of</c><00:00:30.240><c> b</c><00:00:30.480><c> equal</c>
+
+00:00:30.910 --> 00:00:30.920 align:start position:0%
+a minus inverse tangent of of b equal
+ 
+
+00:00:30.920 --> 00:00:36.069 align:start position:0%
+a minus inverse tangent of of b equal
+inverse<00:00:31.439><c> tangent</c><00:00:32.399><c> of</c><00:00:32.520><c> a</c><00:00:32.800><c> minus</c><00:00:33.320><c> b/</c><00:00:34.079><c> 1</c><00:00:34.480><c> +</c><00:00:35.079><c> a</c>
+
+00:00:36.069 --> 00:00:36.079 align:start position:0%
+inverse tangent of a minus b/ 1 + a
+ 
+
+00:00:36.079 --> 00:00:38.630 align:start position:0%
+inverse tangent of a minus b/ 1 + a
+looking<00:00:36.360><c> at</c><00:00:36.480><c> our</c><00:00:36.760><c> fraction</c><00:00:37.719><c> we</c><00:00:37.960><c> can</c><00:00:38.200><c> rewrite</c>
+
+00:00:38.630 --> 00:00:38.640 align:start position:0%
+looking at our fraction we can rewrite
+ 
+
+00:00:38.640 --> 00:00:43.069 align:start position:0%
+looking at our fraction we can rewrite
+it<00:00:38.920><c> as</c><00:00:39.239><c> inverse</c><00:00:39.760><c> tangent</c><00:00:40.719><c> of</c><00:00:41.120><c> 1</c><00:00:41.920><c> minus</c><00:00:42.520><c> inverse</c>
+
+00:00:43.069 --> 00:00:43.079 align:start position:0%
+it as inverse tangent of 1 minus inverse
+ 
+
+00:00:43.079 --> 00:00:46.709 align:start position:0%
+it as inverse tangent of 1 minus inverse
+tangent<00:00:44.000><c> of</c><00:00:44.280><c> squ</c><00:00:44.680><c> &lt;</c><00:00:44.800><c> TK</c><00:00:45.160><c> X</c><00:00:46.079><c> this</c><00:00:46.199><c> is</c><00:00:46.399><c> because</c>
+
+00:00:46.709 --> 00:00:46.719 align:start position:0%
+tangent of squ &lt; TK X this is because
+ 
+
+00:00:46.719 --> 00:00:49.950 align:start position:0%
+tangent of squ &lt; TK X this is because
+when<00:00:46.879><c> we</c><00:00:47.160><c> substitute</c><00:00:47.920><c> a</c><00:00:48.160><c> equals</c><00:00:48.600><c> 1</c><00:00:49.440><c> and</c><00:00:49.680><c> be</c>
+
+00:00:49.950 --> 00:00:49.960 align:start position:0%
+when we substitute a equals 1 and be
+ 
+
+00:00:49.960 --> 00:00:53.670 align:start position:0%
+when we substitute a equals 1 and be
+equal<00:00:50.520><c> sare</c><00:00:51.320><c> &lt;</c><00:00:51.480><c> TK</c><00:00:51.719><c> of</c><00:00:51.920><c> X</c><00:00:52.199><c> into</c><00:00:52.480><c> the</c><00:00:52.680><c> identity</c>
+
+00:00:53.670 --> 00:00:53.680 align:start position:0%
+equal sare &lt; TK of X into the identity
+ 
+
+00:00:53.680 --> 00:00:56.310 align:start position:0%
+equal sare &lt; TK of X into the identity
+we<00:00:53.879><c> get</c><00:00:54.079><c> our</c><00:00:54.280><c> original</c><00:00:54.920><c> expression</c><00:00:55.920><c> now</c><00:00:56.160><c> we</c>
+
+00:00:56.310 --> 00:00:56.320 align:start position:0%
+we get our original expression now we
+ 
+
+00:00:56.320 --> 00:01:00.509 align:start position:0%
+we get our original expression now we
+know<00:00:56.680><c> that</c><00:00:57.039><c> tangent</c><00:00:57.640><c> of</c><00:00:57.920><c> pi</c><00:00:58.320><c> over</c><00:00:58.559><c> 4</c><00:00:59.000><c> equal</c><00:00:59.440><c> 1</c>
+
+00:01:00.509 --> 00:01:00.519 align:start position:0%
+know that tangent of pi over 4 equal 1
+ 
+
+00:01:00.519 --> 00:01:05.670 align:start position:0%
+know that tangent of pi over 4 equal 1
+therefore<00:01:01.519><c> inverse</c><00:01:02.079><c> tangent</c><00:01:02.719><c> of</c><00:01:02.960><c> 1</c><00:01:03.399><c> =</c><00:01:04.080><c> &lt;</c><00:01:04.400><c> /</c><00:01:04.720><c> 4</c>
+
+00:01:05.670 --> 00:01:05.680 align:start position:0%
+therefore inverse tangent of 1 = &lt; / 4
+ 
+
+00:01:05.680 --> 00:01:07.429 align:start position:0%
+therefore inverse tangent of 1 = &lt; / 4
+this<00:01:05.880><c> allows</c><00:01:06.240><c> us</c><00:01:06.400><c> to</c><00:01:06.640><c> simplify</c><00:01:07.159><c> our</c>
+
+00:01:07.429 --> 00:01:07.439 align:start position:0%
+this allows us to simplify our
+ 
+
+00:01:07.439 --> 00:01:12.429 align:start position:0%
+this allows us to simplify our
+expression<00:01:08.000><c> to</c><00:01:08.720><c> Y</c><00:01:09.119><c> =</c><00:01:10.040><c> &lt;</c><00:01:10.439><c> /</c><00:01:10.799><c> 4</c><00:01:11.360><c> -</c><00:01:11.920><c> inverse</c>
+
+00:01:12.429 --> 00:01:12.439 align:start position:0%
+expression to Y = &lt; / 4 - inverse
+ 
+
+00:01:12.439 --> 00:01:16.310 align:start position:0%
+expression to Y = &lt; / 4 - inverse
+tangent<00:01:13.240><c> of</c><00:01:13.520><c> s</c><00:01:13.880><c> &lt;</c><00:01:14.000><c> TK</c><00:01:14.400><c> X</c><00:01:15.400><c> now</c><00:01:15.840><c> we</c><00:01:16.040><c> can</c>
+
+00:01:16.310 --> 00:01:16.320 align:start position:0%
+tangent of s &lt; TK X now we can
+ 
+
+00:01:16.320 --> 00:01:18.550 align:start position:0%
+tangent of s &lt; TK X now we can
+differentiate<00:01:17.080><c> this</c><00:01:17.360><c> expression</c><00:01:18.360><c> the</c>
+
+00:01:18.550 --> 00:01:18.560 align:start position:0%
+differentiate this expression the
+ 
+
+00:01:18.560 --> 00:01:21.469 align:start position:0%
+differentiate this expression the
+derivative<00:01:19.000><c> of</c><00:01:19.280><c> pi</c><00:01:19.560><c> over</c><00:01:19.799><c> 4</c><00:01:20.640><c> is</c><00:01:20.880><c> zero</c><00:01:21.280><c> since</c>
+
+00:01:21.469 --> 00:01:21.479 align:start position:0%
+derivative of pi over 4 is zero since
+ 
+
+00:01:21.479 --> 00:01:24.149 align:start position:0%
+derivative of pi over 4 is zero since
+it's<00:01:21.640><c> a</c><00:01:21.840><c> constant</c><00:01:22.720><c> for</c><00:01:22.960><c> the</c><00:01:23.159><c> inverse</c><00:01:23.680><c> tangent</c>
+
+00:01:24.149 --> 00:01:24.159 align:start position:0%
+it's a constant for the inverse tangent
+ 
+
+00:01:24.159 --> 00:01:27.190 align:start position:0%
+it's a constant for the inverse tangent
+term<00:01:24.960><c> we'll</c><00:01:25.200><c> use</c><00:01:25.439><c> the</c><00:01:25.600><c> chain</c><00:01:25.960><c> Rule</c><00:01:26.720><c> and</c><00:01:26.920><c> the</c>
+
+00:01:27.190 --> 00:01:27.200 align:start position:0%
+term we'll use the chain Rule and the
+ 
+
+00:01:27.200 --> 00:01:29.310 align:start position:0%
+term we'll use the chain Rule and the
+fact<00:01:27.759><c> that</c><00:01:27.920><c> the</c><00:01:28.119><c> derivative</c><00:01:28.600><c> of</c><00:01:28.840><c> inverse</c>
+
+00:01:29.310 --> 00:01:29.320 align:start position:0%
+fact that the derivative of inverse
+ 
+
+00:01:29.320 --> 00:01:34.510 align:start position:0%
+fact that the derivative of inverse
+tangent<00:01:29.640><c> of</c><00:01:29.960><c> U</c><00:01:30.200><c> is</c><00:01:30.520><c> 1</c><00:01:31.280><c> 1</c><00:01:31.600><c> +</c><00:01:31.920><c> u^2</c><00:01:32.600><c> *</c><00:01:33.360><c> DDX</c><00:01:34.360><c> the</c>
+
+00:01:34.510 --> 00:01:34.520 align:start position:0%
+tangent of U is 1 1 + u^2 * DDX the
+ 
+
+00:01:34.520 --> 00:01:38.190 align:start position:0%
+tangent of U is 1 1 + u^2 * DDX the
+derivative<00:01:35.000><c> of</c><00:01:35.200><c> square</c><00:01:35.640><c> &lt;</c><00:01:35.759><c> TK</c><00:01:36.040><c> X</c><00:01:36.759><c> is</c><00:01:37.000><c> 1</c><00:01:37.200><c> /</c><00:01:37.479><c> 2</c><00:01:38.079><c> &lt;</c>
+
+00:01:38.190 --> 00:01:38.200 align:start position:0%
+derivative of square &lt; TK X is 1 / 2 &lt;
+ 
+
+00:01:38.200 --> 00:01:44.030 align:start position:0%
+derivative of square &lt; TK X is 1 / 2 &lt;
+TK<00:01:38.479><c> X</c><00:01:39.479><c> substituting</c><00:01:40.200><c> this</c><00:01:40.560><c> in</c><00:01:41.399><c> we</c><00:01:41.600><c> get</c><00:01:42.280><c> -1</c><00:01:43.280><c> 1</c><00:01:43.600><c> +</c>
+
+00:01:44.030 --> 00:01:44.040 align:start position:0%
+TK X substituting this in we get -1 1 +
+ 
+
+00:01:44.040 --> 00:01:49.149 align:start position:0%
+TK X substituting this in we get -1 1 +
+x<00:01:44.320><c> *</c><00:01:44.920><c> 1</c><00:01:45.360><c> 2</c><00:01:45.960><c> otk</c><00:01:46.200><c> of</c><00:01:46.360><c> X</c><00:01:47.320><c> finally</c><00:01:48.240><c> we</c><00:01:48.360><c> can</c><00:01:48.640><c> combine</c>
+
+00:01:49.149 --> 00:01:49.159 align:start position:0%
+x * 1 2 otk of X finally we can combine
+ 
+
+00:01:49.159 --> 00:01:52.749 align:start position:0%
+x * 1 2 otk of X finally we can combine
+these<00:01:49.399><c> fractions</c><00:01:49.840><c> to</c><00:01:50.000><c> get</c><00:01:50.159><c> our</c><00:01:50.439><c> final</c><00:01:51.320><c> answer</c>
+
+00:01:52.749 --> 00:01:52.759 align:start position:0%
+these fractions to get our final answer
+ 
+
+00:01:52.759 --> 00:01:58.910 align:start position:0%
+these fractions to get our final answer
+-1/2<00:01:53.759><c> square</c><00:01:54.159><c> root</c><00:01:55.040><c> of</c><00:01:55.439><c> x</c><00:01:56.079><c> *</c><00:01:56.640><c> 1</c><00:01:56.920><c> +</c><00:01:57.240><c> x</c><00:01:58.079><c> to</c><00:01:58.399><c> verify</c>
+
+00:01:58.910 --> 00:01:58.920 align:start position:0%
+-1/2 square root of x * 1 + x to verify
+ 
+
+00:01:58.920 --> 00:02:01.270 align:start position:0%
+-1/2 square root of x * 1 + x to verify
+this<00:01:59.039><c> is</c><00:01:59.280><c> correct</c><00:02:00.079><c> we</c><00:02:00.200><c> can</c><00:02:00.399><c> check</c><00:02:00.759><c> that</c><00:02:00.960><c> this</c>
+
+00:02:01.270 --> 00:02:01.280 align:start position:0%
+this is correct we can check that this
+ 
+
+00:02:01.280 --> 00:02:03.709 align:start position:0%
+this is correct we can check that this
+matches<00:02:01.759><c> our</c><00:02:02.039><c> original</c><00:02:02.640><c> problem</c><00:02:03.520><c> the</c>
+
+00:02:03.709 --> 00:02:03.719 align:start position:0%
+matches our original problem the
+ 
+
+00:02:03.719 --> 00:02:07.749 align:start position:0%
+matches our original problem the
+derivative<00:02:04.320><c> of</c><00:02:04.600><c> inverse</c><00:02:05.119><c> tangent</c><00:02:06.119><c> of</c><00:02:06.520><c> 1</c><00:02:06.960><c> -</c><00:02:07.640><c> &lt;</c>
+
+00:02:07.749 --> 00:02:07.759 align:start position:0%
+derivative of inverse tangent of 1 - &lt;
+ 
+
+00:02:07.759 --> 00:02:12.110 align:start position:0%
+derivative of inverse tangent of 1 - &lt;
+TK<00:02:08.239><c> x/</c><00:02:09.239><c> 1</c><00:02:09.560><c> +</c><00:02:10.280><c> &lt;</c><00:02:10.399><c> TK</c><00:02:10.959><c> x</c>
+
+00:02:12.110 --> 00:02:12.120 align:start position:0%
+TK x/ 1 + &lt; TK x
+ 
+
+00:02:12.120 --> 00:02:20.080 align:start position:0%
+TK x/ 1 + &lt; TK x
+=<00:02:13.120><c> 1</c><00:02:13.400><c> /</c><00:02:13.680><c> 2</c><00:02:14.360><c> &lt;</c><00:02:14.480><c> TK</c><00:02:15.160><c> of</c><00:02:15.480><c> x</c><00:02:15.959><c> *</c><00:02:16.440><c> 1</c><00:02:16.680><c> +</c><00:02:17.080><c> x</c>
+

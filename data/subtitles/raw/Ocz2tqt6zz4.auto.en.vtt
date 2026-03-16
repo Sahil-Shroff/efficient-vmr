@@ -1,0 +1,168 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.020 --> 00:00:02.710 align:start position:0%
+ 
+foreign
+
+00:00:02.710 --> 00:00:02.720 align:start position:0%
+foreign
+ 
+
+00:00:02.720 --> 00:00:08.150 align:start position:0%
+foreign
+triangle<00:00:03.720><c> with</c><00:00:04.259><c> sides</c><00:00:04.620><c> of</c><00:00:04.740><c> length</c><00:00:05.040><c> a</c><00:00:05.279><c> b</c><00:00:06.240><c> and</c><00:00:06.960><c> c</c>
+
+00:00:08.150 --> 00:00:08.160 align:start position:0%
+triangle with sides of length a b and c
+ 
+
+00:00:08.160 --> 00:00:10.310 align:start position:0%
+triangle with sides of length a b and c
+draw<00:00:08.580><c> the</c><00:00:08.820><c> inner</c><00:00:09.179><c> circle</c><00:00:09.300><c> of</c><00:00:09.720><c> this</c><00:00:09.900><c> triangle</c>
+
+00:00:10.310 --> 00:00:10.320 align:start position:0%
+draw the inner circle of this triangle
+ 
+
+00:00:10.320 --> 00:00:12.169 align:start position:0%
+draw the inner circle of this triangle
+and<00:00:10.860><c> draw</c><00:00:11.040><c> the</c><00:00:11.219><c> in</c><00:00:11.400><c> radii</c><00:00:11.820><c> that</c><00:00:12.059><c> are</c>
+
+00:00:12.169 --> 00:00:12.179 align:start position:0%
+and draw the in radii that are
+ 
+
+00:00:12.179 --> 00:00:14.270 align:start position:0%
+and draw the in radii that are
+perpendicular<00:00:12.660><c> to</c><00:00:12.840><c> the</c><00:00:13.019><c> three</c><00:00:13.200><c> sides</c><00:00:13.679><c> call</c>
+
+00:00:14.270 --> 00:00:14.280 align:start position:0%
+perpendicular to the three sides call
+ 
+
+00:00:14.280 --> 00:00:16.609 align:start position:0%
+perpendicular to the three sides call
+the<00:00:14.519><c> length</c><00:00:14.700><c> of</c><00:00:14.820><c> the</c><00:00:14.940><c> in</c><00:00:15.059><c> radius</c><00:00:15.420><c> R</c><00:00:15.660><c> the</c><00:00:16.379><c> angle</c>
+
+00:00:16.609 --> 00:00:16.619 align:start position:0%
+the length of the in radius R the angle
+ 
+
+00:00:16.619 --> 00:00:19.130 align:start position:0%
+the length of the in radius R the angle
+bisectors<00:00:17.340><c> meet</c><00:00:17.699><c> at</c><00:00:18.060><c> the</c><00:00:18.240><c> in</c><00:00:18.420><c> center</c><00:00:18.660><c> of</c><00:00:19.020><c> the</c>
+
+00:00:19.130 --> 00:00:19.140 align:start position:0%
+bisectors meet at the in center of the
+ 
+
+00:00:19.140 --> 00:00:21.410 align:start position:0%
+bisectors meet at the in center of the
+triangle<00:00:19.619><c> and</c><00:00:20.100><c> together</c><00:00:20.220><c> they</c><00:00:20.580><c> create</c><00:00:20.820><c> these</c>
+
+00:00:21.410 --> 00:00:21.420 align:start position:0%
+triangle and together they create these
+ 
+
+00:00:21.420 --> 00:00:23.390 align:start position:0%
+triangle and together they create these
+three<00:00:21.720><c> triangular</c><00:00:22.320><c> regions</c><00:00:22.740><c> which</c><00:00:23.039><c> we</c><00:00:23.220><c> can</c>
+
+00:00:23.390 --> 00:00:23.400 align:start position:0%
+three triangular regions which we can
+ 
+
+00:00:23.400 --> 00:00:25.370 align:start position:0%
+three triangular regions which we can
+unfold
+
+00:00:25.370 --> 00:00:25.380 align:start position:0%
+unfold
+ 
+
+00:00:25.380 --> 00:00:27.410 align:start position:0%
+unfold
+each<00:00:25.859><c> of</c><00:00:25.980><c> these</c><00:00:26.100><c> triangles</c><00:00:26.519><c> has</c><00:00:26.760><c> a</c><00:00:27.000><c> height</c><00:00:27.119><c> of</c>
+
+00:00:27.410 --> 00:00:27.420 align:start position:0%
+each of these triangles has a height of
+ 
+
+00:00:27.420 --> 00:00:30.589 align:start position:0%
+each of these triangles has a height of
+length<00:00:27.720><c> R</c><00:00:28.019><c> so</c><00:00:28.560><c> the</c><00:00:28.800><c> area</c><00:00:28.980><c> of</c><00:00:29.279><c> the</c><00:00:29.519><c> triangle</c><00:00:30.000><c> is</c>
+
+00:00:30.589 --> 00:00:30.599 align:start position:0%
+length R so the area of the triangle is
+ 
+
+00:00:30.599 --> 00:00:33.770 align:start position:0%
+length R so the area of the triangle is
+one<00:00:30.960><c> half</c><00:00:31.199><c> times</c><00:00:31.800><c> a</c><00:00:32.099><c> times</c><00:00:32.340><c> R</c><00:00:32.700><c> plus</c><00:00:33.360><c> one</c><00:00:33.600><c> half</c>
+
+00:00:33.770 --> 00:00:33.780 align:start position:0%
+one half times a times R plus one half
+ 
+
+00:00:33.780 --> 00:00:36.110 align:start position:0%
+one half times a times R plus one half
+times<00:00:34.079><c> B</c><00:00:34.380><c> times</c><00:00:34.620><c> R</c><00:00:34.860><c> plus</c><00:00:35.160><c> one-half</c><00:00:35.760><c> times</c><00:00:35.880><c> c</c>
+
+00:00:36.110 --> 00:00:36.120 align:start position:0%
+times B times R plus one-half times c
+ 
+
+00:00:36.120 --> 00:00:38.569 align:start position:0%
+times B times R plus one-half times c
+times<00:00:36.360><c> R</c><00:00:36.660><c> factoring</c><00:00:37.559><c> this</c><00:00:37.739><c> out</c><00:00:37.920><c> we</c><00:00:38.280><c> see</c><00:00:38.399><c> that</c>
+
+00:00:38.569 --> 00:00:38.579 align:start position:0%
+times R factoring this out we see that
+ 
+
+00:00:38.579 --> 00:00:40.970 align:start position:0%
+times R factoring this out we see that
+the<00:00:38.760><c> area</c><00:00:38.940><c> of</c><00:00:39.180><c> the</c><00:00:39.300><c> triangle</c><00:00:39.719><c> is</c><00:00:40.200><c> R</c><00:00:40.440><c> times</c><00:00:40.739><c> the</c>
+
+00:00:40.970 --> 00:00:40.980 align:start position:0%
+the area of the triangle is R times the
+ 
+
+00:00:40.980 --> 00:00:43.490 align:start position:0%
+the area of the triangle is R times the
+quantity<00:00:41.280><c> a</c><00:00:41.820><c> plus</c><00:00:42.059><c> b</c><00:00:42.300><c> plus</c><00:00:42.540><c> C</c><00:00:42.780><c> all</c><00:00:43.020><c> divided</c><00:00:43.379><c> by</c>
+
+00:00:43.490 --> 00:00:43.500 align:start position:0%
+quantity a plus b plus C all divided by
+ 
+
+00:00:43.500 --> 00:00:44.389 align:start position:0%
+quantity a plus b plus C all divided by
+two
+
+00:00:44.389 --> 00:00:44.399 align:start position:0%
+two
+ 
+
+00:00:44.399 --> 00:00:46.490 align:start position:0%
+two
+so<00:00:44.879><c> the</c><00:00:45.059><c> area</c><00:00:45.180><c> of</c><00:00:45.420><c> a</c><00:00:45.540><c> triangle</c><00:00:45.960><c> is</c><00:00:46.140><c> given</c><00:00:46.379><c> by</c>
+
+00:00:46.490 --> 00:00:46.500 align:start position:0%
+so the area of a triangle is given by
+ 
+
+00:00:46.500 --> 00:00:47.690 align:start position:0%
+so the area of a triangle is given by
+the<00:00:46.680><c> product</c><00:00:46.800><c> of</c><00:00:47.040><c> the</c><00:00:47.219><c> length</c><00:00:47.399><c> of</c><00:00:47.520><c> the</c><00:00:47.579><c> in</c>
+
+00:00:47.690 --> 00:00:47.700 align:start position:0%
+the product of the length of the in
+ 
+
+00:00:47.700 --> 00:00:51.079 align:start position:0%
+the product of the length of the in
+radius<00:00:48.059><c> and</c><00:00:48.300><c> the</c><00:00:48.420><c> semi-perimeter</c>
+

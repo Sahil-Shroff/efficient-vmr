@@ -1,0 +1,736 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.900 --> 00:00:02.080 align:start position:0%
+ 
+foreign
+
+00:00:02.080 --> 00:00:02.090 align:start position:0%
+foreign
+ 
+
+00:00:02.090 --> 00:00:06.889 align:start position:0%
+foreign
+[Music]
+
+00:00:06.889 --> 00:00:06.899 align:start position:0%
+[Music]
+ 
+
+00:00:06.899 --> 00:00:09.950 align:start position:0%
+[Music]
+suppose<00:00:07.740><c> we</c><00:00:07.919><c> want</c><00:00:08.099><c> to</c><00:00:08.280><c> walk</c><00:00:08.519><c> from</c><00:00:09.059><c> the</c><00:00:09.360><c> point</c><00:00:09.599><c> 0</c>
+
+00:00:09.950 --> 00:00:09.960 align:start position:0%
+suppose we want to walk from the point 0
+ 
+
+00:00:09.960 --> 00:00:13.370 align:start position:0%
+suppose we want to walk from the point 0
+0<00:00:10.260><c> to</c><00:00:10.740><c> the</c><00:00:10.920><c> point</c><00:00:11.099><c> n</c><00:00:11.400><c> comma</c><00:00:11.820><c> n</c><00:00:12.059><c> Only</c><00:00:12.900><c> traveling</c>
+
+00:00:13.370 --> 00:00:13.380 align:start position:0%
+0 to the point n comma n Only traveling
+ 
+
+00:00:13.380 --> 00:00:15.650 align:start position:0%
+0 to the point n comma n Only traveling
+north<00:00:13.679><c> and</c><00:00:13.920><c> east</c><00:00:14.160><c> and</c><00:00:14.759><c> not</c><00:00:15.000><c> passing</c><00:00:15.360><c> below</c>
+
+00:00:15.650 --> 00:00:15.660 align:start position:0%
+north and east and not passing below
+ 
+
+00:00:15.660 --> 00:00:18.710 align:start position:0%
+north and east and not passing below
+this<00:00:15.960><c> diagonal</c><00:00:16.379><c> Y</c><00:00:16.619><c> equals</c><00:00:17.039><c> X</c>
+
+00:00:18.710 --> 00:00:18.720 align:start position:0%
+this diagonal Y equals X
+ 
+
+00:00:18.720 --> 00:00:20.750 align:start position:0%
+this diagonal Y equals X
+this<00:00:19.199><c> problem</c><00:00:19.380><c> consists</c><00:00:19.980><c> of</c><00:00:20.100><c> counting</c><00:00:20.520><c> what</c>
+
+00:00:20.750 --> 00:00:20.760 align:start position:0%
+this problem consists of counting what
+ 
+
+00:00:20.760 --> 00:00:22.970 align:start position:0%
+this problem consists of counting what
+are<00:00:20.939><c> called</c><00:00:21.119><c> the</c><00:00:21.420><c> Northeast</c><00:00:21.840><c> integer</c><00:00:22.619><c> lattice</c>
+
+00:00:22.970 --> 00:00:22.980 align:start position:0%
+are called the Northeast integer lattice
+ 
+
+00:00:22.980 --> 00:00:25.490 align:start position:0%
+are called the Northeast integer lattice
+paths<00:00:23.460><c> and</c><00:00:23.939><c> they</c><00:00:24.060><c> look</c><00:00:24.300><c> like</c><00:00:24.539><c> this</c>
+
+00:00:25.490 --> 00:00:25.500 align:start position:0%
+paths and they look like this
+ 
+
+00:00:25.500 --> 00:00:28.550 align:start position:0%
+paths and they look like this
+in<00:00:26.100><c> a</c><00:00:26.220><c> previous</c><00:00:26.400><c> video</c><00:00:26.820><c> I</c><00:00:27.480><c> enumerated</c><00:00:28.019><c> lots</c><00:00:28.500><c> of</c>
+
+00:00:28.550 --> 00:00:28.560 align:start position:0%
+in a previous video I enumerated lots of
+ 
+
+00:00:28.560 --> 00:00:30.769 align:start position:0%
+in a previous video I enumerated lots of
+these<00:00:28.800><c> and</c><00:00:29.340><c> showed</c><00:00:29.640><c> how</c><00:00:29.760><c> to</c><00:00:29.880><c> find</c><00:00:30.000><c> a</c><00:00:30.240><c> recursive</c>
+
+00:00:30.769 --> 00:00:30.779 align:start position:0%
+these and showed how to find a recursive
+ 
+
+00:00:30.779 --> 00:00:32.749 align:start position:0%
+these and showed how to find a recursive
+formula<00:00:31.260><c> for</c><00:00:31.619><c> counting</c><00:00:31.980><c> the</c><00:00:32.160><c> number</c><00:00:32.340><c> of</c><00:00:32.520><c> such</c>
+
+00:00:32.749 --> 00:00:32.759 align:start position:0%
+formula for counting the number of such
+ 
+
+00:00:32.759 --> 00:00:34.729 align:start position:0%
+formula for counting the number of such
+lattice<00:00:33.239><c> paths</c>
+
+00:00:34.729 --> 00:00:34.739 align:start position:0%
+lattice paths
+ 
+
+00:00:34.739 --> 00:00:36.709 align:start position:0%
+lattice paths
+right<00:00:35.340><c> here</c><00:00:35.579><c> we</c><00:00:35.820><c> see</c><00:00:35.940><c> that</c><00:00:36.180><c> the</c><00:00:36.420><c> first</c><00:00:36.540><c> view</c>
+
+00:00:36.709 --> 00:00:36.719 align:start position:0%
+right here we see that the first view
+ 
+
+00:00:36.719 --> 00:00:40.729 align:start position:0%
+right here we see that the first view
+values<00:00:37.200><c> of</c><00:00:37.320><c> this</c><00:00:37.559><c> sequence</c><00:00:38.000><c> are</c><00:00:39.000><c> one</c><00:00:39.480><c> one</c><00:00:40.020><c> two</c>
+
+00:00:40.729 --> 00:00:40.739 align:start position:0%
+values of this sequence are one one two
+ 
+
+00:00:40.739 --> 00:00:44.810 align:start position:0%
+values of this sequence are one one two
+five<00:00:41.460><c> Fourteen</c><00:00:42.360><c> and</c><00:00:43.200><c> here</c><00:00:43.559><c> we</c><00:00:43.920><c> see</c><00:00:44.040><c> the</c><00:00:44.340><c> 42</c>
+
+00:00:44.810 --> 00:00:44.820 align:start position:0%
+five Fourteen and here we see the 42
+ 
+
+00:00:44.820 --> 00:00:48.650 align:start position:0%
+five Fourteen and here we see the 42
+lattice<00:00:45.300><c> paths</c><00:00:45.660><c> traveling</c><00:00:46.500><c> from</c><00:00:46.860><c> 0</c><00:00:47.040><c> 0</c><00:00:47.340><c> to</c><00:00:47.700><c> 5</c><00:00:48.059><c> 5.</c>
+
+00:00:48.650 --> 00:00:48.660 align:start position:0%
+lattice paths traveling from 0 0 to 5 5.
+ 
+
+00:00:48.660 --> 00:00:51.830 align:start position:0%
+lattice paths traveling from 0 0 to 5 5.
+as<00:00:49.440><c> I</c><00:00:49.620><c> said</c><00:00:49.739><c> we</c><00:00:50.399><c> know</c><00:00:50.579><c> already</c><00:00:50.940><c> how</c><00:00:51.420><c> to</c><00:00:51.539><c> find</c><00:00:51.660><c> a</c>
+
+00:00:51.830 --> 00:00:51.840 align:start position:0%
+as I said we know already how to find a
+ 
+
+00:00:51.840 --> 00:00:54.410 align:start position:0%
+as I said we know already how to find a
+recursion<00:00:52.379><c> for</c><00:00:52.739><c> this</c><00:00:52.920><c> sequence</c><00:00:53.340><c> but</c><00:00:54.120><c> if</c><00:00:54.300><c> we</c>
+
+00:00:54.410 --> 00:00:54.420 align:start position:0%
+recursion for this sequence but if we
+ 
+
+00:00:54.420 --> 00:00:56.090 align:start position:0%
+recursion for this sequence but if we
+let<00:00:54.600><c> C</c><00:00:54.840><c> sub</c><00:00:55.020><c> n</c><00:00:55.199><c> be</c><00:00:55.440><c> the</c><00:00:55.620><c> number</c><00:00:55.739><c> of</c><00:00:55.980><c> such</c>
+
+00:00:56.090 --> 00:00:56.100 align:start position:0%
+let C sub n be the number of such
+ 
+
+00:00:56.100 --> 00:00:59.029 align:start position:0%
+let C sub n be the number of such
+lattice<00:00:56.579><c> pass</c><00:00:56.820><c> to</c><00:00:57.239><c> n</c><00:00:57.360><c> comma</c><00:00:57.719><c> n</c><00:00:57.840><c> can</c><00:00:58.559><c> we</c><00:00:58.800><c> now</c>
+
+00:00:59.029 --> 00:00:59.039 align:start position:0%
+lattice pass to n comma n can we now
+ 
+
+00:00:59.039 --> 00:01:01.250 align:start position:0%
+lattice pass to n comma n can we now
+find<00:00:59.520><c> a</c><00:00:59.820><c> closed</c><00:01:00.180><c> formula</c><00:01:00.539><c> for</c><00:01:00.719><c> this</c><00:01:00.840><c> integer</c>
+
+00:01:01.250 --> 00:01:01.260 align:start position:0%
+find a closed formula for this integer
+ 
+
+00:01:01.260 --> 00:01:03.009 align:start position:0%
+find a closed formula for this integer
+sequence
+
+00:01:03.009 --> 00:01:03.019 align:start position:0%
+sequence
+ 
+
+00:01:03.019 --> 00:01:05.450 align:start position:0%
+sequence
+here's<00:01:04.019><c> one</c><00:01:04.260><c> way</c><00:01:04.500><c> to</c><00:01:04.739><c> provide</c><00:01:04.979><c> a</c><00:01:05.159><c> closed</c>
+
+00:01:05.450 --> 00:01:05.460 align:start position:0%
+here's one way to provide a closed
+ 
+
+00:01:05.460 --> 00:01:07.130 align:start position:0%
+here's one way to provide a closed
+formula<00:01:05.760><c> for</c><00:01:06.000><c> the</c><00:01:06.119><c> number</c><00:01:06.299><c> of</c><00:01:06.420><c> such</c><00:01:06.659><c> paths</c>
+
+00:01:07.130 --> 00:01:07.140 align:start position:0%
+formula for the number of such paths
+ 
+
+00:01:07.140 --> 00:01:09.710 align:start position:0%
+formula for the number of such paths
+here<00:01:07.799><c> we</c><00:01:07.979><c> let</c><00:01:08.159><c> N</c><00:01:08.400><c> equal</c><00:01:08.580><c> 5</c><00:01:09.000><c> represent</c><00:01:09.540><c> the</c>
+
+00:01:09.710 --> 00:01:09.720 align:start position:0%
+here we let N equal 5 represent the
+ 
+
+00:01:09.720 --> 00:01:12.050 align:start position:0%
+here we let N equal 5 represent the
+general<00:01:09.900><c> situation</c><00:01:10.580><c> instead</c><00:01:11.580><c> of</c><00:01:11.700><c> counting</c>
+
+00:01:12.050 --> 00:01:12.060 align:start position:0%
+general situation instead of counting
+ 
+
+00:01:12.060 --> 00:01:13.969 align:start position:0%
+general situation instead of counting
+the<00:01:12.240><c> restricted</c><00:01:12.659><c> lattice</c><00:01:13.020><c> paths</c><00:01:13.380><c> we</c><00:01:13.860><c> can</c>
+
+00:01:13.969 --> 00:01:13.979 align:start position:0%
+the restricted lattice paths we can
+ 
+
+00:01:13.979 --> 00:01:15.950 align:start position:0%
+the restricted lattice paths we can
+first<00:01:14.220><c> enumerate</c><00:01:14.760><c> all</c><00:01:15.180><c> the</c><00:01:15.299><c> lattice</c><00:01:15.600><c> paths</c>
+
+00:01:15.950 --> 00:01:15.960 align:start position:0%
+first enumerate all the lattice paths
+ 
+
+00:01:15.960 --> 00:01:18.050 align:start position:0%
+first enumerate all the lattice paths
+traveling<00:01:16.260><c> Northeast</c><00:01:16.680><c> they</c><00:01:17.100><c> go</c><00:01:17.280><c> from</c><00:01:17.400><c> 0</c><00:01:17.640><c> 0</c><00:01:17.880><c> to</c>
+
+00:01:18.050 --> 00:01:18.060 align:start position:0%
+traveling Northeast they go from 0 0 to
+ 
+
+00:01:18.060 --> 00:01:20.690 align:start position:0%
+traveling Northeast they go from 0 0 to
+n<00:01:18.240><c> n</c><00:01:18.479><c> in</c><00:01:19.200><c> a</c><00:01:19.320><c> previous</c><00:01:19.380><c> video</c><00:01:19.740><c> I</c><00:01:20.220><c> showed</c><00:01:20.580><c> that</c>
+
+00:01:20.690 --> 00:01:20.700 align:start position:0%
+n n in a previous video I showed that
+ 
+
+00:01:20.700 --> 00:01:21.830 align:start position:0%
+n n in a previous video I showed that
+this<00:01:20.820><c> is</c><00:01:20.939><c> counted</c><00:01:21.180><c> by</c><00:01:21.360><c> a</c><00:01:21.479><c> binomial</c>
+
+00:01:21.830 --> 00:01:21.840 align:start position:0%
+this is counted by a binomial
+ 
+
+00:01:21.840 --> 00:01:24.050 align:start position:0%
+this is counted by a binomial
+coefficient<00:01:22.380><c> but</c><00:01:22.979><c> we</c><00:01:23.159><c> want</c><00:01:23.280><c> to</c><00:01:23.400><c> avoid</c><00:01:23.759><c> the</c>
+
+00:01:24.050 --> 00:01:24.060 align:start position:0%
+coefficient but we want to avoid the
+ 
+
+00:01:24.060 --> 00:01:27.109 align:start position:0%
+coefficient but we want to avoid the
+paths<00:01:24.540><c> that</c><00:01:24.900><c> pass</c><00:01:25.200><c> below</c><00:01:25.680><c> Y</c><00:01:25.860><c> equals</c><00:01:26.280><c> X</c><00:01:26.460><c> those</c>
+
+00:01:27.109 --> 00:01:27.119 align:start position:0%
+paths that pass below Y equals X those
+ 
+
+00:01:27.119 --> 00:01:28.789 align:start position:0%
+paths that pass below Y equals X those
+must<00:01:27.360><c> be</c><00:01:27.479><c> the</c><00:01:27.659><c> ones</c><00:01:27.840><c> that</c><00:01:28.080><c> intersect</c><00:01:28.560><c> this</c>
+
+00:01:28.789 --> 00:01:28.799 align:start position:0%
+must be the ones that intersect this
+ 
+
+00:01:28.799 --> 00:01:31.010 align:start position:0%
+must be the ones that intersect this
+line<00:01:28.979><c> y</c><00:01:29.280><c> equals</c><00:01:29.640><c> x</c><00:01:29.759><c> minus</c><00:01:30.119><c> 1.</c>
+
+00:01:31.010 --> 00:01:31.020 align:start position:0%
+line y equals x minus 1.
+ 
+
+00:01:31.020 --> 00:01:33.950 align:start position:0%
+line y equals x minus 1.
+for<00:01:31.799><c> each</c><00:01:32.040><c> such</c><00:01:32.280><c> path</c><00:01:32.640><c> that</c><00:01:33.240><c> intersects</c><00:01:33.840><c> the</c>
+
+00:01:33.950 --> 00:01:33.960 align:start position:0%
+for each such path that intersects the
+ 
+
+00:01:33.960 --> 00:01:36.530 align:start position:0%
+for each such path that intersects the
+red<00:01:34.140><c> line</c><00:01:34.380><c> we</c><00:01:34.979><c> can</c><00:01:35.100><c> reflect</c><00:01:35.640><c> the</c><00:01:36.119><c> remaining</c>
+
+00:01:36.530 --> 00:01:36.540 align:start position:0%
+red line we can reflect the remaining
+ 
+
+00:01:36.540 --> 00:01:38.210 align:start position:0%
+red line we can reflect the remaining
+part<00:01:36.780><c> of</c><00:01:37.020><c> the</c><00:01:37.140><c> path</c><00:01:37.320><c> after</c><00:01:37.799><c> the</c><00:01:38.040><c> first</c>
+
+00:01:38.210 --> 00:01:38.220 align:start position:0%
+part of the path after the first
+ 
+
+00:01:38.220 --> 00:01:41.330 align:start position:0%
+part of the path after the first
+intersection<00:01:38.960><c> across</c><00:01:39.960><c> that</c><00:01:40.200><c> line</c>
+
+00:01:41.330 --> 00:01:41.340 align:start position:0%
+intersection across that line
+ 
+
+00:01:41.340 --> 00:01:44.149 align:start position:0%
+intersection across that line
+here<00:01:41.820><c> we</c><00:01:42.000><c> do</c><00:01:42.180><c> it</c><00:01:42.360><c> with</c><00:01:42.780><c> all</c><00:01:43.079><c> of</c><00:01:43.200><c> the</c><00:01:43.380><c> lines</c><00:01:43.680><c> that</c>
+
+00:01:44.149 --> 00:01:44.159 align:start position:0%
+here we do it with all of the lines that
+ 
+
+00:01:44.159 --> 00:01:46.069 align:start position:0%
+here we do it with all of the lines that
+we<00:01:44.340><c> don't</c><00:01:44.520><c> want</c><00:01:44.700><c> to</c><00:01:44.880><c> include</c><00:01:45.240><c> in</c><00:01:45.720><c> our</c><00:01:45.900><c> final</c>
+
+00:01:46.069 --> 00:01:46.079 align:start position:0%
+we don't want to include in our final
+ 
+
+00:01:46.079 --> 00:01:47.080 align:start position:0%
+we don't want to include in our final
+count
+
+00:01:47.080 --> 00:01:47.090 align:start position:0%
+count
+ 
+
+00:01:47.090 --> 00:01:50.330 align:start position:0%
+count
+[Music]
+
+00:01:50.330 --> 00:01:50.340 align:start position:0%
+[Music]
+ 
+
+00:01:50.340 --> 00:01:53.810 align:start position:0%
+[Music]
+as<00:01:50.880><c> we</c><00:01:51.060><c> reflect</c><00:01:51.600><c> and</c><00:01:52.020><c> remove</c><00:01:52.320><c> the</c><00:01:53.159><c> bad</c><00:01:53.340><c> lattice</c>
+
+00:01:53.810 --> 00:01:53.820 align:start position:0%
+as we reflect and remove the bad lattice
+ 
+
+00:01:53.820 --> 00:01:56.510 align:start position:0%
+as we reflect and remove the bad lattice
+paths<00:01:54.299><c> we</c><00:01:54.899><c> notice</c><00:01:55.259><c> something</c><00:01:55.560><c> special</c><00:01:55.979><c> about</c>
+
+00:01:56.510 --> 00:01:56.520 align:start position:0%
+paths we notice something special about
+ 
+
+00:01:56.520 --> 00:01:59.149 align:start position:0%
+paths we notice something special about
+all<00:01:56.939><c> of</c><00:01:57.060><c> these</c><00:01:57.240><c> Reflections</c><00:01:57.899><c> look</c><00:01:58.799><c> at</c><00:01:58.979><c> what</c>
+
+00:01:59.149 --> 00:01:59.159 align:start position:0%
+all of these Reflections look at what
+ 
+
+00:01:59.159 --> 00:02:01.130 align:start position:0%
+all of these Reflections look at what
+happens<00:01:59.340><c> to</c><00:01:59.700><c> the</c><00:01:59.939><c> end</c><00:02:00.180><c> point</c><00:02:00.420><c> of</c><00:02:00.899><c> these</c>
+
+00:02:01.130 --> 00:02:01.140 align:start position:0%
+happens to the end point of these
+ 
+
+00:02:01.140 --> 00:02:03.590 align:start position:0%
+happens to the end point of these
+lattice<00:02:01.500><c> paths</c><00:02:01.920><c> they</c><00:02:02.880><c> all</c><00:02:03.119><c> seem</c><00:02:03.360><c> to</c><00:02:03.479><c> be</c>
+
+00:02:03.590 --> 00:02:03.600 align:start position:0%
+lattice paths they all seem to be
+ 
+
+00:02:03.600 --> 00:02:05.929 align:start position:0%
+lattice paths they all seem to be
+hitting<00:02:04.020><c> on</c><00:02:04.259><c> the</c><00:02:04.500><c> same</c><00:02:04.680><c> point</c><00:02:05.040><c> so</c><00:02:05.640><c> what</c><00:02:05.820><c> we're</c>
+
+00:02:05.929 --> 00:02:05.939 align:start position:0%
+hitting on the same point so what we're
+ 
+
+00:02:05.939 --> 00:02:07.670 align:start position:0%
+hitting on the same point so what we're
+getting<00:02:06.180><c> from</c><00:02:06.659><c> this</c><00:02:06.899><c> collection</c><00:02:07.320><c> of</c>
+
+00:02:07.670 --> 00:02:07.680 align:start position:0%
+getting from this collection of
+ 
+
+00:02:07.680 --> 00:02:09.830 align:start position:0%
+getting from this collection of
+reflected<00:02:08.099><c> lattice</c><00:02:08.520><c> paths</c><00:02:08.880><c> seems</c><00:02:09.479><c> to</c><00:02:09.539><c> be</c><00:02:09.660><c> a</c>
+
+00:02:09.830 --> 00:02:09.840 align:start position:0%
+reflected lattice paths seems to be a
+ 
+
+00:02:09.840 --> 00:02:11.809 align:start position:0%
+reflected lattice paths seems to be a
+collection<00:02:10.080><c> of</c><00:02:10.319><c> lattice</c><00:02:10.679><c> paths</c><00:02:11.039><c> that</c><00:02:11.580><c> still</c>
+
+00:02:11.809 --> 00:02:11.819 align:start position:0%
+collection of lattice paths that still
+ 
+
+00:02:11.819 --> 00:02:14.630 align:start position:0%
+collection of lattice paths that still
+starts<00:02:12.180><c> at</c><00:02:12.360><c> the</c><00:02:12.540><c> origin</c><00:02:13.020><c> zero</c><00:02:13.500><c> zero</c><00:02:13.800><c> but</c><00:02:14.340><c> this</c>
+
+00:02:14.630 --> 00:02:14.640 align:start position:0%
+starts at the origin zero zero but this
+ 
+
+00:02:14.640 --> 00:02:19.970 align:start position:0%
+starts at the origin zero zero but this
+time<00:02:14.819><c> ends</c><00:02:15.599><c> at</c><00:02:15.780><c> a</c><00:02:15.959><c> different</c><00:02:16.080><c> point</c>
+
+00:02:19.970 --> 00:02:19.980 align:start position:0%
+ 
+ 
+
+00:02:19.980 --> 00:02:22.490 align:start position:0%
+ 
+in<00:02:20.700><c> fact</c><00:02:20.879><c> all</c><00:02:21.360><c> of</c><00:02:21.480><c> the</c><00:02:21.660><c> reflected</c><00:02:22.080><c> lattice</c>
+
+00:02:22.490 --> 00:02:22.500 align:start position:0%
+in fact all of the reflected lattice
+ 
+
+00:02:22.500 --> 00:02:24.770 align:start position:0%
+in fact all of the reflected lattice
+paths<00:02:22.860><c> end</c><00:02:23.160><c> at</c><00:02:23.340><c> the</c><00:02:23.459><c> point</c><00:02:23.580><c> n</c><00:02:23.879><c> plus</c><00:02:24.000><c> 1</c><00:02:24.239><c> comma</c><00:02:24.660><c> n</c>
+
+00:02:24.770 --> 00:02:24.780 align:start position:0%
+paths end at the point n plus 1 comma n
+ 
+
+00:02:24.780 --> 00:02:26.690 align:start position:0%
+paths end at the point n plus 1 comma n
+minus<00:02:25.140><c> 1</c><00:02:25.260><c> which</c><00:02:25.560><c> is</c><00:02:25.680><c> the</c><00:02:25.860><c> reflection</c><00:02:26.220><c> of</c><00:02:26.580><c> the</c>
+
+00:02:26.690 --> 00:02:26.700 align:start position:0%
+minus 1 which is the reflection of the
+ 
+
+00:02:26.700 --> 00:02:29.510 align:start position:0%
+minus 1 which is the reflection of the
+point<00:02:26.879><c> n</c><00:02:27.180><c> n</c><00:02:27.420><c> over</c><00:02:27.780><c> the</c><00:02:28.020><c> red</c><00:02:28.140><c> dotted</c><00:02:28.620><c> line</c><00:02:28.800><c> but</c>
+
+00:02:29.510 --> 00:02:29.520 align:start position:0%
+point n n over the red dotted line but
+ 
+
+00:02:29.520 --> 00:02:31.250 align:start position:0%
+point n n over the red dotted line but
+now<00:02:29.640><c> if</c><00:02:29.819><c> we</c><00:02:30.000><c> enumerate</c><00:02:30.480><c> all</c><00:02:30.780><c> the</c><00:02:30.900><c> Northeast</c>
+
+00:02:31.250 --> 00:02:31.260 align:start position:0%
+now if we enumerate all the Northeast
+ 
+
+00:02:31.260 --> 00:02:33.470 align:start position:0%
+now if we enumerate all the Northeast
+lattice<00:02:31.739><c> paths</c><00:02:32.099><c> from</c><00:02:32.280><c> 0</c><00:02:32.459><c> 0</c><00:02:32.700><c> to</c><00:02:33.060><c> the</c><00:02:33.180><c> point</c><00:02:33.300><c> n</c>
+
+00:02:33.470 --> 00:02:33.480 align:start position:0%
+lattice paths from 0 0 to the point n
+ 
+
+00:02:33.480 --> 00:02:35.990 align:start position:0%
+lattice paths from 0 0 to the point n
+plus<00:02:33.660><c> 1</c><00:02:33.840><c> comma</c><00:02:34.200><c> n</c><00:02:34.319><c> minus</c><00:02:34.739><c> one</c><00:02:34.920><c> we</c><00:02:35.640><c> see</c><00:02:35.760><c> that</c>
+
+00:02:35.990 --> 00:02:36.000 align:start position:0%
+plus 1 comma n minus one we see that
+ 
+
+00:02:36.000 --> 00:02:38.089 align:start position:0%
+plus 1 comma n minus one we see that
+each<00:02:36.239><c> of</c><00:02:36.360><c> them</c><00:02:36.540><c> crosses</c><00:02:37.140><c> the</c><00:02:37.319><c> red</c><00:02:37.440><c> dotted</c><00:02:37.920><c> line</c>
+
+00:02:38.089 --> 00:02:38.099 align:start position:0%
+each of them crosses the red dotted line
+ 
+
+00:02:38.099 --> 00:02:40.430 align:start position:0%
+each of them crosses the red dotted line
+and<00:02:38.580><c> therefore</c><00:02:39.000><c> must</c><00:02:39.599><c> have</c><00:02:39.780><c> been</c><00:02:39.959><c> one</c><00:02:40.200><c> of</c><00:02:40.319><c> the</c>
+
+00:02:40.430 --> 00:02:40.440 align:start position:0%
+and therefore must have been one of the
+ 
+
+00:02:40.440 --> 00:02:43.009 align:start position:0%
+and therefore must have been one of the
+reflected<00:02:40.920><c> paths</c><00:02:41.459><c> because</c><00:02:42.300><c> the</c><00:02:42.599><c> reflection</c>
+
+00:02:43.009 --> 00:02:43.019 align:start position:0%
+reflected paths because the reflection
+ 
+
+00:02:43.019 --> 00:02:45.589 align:start position:0%
+reflected paths because the reflection
+process<00:02:43.560><c> is</c><00:02:43.980><c> invertible</c><00:02:44.519><c> we</c><00:02:45.120><c> see</c><00:02:45.239><c> there's</c><00:02:45.420><c> a</c>
+
+00:02:45.589 --> 00:02:45.599 align:start position:0%
+process is invertible we see there's a
+ 
+
+00:02:45.599 --> 00:02:47.570 align:start position:0%
+process is invertible we see there's a
+one-to-one<00:02:46.080><c> correspondence</c><00:02:46.739><c> between</c><00:02:47.220><c> the</c>
+
+00:02:47.570 --> 00:02:47.580 align:start position:0%
+one-to-one correspondence between the
+ 
+
+00:02:47.580 --> 00:02:50.809 align:start position:0%
+one-to-one correspondence between the
+bad<00:02:47.819><c> paths</c><00:02:48.360><c> traveling</c><00:02:49.019><c> to</c><00:02:49.140><c> n</c><00:02:49.319><c> comma</c><00:02:49.739><c> n</c><00:02:49.920><c> and</c><00:02:50.640><c> all</c>
+
+00:02:50.809 --> 00:02:50.819 align:start position:0%
+bad paths traveling to n comma n and all
+ 
+
+00:02:50.819 --> 00:02:52.850 align:start position:0%
+bad paths traveling to n comma n and all
+of<00:02:50.940><c> the</c><00:02:51.120><c> paths</c><00:02:51.540><c> traveling</c><00:02:52.200><c> to</c><00:02:52.319><c> n</c><00:02:52.440><c> plus</c><00:02:52.620><c> one</c>
+
+00:02:52.850 --> 00:02:52.860 align:start position:0%
+of the paths traveling to n plus one
+ 
+
+00:02:52.860 --> 00:02:55.369 align:start position:0%
+of the paths traveling to n plus one
+comma<00:02:53.220><c> n</c><00:02:53.280><c> minus</c><00:02:53.700><c> one</c><00:02:53.819><c> but</c><00:02:54.599><c> now</c><00:02:54.780><c> we</c><00:02:55.019><c> have</c><00:02:55.140><c> our</c>
+
+00:02:55.369 --> 00:02:55.379 align:start position:0%
+comma n minus one but now we have our
+ 
+
+00:02:55.379 --> 00:02:57.830 align:start position:0%
+comma n minus one but now we have our
+strategy<00:02:55.860><c> to</c><00:02:56.099><c> count</c><00:02:56.340><c> the</c><00:02:56.819><c> good</c><00:02:57.000><c> lattice</c><00:02:57.420><c> paths</c>
+
+00:02:57.830 --> 00:02:57.840 align:start position:0%
+strategy to count the good lattice paths
+ 
+
+00:02:57.840 --> 00:03:00.710 align:start position:0%
+strategy to count the good lattice paths
+the<00:02:58.260><c> ones</c><00:02:58.500><c> from</c><00:02:58.739><c> 0</c><00:02:58.920><c> 0</c><00:02:59.220><c> to</c><00:02:59.519><c> NN</c><00:03:00.060><c> traveling</c>
+
+00:03:00.710 --> 00:03:00.720 align:start position:0%
+the ones from 0 0 to NN traveling
+ 
+
+00:03:00.720 --> 00:03:02.390 align:start position:0%
+the ones from 0 0 to NN traveling
+Northeast<00:03:01.140><c> and</c><00:03:01.440><c> not</c><00:03:01.620><c> passing</c><00:03:01.980><c> below</c><00:03:02.220><c> the</c>
+
+00:03:02.390 --> 00:03:02.400 align:start position:0%
+Northeast and not passing below the
+ 
+
+00:03:02.400 --> 00:03:05.570 align:start position:0%
+Northeast and not passing below the
+diagonal<00:03:03.300><c> in</c><00:03:03.840><c> order</c><00:03:04.019><c> to</c><00:03:04.319><c> do</c><00:03:04.440><c> this</c><00:03:04.680><c> we</c><00:03:05.400><c> must</c>
+
+00:03:05.570 --> 00:03:05.580 align:start position:0%
+diagonal in order to do this we must
+ 
+
+00:03:05.580 --> 00:03:07.910 align:start position:0%
+diagonal in order to do this we must
+first<00:03:05.940><c> have</c><00:03:06.480><c> all</c><00:03:06.840><c> the</c><00:03:07.019><c> paths</c><00:03:07.379><c> that</c><00:03:07.739><c> travel</c>
+
+00:03:07.910 --> 00:03:07.920 align:start position:0%
+first have all the paths that travel
+ 
+
+00:03:07.920 --> 00:03:11.149 align:start position:0%
+first have all the paths that travel
+Northeast<00:03:08.400><c> from</c><00:03:08.700><c> 0</c><00:03:08.819><c> 0</c><00:03:09.120><c> to</c><00:03:09.420><c> NN</c><00:03:09.900><c> as</c><00:03:10.620><c> I</c><00:03:10.800><c> mentioned</c>
+
+00:03:11.149 --> 00:03:11.159 align:start position:0%
+Northeast from 0 0 to NN as I mentioned
+ 
+
+00:03:11.159 --> 00:03:12.830 align:start position:0%
+Northeast from 0 0 to NN as I mentioned
+before<00:03:11.400><c> this</c><00:03:11.760><c> is</c><00:03:11.879><c> counted</c><00:03:12.180><c> by</c><00:03:12.300><c> the</c><00:03:12.420><c> binomial</c>
+
+00:03:12.830 --> 00:03:12.840 align:start position:0%
+before this is counted by the binomial
+ 
+
+00:03:12.840 --> 00:03:15.589 align:start position:0%
+before this is counted by the binomial
+coefficient<00:03:13.260><c> 2N</c><00:03:13.800><c> choose</c><00:03:14.159><c> n</c><00:03:14.400><c> then</c><00:03:15.300><c> we're</c><00:03:15.420><c> going</c>
+
+00:03:15.589 --> 00:03:15.599 align:start position:0%
+coefficient 2N choose n then we're going
+ 
+
+00:03:15.599 --> 00:03:18.770 align:start position:0%
+coefficient 2N choose n then we're going
+to<00:03:15.720><c> subtract</c><00:03:16.260><c> all</c><00:03:17.099><c> of</c><00:03:17.220><c> the</c><00:03:17.400><c> bad</c><00:03:17.640><c> paths</c><00:03:18.120><c> but</c><00:03:18.599><c> we</c>
+
+00:03:18.770 --> 00:03:18.780 align:start position:0%
+to subtract all of the bad paths but we
+ 
+
+00:03:18.780 --> 00:03:20.869 align:start position:0%
+to subtract all of the bad paths but we
+know<00:03:18.959><c> that</c><00:03:19.260><c> those</c><00:03:19.620><c> correspond</c><00:03:20.340><c> to</c><00:03:20.640><c> the</c>
+
+00:03:20.869 --> 00:03:20.879 align:start position:0%
+know that those correspond to the
+ 
+
+00:03:20.879 --> 00:03:22.729 align:start position:0%
+know that those correspond to the
+Northeast<00:03:21.180><c> lattice</c><00:03:21.659><c> paths</c><00:03:22.019><c> traveling</c><00:03:22.319><c> from</c><00:03:22.560><c> 0</c>
+
+00:03:22.729 --> 00:03:22.739 align:start position:0%
+Northeast lattice paths traveling from 0
+ 
+
+00:03:22.739 --> 00:03:25.490 align:start position:0%
+Northeast lattice paths traveling from 0
+0<00:03:23.040><c> to</c><00:03:23.340><c> n</c><00:03:23.459><c> plus</c><00:03:23.640><c> one</c><00:03:23.940><c> comma</c><00:03:24.239><c> n</c><00:03:24.360><c> minus</c><00:03:24.720><c> 1</c><00:03:24.840><c> which</c><00:03:25.260><c> is</c>
+
+00:03:25.490 --> 00:03:25.500 align:start position:0%
+0 to n plus one comma n minus 1 which is
+ 
+
+00:03:25.500 --> 00:03:27.170 align:start position:0%
+0 to n plus one comma n minus 1 which is
+also<00:03:25.739><c> counted</c><00:03:26.040><c> by</c><00:03:26.159><c> the</c><00:03:26.340><c> binomial</c><00:03:26.700><c> coefficient</c>
+
+00:03:27.170 --> 00:03:27.180 align:start position:0%
+also counted by the binomial coefficient
+ 
+
+00:03:27.180 --> 00:03:30.110 align:start position:0%
+also counted by the binomial coefficient
+2N<00:03:28.019><c> choose</c><00:03:28.500><c> n</c><00:03:28.739><c> plus</c><00:03:28.920><c> one</c><00:03:29.159><c> but</c><00:03:29.580><c> then</c><00:03:29.700><c> we</c><00:03:29.879><c> can</c><00:03:30.000><c> use</c>
+
+00:03:30.110 --> 00:03:30.120 align:start position:0%
+2N choose n plus one but then we can use
+ 
+
+00:03:30.120 --> 00:03:31.910 align:start position:0%
+2N choose n plus one but then we can use
+binomial<00:03:30.659><c> coefficient</c><00:03:31.140><c> identities</c><00:03:31.680><c> and</c>
+
+00:03:31.910 --> 00:03:31.920 align:start position:0%
+binomial coefficient identities and
+ 
+
+00:03:31.920 --> 00:03:34.130 align:start position:0%
+binomial coefficient identities and
+formulas<00:03:32.340><c> to</c><00:03:32.760><c> see</c><00:03:32.879><c> that</c><00:03:33.000><c> c</c><00:03:33.239><c> sub</c><00:03:33.420><c> n</c><00:03:33.599><c> is</c><00:03:33.840><c> equal</c><00:03:33.959><c> to</c>
+
+00:03:34.130 --> 00:03:34.140 align:start position:0%
+formulas to see that c sub n is equal to
+ 
+
+00:03:34.140 --> 00:03:36.710 align:start position:0%
+formulas to see that c sub n is equal to
+1<00:03:34.319><c> divided</c><00:03:34.620><c> by</c><00:03:34.739><c> n</c><00:03:34.860><c> plus</c><00:03:35.040><c> 1</c><00:03:35.280><c> times</c><00:03:35.640><c> 2N</c><00:03:36.120><c> choose</c><00:03:36.480><c> n</c>
+
+00:03:36.710 --> 00:03:36.720 align:start position:0%
+1 divided by n plus 1 times 2N choose n
+ 
+
+00:03:36.720 --> 00:03:38.690 align:start position:0%
+1 divided by n plus 1 times 2N choose n
+this<00:03:37.500><c> is</c><00:03:37.620><c> a</c><00:03:37.739><c> closed</c><00:03:38.040><c> formula</c><00:03:38.400><c> for</c><00:03:38.580><c> the</c>
+
+00:03:38.690 --> 00:03:38.700 align:start position:0%
+this is a closed formula for the
+ 
+
+00:03:38.700 --> 00:03:40.850 align:start position:0%
+this is a closed formula for the
+sequence<00:03:39.060><c> c</c><00:03:39.300><c> n</c><00:03:39.540><c> which</c><00:03:40.019><c> are</c><00:03:40.140><c> known</c><00:03:40.379><c> as</c><00:03:40.620><c> the</c>
+
+00:03:40.850 --> 00:03:40.860 align:start position:0%
+sequence c n which are known as the
+ 
+
+00:03:40.860 --> 00:03:42.190 align:start position:0%
+sequence c n which are known as the
+Catalan<00:03:41.280><c> numbers</c>
+
+00:03:42.190 --> 00:03:42.200 align:start position:0%
+Catalan numbers
+ 
+
+00:03:42.200 --> 00:03:44.869 align:start position:0%
+Catalan numbers
+you<00:03:43.200><c> can</c><00:03:43.260><c> find</c><00:03:43.440><c> this</c><00:03:43.680><c> result</c><00:03:43.860><c> in</c><00:03:44.280><c> any</c><00:03:44.519><c> standard</c>
+
+00:03:44.869 --> 00:03:44.879 align:start position:0%
+you can find this result in any standard
+ 
+
+00:03:44.879 --> 00:03:48.620 align:start position:0%
+you can find this result in any standard
+text<00:03:45.180><c> describing</c><00:03:45.840><c> the</c><00:03:46.019><c> Catalan</c><00:03:46.440><c> numbers</c>
+

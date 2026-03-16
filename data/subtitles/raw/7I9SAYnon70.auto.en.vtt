@@ -1,0 +1,360 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.550 --> 00:00:11.509 align:start position:0%
+ 
+[Music]
+
+00:00:11.509 --> 00:00:11.519 align:start position:0%
+[Music]
+ 
+
+00:00:11.519 --> 00:00:14.070 align:start position:0%
+[Music]
+start<00:00:11.759><c> with</c><00:00:11.920><c> a</c><00:00:12.080><c> circle</c><00:00:12.480><c> of</c><00:00:12.559><c> radius</c><00:00:13.120><c> r</c>
+
+00:00:14.070 --> 00:00:14.080 align:start position:0%
+start with a circle of radius r
+ 
+
+00:00:14.080 --> 00:00:16.390 align:start position:0%
+start with a circle of radius r
+and<00:00:14.240><c> then</c><00:00:14.480><c> draw</c><00:00:14.799><c> an</c><00:00:14.960><c> inscribed</c><00:00:15.599><c> regular</c><00:00:16.080><c> two</c>
+
+00:00:16.390 --> 00:00:16.400 align:start position:0%
+and then draw an inscribed regular two
+ 
+
+00:00:16.400 --> 00:00:19.670 align:start position:0%
+and then draw an inscribed regular two
+end<00:00:16.640><c> gone</c><00:00:17.039><c> like</c><00:00:17.279><c> this</c>
+
+00:00:19.670 --> 00:00:19.680 align:start position:0%
+ 
+ 
+
+00:00:19.680 --> 00:00:21.429 align:start position:0%
+ 
+let's<00:00:19.920><c> figure</c><00:00:20.240><c> out</c><00:00:20.320><c> the</c><00:00:20.560><c> area</c><00:00:21.119><c> of</c><00:00:21.199><c> this</c>
+
+00:00:21.429 --> 00:00:21.439 align:start position:0%
+let's figure out the area of this
+ 
+
+00:00:21.439 --> 00:00:23.509 align:start position:0%
+let's figure out the area of this
+regular<00:00:21.920><c> two</c><00:00:22.240><c> n</c><00:00:22.480><c> gone</c>
+
+00:00:23.509 --> 00:00:23.519 align:start position:0%
+regular two n gone
+ 
+
+00:00:23.519 --> 00:00:26.870 align:start position:0%
+regular two n gone
+to<00:00:23.680><c> do</c><00:00:23.920><c> that</c><00:00:24.320><c> we</c><00:00:24.480><c> can</c><00:00:24.720><c> decompose</c><00:00:25.599><c> the</c><00:00:25.760><c> polygon</c>
+
+00:00:26.870 --> 00:00:26.880 align:start position:0%
+to do that we can decompose the polygon
+ 
+
+00:00:26.880 --> 00:00:29.349 align:start position:0%
+to do that we can decompose the polygon
+into<00:00:27.359><c> triangles</c>
+
+00:00:29.349 --> 00:00:29.359 align:start position:0%
+into triangles
+ 
+
+00:00:29.359 --> 00:00:31.750 align:start position:0%
+into triangles
+the<00:00:29.519><c> radius</c><00:00:30.000><c> of</c><00:00:30.080><c> the</c><00:00:30.240><c> circle</c><00:00:30.640><c> is</c><00:00:30.880><c> r</c><00:00:31.439><c> and</c><00:00:31.519><c> there</c>
+
+00:00:31.750 --> 00:00:31.760 align:start position:0%
+the radius of the circle is r and there
+ 
+
+00:00:31.760 --> 00:00:34.069 align:start position:0%
+the radius of the circle is r and there
+are<00:00:32.000><c> two</c><00:00:32.320><c> n</c><00:00:32.480><c> copies</c><00:00:32.960><c> of</c><00:00:33.040><c> this</c><00:00:33.360><c> triangle</c><00:00:33.920><c> that</c>
+
+00:00:34.069 --> 00:00:34.079 align:start position:0%
+are two n copies of this triangle that
+ 
+
+00:00:34.079 --> 00:00:36.470 align:start position:0%
+are two n copies of this triangle that
+can<00:00:34.239><c> be</c><00:00:34.399><c> used</c><00:00:34.800><c> to</c><00:00:35.040><c> build</c><00:00:35.360><c> the</c><00:00:35.520><c> regular</c><00:00:36.000><c> two</c><00:00:36.239><c> end</c>
+
+00:00:36.470 --> 00:00:36.480 align:start position:0%
+can be used to build the regular two end
+ 
+
+00:00:36.480 --> 00:00:40.150 align:start position:0%
+can be used to build the regular two end
+gone
+
+00:00:40.150 --> 00:00:40.160 align:start position:0%
+ 
+ 
+
+00:00:40.160 --> 00:00:42.709 align:start position:0%
+ 
+so<00:00:40.320><c> the</c><00:00:40.559><c> area</c><00:00:40.879><c> of</c><00:00:41.040><c> the</c><00:00:41.120><c> regular</c><00:00:41.520><c> two</c><00:00:41.840><c> n</c><00:00:42.079><c> gone</c><00:00:42.480><c> is</c>
+
+00:00:42.709 --> 00:00:42.719 align:start position:0%
+so the area of the regular two n gone is
+ 
+
+00:00:42.719 --> 00:00:45.590 align:start position:0%
+so the area of the regular two n gone is
+2n<00:00:43.520><c> times</c><00:00:44.239><c> the</c><00:00:44.480><c> area</c><00:00:44.800><c> of</c><00:00:44.960><c> one</c><00:00:45.200><c> of</c><00:00:45.280><c> these</c>
+
+00:00:45.590 --> 00:00:45.600 align:start position:0%
+2n times the area of one of these
+ 
+
+00:00:45.600 --> 00:00:47.910 align:start position:0%
+2n times the area of one of these
+triangles
+
+00:00:47.910 --> 00:00:47.920 align:start position:0%
+triangles
+ 
+
+00:00:47.920 --> 00:00:50.549 align:start position:0%
+triangles
+now<00:00:48.160><c> let's</c><00:00:48.559><c> draw</c><00:00:49.039><c> the</c><00:00:49.280><c> inscribed</c><00:00:49.920><c> regular</c>
+
+00:00:50.549 --> 00:00:50.559 align:start position:0%
+now let's draw the inscribed regular
+ 
+
+00:00:50.559 --> 00:00:52.470 align:start position:0%
+now let's draw the inscribed regular
+n-gon<00:00:51.280><c> like</c><00:00:51.600><c> this</c>
+
+00:00:52.470 --> 00:00:52.480 align:start position:0%
+n-gon like this
+ 
+
+00:00:52.480 --> 00:00:55.110 align:start position:0%
+n-gon like this
+and<00:00:52.719><c> suppose</c><00:00:53.520><c> that</c><00:00:53.760><c> this</c><00:00:54.079><c> n-gon</c><00:00:54.559><c> has</c><00:00:54.719><c> a</c><00:00:54.879><c> side</c>
+
+00:00:55.110 --> 00:00:55.120 align:start position:0%
+and suppose that this n-gon has a side
+ 
+
+00:00:55.120 --> 00:00:57.029 align:start position:0%
+and suppose that this n-gon has a side
+length<00:00:55.440><c> of</c><00:00:55.680><c> s</c>
+
+00:00:57.029 --> 00:00:57.039 align:start position:0%
+length of s
+ 
+
+00:00:57.039 --> 00:00:58.630 align:start position:0%
+length of s
+then<00:00:57.199><c> the</c><00:00:57.360><c> triangle</c><00:00:57.760><c> that</c><00:00:57.920><c> we're</c><00:00:58.160><c> interested</c>
+
+00:00:58.630 --> 00:00:58.640 align:start position:0%
+then the triangle that we're interested
+ 
+
+00:00:58.640 --> 00:01:02.069 align:start position:0%
+then the triangle that we're interested
+in<00:00:59.199><c> has</c><00:00:59.520><c> a</c><00:00:59.840><c> height</c><00:01:00.320><c> of</c><00:01:00.480><c> length</c><00:01:00.800><c> s</c><00:01:01.039><c> over</c><00:01:01.280><c> two</c><00:01:01.920><c> and</c>
+
+00:01:02.069 --> 00:01:02.079 align:start position:0%
+in has a height of length s over two and
+ 
+
+00:01:02.079 --> 00:01:03.990 align:start position:0%
+in has a height of length s over two and
+a<00:01:02.239><c> base</c><00:01:02.559><c> of</c><00:01:02.719><c> length</c><00:01:03.120><c> r</c>
+
+00:01:03.990 --> 00:01:04.000 align:start position:0%
+a base of length r
+ 
+
+00:01:04.000 --> 00:01:06.230 align:start position:0%
+a base of length r
+therefore<00:01:04.479><c> the</c><00:01:04.720><c> area</c><00:01:05.040><c> of</c><00:01:05.199><c> the</c><00:01:05.280><c> regular</c><00:01:05.680><c> two</c><00:01:06.000><c> n</c>
+
+00:01:06.230 --> 00:01:06.240 align:start position:0%
+therefore the area of the regular two n
+ 
+
+00:01:06.240 --> 00:01:08.630 align:start position:0%
+therefore the area of the regular two n
+gone<00:01:06.640><c> is</c><00:01:06.799><c> two</c><00:01:07.119><c> n</c><00:01:07.360><c> times</c><00:01:07.680><c> one</c><00:01:07.840><c> half</c><00:01:08.080><c> times</c><00:01:08.400><c> r</c>
+
+00:01:08.630 --> 00:01:08.640 align:start position:0%
+gone is two n times one half times r
+ 
+
+00:01:08.640 --> 00:01:11.350 align:start position:0%
+gone is two n times one half times r
+times<00:01:08.880><c> s</c><00:01:09.040><c> over</c><00:01:09.360><c> two</c><00:01:10.080><c> but</c><00:01:10.240><c> this</c><00:01:10.479><c> simplifies</c><00:01:11.200><c> to</c>
+
+00:01:11.350 --> 00:01:11.360 align:start position:0%
+times s over two but this simplifies to
+ 
+
+00:01:11.360 --> 00:01:15.270 align:start position:0%
+times s over two but this simplifies to
+r<00:01:11.600><c> over</c><00:01:11.920><c> 2</c><00:01:12.560><c> times</c><00:01:13.119><c> n</c><00:01:13.360><c> s</c><00:01:14.000><c> and</c><00:01:14.320><c> n</c><00:01:14.560><c> s</c><00:01:15.040><c> is</c><00:01:15.200><c> the</c>
+
+00:01:15.270 --> 00:01:15.280 align:start position:0%
+r over 2 times n s and n s is the
+ 
+
+00:01:15.280 --> 00:01:17.670 align:start position:0%
+r over 2 times n s and n s is the
+perimeter<00:01:16.080><c> of</c><00:01:16.159><c> the</c><00:01:16.320><c> regular</c><00:01:16.720><c> n-gon</c><00:01:17.200><c> inscribed</c>
+
+00:01:17.670 --> 00:01:17.680 align:start position:0%
+perimeter of the regular n-gon inscribed
+ 
+
+00:01:17.680 --> 00:01:18.950 align:start position:0%
+perimeter of the regular n-gon inscribed
+in<00:01:17.759><c> the</c><00:01:17.920><c> circle</c>
+
+00:01:18.950 --> 00:01:18.960 align:start position:0%
+in the circle
+ 
+
+00:01:18.960 --> 00:01:20.710 align:start position:0%
+in the circle
+but<00:01:19.119><c> this</c><00:01:19.360><c> means</c><00:01:19.600><c> that</c><00:01:19.759><c> we</c><00:01:20.000><c> have</c><00:01:20.159><c> shown</c><00:01:20.560><c> that</c>
+
+00:01:20.710 --> 00:01:20.720 align:start position:0%
+but this means that we have shown that
+ 
+
+00:01:20.720 --> 00:01:22.870 align:start position:0%
+but this means that we have shown that
+the<00:01:20.960><c> area</c><00:01:21.360><c> of</c><00:01:21.439><c> the</c><00:01:21.600><c> regular</c><00:01:22.080><c> 2-n-gon</c>
+
+00:01:22.870 --> 00:01:22.880 align:start position:0%
+the area of the regular 2-n-gon
+ 
+
+00:01:22.880 --> 00:01:25.030 align:start position:0%
+the area of the regular 2-n-gon
+inscribed<00:01:23.360><c> in</c><00:01:23.439><c> a</c><00:01:23.520><c> circle</c><00:01:23.840><c> of</c><00:01:23.920><c> radius</c><00:01:24.400><c> r</c><00:01:24.880><c> is</c>
+
+00:01:25.030 --> 00:01:25.040 align:start position:0%
+inscribed in a circle of radius r is
+ 
+
+00:01:25.040 --> 00:01:27.270 align:start position:0%
+inscribed in a circle of radius r is
+equal<00:01:25.280><c> to</c><00:01:25.439><c> r</c><00:01:25.600><c> over</c><00:01:25.920><c> 2</c><00:01:26.240><c> times</c><00:01:26.560><c> the</c><00:01:26.640><c> perimeter</c><00:01:27.119><c> of</c>
+
+00:01:27.270 --> 00:01:27.280 align:start position:0%
+equal to r over 2 times the perimeter of
+ 
+
+00:01:27.280 --> 00:01:29.350 align:start position:0%
+equal to r over 2 times the perimeter of
+the<00:01:27.360><c> regular</c><00:01:27.920><c> n-gon</c><00:01:28.400><c> inscribed</c><00:01:28.880><c> in</c><00:01:28.960><c> the</c><00:01:29.040><c> same</c>
+
+00:01:29.350 --> 00:01:29.360 align:start position:0%
+the regular n-gon inscribed in the same
+ 
+
+00:01:29.360 --> 00:01:32.230 align:start position:0%
+the regular n-gon inscribed in the same
+circle
+
+00:01:32.230 --> 00:01:32.240 align:start position:0%
+ 
+ 
+
+00:01:32.240 --> 00:01:34.230 align:start position:0%
+ 
+but<00:01:32.400><c> that's</c><00:01:32.720><c> not</c><00:01:32.960><c> all</c><00:01:33.040><c> we</c><00:01:33.200><c> can</c><00:01:33.360><c> say</c>
+
+00:01:34.230 --> 00:01:34.240 align:start position:0%
+but that's not all we can say
+ 
+
+00:01:34.240 --> 00:01:36.550 align:start position:0%
+but that's not all we can say
+because<00:01:34.799><c> both</c><00:01:35.119><c> the</c><00:01:35.360><c> two</c><00:01:35.600><c> n-gone</c><00:01:36.240><c> and</c><00:01:36.320><c> the</c>
+
+00:01:36.550 --> 00:01:36.560 align:start position:0%
+because both the two n-gone and the
+ 
+
+00:01:36.560 --> 00:01:40.149 align:start position:0%
+because both the two n-gone and the
+n-gon<00:01:37.439><c> approach</c><00:01:38.079><c> the</c><00:01:38.320><c> circle</c><00:01:39.280><c> as</c><00:01:39.439><c> we</c><00:01:39.600><c> let</c><00:01:39.840><c> n</c><00:01:40.000><c> go</c>
+
+00:01:40.149 --> 00:01:40.159 align:start position:0%
+n-gon approach the circle as we let n go
+ 
+
+00:01:40.159 --> 00:01:42.469 align:start position:0%
+n-gon approach the circle as we let n go
+to<00:01:40.400><c> infinity</c><00:01:41.360><c> we</c><00:01:41.520><c> get</c><00:01:41.680><c> the</c><00:01:41.840><c> result</c><00:01:42.159><c> that</c><00:01:42.240><c> the</c>
+
+00:01:42.469 --> 00:01:42.479 align:start position:0%
+to infinity we get the result that the
+ 
+
+00:01:42.479 --> 00:01:45.429 align:start position:0%
+to infinity we get the result that the
+area<00:01:42.880><c> of</c><00:01:43.040><c> the</c><00:01:43.280><c> circle</c><00:01:44.000><c> is</c><00:01:44.240><c> equal</c><00:01:44.479><c> to</c><00:01:44.640><c> r</c><00:01:44.799><c> over</c><00:01:45.040><c> 2</c>
+
+00:01:45.429 --> 00:01:45.439 align:start position:0%
+area of the circle is equal to r over 2
+ 
+
+00:01:45.439 --> 00:01:46.950 align:start position:0%
+area of the circle is equal to r over 2
+multiplied<00:01:45.920><c> by</c><00:01:46.079><c> the</c><00:01:46.159><c> circumference</c><00:01:46.720><c> of</c><00:01:46.799><c> the</c>
+
+00:01:46.950 --> 00:01:46.960 align:start position:0%
+multiplied by the circumference of the
+ 
+
+00:01:46.960 --> 00:01:48.630 align:start position:0%
+multiplied by the circumference of the
+circle<00:01:47.840><c> if</c><00:01:47.920><c> we</c><00:01:48.079><c> remember</c><00:01:48.399><c> that</c><00:01:48.479><c> the</c>
+
+00:01:48.630 --> 00:01:48.640 align:start position:0%
+circle if we remember that the
+ 
+
+00:01:48.640 --> 00:01:51.270 align:start position:0%
+circle if we remember that the
+circumference<00:01:49.119><c> of</c><00:01:49.280><c> the</c><00:01:49.360><c> circle</c><00:01:49.759><c> is</c><00:01:50.000><c> 2</c><00:01:50.320><c> pi</c><00:01:50.720><c> r</c>
+
+00:01:51.270 --> 00:01:51.280 align:start position:0%
+circumference of the circle is 2 pi r
+ 
+
+00:01:51.280 --> 00:01:53.109 align:start position:0%
+circumference of the circle is 2 pi r
+then<00:01:51.520><c> we</c><00:01:51.680><c> see</c><00:01:51.840><c> that</c><00:01:52.000><c> we've</c><00:01:52.240><c> found</c><00:01:52.479><c> a</c><00:01:52.560><c> formula</c>
+
+00:01:53.109 --> 00:01:53.119 align:start position:0%
+then we see that we've found a formula
+ 
+
+00:01:53.119 --> 00:01:55.590 align:start position:0%
+then we see that we've found a formula
+for<00:01:53.280><c> the</c><00:01:53.439><c> area</c><00:01:53.840><c> of</c><00:01:54.000><c> a</c><00:01:54.079><c> circle</c><00:01:54.479><c> of</c><00:01:54.560><c> radius</c><00:01:55.040><c> r</c><00:01:55.439><c> to</c>
+
+00:01:55.590 --> 00:01:55.600 align:start position:0%
+for the area of a circle of radius r to
+ 
+
+00:01:55.600 --> 00:01:59.640 align:start position:0%
+for the area of a circle of radius r to
+be<00:01:55.840><c> pi</c><00:01:56.079><c> times</c><00:01:56.399><c> r</c><00:01:56.640><c> squared</c>
+

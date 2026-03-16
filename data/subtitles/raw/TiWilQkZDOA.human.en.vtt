@@ -1,0 +1,176 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.630 --> 00:00:04.800
+If you know the Lagrangian of a system, the
+Euler-Lagrange equations will provide you
+
+00:00:04.800 --> 00:00:09.780
+with the equations of motion and describe
+how the system will evolve over time.
+
+00:00:09.780 --> 00:00:15.090
+Before we start, we need to talk about two
+things. First, we define the so-called action
+
+00:00:15.090 --> 00:00:20.419
+of a system as the integral over the Lagrangian.
+For classical mechanics, this means the time
+
+00:00:20.419 --> 00:00:25.490
+integral over the Lagrangian function, however
+for relativistic mechanics, the Lorentz-covariant
+
+00:00:25.490 --> 00:00:30.800
+formulation involves the spacetime integral
+over the Lagrangian density. This action is
+
+00:00:30.800 --> 00:00:36.140
+a functional, this means it takes a function
+(in this case the Lagrangian) as an input
+
+00:00:36.140 --> 00:00:41.390
+and after some calculation, the result is
+a number. So every configuration of the system
+
+00:00:41.390 --> 00:00:46.180
+yields as the corresponding action just a
+different number. This brings us to the second
+
+00:00:46.180 --> 00:00:51.370
+point: Hamilton’s principle. Hamilton’s
+principle states, that the system we are considering
+
+00:00:51.370 --> 00:00:57.740
+evolves in such a way, that the action takes
+on an extremal value. In other words, if we
+
+00:00:57.740 --> 00:01:03.650
+slightly change the path that the system takes,
+the change in action will be almost zero.
+
+00:01:03.650 --> 00:01:07.899
+A small mathematical detail here is, that
+we do not change the starting and end points
+
+00:01:07.899 --> 00:01:13.990
+of the path, which means that delta q for
+some starting time t_1 and end time t_2 is
+
+00:01:13.990 --> 00:01:18.500
+zero. Similar arguments lead to corresponding
+constraints in the relativistic case, where
+
+00:01:18.500 --> 00:01:24.020
+we do not change the fields at the beginning
+and end point, just somewhere along the way.
+
+00:01:24.020 --> 00:01:28.939
+Now we can start deriving the Euler-Lagrange
+equations. We start by explicitly calculating
+
+00:01:28.939 --> 00:01:33.670
+the change in the action, knowing that whatever
+comes out in the end must be zero according
+
+00:01:33.670 --> 00:01:38.689
+to Hamilton’s principle. For the classical
+version, this means varying the Lagrangian
+
+00:01:38.689 --> 00:01:44.560
+with respect to q and multiplying a small
+change in q as well as varying in q dot and
+
+00:01:44.560 --> 00:01:49.950
+multiplying a small change in q dot. For the
+relativistic version, we do this with respect
+
+00:01:49.950 --> 00:01:53.369
+to the fields phi and their derivatives d_mu
+phi.
+
+00:01:53.369 --> 00:01:58.920
+A change in the time derivative of q is the
+same as the time derivative of the change
+
+00:01:58.920 --> 00:02:04.679
+in q, so let’s write it like this. Similarly,
+we can exchange the delta and the derivative
+
+00:02:04.679 --> 00:02:13.220
+on the right.
+Next we use the inverse product rule, which
+
+00:02:13.220 --> 00:02:17.890
+let’s us write a function and the derivative
+of another function as the derivative of their
+
+00:02:17.890 --> 00:02:22.970
+product minus the derivative of the first
+function times the second function. We now
+
+00:02:22.970 --> 00:02:29.330
+write the second term as the time derivative
+of dL over dq dot and delta q minus the time
+
+00:02:29.330 --> 00:02:36.670
+derivative of dL over dq dot times delta q.
+On the right, this is the same, but with a
+
+00:02:36.670 --> 00:02:39.450
+d_mu.
+From here on we can evaluate parts of the
+
+00:02:39.450 --> 00:02:44.890
+integral, in particular the total derivative
+which is now evaluated between the end time
+
+00:02:44.890 --> 00:02:51.010
+and the starting time. As for the other terms,
+we can factor out the delta q. On the right,
+
+00:02:51.010 --> 00:02:56.920
+we evaluate between x^mu_2 and x^mu_1 and
+also pull out the delta phi.
+
+00:02:56.920 --> 00:03:02.100
+Due to our assumptions, the first term vanishes,
+since it is exactly the change of q or phi
+
+00:03:02.100 --> 00:03:07.430
+evaluated at the boundary points. That’s
+why this term is usually called a „boundary
+
+00:03:07.430 --> 00:03:12.660
+term“. And remember, since we started from
+a small change in the action, the terms in
+
+00:03:12.660 --> 00:03:18.730
+brackets have to vanish due to Hamilton’s
+principle. And this is what leads to the Euler-Lagrange
+
+00:03:18.730 --> 00:03:23.860
+equations.
+Remember, that q here stands for all the variables
+
+00:03:23.860 --> 00:03:29.060
+you have in your system. So if there is, for
+example, an x and a y, you actually have two
+
+00:03:29.060 --> 00:03:34.640
+Euler-Lagrange equations, one for x and x
+dot and the other for y and y dot. As you
+
+00:03:34.640 --> 00:03:39.230
+can see, instead of two first-order differential
+equations in the Hamiltonian formulation,
+
+00:03:39.230 --> 00:03:43.170
+we now have one second order differential
+equation in the Lagrangian formulation for
+
+00:03:43.170 --> 00:03:47.000
+each variable. And that’s pretty much it
+for now, thanks for watching.
+

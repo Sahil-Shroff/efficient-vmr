@@ -1,0 +1,192 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:03.050 align:start position:0%
+ 
+why<00:00:00.780><c> is</c><00:00:01.079><c> the</c><00:00:01.380><c> infinite</c><00:00:01.800><c> sum</c><00:00:02.100><c> of</c><00:00:02.220><c> the</c><00:00:02.460><c> powers</c><00:00:02.700><c> of</c>
+
+00:00:03.050 --> 00:00:03.060 align:start position:0%
+why is the infinite sum of the powers of
+ 
+
+00:00:03.060 --> 00:00:06.349 align:start position:0%
+why is the infinite sum of the powers of
+one-third<00:00:03.780><c> called</c><00:00:04.500><c> a</c><00:00:04.740><c> geometric</c><00:00:05.220><c> series</c><00:00:05.520><c> how</c>
+
+00:00:06.349 --> 00:00:06.359 align:start position:0%
+one-third called a geometric series how
+ 
+
+00:00:06.359 --> 00:00:08.509 align:start position:0%
+one-third called a geometric series how
+can<00:00:06.480><c> we</c><00:00:06.660><c> make</c><00:00:06.899><c> sense</c><00:00:07.200><c> of</c><00:00:07.680><c> the</c><00:00:07.859><c> value</c><00:00:08.040><c> of</c><00:00:08.340><c> this</c>
+
+00:00:08.509 --> 00:00:08.519 align:start position:0%
+can we make sense of the value of this
+ 
+
+00:00:08.519 --> 00:00:10.070 align:start position:0%
+can we make sense of the value of this
+sum<00:00:08.760><c> and</c><00:00:09.179><c> what</c><00:00:09.300><c> does</c><00:00:09.420><c> it</c><00:00:09.540><c> have</c><00:00:09.660><c> to</c><00:00:09.780><c> do</c><00:00:09.840><c> with</c>
+
+00:00:10.070 --> 00:00:10.080 align:start position:0%
+sum and what does it have to do with
+ 
+
+00:00:10.080 --> 00:00:12.470 align:start position:0%
+sum and what does it have to do with
+geometry<00:00:10.620><c> imagine</c><00:00:11.280><c> a</c><00:00:11.639><c> rectangle</c><00:00:12.059><c> with</c><00:00:12.240><c> area</c>
+
+00:00:12.470 --> 00:00:12.480 align:start position:0%
+geometry imagine a rectangle with area
+ 
+
+00:00:12.480 --> 00:00:14.570 align:start position:0%
+geometry imagine a rectangle with area
+one<00:00:12.840><c> that</c><00:00:13.320><c> can</c><00:00:13.500><c> be</c><00:00:13.559><c> subdivided</c><00:00:14.219><c> into</c><00:00:14.340><c> three</c>
+
+00:00:14.570 --> 00:00:14.580 align:start position:0%
+one that can be subdivided into three
+ 
+
+00:00:14.580 --> 00:00:16.550 align:start position:0%
+one that can be subdivided into three
+congruent<00:00:15.120><c> rectangles</c><00:00:15.599><c> each</c><00:00:15.900><c> similar</c><00:00:16.260><c> to</c><00:00:16.440><c> the</c>
+
+00:00:16.550 --> 00:00:16.560 align:start position:0%
+congruent rectangles each similar to the
+ 
+
+00:00:16.560 --> 00:00:18.650 align:start position:0%
+congruent rectangles each similar to the
+original<00:00:16.680><c> if</c><00:00:17.279><c> we</c><00:00:17.460><c> shade</c><00:00:17.699><c> the</c><00:00:17.940><c> top</c><00:00:18.119><c> rectangle</c>
+
+00:00:18.650 --> 00:00:18.660 align:start position:0%
+original if we shade the top rectangle
+ 
+
+00:00:18.660 --> 00:00:20.810 align:start position:0%
+original if we shade the top rectangle
+we've<00:00:19.080><c> shaded</c><00:00:19.380><c> one</c><00:00:19.560><c> third</c><00:00:19.740><c> of</c><00:00:19.920><c> the</c><00:00:20.039><c> area</c><00:00:20.279><c> now</c>
+
+00:00:20.810 --> 00:00:20.820 align:start position:0%
+we've shaded one third of the area now
+ 
+
+00:00:20.820 --> 00:00:23.570 align:start position:0%
+we've shaded one third of the area now
+we<00:00:21.060><c> can</c><00:00:21.180><c> repeat</c><00:00:21.359><c> this</c><00:00:21.840><c> process</c><00:00:22.140><c> each</c><00:00:22.800><c> time</c><00:00:23.100><c> we</c>
+
+00:00:23.570 --> 00:00:23.580 align:start position:0%
+we can repeat this process each time we
+ 
+
+00:00:23.580 --> 00:00:25.849 align:start position:0%
+we can repeat this process each time we
+shade<00:00:23.939><c> one</c><00:00:24.240><c> of</c><00:00:24.359><c> the</c><00:00:24.480><c> rectangles</c><00:00:25.019><c> and</c><00:00:25.439><c> we</c><00:00:25.680><c> take</c>
+
+00:00:25.849 --> 00:00:25.859 align:start position:0%
+shade one of the rectangles and we take
+ 
+
+00:00:25.859 --> 00:00:28.189 align:start position:0%
+shade one of the rectangles and we take
+the<00:00:26.160><c> central</c><00:00:26.340><c> rectangle</c><00:00:27.060><c> and</c><00:00:27.539><c> decompose</c><00:00:28.019><c> it</c>
+
+00:00:28.189 --> 00:00:28.199 align:start position:0%
+the central rectangle and decompose it
+ 
+
+00:00:28.199 --> 00:00:31.070 align:start position:0%
+the central rectangle and decompose it
+into<00:00:28.560><c> three</c><00:00:28.980><c> congruent</c><00:00:29.640><c> rectangles</c><00:00:30.359><c> shading</c>
+
+00:00:31.070 --> 00:00:31.080 align:start position:0%
+into three congruent rectangles shading
+ 
+
+00:00:31.080 --> 00:00:33.830 align:start position:0%
+into three congruent rectangles shading
+one<00:00:31.320><c> and</c><00:00:31.800><c> continuing</c><00:00:32.279><c> indefinitely</c><00:00:32.940><c> if</c><00:00:33.600><c> we</c><00:00:33.719><c> do</c>
+
+00:00:33.830 --> 00:00:33.840 align:start position:0%
+one and continuing indefinitely if we do
+ 
+
+00:00:33.840 --> 00:00:37.010 align:start position:0%
+one and continuing indefinitely if we do
+this<00:00:34.020><c> process</c><00:00:34.380><c> forever</c><00:00:35.100><c> or</c><00:00:35.640><c> infinitely</c><00:00:36.120><c> it</c>
+
+00:00:37.010 --> 00:00:37.020 align:start position:0%
+this process forever or infinitely it
+ 
+
+00:00:37.020 --> 00:00:39.950 align:start position:0%
+this process forever or infinitely it
+turns<00:00:37.320><c> out</c><00:00:37.440><c> that</c><00:00:38.040><c> we</c><00:00:38.219><c> have</c><00:00:38.399><c> shaded</c><00:00:38.960><c> exactly</c>
+
+00:00:39.950 --> 00:00:39.960 align:start position:0%
+turns out that we have shaded exactly
+ 
+
+00:00:39.960 --> 00:00:41.990 align:start position:0%
+turns out that we have shaded exactly
+the<00:00:40.379><c> infinite</c><00:00:40.800><c> sum</c><00:00:41.100><c> one-third</c><00:00:41.760><c> plus</c>
+
+00:00:41.990 --> 00:00:42.000 align:start position:0%
+the infinite sum one-third plus
+ 
+
+00:00:42.000 --> 00:00:44.090 align:start position:0%
+the infinite sum one-third plus
+one-third<00:00:42.480><c> squared</c><00:00:42.899><c> and</c><00:00:43.079><c> so</c><00:00:43.260><c> on</c><00:00:43.440><c> of</c><00:00:43.920><c> the</c>
+
+00:00:44.090 --> 00:00:44.100 align:start position:0%
+one-third squared and so on of the
+ 
+
+00:00:44.100 --> 00:00:46.430 align:start position:0%
+one-third squared and so on of the
+rectangle
+
+00:00:46.430 --> 00:00:46.440 align:start position:0%
+rectangle
+ 
+
+00:00:46.440 --> 00:00:49.069 align:start position:0%
+rectangle
+but<00:00:47.040><c> amazingly</c><00:00:47.520><c> we</c><00:00:48.059><c> see</c><00:00:48.180><c> that</c><00:00:48.420><c> this</c><00:00:48.660><c> shaded</c>
+
+00:00:49.069 --> 00:00:49.079 align:start position:0%
+but amazingly we see that this shaded
+ 
+
+00:00:49.079 --> 00:00:51.889 align:start position:0%
+but amazingly we see that this shaded
+sum<00:00:49.260><c> fills</c><00:00:50.219><c> in</c><00:00:50.280><c> exactly</c><00:00:50.760><c> half</c><00:00:51.300><c> of</c><00:00:51.719><c> the</c>
+
+00:00:51.889 --> 00:00:51.899 align:start position:0%
+sum fills in exactly half of the
+ 
+
+00:00:51.899 --> 00:00:53.930 align:start position:0%
+sum fills in exactly half of the
+original<00:00:52.020><c> rectangle</c><00:00:52.739><c> since</c><00:00:53.640><c> the</c><00:00:53.820><c> original</c>
+
+00:00:53.930 --> 00:00:53.940 align:start position:0%
+original rectangle since the original
+ 
+
+00:00:53.940 --> 00:00:55.790 align:start position:0%
+original rectangle since the original
+rectangle<00:00:54.539><c> had</c><00:00:54.660><c> an</c><00:00:54.840><c> area</c><00:00:54.960><c> of</c><00:00:55.260><c> one</c><00:00:55.440><c> the</c>
+
+00:00:55.790 --> 00:00:55.800 align:start position:0%
+rectangle had an area of one the
+ 
+
+00:00:55.800 --> 00:00:59.780 align:start position:0%
+rectangle had an area of one the
+infinite<00:00:56.219><c> sum</c><00:00:56.399><c> has</c><00:00:56.640><c> an</c><00:00:56.820><c> area</c><00:00:56.940><c> of</c><00:00:57.300><c> one-half</c>
+

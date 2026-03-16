@@ -1,0 +1,368 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.199 --> 00:00:02.669 align:start position:0%
+ 
+let's<00:00:00.480><c> solve</c><00:00:00.760><c> a</c><00:00:01.000><c> calculus</c><00:00:01.680><c> problem</c><00:00:02.200><c> involving</c>
+
+00:00:02.669 --> 00:00:02.679 align:start position:0%
+let's solve a calculus problem involving
+ 
+
+00:00:02.679 --> 00:00:04.990 align:start position:0%
+let's solve a calculus problem involving
+the<00:00:02.960><c> differentiation</c><00:00:03.959><c> of</c><00:00:04.240><c> trigonometric</c>
+
+00:00:04.990 --> 00:00:05.000 align:start position:0%
+the differentiation of trigonometric
+ 
+
+00:00:05.000 --> 00:00:07.749 align:start position:0%
+the differentiation of trigonometric
+functions<00:00:05.600><c> with</c><00:00:05.799><c> degree</c><00:00:06.399><c> measures</c><00:00:07.399><c> our</c>
+
+00:00:07.749 --> 00:00:07.759 align:start position:0%
+functions with degree measures our
+ 
+
+00:00:07.759 --> 00:00:10.470 align:start position:0%
+functions with degree measures our
+question<00:00:08.440><c> is</c><00:00:08.559><c> to</c><00:00:08.840><c> find</c><00:00:09.120><c> the</c><00:00:09.280><c> derivative</c><00:00:10.240><c> of</c>
+
+00:00:10.470 --> 00:00:10.480 align:start position:0%
+question is to find the derivative of
+ 
+
+00:00:10.480 --> 00:00:14.150 align:start position:0%
+question is to find the derivative of
+thet<00:00:10.960><c> degre</c><00:00:11.960><c> time</c><00:00:12.599><c> sin</c><00:00:12.840><c> of</c><00:00:13.000><c> thet</c><00:00:13.320><c> degrees</c><00:00:13.920><c> with</c>
+
+00:00:14.150 --> 00:00:14.160 align:start position:0%
+thet degre time sin of thet degrees with
+ 
+
+00:00:14.160 --> 00:00:17.310 align:start position:0%
+thet degre time sin of thet degrees with
+respect<00:00:14.839><c> to</c><00:00:15.120><c> Theta</c><00:00:16.119><c> before</c><00:00:16.520><c> we</c><00:00:16.760><c> start</c>
+
+00:00:17.310 --> 00:00:17.320 align:start position:0%
+respect to Theta before we start
+ 
+
+00:00:17.320 --> 00:00:19.349 align:start position:0%
+respect to Theta before we start
+differentiating<00:00:18.320><c> we</c><00:00:18.439><c> need</c><00:00:18.640><c> to</c><00:00:18.840><c> convert</c><00:00:19.199><c> the</c>
+
+00:00:19.349 --> 00:00:19.359 align:start position:0%
+differentiating we need to convert the
+ 
+
+00:00:19.359 --> 00:00:22.390 align:start position:0%
+differentiating we need to convert the
+degrees<00:00:19.840><c> to</c><00:00:20.279><c> radians</c><00:00:21.279><c> we</c><00:00:21.439><c> do</c><00:00:21.760><c> this</c><00:00:22.119><c> by</c>
+
+00:00:22.390 --> 00:00:22.400 align:start position:0%
+degrees to radians we do this by
+ 
+
+00:00:22.400 --> 00:00:25.790 align:start position:0%
+degrees to radians we do this by
+multiplying<00:00:23.119><c> Theta</c><00:00:23.480><c> degrees</c><00:00:24.119><c> by</c><00:00:24.400><c> pi</c><00:00:24.760><c> over</c>
+
+00:00:25.790 --> 00:00:25.800 align:start position:0%
+multiplying Theta degrees by pi over
+ 
+
+00:00:25.800 --> 00:00:30.189 align:start position:0%
+multiplying Theta degrees by pi over
+180<00:00:26.800><c> this</c><00:00:27.039><c> gives</c><00:00:27.279><c> us</c><00:00:27.519><c> Theta</c><00:00:27.960><c> pi</c><00:00:28.279><c> over</c><00:00:28.599><c> 180</c>
+
+00:00:30.189 --> 00:00:30.199 align:start position:0%
+180 this gives us Theta pi over 180
+ 
+
+00:00:30.199 --> 00:00:33.150 align:start position:0%
+180 this gives us Theta pi over 180
+now<00:00:30.599><c> we</c><00:00:30.720><c> can</c><00:00:31.000><c> apply</c><00:00:31.480><c> the</c><00:00:31.679><c> product</c><00:00:32.040><c> rule</c>
+
+00:00:33.150 --> 00:00:33.160 align:start position:0%
+now we can apply the product rule
+ 
+
+00:00:33.160 --> 00:00:35.869 align:start position:0%
+now we can apply the product rule
+remember<00:00:34.160><c> the</c><00:00:34.360><c> product</c><00:00:34.760><c> rule</c><00:00:35.160><c> states</c><00:00:35.719><c> that</c>
+
+00:00:35.869 --> 00:00:35.879 align:start position:0%
+remember the product rule states that
+ 
+
+00:00:35.879 --> 00:00:39.030 align:start position:0%
+remember the product rule states that
+the<00:00:36.079><c> derivative</c><00:00:36.559><c> of</c><00:00:36.719><c> U</c><00:00:36.960><c> *</c><00:00:37.399><c> V</c><00:00:37.760><c> equal</c><00:00:38.160><c> U</c><00:00:38.399><c> *</c><00:00:38.879><c> the</c>
+
+00:00:39.030 --> 00:00:39.040 align:start position:0%
+the derivative of U * V equal U * the
+ 
+
+00:00:39.040 --> 00:00:42.110 align:start position:0%
+the derivative of U * V equal U * the
+derivative<00:00:39.600><c> of</c><00:00:39.800><c> V</c><00:00:40.120><c> +</c><00:00:40.520><c> V</c><00:00:40.800><c> *</c><00:00:41.320><c> the</c><00:00:41.480><c> derivative</c><00:00:41.960><c> of</c>
+
+00:00:42.110 --> 00:00:42.120 align:start position:0%
+derivative of V + V * the derivative of
+ 
+
+00:00:42.120 --> 00:00:45.750 align:start position:0%
+derivative of V + V * the derivative of
+U<00:00:42.879><c> in</c><00:00:43.039><c> our</c><00:00:43.320><c> case</c><00:00:43.600><c> U</c><00:00:43.800><c> is</c><00:00:44.000><c> Theta</c><00:00:44.399><c> pi</c><00:00:44.680><c> over</c>
+
+00:00:45.750 --> 00:00:45.760 align:start position:0%
+U in our case U is Theta pi over
+ 
+
+00:00:45.760 --> 00:00:49.510 align:start position:0%
+U in our case U is Theta pi over
+180<00:00:46.760><c> and</c><00:00:47.000><c> V</c><00:00:47.360><c> is</c><00:00:47.559><c> s</c><00:00:47.800><c> of</c><00:00:47.960><c> theta</c><00:00:48.360><c> pi</c><00:00:48.719><c> over</c>
+
+00:00:49.510 --> 00:00:49.520 align:start position:0%
+180 and V is s of theta pi over
+ 
+
+00:00:49.520 --> 00:00:53.110 align:start position:0%
+180 and V is s of theta pi over
+180<00:00:50.520><c> let's</c><00:00:50.840><c> handle</c><00:00:51.280><c> each</c><00:00:51.640><c> part</c><00:00:52.120><c> separately</c>
+
+00:00:53.110 --> 00:00:53.120 align:start position:0%
+180 let's handle each part separately
+ 
+
+00:00:53.120 --> 00:00:55.950 align:start position:0%
+180 let's handle each part separately
+for<00:00:53.320><c> the</c><00:00:53.520><c> first</c><00:00:53.960><c> term</c><00:00:54.960><c> we</c><00:00:55.120><c> need</c><00:00:55.320><c> to</c><00:00:55.520><c> use</c><00:00:55.760><c> the</c>
+
+00:00:55.950 --> 00:00:55.960 align:start position:0%
+for the first term we need to use the
+ 
+
+00:00:55.960 --> 00:00:59.389 align:start position:0%
+for the first term we need to use the
+chain<00:00:56.359><c> rule</c><00:00:57.239><c> when</c><00:00:57.559><c> differentiating</c><00:00:58.440><c> sign</c><00:00:59.239><c> the</c>
+
+00:00:59.389 --> 00:00:59.399 align:start position:0%
+chain rule when differentiating sign the
+ 
+
+00:00:59.399 --> 00:01:02.229 align:start position:0%
+chain rule when differentiating sign the
+derivative<00:00:59.800><c> of</c><00:01:00.160><c> s</c><00:01:00.440><c> is</c><00:01:00.800><c> cosine</c><00:01:01.800><c> and</c><00:01:01.960><c> we</c>
+
+00:01:02.229 --> 00:01:02.239 align:start position:0%
+derivative of s is cosine and we
+ 
+
+00:01:02.239 --> 00:01:04.469 align:start position:0%
+derivative of s is cosine and we
+multiply<00:01:03.000><c> by</c><00:01:03.199><c> the</c><00:01:03.359><c> derivative</c><00:01:03.840><c> of</c><00:01:03.960><c> the</c><00:01:04.080><c> inner</c>
+
+00:01:04.469 --> 00:01:04.479 align:start position:0%
+multiply by the derivative of the inner
+ 
+
+00:01:04.479 --> 00:01:08.070 align:start position:0%
+multiply by the derivative of the inner
+function<00:01:05.479><c> this</c><00:01:05.680><c> gives</c><00:01:05.880><c> us</c><00:01:06.119><c> Theta</c><00:01:06.479><c> pi</c><00:01:06.760><c> over</c><00:01:07.080><c> 180</c>
+
+00:01:08.070 --> 00:01:08.080 align:start position:0%
+function this gives us Theta pi over 180
+ 
+
+00:01:08.080 --> 00:01:11.950 align:start position:0%
+function this gives us Theta pi over 180
+*<00:01:08.600><c> cosine</c><00:01:08.920><c> of</c><00:01:09.119><c> theta</c><00:01:09.520><c> pi</c><00:01:09.840><c> over</c><00:01:10.080><c> 180</c><00:01:11.000><c> *</c><00:01:11.600><c> piun</c>
+
+00:01:11.950 --> 00:01:11.960 align:start position:0%
+* cosine of theta pi over 180 * piun
+ 
+
+00:01:11.960 --> 00:01:15.749 align:start position:0%
+* cosine of theta pi over 180 * piun
+over<00:01:12.759><c> 180</c><00:01:13.759><c> for</c><00:01:13.960><c> the</c><00:01:14.159><c> second</c><00:01:14.479><c> term</c><00:01:15.439><c> we</c><00:01:15.600><c> just</c>
+
+00:01:15.749 --> 00:01:15.759 align:start position:0%
+over 180 for the second term we just
+ 
+
+00:01:15.759 --> 00:01:19.429 align:start position:0%
+over 180 for the second term we just
+need<00:01:16.080><c> to</c><00:01:16.320><c> differentiate</c><00:01:17.040><c> Theta</c><00:01:17.479><c> pi</c><00:01:17.799><c> over</c><00:01:18.439><c> 180</c>
+
+00:01:19.429 --> 00:01:19.439 align:start position:0%
+need to differentiate Theta pi over 180
+ 
+
+00:01:19.439 --> 00:01:22.149 align:start position:0%
+need to differentiate Theta pi over 180
+with<00:01:19.680><c> respect</c><00:01:20.000><c> to</c><00:01:20.240><c> Theta</c><00:01:21.119><c> which</c><00:01:21.320><c> gives</c><00:01:21.560><c> us</c><00:01:21.840><c> pi</c>
+
+00:01:22.149 --> 00:01:22.159 align:start position:0%
+with respect to Theta which gives us pi
+ 
+
+00:01:22.159 --> 00:01:22.950 align:start position:0%
+with respect to Theta which gives us pi
+over
+
+00:01:22.950 --> 00:01:22.960 align:start position:0%
+over
+ 
+
+00:01:22.960 --> 00:01:26.789 align:start position:0%
+over
+180<00:01:23.960><c> now</c><00:01:24.159><c> we</c><00:01:24.280><c> can</c><00:01:24.520><c> combine</c><00:01:25.040><c> like</c><00:01:25.439><c> terms</c><00:01:26.439><c> let's</c>
+
+00:01:26.789 --> 00:01:26.799 align:start position:0%
+180 now we can combine like terms let's
+ 
+
+00:01:26.799 --> 00:01:28.910 align:start position:0%
+180 now we can combine like terms let's
+factor<00:01:27.119><c> out</c><00:01:27.520><c> pi</c><00:01:27.840><c> over</c>
+
+00:01:28.910 --> 00:01:28.920 align:start position:0%
+factor out pi over
+ 
+
+00:01:28.920 --> 00:01:32.389 align:start position:0%
+factor out pi over
+180<00:01:29.920><c> from</c><00:01:30.159><c> both</c><00:01:30.560><c> terms</c><00:01:31.560><c> this</c><00:01:31.759><c> gives</c><00:01:31.960><c> us</c><00:01:32.159><c> our</c>
+
+00:01:32.389 --> 00:01:32.399 align:start position:0%
+180 from both terms this gives us our
+ 
+
+00:01:32.399 --> 00:01:36.429 align:start position:0%
+180 from both terms this gives us our
+final<00:01:32.920><c> answer</c><00:01:33.920><c> &gt;</c><00:01:34.240><c> over</c><00:01:34.520><c> 180</c><00:01:35.439><c> *</c><00:01:35.799><c> the</c><00:01:35.960><c> quantity</c>
+
+00:01:36.429 --> 00:01:36.439 align:start position:0%
+final answer &gt; over 180 * the quantity
+ 
+
+00:01:36.439 --> 00:01:41.310 align:start position:0%
+final answer &gt; over 180 * the quantity
+Pi<00:01:36.720><c> Theta</c><00:01:37.479><c> over</c><00:01:37.960><c> 180</c><00:01:38.880><c> *</c><00:01:39.439><c> cine</c><00:01:39.799><c> of</c><00:01:39.960><c> theta</c><00:01:40.360><c> pi/</c>
+
+00:01:41.310 --> 00:01:41.320 align:start position:0%
+Pi Theta over 180 * cine of theta pi/
+ 
+
+00:01:41.320 --> 00:01:44.510 align:start position:0%
+Pi Theta over 180 * cine of theta pi/
+180<00:01:42.320><c> +</c><00:01:42.680><c> sin</c><00:01:42.880><c> of</c><00:01:43.040><c> theta</c><00:01:43.439><c> pi</c><00:01:43.720><c> over</c>
+
+00:01:44.510 --> 00:01:44.520 align:start position:0%
+180 + sin of theta pi over
+ 
+
+00:01:44.520 --> 00:01:48.550 align:start position:0%
+180 + sin of theta pi over
+180<00:01:45.520><c> let's</c><00:01:45.880><c> verify</c><00:01:46.479><c> this</c><00:01:46.719><c> makes</c><00:01:47.079><c> sense</c><00:01:48.079><c> our</c>
+
+00:01:48.550 --> 00:01:48.560 align:start position:0%
+180 let's verify this makes sense our
+ 
+
+00:01:48.560 --> 00:01:52.190 align:start position:0%
+180 let's verify this makes sense our
+answer<00:01:49.000><c> contains</c><00:01:49.600><c> both</c><00:01:49.960><c> s</c><00:01:50.399><c> and</c><00:01:50.680><c> cosine</c><00:01:51.200><c> terms</c>
+
+00:01:52.190 --> 00:01:52.200 align:start position:0%
+answer contains both s and cosine terms
+ 
+
+00:01:52.200 --> 00:01:53.429 align:start position:0%
+answer contains both s and cosine terms
+which<00:01:52.360><c> we</c><00:01:52.479><c> would</c><00:01:52.759><c> expect</c><00:01:53.119><c> from</c>
+
+00:01:53.429 --> 00:01:53.439 align:start position:0%
+which we would expect from
+ 
+
+00:01:53.439 --> 00:01:56.270 align:start position:0%
+which we would expect from
+differentiating<00:01:54.200><c> a</c><00:01:54.439><c> sign</c><00:01:54.799><c> function</c><00:01:55.719><c> the</c><00:01:55.920><c> pi</c>
+
+00:01:56.270 --> 00:01:56.280 align:start position:0%
+differentiating a sign function the pi
+ 
+
+00:01:56.280 --> 00:01:58.749 align:start position:0%
+differentiating a sign function the pi
+over<00:01:56.600><c> 180</c><00:01:57.439><c> terms</c><00:01:57.799><c> appear</c><00:01:58.320><c> because</c><00:01:58.600><c> we</c>
+
+00:01:58.749 --> 00:01:58.759 align:start position:0%
+over 180 terms appear because we
+ 
+
+00:01:58.759 --> 00:02:01.749 align:start position:0%
+over 180 terms appear because we
+converted<00:01:59.200><c> from</c><00:01:59.399><c> degrees</c><00:02:00.159><c> to</c><00:02:00.600><c> radians</c><00:02:01.600><c> and</c>
+
+00:02:01.749 --> 00:02:01.759 align:start position:0%
+converted from degrees to radians and
+ 
+
+00:02:01.759 --> 00:02:03.749 align:start position:0%
+converted from degrees to radians and
+the<00:02:01.960><c> Theta</c><00:02:02.280><c> term</c><00:02:02.719><c> remains</c><00:02:03.200><c> because</c><00:02:03.520><c> we</c>
+
+00:02:03.749 --> 00:02:03.759 align:start position:0%
+the Theta term remains because we
+ 
+
+00:02:03.759 --> 00:02:07.870 align:start position:0%
+the Theta term remains because we
+started<00:02:04.200><c> witha</c><00:02:04.880><c> *</c><00:02:05.439><c> sin</c><00:02:05.880><c> thet</c><00:02:06.880><c> and</c><00:02:07.399><c> that's</c><00:02:07.680><c> how</c>
+
+00:02:07.870 --> 00:02:07.880 align:start position:0%
+started witha * sin thet and that's how
+ 
+
+00:02:07.880 --> 00:02:09.869 align:start position:0%
+started witha * sin thet and that's how
+we<00:02:08.119><c> differentiate</c><00:02:08.879><c> a</c><00:02:09.039><c> trigonometric</c>
+
+00:02:09.869 --> 00:02:09.879 align:start position:0%
+we differentiate a trigonometric
+ 
+
+00:02:09.879 --> 00:02:12.350 align:start position:0%
+we differentiate a trigonometric
+function<00:02:10.399><c> involving</c><00:02:10.920><c> degree</c><00:02:11.360><c> measures</c>
+
+00:02:12.350 --> 00:02:12.360 align:start position:0%
+function involving degree measures
+ 
+
+00:02:12.360 --> 00:02:14.670 align:start position:0%
+function involving degree measures
+remember<00:02:12.760><c> to</c><00:02:13.160><c> always</c><00:02:13.520><c> convert</c><00:02:13.920><c> to</c><00:02:14.120><c> radians</c>
+
+00:02:14.670 --> 00:02:14.680 align:start position:0%
+remember to always convert to radians
+ 
+
+00:02:14.680 --> 00:02:17.470 align:start position:0%
+remember to always convert to radians
+first<00:02:15.560><c> then</c><00:02:15.879><c> apply</c><00:02:16.239><c> the</c><00:02:16.440><c> product</c><00:02:16.760><c> rule</c><00:02:17.280><c> and</c>
+
+00:02:17.470 --> 00:02:17.480 align:start position:0%
+first then apply the product rule and
+ 
+
+00:02:17.480 --> 00:02:21.680 align:start position:0%
+first then apply the product rule and
+chain<00:02:17.920><c> rule</c><00:02:18.480><c> as</c><00:02:18.680><c> needed</c>
+

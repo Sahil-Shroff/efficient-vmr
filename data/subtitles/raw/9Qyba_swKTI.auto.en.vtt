@@ -1,0 +1,416 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.890 --> 00:00:06.909 align:start position:0%
+ 
+[Music]
+
+00:00:06.909 --> 00:00:06.919 align:start position:0%
+[Music]
+ 
+
+00:00:06.919 --> 00:00:11.030 align:start position:0%
+[Music]
+let<00:00:07.919><c> A</c><00:00:08.220><c> and</c><00:00:08.460><c> B</c><00:00:08.639><c> be</c><00:00:09.059><c> two</c><00:00:09.300><c> positive</c><00:00:09.720><c> real</c><00:00:09.960><c> numbers</c>
+
+00:00:11.030 --> 00:00:11.040 align:start position:0%
+let A and B be two positive real numbers
+ 
+
+00:00:11.040 --> 00:00:13.249 align:start position:0%
+let A and B be two positive real numbers
+first<00:00:11.460><c> draw</c><00:00:11.760><c> a</c><00:00:11.940><c> square</c><00:00:12.120><c> with</c><00:00:12.360><c> side</c><00:00:12.599><c> length</c><00:00:12.960><c> a</c>
+
+00:00:13.249 --> 00:00:13.259 align:start position:0%
+first draw a square with side length a
+ 
+
+00:00:13.259 --> 00:00:15.650 align:start position:0%
+first draw a square with side length a
+and<00:00:13.860><c> adjacent</c><00:00:14.280><c> to</c><00:00:14.460><c> that</c><00:00:14.639><c> draw</c><00:00:15.059><c> a</c><00:00:15.240><c> square</c><00:00:15.420><c> with</c>
+
+00:00:15.650 --> 00:00:15.660 align:start position:0%
+and adjacent to that draw a square with
+ 
+
+00:00:15.660 --> 00:00:18.769 align:start position:0%
+and adjacent to that draw a square with
+side<00:00:15.839><c> length</c><00:00:16.199><c> B</c><00:00:16.400><c> in</c><00:00:17.400><c> each</c><00:00:17.699><c> Square</c><00:00:18.000><c> we</c><00:00:18.480><c> can</c><00:00:18.600><c> draw</c>
+
+00:00:18.769 --> 00:00:18.779 align:start position:0%
+side length B in each Square we can draw
+ 
+
+00:00:18.779 --> 00:00:20.750 align:start position:0%
+side length B in each Square we can draw
+the<00:00:19.020><c> diagonals</c><00:00:19.619><c> and</c><00:00:19.980><c> use</c><00:00:20.100><c> the</c><00:00:20.340><c> intersection</c>
+
+00:00:20.750 --> 00:00:20.760 align:start position:0%
+the diagonals and use the intersection
+ 
+
+00:00:20.760 --> 00:00:22.910 align:start position:0%
+the diagonals and use the intersection
+to<00:00:21.240><c> draw</c><00:00:21.420><c> a</c><00:00:21.660><c> line</c><00:00:21.840><c> from</c><00:00:22.140><c> the</c><00:00:22.320><c> center</c><00:00:22.500><c> of</c><00:00:22.740><c> the</c>
+
+00:00:22.910 --> 00:00:22.920 align:start position:0%
+to draw a line from the center of the
+ 
+
+00:00:22.920 --> 00:00:24.650 align:start position:0%
+to draw a line from the center of the
+square<00:00:23.039><c> to</c><00:00:23.340><c> the</c><00:00:23.520><c> midpoint</c><00:00:23.820><c> of</c><00:00:24.060><c> the</c><00:00:24.240><c> base</c><00:00:24.420><c> of</c>
+
+00:00:24.650 --> 00:00:24.660 align:start position:0%
+square to the midpoint of the base of
+ 
+
+00:00:24.660 --> 00:00:26.689 align:start position:0%
+square to the midpoint of the base of
+the<00:00:24.779><c> square</c><00:00:24.960><c> this</c><00:00:25.619><c> process</c><00:00:25.920><c> has</c><00:00:26.340><c> created</c>
+
+00:00:26.689 --> 00:00:26.699 align:start position:0%
+the square this process has created
+ 
+
+00:00:26.699 --> 00:00:29.390 align:start position:0%
+the square this process has created
+isosceles<00:00:27.480><c> right</c><00:00:27.900><c> triangles</c><00:00:28.619><c> in</c><00:00:29.160><c> either</c>
+
+00:00:29.390 --> 00:00:29.400 align:start position:0%
+isosceles right triangles in either
+ 
+
+00:00:29.400 --> 00:00:31.609 align:start position:0%
+isosceles right triangles in either
+square<00:00:29.880><c> one</c><00:00:30.599><c> of</c><00:00:30.720><c> them</c><00:00:30.840><c> with</c><00:00:30.960><c> a</c><00:00:31.140><c> side</c><00:00:31.260><c> length</c><00:00:31.500><c> of</c>
+
+00:00:31.609 --> 00:00:31.619 align:start position:0%
+square one of them with a side length of
+ 
+
+00:00:31.619 --> 00:00:33.229 align:start position:0%
+square one of them with a side length of
+a<00:00:31.740><c> over</c><00:00:31.920><c> two</c><00:00:32.160><c> and</c><00:00:32.399><c> one</c><00:00:32.579><c> of</c><00:00:32.700><c> them</c><00:00:32.759><c> with</c><00:00:32.940><c> a</c><00:00:33.120><c> side</c>
+
+00:00:33.229 --> 00:00:33.239 align:start position:0%
+a over two and one of them with a side
+ 
+
+00:00:33.239 --> 00:00:35.209 align:start position:0%
+a over two and one of them with a side
+length<00:00:33.480><c> of</c><00:00:33.600><c> B</c><00:00:33.780><c> over</c><00:00:33.960><c> 2.</c><00:00:34.440><c> now</c><00:00:34.680><c> we</c><00:00:34.980><c> can</c><00:00:35.040><c> connect</c>
+
+00:00:35.209 --> 00:00:35.219 align:start position:0%
+length of B over 2. now we can connect
+ 
+
+00:00:35.219 --> 00:00:37.130 align:start position:0%
+length of B over 2. now we can connect
+the<00:00:35.520><c> center</c><00:00:35.760><c> points</c><00:00:36.120><c> of</c><00:00:36.239><c> the</c><00:00:36.360><c> two</c><00:00:36.480><c> squares</c><00:00:36.899><c> to</c>
+
+00:00:37.130 --> 00:00:37.140 align:start position:0%
+the center points of the two squares to
+ 
+
+00:00:37.140 --> 00:00:39.229 align:start position:0%
+the center points of the two squares to
+create<00:00:37.320><c> a</c><00:00:37.620><c> right</c><00:00:37.800><c> triangle</c><00:00:38.460><c> pictured</c><00:00:39.000><c> here</c>
+
+00:00:39.229 --> 00:00:39.239 align:start position:0%
+create a right triangle pictured here
+ 
+
+00:00:39.239 --> 00:00:41.450 align:start position:0%
+create a right triangle pictured here
+the<00:00:39.780><c> legs</c><00:00:40.079><c> of</c><00:00:40.200><c> this</c><00:00:40.320><c> right</c><00:00:40.440><c> triangle</c><00:00:40.980><c> are</c><00:00:41.280><c> a</c>
+
+00:00:41.450 --> 00:00:41.460 align:start position:0%
+the legs of this right triangle are a
+ 
+
+00:00:41.460 --> 00:00:42.830 align:start position:0%
+the legs of this right triangle are a
+divided<00:00:41.820><c> by</c><00:00:41.940><c> the</c><00:00:42.059><c> square</c><00:00:42.120><c> root</c><00:00:42.300><c> of</c><00:00:42.360><c> 2</c><00:00:42.480><c> and</c><00:00:42.660><c> B</c>
+
+00:00:42.830 --> 00:00:42.840 align:start position:0%
+divided by the square root of 2 and B
+ 
+
+00:00:42.840 --> 00:00:44.389 align:start position:0%
+divided by the square root of 2 and B
+divided<00:00:43.140><c> by</c><00:00:43.260><c> the</c><00:00:43.379><c> square</c><00:00:43.500><c> root</c><00:00:43.739><c> of</c><00:00:43.800><c> 2</c><00:00:43.980><c> since</c>
+
+00:00:44.389 --> 00:00:44.399 align:start position:0%
+divided by the square root of 2 since
+ 
+
+00:00:44.399 --> 00:00:46.310 align:start position:0%
+divided by the square root of 2 since
+both<00:00:44.700><c> of</c><00:00:44.879><c> those</c><00:00:45.000><c> are</c><00:00:45.239><c> hypotenuses</c><00:00:46.020><c> of</c><00:00:46.140><c> the</c>
+
+00:00:46.310 --> 00:00:46.320 align:start position:0%
+both of those are hypotenuses of the
+ 
+
+00:00:46.320 --> 00:00:48.470 align:start position:0%
+both of those are hypotenuses of the
+previously<00:00:46.680><c> described</c><00:00:47.040><c> right</c><00:00:47.219><c> triangles</c><00:00:47.820><c> but</c>
+
+00:00:48.470 --> 00:00:48.480 align:start position:0%
+previously described right triangles but
+ 
+
+00:00:48.480 --> 00:00:50.090 align:start position:0%
+previously described right triangles but
+then<00:00:48.600><c> we</c><00:00:48.780><c> can</c><00:00:48.899><c> use</c><00:00:49.020><c> the</c><00:00:49.200><c> Pythagorean</c><00:00:49.739><c> theorem</c>
+
+00:00:50.090 --> 00:00:50.100 align:start position:0%
+then we can use the Pythagorean theorem
+ 
+
+00:00:50.100 --> 00:00:51.529 align:start position:0%
+then we can use the Pythagorean theorem
+to<00:00:50.280><c> find</c><00:00:50.399><c> that</c><00:00:50.520><c> the</c><00:00:50.640><c> hypotenuse</c><00:00:51.180><c> of</c><00:00:51.360><c> this</c>
+
+00:00:51.529 --> 00:00:51.539 align:start position:0%
+to find that the hypotenuse of this
+ 
+
+00:00:51.539 --> 00:00:53.209 align:start position:0%
+to find that the hypotenuse of this
+triangle<00:00:51.960><c> is</c><00:00:52.140><c> the</c><00:00:52.320><c> square</c><00:00:52.440><c> root</c><00:00:52.620><c> of</c><00:00:52.739><c> a</c><00:00:52.860><c> squared</c>
+
+00:00:53.209 --> 00:00:53.219 align:start position:0%
+triangle is the square root of a squared
+ 
+
+00:00:53.219 --> 00:00:55.790 align:start position:0%
+triangle is the square root of a squared
+over<00:00:53.340><c> 2</c><00:00:53.579><c> plus</c><00:00:53.879><c> b</c><00:00:54.059><c> squared</c><00:00:54.420><c> over</c><00:00:54.600><c> two</c><00:00:54.899><c> the</c><00:00:55.559><c> two</c>
+
+00:00:55.790 --> 00:00:55.800 align:start position:0%
+over 2 plus b squared over two the two
+ 
+
+00:00:55.800 --> 00:00:58.069 align:start position:0%
+over 2 plus b squared over two the two
+isosceles<00:00:56.340><c> right</c><00:00:56.640><c> triangles</c><00:00:57.180><c> and</c><00:00:57.600><c> the</c><00:00:57.719><c> Shaded</c>
+
+00:00:58.069 --> 00:00:58.079 align:start position:0%
+isosceles right triangles and the Shaded
+ 
+
+00:00:58.079 --> 00:01:00.529 align:start position:0%
+isosceles right triangles and the Shaded
+purple<00:00:58.260><c> triangle</c><00:00:58.860><c> create</c><00:00:59.160><c> a</c><00:00:59.340><c> trapezoid</c><00:01:00.000><c> from</c>
+
+00:01:00.529 --> 00:01:00.539 align:start position:0%
+purple triangle create a trapezoid from
+ 
+
+00:01:00.539 --> 00:01:02.569 align:start position:0%
+purple triangle create a trapezoid from
+this<00:01:00.660><c> trapezoid</c><00:01:01.379><c> we</c><00:01:01.800><c> see</c><00:01:01.920><c> that</c><00:01:02.100><c> the</c><00:01:02.280><c> one</c><00:01:02.399><c> side</c>
+
+00:01:02.569 --> 00:01:02.579 align:start position:0%
+this trapezoid we see that the one side
+ 
+
+00:01:02.579 --> 00:01:04.670 align:start position:0%
+this trapezoid we see that the one side
+length<00:01:02.940><c> given</c><00:01:03.239><c> by</c><00:01:03.359><c> a</c><00:01:03.480><c> over</c><00:01:03.660><c> 2</c><00:01:03.899><c> plus</c><00:01:04.140><c> b</c><00:01:04.320><c> over</c><00:01:04.500><c> 2</c>
+
+00:01:04.670 --> 00:01:04.680 align:start position:0%
+length given by a over 2 plus b over 2
+ 
+
+00:01:04.680 --> 00:01:06.350 align:start position:0%
+length given by a over 2 plus b over 2
+is<00:01:04.979><c> less</c><00:01:05.159><c> than</c><00:01:05.280><c> or</c><00:01:05.400><c> equal</c><00:01:05.580><c> to</c><00:01:05.700><c> the</c><00:01:05.939><c> longer</c><00:01:06.240><c> side</c>
+
+00:01:06.350 --> 00:01:06.360 align:start position:0%
+is less than or equal to the longer side
+ 
+
+00:01:06.360 --> 00:01:07.910 align:start position:0%
+is less than or equal to the longer side
+length<00:01:06.780><c> which</c><00:01:06.960><c> is</c><00:01:07.080><c> given</c><00:01:07.320><c> by</c><00:01:07.439><c> the</c><00:01:07.560><c> square</c><00:01:07.680><c> root</c>
+
+00:01:07.910 --> 00:01:07.920 align:start position:0%
+length which is given by the square root
+ 
+
+00:01:07.920 --> 00:01:09.649 align:start position:0%
+length which is given by the square root
+of<00:01:08.040><c> a</c><00:01:08.159><c> squared</c><00:01:08.460><c> over</c><00:01:08.520><c> 2</c><00:01:08.760><c> plus</c><00:01:09.000><c> b</c><00:01:09.180><c> squared</c><00:01:09.540><c> over</c>
+
+00:01:09.649 --> 00:01:09.659 align:start position:0%
+of a squared over 2 plus b squared over
+ 
+
+00:01:09.659 --> 00:01:12.770 align:start position:0%
+of a squared over 2 plus b squared over
+two<00:01:09.900><c> no</c><00:01:10.439><c> matter</c><00:01:10.560><c> this</c><00:01:10.920><c> sizes</c><00:01:11.580><c> of</c><00:01:11.760><c> A</c><00:01:11.880><c> and</c><00:01:12.060><c> B</c><00:01:12.240><c> we</c>
+
+00:01:12.770 --> 00:01:12.780 align:start position:0%
+two no matter this sizes of A and B we
+ 
+
+00:01:12.780 --> 00:01:14.870 align:start position:0%
+two no matter this sizes of A and B we
+see<00:01:12.900><c> that</c><00:01:13.080><c> we</c><00:01:13.260><c> can</c><00:01:13.439><c> always</c><00:01:13.740><c> create</c><00:01:14.220><c> this</c>
+
+00:01:14.870 --> 00:01:14.880 align:start position:0%
+see that we can always create this
+ 
+
+00:01:14.880 --> 00:01:17.090 align:start position:0%
+see that we can always create this
+diagram<00:01:15.299><c> with</c><00:01:15.720><c> an</c><00:01:15.900><c> a</c><00:01:16.020><c> by</c><00:01:16.200><c> a</c><00:01:16.380><c> square</c><00:01:16.560><c> and</c><00:01:16.740><c> a</c><00:01:16.860><c> b</c><00:01:16.920><c> by</c>
+
+00:01:17.090 --> 00:01:17.100 align:start position:0%
+diagram with an a by a square and a b by
+ 
+
+00:01:17.100 --> 00:01:19.609 align:start position:0%
+diagram with an a by a square and a b by
+b<00:01:17.340><c> square</c><00:01:17.520><c> and</c><00:01:18.180><c> a</c><00:01:18.360><c> triangle</c><00:01:18.780><c> connecting</c><00:01:19.380><c> their</c>
+
+00:01:19.609 --> 00:01:19.619 align:start position:0%
+b square and a triangle connecting their
+ 
+
+00:01:19.619 --> 00:01:22.249 align:start position:0%
+b square and a triangle connecting their
+Center<00:01:19.860><c> points</c><00:01:20.400><c> this</c><00:01:21.180><c> triangle</c><00:01:21.659><c> is</c><00:01:21.840><c> part</c><00:01:22.020><c> of</c><00:01:22.140><c> a</c>
+
+00:01:22.249 --> 00:01:22.259 align:start position:0%
+Center points this triangle is part of a
+ 
+
+00:01:22.259 --> 00:01:25.070 align:start position:0%
+Center points this triangle is part of a
+trapezoid<00:01:22.920><c> and</c><00:01:23.340><c> the</c><00:01:23.520><c> trapezoid</c><00:01:24.119><c> has</c><00:01:24.600><c> one</c><00:01:24.900><c> long</c>
+
+00:01:25.070 --> 00:01:25.080 align:start position:0%
+trapezoid and the trapezoid has one long
+ 
+
+00:01:25.080 --> 00:01:26.990 align:start position:0%
+trapezoid and the trapezoid has one long
+side<00:01:25.320><c> and</c><00:01:25.560><c> one</c><00:01:25.740><c> short</c><00:01:26.040><c> side</c><00:01:26.340><c> so</c><00:01:26.880><c> the</c>
+
+00:01:26.990 --> 00:01:27.000 align:start position:0%
+side and one short side so the
+ 
+
+00:01:27.000 --> 00:01:29.630 align:start position:0%
+side and one short side so the
+inequality<00:01:27.540><c> is</c><00:01:27.780><c> always</c><00:01:28.020><c> strict</c><00:01:28.500><c> except</c><00:01:29.280><c> in</c>
+
+00:01:29.630 --> 00:01:29.640 align:start position:0%
+inequality is always strict except in
+ 
+
+00:01:29.640 --> 00:01:31.910 align:start position:0%
+inequality is always strict except in
+the<00:01:29.820><c> one</c><00:01:30.000><c> situation</c><00:01:30.600><c> where</c><00:01:31.080><c> the</c><00:01:31.320><c> side</c><00:01:31.500><c> length</c>
+
+00:01:31.910 --> 00:01:31.920 align:start position:0%
+the one situation where the side length
+ 
+
+00:01:31.920 --> 00:01:34.789 align:start position:0%
+the one situation where the side length
+a<00:01:32.100><c> equals</c><00:01:32.640><c> the</c><00:01:32.759><c> side</c><00:01:32.939><c> length</c><00:01:33.299><c> B</c><00:01:33.500><c> therefore</c><00:01:34.500><c> a</c>
+
+00:01:34.789 --> 00:01:34.799 align:start position:0%
+a equals the side length B therefore a
+ 
+
+00:01:34.799 --> 00:01:36.950 align:start position:0%
+a equals the side length B therefore a
+over<00:01:34.979><c> 2</c><00:01:35.280><c> plus</c><00:01:35.520><c> b</c><00:01:35.700><c> over</c><00:01:35.880><c> 2</c><00:01:36.119><c> is</c><00:01:36.479><c> less</c><00:01:36.659><c> than</c><00:01:36.840><c> or</c>
+
+00:01:36.950 --> 00:01:36.960 align:start position:0%
+over 2 plus b over 2 is less than or
+ 
+
+00:01:36.960 --> 00:01:38.749 align:start position:0%
+over 2 plus b over 2 is less than or
+equal<00:01:37.079><c> to</c><00:01:37.259><c> the</c><00:01:37.500><c> square</c><00:01:37.740><c> root</c><00:01:38.040><c> of</c><00:01:38.220><c> a</c><00:01:38.400><c> squared</c>
+
+00:01:38.749 --> 00:01:38.759 align:start position:0%
+equal to the square root of a squared
+ 
+
+00:01:38.759 --> 00:01:40.550 align:start position:0%
+equal to the square root of a squared
+over<00:01:38.820><c> 2</c><00:01:39.000><c> plus</c><00:01:39.240><c> b</c><00:01:39.420><c> squared</c><00:01:39.780><c> over</c><00:01:39.900><c> 2</c><00:01:40.079><c> and</c>
+
+00:01:40.550 --> 00:01:40.560 align:start position:0%
+over 2 plus b squared over 2 and
+ 
+
+00:01:40.560 --> 00:01:42.770 align:start position:0%
+over 2 plus b squared over 2 and
+equality<00:01:41.040><c> occurs</c><00:01:41.340><c> if</c><00:01:41.579><c> and</c><00:01:41.759><c> only</c><00:01:41.939><c> if</c><00:01:42.119><c> a</c><00:01:42.360><c> equals</c>
+
+00:01:42.770 --> 00:01:42.780 align:start position:0%
+equality occurs if and only if a equals
+ 
+
+00:01:42.780 --> 00:01:45.230 align:start position:0%
+equality occurs if and only if a equals
+B<00:01:42.960><c> A</c><00:01:43.560><c> over</c><00:01:43.740><c> two</c><00:01:43.979><c> plus</c><00:01:44.220><c> b</c><00:01:44.400><c> over</c><00:01:44.640><c> 2</c><00:01:44.880><c> is</c><00:01:45.060><c> the</c>
+
+00:01:45.230 --> 00:01:45.240 align:start position:0%
+B A over two plus b over 2 is the
+ 
+
+00:01:45.240 --> 00:01:46.969 align:start position:0%
+B A over two plus b over 2 is the
+arithmetic<00:01:45.720><c> mean</c><00:01:45.780><c> of</c><00:01:46.020><c> A</c><00:01:46.140><c> and</c><00:01:46.320><c> B</c><00:01:46.439><c> and</c><00:01:46.860><c> the</c>
+
+00:01:46.969 --> 00:01:46.979 align:start position:0%
+arithmetic mean of A and B and the
+ 
+
+00:01:46.979 --> 00:01:48.649 align:start position:0%
+arithmetic mean of A and B and the
+square<00:01:47.159><c> root</c><00:01:47.460><c> of</c><00:01:47.579><c> a</c><00:01:47.700><c> squared</c><00:01:47.939><c> over</c><00:01:48.060><c> 2</c><00:01:48.240><c> plus</c><00:01:48.479><c> b</c>
+
+00:01:48.649 --> 00:01:48.659 align:start position:0%
+square root of a squared over 2 plus b
+ 
+
+00:01:48.659 --> 00:01:50.510 align:start position:0%
+square root of a squared over 2 plus b
+squared<00:01:48.960><c> over</c><00:01:49.079><c> 2</c><00:01:49.320><c> is</c><00:01:49.619><c> the</c><00:01:49.799><c> root</c><00:01:50.040><c> mean</c><00:01:50.159><c> square</c>
+
+00:01:50.510 --> 00:01:50.520 align:start position:0%
+squared over 2 is the root mean square
+ 
+
+00:01:50.520 --> 00:01:52.670 align:start position:0%
+squared over 2 is the root mean square
+of<00:01:50.759><c> A</c><00:01:50.880><c> and</c><00:01:51.060><c> B</c><00:01:51.240><c> so</c><00:01:51.720><c> this</c><00:01:51.899><c> is</c><00:01:52.079><c> known</c><00:01:52.259><c> as</c><00:01:52.560><c> the</c>
+
+00:01:52.670 --> 00:01:52.680 align:start position:0%
+of A and B so this is known as the
+ 
+
+00:01:52.680 --> 00:01:54.109 align:start position:0%
+of A and B so this is known as the
+arithmetic<00:01:53.220><c> mean</c><00:01:53.340><c> root</c><00:01:53.759><c> mean</c><00:01:53.880><c> Square</c>
+
+00:01:54.109 --> 00:01:54.119 align:start position:0%
+arithmetic mean root mean Square
+ 
+
+00:01:54.119 --> 00:01:56.720 align:start position:0%
+arithmetic mean root mean Square
+inequality
+

@@ -1,0 +1,176 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.160 --> 00:00:02.430 align:start position:0%
+ 
+let's<00:00:00.399><c> play</c><00:00:00.599><c> the</c><00:00:00.760><c> chaos</c><00:00:01.120><c> game</c><00:00:01.280><c> in</c><00:00:01.400><c> a</c><00:00:01.599><c> pentagon</c>
+
+00:00:02.430 --> 00:00:02.440 align:start position:0%
+let's play the chaos game in a pentagon
+ 
+
+00:00:02.440 --> 00:00:04.349 align:start position:0%
+let's play the chaos game in a pentagon
+first<00:00:02.720><c> start</c><00:00:02.919><c> with</c><00:00:03.040><c> a</c><00:00:03.199><c> DOT</c><00:00:03.520><c> anywhere</c><00:00:03.959><c> inside</c>
+
+00:00:04.349 --> 00:00:04.359 align:start position:0%
+first start with a DOT anywhere inside
+ 
+
+00:00:04.359 --> 00:00:06.110 align:start position:0%
+first start with a DOT anywhere inside
+the<00:00:04.520><c> Pentagon</c><00:00:05.279><c> then</c><00:00:05.400><c> we're</c><00:00:05.520><c> going</c><00:00:05.640><c> to</c><00:00:05.759><c> iterate</c>
+
+00:00:06.110 --> 00:00:06.120 align:start position:0%
+the Pentagon then we're going to iterate
+ 
+
+00:00:06.120 --> 00:00:08.910 align:start position:0%
+the Pentagon then we're going to iterate
+a<00:00:06.319><c> procedure</c><00:00:07.040><c> where</c><00:00:07.240><c> at</c><00:00:07.560><c> any</c><00:00:07.759><c> given</c><00:00:08.200><c> stage</c><00:00:08.760><c> we</c>
+
+00:00:08.910 --> 00:00:08.920 align:start position:0%
+a procedure where at any given stage we
+ 
+
+00:00:08.920 --> 00:00:09.749 align:start position:0%
+a procedure where at any given stage we
+move
+
+00:00:09.749 --> 00:00:09.759 align:start position:0%
+move
+ 
+
+00:00:09.759 --> 00:00:11.910 align:start position:0%
+move
+0.618<00:00:10.759><c> of</c><00:00:10.880><c> the</c><00:00:11.080><c> distance</c><00:00:11.519><c> between</c><00:00:11.759><c> the</c>
+
+00:00:11.910 --> 00:00:11.920 align:start position:0%
+0.618 of the distance between the
+ 
+
+00:00:11.920 --> 00:00:14.549 align:start position:0%
+0.618 of the distance between the
+current<00:00:12.280><c> dot</c><00:00:12.719><c> and</c><00:00:12.840><c> a</c><00:00:13.040><c> randomly</c><00:00:13.519><c> chosen</c><00:00:14.040><c> vertex</c>
+
+00:00:14.549 --> 00:00:14.559 align:start position:0%
+current dot and a randomly chosen vertex
+ 
+
+00:00:14.559 --> 00:00:16.430 align:start position:0%
+current dot and a randomly chosen vertex
+on<00:00:14.719><c> the</c><00:00:14.879><c> Pentagon</c><00:00:15.599><c> think</c><00:00:15.759><c> of</c><00:00:16.000><c> rolling</c><00:00:16.240><c> an</c>
+
+00:00:16.430 --> 00:00:16.440 align:start position:0%
+on the Pentagon think of rolling an
+ 
+
+00:00:16.440 --> 00:00:18.750 align:start position:0%
+on the Pentagon think of rolling an
+imaginary<00:00:17.039><c> five-sided</c><00:00:17.560><c> die</c><00:00:18.240><c> and</c><00:00:18.320><c> then</c><00:00:18.439><c> moving</c>
+
+00:00:18.750 --> 00:00:18.760 align:start position:0%
+imaginary five-sided die and then moving
+ 
+
+00:00:18.760 --> 00:00:20.670 align:start position:0%
+imaginary five-sided die and then moving
+towards<00:00:19.039><c> the</c><00:00:19.160><c> corresponding</c><00:00:19.760><c> vertex</c><00:00:20.560><c> what</c>
+
+00:00:20.670 --> 00:00:20.680 align:start position:0%
+towards the corresponding vertex what
+ 
+
+00:00:20.680 --> 00:00:22.269 align:start position:0%
+towards the corresponding vertex what
+happens<00:00:20.960><c> when</c><00:00:21.080><c> we</c><00:00:21.240><c> iterate</c><00:00:21.680><c> this</c><00:00:21.920><c> process</c>
+
+00:00:22.269 --> 00:00:22.279 align:start position:0%
+happens when we iterate this process
+ 
+
+00:00:22.279 --> 00:00:25.269 align:start position:0%
+happens when we iterate this process
+30,000<00:00:23.119><c> times</c><00:00:24.119><c> in</c><00:00:24.279><c> this</c><00:00:24.480><c> picture</c><00:00:25.080><c> we've</c>
+
+00:00:25.269 --> 00:00:25.279 align:start position:0%
+30,000 times in this picture we've
+ 
+
+00:00:25.279 --> 00:00:27.150 align:start position:0%
+30,000 times in this picture we've
+shaded<00:00:25.720><c> the</c><00:00:25.920><c> dots</c><00:00:26.359><c> corresponding</c><00:00:26.880><c> to</c><00:00:27.000><c> the</c>
+
+00:00:27.150 --> 00:00:27.160 align:start position:0%
+shaded the dots corresponding to the
+ 
+
+00:00:27.160 --> 00:00:29.109 align:start position:0%
+shaded the dots corresponding to the
+vertex<00:00:27.519><c> to</c><00:00:27.720><c> which</c><00:00:27.880><c> we</c><00:00:28.039><c> move</c><00:00:28.400><c> at</c><00:00:28.560><c> any</c><00:00:28.760><c> given</c>
+
+00:00:29.109 --> 00:00:29.119 align:start position:0%
+vertex to which we move at any given
+ 
+
+00:00:29.119 --> 00:00:32.190 align:start position:0%
+vertex to which we move at any given
+stage<00:00:30.119><c> after</c><00:00:30.439><c> 30,000</c><00:00:31.199><c> iterations</c><00:00:31.960><c> if</c><00:00:32.079><c> we</c>
+
+00:00:32.190 --> 00:00:32.200 align:start position:0%
+stage after 30,000 iterations if we
+ 
+
+00:00:32.200 --> 00:00:34.389 align:start position:0%
+stage after 30,000 iterations if we
+throw<00:00:32.439><c> away</c><00:00:32.640><c> the</c><00:00:32.800><c> first</c><00:00:33.120><c> few</c><00:00:33.480><c> iterations</c><00:00:34.280><c> we</c>
+
+00:00:34.389 --> 00:00:34.399 align:start position:0%
+throw away the first few iterations we
+ 
+
+00:00:34.399 --> 00:00:36.310 align:start position:0%
+throw away the first few iterations we
+see<00:00:34.600><c> that</c><00:00:34.719><c> the</c><00:00:34.800><c> limiting</c><00:00:35.160><c> shape</c><00:00:35.520><c> will</c><00:00:35.879><c> always</c>
+
+00:00:36.310 --> 00:00:36.320 align:start position:0%
+see that the limiting shape will always
+ 
+
+00:00:36.320 --> 00:00:38.430 align:start position:0%
+see that the limiting shape will always
+look<00:00:36.600><c> like</c><00:00:36.840><c> this</c><00:00:37.120><c> diagram</c><00:00:37.680><c> no</c><00:00:37.960><c> matter</c><00:00:38.280><c> where</c>
+
+00:00:38.430 --> 00:00:38.440 align:start position:0%
+look like this diagram no matter where
+ 
+
+00:00:38.440 --> 00:00:40.830 align:start position:0%
+look like this diagram no matter where
+we<00:00:38.600><c> started</c><00:00:39.280><c> this</c><00:00:39.399><c> is</c><00:00:39.520><c> an</c><00:00:39.680><c> amazing</c><00:00:40.079><c> fractal</c>
+
+00:00:40.830 --> 00:00:40.840 align:start position:0%
+we started this is an amazing fractal
+ 
+
+00:00:40.840 --> 00:00:43.110 align:start position:0%
+we started this is an amazing fractal
+generated<00:00:41.360><c> from</c><00:00:41.480><c> a</c><00:00:41.680><c> simple</c><00:00:42.120><c> process</c><00:00:42.879><c> note</c>
+
+00:00:43.110 --> 00:00:43.120 align:start position:0%
+generated from a simple process note
+ 
+
+00:00:43.120 --> 00:00:45.670 align:start position:0%
+generated from a simple process note
+that<00:00:43.280><c> the</c><00:00:43.360><c> number</c><00:00:43.840><c> 0.618</c><00:00:44.840><c> is</c><00:00:45.039><c> special</c><00:00:45.559><c> it's</c>
+
+00:00:45.670 --> 00:00:45.680 align:start position:0%
+that the number 0.618 is special it's
+ 
+
+00:00:45.680 --> 00:00:49.719 align:start position:0%
+that the number 0.618 is special it's
+approximately<00:00:46.360><c> one</c><00:00:46.559><c> over</c><00:00:46.760><c> the</c><00:00:46.879><c> golden</c><00:00:47.199><c> ratio</c>
+

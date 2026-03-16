@@ -1,0 +1,696 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.120 --> 00:00:01.510 align:start position:0%
+ 
+foreign
+
+00:00:01.510 --> 00:00:01.520 align:start position:0%
+foreign
+ 
+
+00:00:01.520 --> 00:00:06.490 align:start position:0%
+foreign
+[Music]
+
+00:00:06.490 --> 00:00:06.500 align:start position:0%
+[Music]
+ 
+
+00:00:06.500 --> 00:00:09.290 align:start position:0%
+[Music]
+start<00:00:07.500><c> with</c><00:00:07.680><c> four</c><00:00:07.980><c> positive</c><00:00:08.460><c> real</c><00:00:08.639><c> numbers</c><00:00:08.880><c> a</c>
+
+00:00:09.290 --> 00:00:09.300 align:start position:0%
+start with four positive real numbers a
+ 
+
+00:00:09.300 --> 00:00:11.450 align:start position:0%
+start with four positive real numbers a
+b<00:00:09.480><c> x</c><00:00:09.720><c> and</c><00:00:09.900><c> y</c><00:00:10.080><c> and</c><00:00:10.380><c> assume</c><00:00:10.740><c> a</c><00:00:10.980><c> is</c><00:00:11.160><c> less</c><00:00:11.280><c> than</c><00:00:11.340><c> or</c>
+
+00:00:11.450 --> 00:00:11.460 align:start position:0%
+b x and y and assume a is less than or
+ 
+
+00:00:11.460 --> 00:00:14.570 align:start position:0%
+b x and y and assume a is less than or
+equal<00:00:11.580><c> to</c><00:00:11.760><c> B</c><00:00:11.880><c> and</c><00:00:12.240><c> X</c><00:00:12.420><c> is</c><00:00:12.660><c> less</c><00:00:12.840><c> than</c><00:00:13.080><c> y</c><00:00:13.380><c> create</c><00:00:14.340><c> a</c>
+
+00:00:14.570 --> 00:00:14.580 align:start position:0%
+equal to B and X is less than y create a
+ 
+
+00:00:14.580 --> 00:00:16.670 align:start position:0%
+equal to B and X is less than y create a
+right<00:00:14.759><c> triangle</c><00:00:15.240><c> with</c><00:00:15.599><c> legs</c><00:00:15.900><c> of</c><00:00:16.020><c> length</c><00:00:16.260><c> A</c><00:00:16.440><c> and</c>
+
+00:00:16.670 --> 00:00:16.680 align:start position:0%
+right triangle with legs of length A and
+ 
+
+00:00:16.680 --> 00:00:18.710 align:start position:0%
+right triangle with legs of length A and
+B<00:00:16.859><c> and</c><00:00:17.520><c> let's</c><00:00:17.640><c> assume</c><00:00:18.000><c> this</c><00:00:18.180><c> angle</c><00:00:18.420><c> in</c><00:00:18.539><c> the</c>
+
+00:00:18.710 --> 00:00:18.720 align:start position:0%
+B and let's assume this angle in the
+ 
+
+00:00:18.720 --> 00:00:21.109 align:start position:0%
+B and let's assume this angle in the
+upper<00:00:18.960><c> left</c><00:00:19.080><c> is</c><00:00:19.380><c> Alpha</c>
+
+00:00:21.109 --> 00:00:21.119 align:start position:0%
+upper left is Alpha
+ 
+
+00:00:21.119 --> 00:00:23.630 align:start position:0%
+upper left is Alpha
+first<00:00:21.660><c> create</c><00:00:22.260><c> a</c><00:00:22.560><c> scaled</c><00:00:22.980><c> copy</c><00:00:23.279><c> of</c><00:00:23.400><c> the</c><00:00:23.520><c> right</c>
+
+00:00:23.630 --> 00:00:23.640 align:start position:0%
+first create a scaled copy of the right
+ 
+
+00:00:23.640 --> 00:00:26.090 align:start position:0%
+first create a scaled copy of the right
+triangle<00:00:24.119><c> where</c><00:00:24.300><c> the</c><00:00:24.420><c> scale</c><00:00:24.660><c> value</c><00:00:24.900><c> is</c><00:00:25.199><c> y</c>
+
+00:00:26.090 --> 00:00:26.100 align:start position:0%
+triangle where the scale value is y
+ 
+
+00:00:26.100 --> 00:00:29.269 align:start position:0%
+triangle where the scale value is y
+then<00:00:26.939><c> create</c><00:00:27.359><c> a</c><00:00:27.660><c> rotated</c><00:00:28.019><c> and</c><00:00:28.380><c> scaled</c><00:00:28.859><c> copy</c><00:00:29.160><c> of</c>
+
+00:00:29.269 --> 00:00:29.279 align:start position:0%
+then create a rotated and scaled copy of
+ 
+
+00:00:29.279 --> 00:00:31.790 align:start position:0%
+then create a rotated and scaled copy of
+the<00:00:29.400><c> triangle</c><00:00:29.820><c> where</c><00:00:30.180><c> the</c><00:00:30.359><c> scale</c><00:00:30.599><c> value</c><00:00:30.900><c> is</c><00:00:31.380><c> X</c>
+
+00:00:31.790 --> 00:00:31.800 align:start position:0%
+the triangle where the scale value is X
+ 
+
+00:00:31.800 --> 00:00:34.490 align:start position:0%
+the triangle where the scale value is X
+we<00:00:32.640><c> see</c><00:00:32.759><c> that</c><00:00:32.940><c> the</c><00:00:33.120><c> angle</c><00:00:33.420><c> Alpha</c><00:00:33.840><c> appears</c><00:00:34.320><c> in</c>
+
+00:00:34.490 --> 00:00:34.500 align:start position:0%
+we see that the angle Alpha appears in
+ 
+
+00:00:34.500 --> 00:00:36.110 align:start position:0%
+we see that the angle Alpha appears in
+these<00:00:34.739><c> two</c><00:00:34.860><c> locations</c><00:00:35.399><c> in</c><00:00:35.579><c> the</c><00:00:35.760><c> scaled</c>
+
+00:00:36.110 --> 00:00:36.120 align:start position:0%
+these two locations in the scaled
+ 
+
+00:00:36.120 --> 00:00:38.630 align:start position:0%
+these two locations in the scaled
+triangles<00:00:36.739><c> connecting</c><00:00:37.739><c> the</c><00:00:37.980><c> other</c><00:00:38.219><c> two</c>
+
+00:00:38.630 --> 00:00:38.640 align:start position:0%
+triangles connecting the other two
+ 
+
+00:00:38.640 --> 00:00:40.369 align:start position:0%
+triangles connecting the other two
+vertices<00:00:39.000><c> of</c><00:00:39.360><c> the</c><00:00:39.480><c> triangle</c><00:00:39.840><c> together</c><00:00:39.960><c> like</c>
+
+00:00:40.369 --> 00:00:40.379 align:start position:0%
+vertices of the triangle together like
+ 
+
+00:00:40.379 --> 00:00:43.010 align:start position:0%
+vertices of the triangle together like
+this<00:00:40.559><c> creates</c><00:00:41.219><c> a</c><00:00:41.399><c> right</c><00:00:41.579><c> triangle</c><00:00:42.180><c> due</c><00:00:42.840><c> to</c><00:00:42.899><c> the</c>
+
+00:00:43.010 --> 00:00:43.020 align:start position:0%
+this creates a right triangle due to the
+ 
+
+00:00:43.020 --> 00:00:44.630 align:start position:0%
+this creates a right triangle due to the
+Pythagorean<00:00:43.500><c> theorem</c><00:00:43.920><c> the</c><00:00:44.160><c> legs</c><00:00:44.399><c> of</c><00:00:44.520><c> this</c>
+
+00:00:44.630 --> 00:00:44.640 align:start position:0%
+Pythagorean theorem the legs of this
+ 
+
+00:00:44.640 --> 00:00:45.950 align:start position:0%
+Pythagorean theorem the legs of this
+right<00:00:44.820><c> triangle</c><00:00:45.180><c> are</c><00:00:45.300><c> x</c><00:00:45.540><c> times</c><00:00:45.719><c> the</c><00:00:45.840><c> square</c>
+
+00:00:45.950 --> 00:00:45.960 align:start position:0%
+right triangle are x times the square
+ 
+
+00:00:45.960 --> 00:00:47.690 align:start position:0%
+right triangle are x times the square
+root<00:00:46.140><c> of</c><00:00:46.200><c> a</c><00:00:46.379><c> squared</c><00:00:46.680><c> plus</c><00:00:46.800><c> b</c><00:00:46.980><c> squared</c><00:00:47.340><c> and</c><00:00:47.520><c> Y</c>
+
+00:00:47.690 --> 00:00:47.700 align:start position:0%
+root of a squared plus b squared and Y
+ 
+
+00:00:47.700 --> 00:00:49.010 align:start position:0%
+root of a squared plus b squared and Y
+times<00:00:47.940><c> the</c><00:00:48.120><c> square</c><00:00:48.239><c> root</c><00:00:48.360><c> of</c><00:00:48.480><c> a</c><00:00:48.600><c> squared</c><00:00:48.899><c> plus</c>
+
+00:00:49.010 --> 00:00:49.020 align:start position:0%
+times the square root of a squared plus
+ 
+
+00:00:49.020 --> 00:00:50.990 align:start position:0%
+times the square root of a squared plus
+b<00:00:49.200><c> squared</c><00:00:49.620><c> and</c><00:00:49.980><c> let's</c><00:00:50.100><c> label</c><00:00:50.460><c> the</c><00:00:50.579><c> angle</c><00:00:50.820><c> in</c>
+
+00:00:50.990 --> 00:00:51.000 align:start position:0%
+b squared and let's label the angle in
+ 
+
+00:00:51.000 --> 00:00:53.930 align:start position:0%
+b squared and let's label the angle in
+the<00:00:51.120><c> upper</c><00:00:51.300><c> left</c><00:00:51.420><c> beta</c><00:00:52.500><c> finally</c><00:00:53.219><c> we</c><00:00:53.760><c> can</c>
+
+00:00:53.930 --> 00:00:53.940 align:start position:0%
+the upper left beta finally we can
+ 
+
+00:00:53.940 --> 00:00:55.490 align:start position:0%
+the upper left beta finally we can
+create<00:00:54.120><c> a</c><00:00:54.420><c> rectangular</c><00:00:54.840><c> diagram</c><00:00:55.140><c> from</c><00:00:55.379><c> this</c>
+
+00:00:55.490 --> 00:00:55.500 align:start position:0%
+create a rectangular diagram from this
+ 
+
+00:00:55.500 --> 00:00:57.470 align:start position:0%
+create a rectangular diagram from this
+trapezoid<00:00:56.100><c> by</c><00:00:56.219><c> adding</c><00:00:56.520><c> this</c><00:00:56.760><c> right</c><00:00:56.940><c> triangle</c>
+
+00:00:57.470 --> 00:00:57.480 align:start position:0%
+trapezoid by adding this right triangle
+ 
+
+00:00:57.480 --> 00:01:00.290 align:start position:0%
+trapezoid by adding this right triangle
+with<00:00:57.719><c> legs</c><00:00:58.020><c> of</c><00:00:58.140><c> length</c><00:00:58.379><c> b</c><00:00:58.500><c> y</c><00:00:58.680><c> minus</c><00:00:59.100><c> ax</c><00:00:59.520><c> and</c><00:00:59.940><c> a</c><00:01:00.120><c> y</c>
+
+00:01:00.290 --> 00:01:00.300 align:start position:0%
+with legs of length b y minus ax and a y
+ 
+
+00:01:00.300 --> 00:01:02.930 align:start position:0%
+with legs of length b y minus ax and a y
+plus<00:01:00.600><c> b</c><00:01:00.899><c> x</c><00:01:01.199><c> the</c><00:01:02.039><c> bottom</c><00:01:02.280><c> angle</c><00:01:02.640><c> in</c><00:01:02.820><c> this</c>
+
+00:01:02.930 --> 00:01:02.940 align:start position:0%
+plus b x the bottom angle in this
+ 
+
+00:01:02.940 --> 00:01:04.969 align:start position:0%
+plus b x the bottom angle in this
+triangle<00:01:03.420><c> must</c><00:01:03.719><c> be</c><00:01:03.899><c> Alpha</c><00:01:04.320><c> plus</c><00:01:04.440><c> beta</c><00:01:04.860><c> by</c>
+
+00:01:04.969 --> 00:01:04.979 align:start position:0%
+triangle must be Alpha plus beta by
+ 
+
+00:01:04.979 --> 00:01:06.530 align:start position:0%
+triangle must be Alpha plus beta by
+construction<00:01:05.220><c> because</c><00:01:05.700><c> it's</c><00:01:05.939><c> complementary</c>
+
+00:01:06.530 --> 00:01:06.540 align:start position:0%
+construction because it's complementary
+ 
+
+00:01:06.540 --> 00:01:08.210 align:start position:0%
+construction because it's complementary
+to<00:01:06.840><c> the</c><00:01:06.960><c> other</c><00:01:07.080><c> acute</c><00:01:07.439><c> angle</c><00:01:07.860><c> which</c><00:01:08.100><c> is</c>
+
+00:01:08.210 --> 00:01:08.220 align:start position:0%
+to the other acute angle which is
+ 
+
+00:01:08.220 --> 00:01:10.370 align:start position:0%
+to the other acute angle which is
+complementary<00:01:08.700><c> to</c><00:01:08.880><c> Alpha</c><00:01:09.119><c> plus</c><00:01:09.240><c> beta</c>
+
+00:01:10.370 --> 00:01:10.380 align:start position:0%
+complementary to Alpha plus beta
+ 
+
+00:01:10.380 --> 00:01:12.289 align:start position:0%
+complementary to Alpha plus beta
+now<00:01:10.740><c> we</c><00:01:10.920><c> can</c><00:01:11.040><c> get</c><00:01:11.159><c> an</c><00:01:11.340><c> interesting</c><00:01:11.700><c> formula</c><00:01:12.060><c> by</c>
+
+00:01:12.289 --> 00:01:12.299 align:start position:0%
+now we can get an interesting formula by
+ 
+
+00:01:12.299 --> 00:01:14.149 align:start position:0%
+now we can get an interesting formula by
+Computing<00:01:12.659><c> Alpha</c><00:01:12.960><c> plus</c><00:01:13.080><c> beta</c><00:01:13.500><c> in</c><00:01:13.680><c> two</c><00:01:13.860><c> ways</c>
+
+00:01:14.149 --> 00:01:14.159 align:start position:0%
+Computing Alpha plus beta in two ways
+ 
+
+00:01:14.159 --> 00:01:17.450 align:start position:0%
+Computing Alpha plus beta in two ways
+first<00:01:14.820><c> of</c><00:01:15.000><c> all</c><00:01:15.119><c> it's</c><00:01:15.600><c> the</c><00:01:15.840><c> arc</c><00:01:16.140><c> tangent</c><00:01:16.619><c> of</c><00:01:16.979><c> a</c><00:01:17.280><c> y</c>
+
+00:01:17.450 --> 00:01:17.460 align:start position:0%
+first of all it's the arc tangent of a y
+ 
+
+00:01:17.460 --> 00:01:20.570 align:start position:0%
+first of all it's the arc tangent of a y
+plus<00:01:17.820><c> BX</c><00:01:18.299><c> divided</c><00:01:18.840><c> by</c><00:01:18.960><c> b</c><00:01:19.320><c> y</c><00:01:19.500><c> minus</c><00:01:20.220><c> ax</c>
+
+00:01:20.570 --> 00:01:20.580 align:start position:0%
+plus BX divided by b y minus ax
+ 
+
+00:01:20.580 --> 00:01:22.789 align:start position:0%
+plus BX divided by b y minus ax
+according<00:01:20.939><c> to</c><00:01:21.060><c> the</c><00:01:21.180><c> upper</c><00:01:21.479><c> right</c><00:01:21.600><c> triangle</c><00:01:22.200><c> on</c>
+
+00:01:22.789 --> 00:01:22.799 align:start position:0%
+according to the upper right triangle on
+ 
+
+00:01:22.799 --> 00:01:25.310 align:start position:0%
+according to the upper right triangle on
+the<00:01:22.860><c> other</c><00:01:22.920><c> hand</c><00:01:23.180><c> Alpha</c><00:01:24.180><c> is</c><00:01:24.540><c> the</c><00:01:24.720><c> arctangent</c>
+
+00:01:25.310 --> 00:01:25.320 align:start position:0%
+the other hand Alpha is the arctangent
+ 
+
+00:01:25.320 --> 00:01:28.010 align:start position:0%
+the other hand Alpha is the arctangent
+of<00:01:25.500><c> a</c><00:01:25.740><c> y</c><00:01:25.979><c> divided</c><00:01:26.520><c> by</c><00:01:26.700><c> b</c><00:01:27.000><c> y</c><00:01:27.180><c> according</c><00:01:27.659><c> to</c><00:01:27.840><c> the</c>
+
+00:01:28.010 --> 00:01:28.020 align:start position:0%
+of a y divided by b y according to the
+ 
+
+00:01:28.020 --> 00:01:30.289 align:start position:0%
+of a y divided by b y according to the
+left<00:01:28.140><c> triangle</c><00:01:28.740><c> and</c><00:01:29.280><c> beta</c><00:01:29.759><c> is</c><00:01:29.880><c> the</c><00:01:30.060><c> arc</c>
+
+00:01:30.289 --> 00:01:30.299 align:start position:0%
+left triangle and beta is the arc
+ 
+
+00:01:30.299 --> 00:01:32.030 align:start position:0%
+left triangle and beta is the arc
+tangent<00:01:30.659><c> of</c><00:01:30.960><c> x</c><00:01:31.140><c> times</c><00:01:31.380><c> the</c><00:01:31.500><c> square</c><00:01:31.619><c> root</c><00:01:31.799><c> of</c><00:01:31.860><c> a</c>
+
+00:01:32.030 --> 00:01:32.040 align:start position:0%
+tangent of x times the square root of a
+ 
+
+00:01:32.040 --> 00:01:34.130 align:start position:0%
+tangent of x times the square root of a
+squared<00:01:32.340><c> plus</c><00:01:32.460><c> b</c><00:01:32.700><c> squared</c><00:01:33.119><c> divided</c><00:01:33.720><c> by</c><00:01:33.840><c> y</c>
+
+00:01:34.130 --> 00:01:34.140 align:start position:0%
+squared plus b squared divided by y
+ 
+
+00:01:34.140 --> 00:01:35.510 align:start position:0%
+squared plus b squared divided by y
+times<00:01:34.439><c> the</c><00:01:34.619><c> square</c><00:01:34.740><c> root</c><00:01:34.920><c> of</c><00:01:34.979><c> a</c><00:01:35.100><c> squared</c><00:01:35.400><c> plus</c>
+
+00:01:35.510 --> 00:01:35.520 align:start position:0%
+times the square root of a squared plus
+ 
+
+00:01:35.520 --> 00:01:37.010 align:start position:0%
+times the square root of a squared plus
+b<00:01:35.700><c> squared</c><00:01:36.060><c> according</c><00:01:36.420><c> to</c><00:01:36.600><c> the</c><00:01:36.720><c> inner</c>
+
+00:01:37.010 --> 00:01:37.020 align:start position:0%
+b squared according to the inner
+ 
+
+00:01:37.020 --> 00:01:38.929 align:start position:0%
+b squared according to the inner
+triangle<00:01:37.439><c> notice</c><00:01:38.040><c> that</c><00:01:38.159><c> we</c><00:01:38.340><c> can</c><00:01:38.460><c> cancel</c><00:01:38.700><c> the</c>
+
+00:01:38.929 --> 00:01:38.939 align:start position:0%
+triangle notice that we can cancel the
+ 
+
+00:01:38.939 --> 00:01:40.550 align:start position:0%
+triangle notice that we can cancel the
+Y's<00:01:39.299><c> and</c><00:01:39.600><c> cancel</c><00:01:39.720><c> the</c><00:01:40.020><c> square</c><00:01:40.140><c> root</c><00:01:40.380><c> of</c><00:01:40.439><c> a</c>
+
+00:01:40.550 --> 00:01:40.560 align:start position:0%
+Y's and cancel the square root of a
+ 
+
+00:01:40.560 --> 00:01:42.410 align:start position:0%
+Y's and cancel the square root of a
+squared<00:01:40.860><c> plus</c><00:01:41.040><c> b</c><00:01:41.280><c> squareds</c><00:01:41.820><c> and</c><00:01:42.119><c> we</c><00:01:42.240><c> end</c><00:01:42.360><c> up</c>
+
+00:01:42.410 --> 00:01:42.420 align:start position:0%
+squared plus b squareds and we end up
+ 
+
+00:01:42.420 --> 00:01:43.969 align:start position:0%
+squared plus b squareds and we end up
+with<00:01:42.600><c> the</c><00:01:42.720><c> formula</c><00:01:43.020><c> that</c><00:01:43.140><c> arc</c><00:01:43.439><c> tangent</c><00:01:43.740><c> of</c><00:01:43.860><c> A</c>
+
+00:01:43.969 --> 00:01:43.979 align:start position:0%
+with the formula that arc tangent of A
+ 
+
+00:01:43.979 --> 00:01:46.130 align:start position:0%
+with the formula that arc tangent of A
+over<00:01:44.159><c> B</c><00:01:44.400><c> plus</c><00:01:44.640><c> the</c><00:01:44.820><c> arc</c><00:01:45.060><c> tangent</c><00:01:45.360><c> of</c><00:01:45.540><c> X</c><00:01:45.659><c> over</c><00:01:45.840><c> Y</c>
+
+00:01:46.130 --> 00:01:46.140 align:start position:0%
+over B plus the arc tangent of X over Y
+ 
+
+00:01:46.140 --> 00:01:48.350 align:start position:0%
+over B plus the arc tangent of X over Y
+is<00:01:46.560><c> equal</c><00:01:46.799><c> to</c><00:01:46.920><c> the</c><00:01:47.040><c> arctangent</c><00:01:47.640><c> of</c><00:01:47.759><c> a</c><00:01:47.939><c> y</c><00:01:48.119><c> plus</c>
+
+00:01:48.350 --> 00:01:48.360 align:start position:0%
+is equal to the arctangent of a y plus
+ 
+
+00:01:48.360 --> 00:01:51.230 align:start position:0%
+is equal to the arctangent of a y plus
+BX<00:01:48.780><c> divided</c><00:01:49.200><c> by</c><00:01:49.320><c> b</c><00:01:49.500><c> y</c><00:01:49.680><c> minus</c><00:01:49.979><c> ax</c><00:01:50.399><c> setting</c><00:01:51.119><c> both</c>
+
+00:01:51.230 --> 00:01:51.240 align:start position:0%
+BX divided by b y minus ax setting both
+ 
+
+00:01:51.240 --> 00:01:53.330 align:start position:0%
+BX divided by b y minus ax setting both
+A<00:01:51.479><c> over</c><00:01:51.659><c> B</c><00:01:51.899><c> and</c><00:01:52.079><c> X</c><00:01:52.200><c> over</c><00:01:52.320><c> y</c><00:01:52.560><c> to</c><00:01:52.740><c> one-fifth</c><00:01:53.220><c> in</c>
+
+00:01:53.330 --> 00:01:53.340 align:start position:0%
+A over B and X over y to one-fifth in
+ 
+
+00:01:53.340 --> 00:01:55.069 align:start position:0%
+A over B and X over y to one-fifth in
+this<00:01:53.460><c> equation</c><00:01:53.759><c> yields</c><00:01:54.479><c> that</c><00:01:54.600><c> 2</c><00:01:54.720><c> times</c><00:01:54.899><c> the</c>
+
+00:01:55.069 --> 00:01:55.079 align:start position:0%
+this equation yields that 2 times the
+ 
+
+00:01:55.079 --> 00:01:56.569 align:start position:0%
+this equation yields that 2 times the
+arctangent<00:01:55.560><c> of</c><00:01:55.740><c> a</c><00:01:55.860><c> fifth</c><00:01:56.040><c> is</c><00:01:56.159><c> equal</c><00:01:56.280><c> to</c><00:01:56.460><c> the</c>
+
+00:01:56.569 --> 00:01:56.579 align:start position:0%
+arctangent of a fifth is equal to the
+ 
+
+00:01:56.579 --> 00:01:59.090 align:start position:0%
+arctangent of a fifth is equal to the
+arctangent<00:01:57.119><c> of</c><00:01:57.299><c> 5</c><00:01:57.420><c> 12.</c><00:01:57.960><c> setting</c><00:01:58.560><c> both</c><00:01:58.740><c> A</c><00:01:58.920><c> over</c>
+
+00:01:59.090 --> 00:01:59.100 align:start position:0%
+arctangent of 5 12. setting both A over
+ 
+
+00:01:59.100 --> 00:02:01.670 align:start position:0%
+arctangent of 5 12. setting both A over
+B<00:01:59.280><c> and</c><00:01:59.399><c> X</c><00:01:59.520><c> over</c><00:01:59.700><c> y</c><00:01:59.880><c> to</c><00:02:00.060><c> 5</c><00:02:00.240><c> 12</c><00:02:00.479><c> reveals</c><00:02:01.320><c> that</c><00:02:01.500><c> 2</c>
+
+00:02:01.670 --> 00:02:01.680 align:start position:0%
+B and X over y to 5 12 reveals that 2
+ 
+
+00:02:01.680 --> 00:02:03.410 align:start position:0%
+B and X over y to 5 12 reveals that 2
+times<00:02:01.860><c> the</c><00:02:02.040><c> arctangent</c><00:02:02.460><c> of</c><00:02:02.640><c> 5</c><00:02:02.700><c> 12</c><00:02:02.880><c> is</c><00:02:03.119><c> equal</c><00:02:03.299><c> to</c>
+
+00:02:03.410 --> 00:02:03.420 align:start position:0%
+times the arctangent of 5 12 is equal to
+ 
+
+00:02:03.420 --> 00:02:05.690 align:start position:0%
+times the arctangent of 5 12 is equal to
+the<00:02:03.540><c> arc</c><00:02:03.780><c> tangent</c><00:02:04.079><c> of</c><00:02:04.259><c> 120</c><00:02:04.619><c> over</c><00:02:04.740><c> 119</c><00:02:05.219><c> and</c>
+
+00:02:05.690 --> 00:02:05.700 align:start position:0%
+the arc tangent of 120 over 119 and
+ 
+
+00:02:05.700 --> 00:02:07.370 align:start position:0%
+the arc tangent of 120 over 119 and
+finally<00:02:05.939><c> setting</c><00:02:06.299><c> A</c><00:02:06.420><c> over</c><00:02:06.600><c> B</c><00:02:06.840><c> equal</c><00:02:07.020><c> to</c><00:02:07.200><c> one</c>
+
+00:02:07.370 --> 00:02:07.380 align:start position:0%
+finally setting A over B equal to one
+ 
+
+00:02:07.380 --> 00:02:09.229 align:start position:0%
+finally setting A over B equal to one
+over<00:02:07.500><c> one</c><00:02:07.740><c> and</c><00:02:07.979><c> X</c><00:02:08.160><c> over</c><00:02:08.280><c> y</c><00:02:08.459><c> equal</c><00:02:08.700><c> to</c><00:02:08.880><c> 1</c><00:02:09.060><c> over</c>
+
+00:02:09.229 --> 00:02:09.239 align:start position:0%
+over one and X over y equal to 1 over
+ 
+
+00:02:09.239 --> 00:02:11.930 align:start position:0%
+over one and X over y equal to 1 over
+239<00:02:09.840><c> we</c><00:02:10.080><c> get</c><00:02:10.200><c> the</c><00:02:10.319><c> at</c><00:02:10.679><c> pi</c><00:02:10.860><c> over</c><00:02:11.039><c> 4</c><00:02:11.220><c> plus</c><00:02:11.520><c> the</c><00:02:11.700><c> arc</c>
+
+00:02:11.930 --> 00:02:11.940 align:start position:0%
+239 we get the at pi over 4 plus the arc
+ 
+
+00:02:11.940 --> 00:02:14.210 align:start position:0%
+239 we get the at pi over 4 plus the arc
+tangent<00:02:12.300><c> of</c><00:02:12.420><c> 1</c><00:02:12.540><c> over</c><00:02:12.720><c> 239</c><00:02:13.379><c> is</c><00:02:13.739><c> equal</c><00:02:13.920><c> to</c><00:02:14.099><c> the</c>
+
+00:02:14.210 --> 00:02:14.220 align:start position:0%
+tangent of 1 over 239 is equal to the
+ 
+
+00:02:14.220 --> 00:02:17.330 align:start position:0%
+tangent of 1 over 239 is equal to the
+arc<00:02:14.459><c> tangent</c><00:02:14.760><c> of</c><00:02:14.940><c> 120</c><00:02:15.420><c> divided</c><00:02:15.720><c> by</c><00:02:15.780><c> 119.</c><00:02:16.860><c> now</c>
+
+00:02:17.330 --> 00:02:17.340 align:start position:0%
+arc tangent of 120 divided by 119. now
+ 
+
+00:02:17.340 --> 00:02:18.470 align:start position:0%
+arc tangent of 120 divided by 119. now
+let's<00:02:17.459><c> string</c><00:02:17.819><c> these</c><00:02:18.000><c> three</c><00:02:18.120><c> equations</c>
+
+00:02:18.470 --> 00:02:18.480 align:start position:0%
+let's string these three equations
+ 
+
+00:02:18.480 --> 00:02:20.510 align:start position:0%
+let's string these three equations
+together<00:02:18.959><c> use</c><00:02:19.500><c> the</c><00:02:19.680><c> second</c><00:02:19.860><c> equation</c><00:02:20.280><c> to</c>
+
+00:02:20.510 --> 00:02:20.520 align:start position:0%
+together use the second equation to
+ 
+
+00:02:20.520 --> 00:02:23.150 align:start position:0%
+together use the second equation to
+replace<00:02:20.700><c> arctangent</c><00:02:21.480><c> 120</c><00:02:21.959><c> over</c><00:02:22.020><c> 119</c><00:02:22.560><c> by</c><00:02:22.980><c> 2</c>
+
+00:02:23.150 --> 00:02:23.160 align:start position:0%
+replace arctangent 120 over 119 by 2
+ 
+
+00:02:23.160 --> 00:02:25.070 align:start position:0%
+replace arctangent 120 over 119 by 2
+times<00:02:23.340><c> arctangent</c><00:02:24.000><c> 5</c><00:02:24.239><c> 12.</c><00:02:24.720><c> then</c><00:02:24.959><c> replace</c>
+
+00:02:25.070 --> 00:02:25.080 align:start position:0%
+times arctangent 5 12. then replace
+ 
+
+00:02:25.080 --> 00:02:27.110 align:start position:0%
+times arctangent 5 12. then replace
+arctangent<00:02:25.860><c> 5</c><00:02:26.040><c> 12</c><00:02:26.280><c> by</c><00:02:26.580><c> 2</c><00:02:26.760><c> times</c><00:02:26.940><c> the</c>
+
+00:02:27.110 --> 00:02:27.120 align:start position:0%
+arctangent 5 12 by 2 times the
+ 
+
+00:02:27.120 --> 00:02:28.729 align:start position:0%
+arctangent 5 12 by 2 times the
+arctangent<00:02:27.660><c> of</c><00:02:27.780><c> one-fifth</c><00:02:28.200><c> using</c><00:02:28.500><c> the</c><00:02:28.620><c> first</c>
+
+00:02:28.729 --> 00:02:28.739 align:start position:0%
+arctangent of one-fifth using the first
+ 
+
+00:02:28.739 --> 00:02:30.710 align:start position:0%
+arctangent of one-fifth using the first
+equation<00:02:29.099><c> if</c><00:02:29.580><c> we</c><00:02:29.700><c> rearrange</c><00:02:30.120><c> the</c><00:02:30.360><c> resulting</c>
+
+00:02:30.710 --> 00:02:30.720 align:start position:0%
+equation if we rearrange the resulting
+ 
+
+00:02:30.720 --> 00:02:32.930 align:start position:0%
+equation if we rearrange the resulting
+formula<00:02:31.260><c> we</c><00:02:31.680><c> get</c><00:02:31.800><c> that</c><00:02:31.980><c> pi</c><00:02:32.220><c> over</c><00:02:32.340><c> 4</c><00:02:32.580><c> is</c><00:02:32.760><c> equal</c>
+
+00:02:32.930 --> 00:02:32.940 align:start position:0%
+formula we get that pi over 4 is equal
+ 
+
+00:02:32.940 --> 00:02:35.030 align:start position:0%
+formula we get that pi over 4 is equal
+to<00:02:33.120><c> 4</c><00:02:33.360><c> times</c><00:02:33.540><c> the</c><00:02:33.720><c> arctangent</c><00:02:34.319><c> of</c><00:02:34.500><c> one-fifth</c>
+
+00:02:35.030 --> 00:02:35.040 align:start position:0%
+to 4 times the arctangent of one-fifth
+ 
+
+00:02:35.040 --> 00:02:37.550 align:start position:0%
+to 4 times the arctangent of one-fifth
+minus<00:02:35.400><c> the</c><00:02:35.459><c> arc</c><00:02:35.700><c> tangent</c><00:02:36.000><c> of</c><00:02:36.120><c> 1</c><00:02:36.239><c> over</c><00:02:36.420><c> 239</c><00:02:37.020><c> this</c>
+
+00:02:37.550 --> 00:02:37.560 align:start position:0%
+minus the arc tangent of 1 over 239 this
+ 
+
+00:02:37.560 --> 00:02:39.229 align:start position:0%
+minus the arc tangent of 1 over 239 this
+is<00:02:37.739><c> called</c><00:02:37.860><c> the</c><00:02:37.980><c> matron</c><00:02:38.400><c> formula</c><00:02:38.819><c> and</c><00:02:39.120><c> is</c>
+
+00:02:39.229 --> 00:02:39.239 align:start position:0%
+is called the matron formula and is
+ 
+
+00:02:39.239 --> 00:02:40.850 align:start position:0%
+is called the matron formula and is
+attributed<00:02:39.660><c> to</c><00:02:39.780><c> John</c><00:02:39.900><c> Machin</c><00:02:40.440><c> who</c><00:02:40.620><c> discovered</c>
+
+00:02:40.850 --> 00:02:40.860 align:start position:0%
+attributed to John Machin who discovered
+ 
+
+00:02:40.860 --> 00:02:43.550 align:start position:0%
+attributed to John Machin who discovered
+it<00:02:41.040><c> in</c><00:02:41.160><c> 1706</c><00:02:41.879><c> when</c><00:02:42.239><c> he</c><00:02:42.420><c> used</c><00:02:42.599><c> it</c><00:02:42.780><c> to</c><00:02:42.959><c> compute</c><00:02:43.260><c> pi</c>
+
+00:02:43.550 --> 00:02:43.560 align:start position:0%
+it in 1706 when he used it to compute pi
+ 
+
+00:02:43.560 --> 00:02:45.890 align:start position:0%
+it in 1706 when he used it to compute pi
+to<00:02:43.800><c> 100</c><00:02:43.920><c> decimal</c><00:02:44.459><c> places</c>
+
+00:02:45.890 --> 00:02:45.900 align:start position:0%
+to 100 decimal places
+ 
+
+00:02:45.900 --> 00:02:47.690 align:start position:0%
+to 100 decimal places
+here<00:02:46.379><c> are</c><00:02:46.560><c> the</c><00:02:46.680><c> first</c><00:02:46.800><c> 100</c><00:02:46.980><c> decimal</c><00:02:47.580><c> places</c>
+
+00:02:47.690 --> 00:02:47.700 align:start position:0%
+here are the first 100 decimal places
+ 
+
+00:02:47.700 --> 00:02:49.729 align:start position:0%
+here are the first 100 decimal places
+that<00:02:48.060><c> Machin</c><00:02:48.480><c> would</c><00:02:48.720><c> have</c><00:02:48.780><c> found</c>
+
+00:02:49.729 --> 00:02:49.739 align:start position:0%
+that Machin would have found
+ 
+
+00:02:49.739 --> 00:02:52.610 align:start position:0%
+that Machin would have found
+in<00:02:50.340><c> 1873</c><00:02:51.060><c> William</c><00:02:51.420><c> Shanks</c><00:02:51.959><c> used</c><00:02:52.140><c> the</c><00:02:52.440><c> same</c>
+
+00:02:52.610 --> 00:02:52.620 align:start position:0%
+in 1873 William Shanks used the same
+ 
+
+00:02:52.620 --> 00:02:55.490 align:start position:0%
+in 1873 William Shanks used the same
+formula<00:02:53.099><c> but</c><00:02:53.459><c> this</c><00:02:53.640><c> time</c><00:02:53.760><c> got</c><00:02:54.000><c> 707</c><00:02:54.959><c> digits</c><00:02:55.379><c> of</c>
+
+00:02:55.490 --> 00:02:55.500 align:start position:0%
+formula but this time got 707 digits of
+ 
+
+00:02:55.500 --> 00:02:58.430 align:start position:0%
+formula but this time got 707 digits of
+pi<00:02:55.739><c> as</c><00:02:56.040><c> listed</c><00:02:56.400><c> here</c>
+
+00:02:58.430 --> 00:02:58.440 align:start position:0%
+pi as listed here
+ 
+
+00:02:58.440 --> 00:03:01.729 align:start position:0%
+pi as listed here
+he<00:02:58.920><c> was</c><00:02:59.099><c> so</c><00:02:59.280><c> close</c><00:02:59.459><c> but</c><00:02:59.760><c> in</c><00:02:59.940><c> 1946</c><00:03:00.720><c> an</c><00:03:01.260><c> error</c><00:03:01.620><c> was</c>
+
+00:03:01.729 --> 00:03:01.739 align:start position:0%
+he was so close but in 1946 an error was
+ 
+
+00:03:01.739 --> 00:03:04.130 align:start position:0%
+he was so close but in 1946 an error was
+found<00:03:01.920><c> in</c><00:03:02.099><c> his</c><00:03:02.280><c> work</c><00:03:02.400><c> in</c><00:03:02.760><c> the</c><00:03:02.879><c> 528th</c><00:03:03.840><c> digit</c>
+
+00:03:04.130 --> 00:03:04.140 align:start position:0%
+found in his work in the 528th digit
+ 
+
+00:03:04.140 --> 00:03:05.270 align:start position:0%
+found in his work in the 528th digit
+shown<00:03:04.379><c> here</c>
+
+00:03:05.270 --> 00:03:05.280 align:start position:0%
+shown here
+ 
+
+00:03:05.280 --> 00:03:06.710 align:start position:0%
+shown here
+how<00:03:05.580><c> many</c><00:03:05.700><c> digits</c><00:03:06.060><c> of</c><00:03:06.180><c> pi</c><00:03:06.360><c> do</c><00:03:06.540><c> you</c><00:03:06.660><c> think</c>
+
+00:03:06.710 --> 00:03:06.720 align:start position:0%
+how many digits of pi do you think
+ 
+
+00:03:06.720 --> 00:03:08.449 align:start position:0%
+how many digits of pi do you think
+modern<00:03:06.959><c> computers</c><00:03:07.500><c> can</c><00:03:07.680><c> compute</c><00:03:08.040><c> using</c><00:03:08.280><c> this</c>
+
+00:03:08.449 --> 00:03:08.459 align:start position:0%
+modern computers can compute using this
+ 
+
+00:03:08.459 --> 00:03:12.080 align:start position:0%
+modern computers can compute using this
+formula<00:03:08.819><c> leave</c><00:03:09.180><c> a</c><00:03:09.300><c> comment</c><00:03:09.540><c> let</c><00:03:09.780><c> me</c><00:03:09.959><c> know</c>
+

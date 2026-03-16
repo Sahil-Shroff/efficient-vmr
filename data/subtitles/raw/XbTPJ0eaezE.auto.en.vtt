@@ -1,0 +1,144 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.199 --> 00:00:02.550 align:start position:0%
+ 
+to<00:00:00.359><c> find</c><00:00:00.560><c> the</c><00:00:00.719><c> area</c><00:00:01.079><c> formula</c><00:00:01.480><c> for</c><00:00:01.640><c> a</c><00:00:01.839><c> trapezoid</c>
+
+00:00:02.550 --> 00:00:02.560 align:start position:0%
+to find the area formula for a trapezoid
+ 
+
+00:00:02.560 --> 00:00:05.150 align:start position:0%
+to find the area formula for a trapezoid
+with<00:00:02.720><c> bases</c><00:00:03.120><c> of</c><00:00:03.320><c> length</c><00:00:03.600><c> B1</c><00:00:03.959><c> and</c><00:00:04.120><c> B2</c><00:00:04.839><c> and</c><00:00:04.960><c> a</c>
+
+00:00:05.150 --> 00:00:05.160 align:start position:0%
+with bases of length B1 and B2 and a
+ 
+
+00:00:05.160 --> 00:00:07.349 align:start position:0%
+with bases of length B1 and B2 and a
+height<00:00:05.400><c> of</c><00:00:05.600><c> length</c><00:00:05.920><c> H</c><00:00:06.560><c> we</c><00:00:06.680><c> can</c><00:00:06.839><c> perform</c><00:00:07.200><c> the</c>
+
+00:00:07.349 --> 00:00:07.359 align:start position:0%
+height of length H we can perform the
+ 
+
+00:00:07.359 --> 00:00:09.549 align:start position:0%
+height of length H we can perform the
+following<00:00:07.720><c> interesting</c><00:00:08.440><c> process</c><00:00:09.240><c> take</c><00:00:09.440><c> one</c>
+
+00:00:09.549 --> 00:00:09.559 align:start position:0%
+following interesting process take one
+ 
+
+00:00:09.559 --> 00:00:11.950 align:start position:0%
+following interesting process take one
+of<00:00:09.679><c> the</c><00:00:09.880><c> side</c><00:00:10.120><c> lengths</c><00:00:10.639><c> and</c><00:00:10.880><c> bict</c><00:00:11.360><c> it</c><00:00:11.639><c> cutting</c>
+
+00:00:11.950 --> 00:00:11.960 align:start position:0%
+of the side lengths and bict it cutting
+ 
+
+00:00:11.960 --> 00:00:14.310 align:start position:0%
+of the side lengths and bict it cutting
+it<00:00:12.120><c> into</c><00:00:12.440><c> two</c><00:00:12.840><c> equal</c><00:00:13.240><c> length</c><00:00:13.599><c> pieces</c><00:00:14.040><c> like</c>
+
+00:00:14.310 --> 00:00:14.320 align:start position:0%
+it into two equal length pieces like
+ 
+
+00:00:14.320 --> 00:00:16.710 align:start position:0%
+it into two equal length pieces like
+this<00:00:15.040><c> now</c><00:00:15.240><c> connect</c><00:00:15.599><c> the</c><00:00:15.719><c> midpoint</c><00:00:16.279><c> to</c><00:00:16.440><c> one</c><00:00:16.560><c> of</c>
+
+00:00:16.710 --> 00:00:16.720 align:start position:0%
+this now connect the midpoint to one of
+ 
+
+00:00:16.720 --> 00:00:18.670 align:start position:0%
+this now connect the midpoint to one of
+the<00:00:16.880><c> opposite</c><00:00:17.279><c> Corners</c><00:00:17.760><c> creating</c><00:00:18.119><c> a</c><00:00:18.320><c> small</c>
+
+00:00:18.670 --> 00:00:18.680 align:start position:0%
+the opposite Corners creating a small
+ 
+
+00:00:18.680 --> 00:00:20.910 align:start position:0%
+the opposite Corners creating a small
+triangle<00:00:19.400><c> we</c><00:00:19.520><c> can</c><00:00:19.760><c> cut</c><00:00:20.000><c> this</c><00:00:20.199><c> triangle</c><00:00:20.720><c> off</c>
+
+00:00:20.910 --> 00:00:20.920 align:start position:0%
+triangle we can cut this triangle off
+ 
+
+00:00:20.920 --> 00:00:22.950 align:start position:0%
+triangle we can cut this triangle off
+and<00:00:21.080><c> rotate</c><00:00:21.439><c> it</c><00:00:21.600><c> around</c><00:00:22.080><c> to</c><00:00:22.240><c> create</c><00:00:22.480><c> a</c><00:00:22.600><c> larger</c>
+
+00:00:22.950 --> 00:00:22.960 align:start position:0%
+and rotate it around to create a larger
+ 
+
+00:00:22.960 --> 00:00:25.670 align:start position:0%
+and rotate it around to create a larger
+triangle<00:00:23.640><c> with</c><00:00:24.000><c> base</c><00:00:24.160><c> of</c><00:00:24.320><c> length</c><00:00:24.560><c> B1</c><00:00:24.960><c> plus</c><00:00:25.160><c> B2</c>
+
+00:00:25.670 --> 00:00:25.680 align:start position:0%
+triangle with base of length B1 plus B2
+ 
+
+00:00:25.680 --> 00:00:27.669 align:start position:0%
+triangle with base of length B1 plus B2
+and<00:00:25.920><c> height</c><00:00:26.080><c> of</c><00:00:26.240><c> length</c><00:00:26.560><c> H</c><00:00:27.160><c> but</c><00:00:27.320><c> then</c><00:00:27.519><c> this</c>
+
+00:00:27.669 --> 00:00:27.679 align:start position:0%
+and height of length H but then this
+ 
+
+00:00:27.679 --> 00:00:31.710 align:start position:0%
+and height of length H but then this
+triangle<00:00:28.279><c> has</c><00:00:28.400><c> an</c><00:00:28.599><c> area</c><00:00:28.960><c> of/</c><00:00:29.359><c> 12</c><00:00:29.599><c> h</c><00:00:29.960><c> *</c><00:00:30.240><c> B1</c><00:00:30.560><c> +</c><00:00:30.800><c> B2</c>
+
+00:00:31.710 --> 00:00:31.720 align:start position:0%
+triangle has an area of/ 12 h * B1 + B2
+ 
+
+00:00:31.720 --> 00:00:33.430 align:start position:0%
+triangle has an area of/ 12 h * B1 + B2
+as<00:00:31.880><c> this</c><00:00:32.000><c> triangle</c><00:00:32.439><c> has</c><00:00:32.599><c> the</c><00:00:32.719><c> same</c><00:00:33.000><c> area</c><00:00:33.320><c> as</c>
+
+00:00:33.430 --> 00:00:33.440 align:start position:0%
+as this triangle has the same area as
+ 
+
+00:00:33.440 --> 00:00:35.389 align:start position:0%
+as this triangle has the same area as
+the<00:00:33.559><c> original</c><00:00:33.960><c> trapezoid</c><00:00:34.800><c> we</c><00:00:34.920><c> see</c><00:00:35.120><c> that</c><00:00:35.280><c> the</c>
+
+00:00:35.389 --> 00:00:35.399 align:start position:0%
+the original trapezoid we see that the
+ 
+
+00:00:35.399 --> 00:00:37.869 align:start position:0%
+the original trapezoid we see that the
+area<00:00:35.680><c> formula</c><00:00:36.000><c> for</c><00:00:36.120><c> a</c><00:00:36.280><c> trapezoid</c><00:00:36.920><c> is</c><00:00:37.079><c> 1/2</c><00:00:37.520><c> *</c>
+
+00:00:37.869 --> 00:00:37.879 align:start position:0%
+area formula for a trapezoid is 1/2 *
+ 
+
+00:00:37.879 --> 00:00:39.709 align:start position:0%
+area formula for a trapezoid is 1/2 *
+the<00:00:38.120><c> height</c><00:00:38.600><c> times</c><00:00:38.960><c> the</c><00:00:39.079><c> sum</c><00:00:39.320><c> of</c><00:00:39.440><c> the</c><00:00:39.520><c> two</c>
+
+00:00:39.709 --> 00:00:39.719 align:start position:0%
+the height times the sum of the two
+ 
+
+00:00:39.719 --> 00:00:42.520 align:start position:0%
+the height times the sum of the two
+bases
+

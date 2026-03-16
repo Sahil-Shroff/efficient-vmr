@@ -1,0 +1,384 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.320 --> 00:00:03.749 align:start position:0%
+ 
+Welcome<00:00:00.719><c> to</c><00:00:01.040><c> our</c><00:00:01.360><c> lesson</c><00:00:01.920><c> on</c><00:00:02.320><c> logarithmic</c>
+
+00:00:03.749 --> 00:00:03.759 align:start position:0%
+Welcome to our lesson on logarithmic
+ 
+
+00:00:03.759 --> 00:00:06.190 align:start position:0%
+Welcome to our lesson on logarithmic
+differentiation<00:00:04.759><c> today</c><00:00:05.160><c> we'll</c><00:00:05.400><c> learn</c><00:00:05.799><c> how</c><00:00:05.920><c> to</c>
+
+00:00:06.190 --> 00:00:06.200 align:start position:0%
+differentiation today we'll learn how to
+ 
+
+00:00:06.200 --> 00:00:09.190 align:start position:0%
+differentiation today we'll learn how to
+differentiate<00:00:06.960><c> a</c><00:00:07.279><c> complex</c><00:00:07.760><c> function</c><00:00:08.760><c> using</c>
+
+00:00:09.190 --> 00:00:09.200 align:start position:0%
+differentiate a complex function using
+ 
+
+00:00:09.200 --> 00:00:12.190 align:start position:0%
+differentiate a complex function using
+this<00:00:09.559><c> powerful</c><00:00:10.160><c> technique</c><00:00:11.120><c> our</c><00:00:11.440><c> challenge</c><00:00:12.080><c> is</c>
+
+00:00:12.190 --> 00:00:12.200 align:start position:0%
+this powerful technique our challenge is
+ 
+
+00:00:12.200 --> 00:00:16.109 align:start position:0%
+this powerful technique our challenge is
+to<00:00:12.440><c> find</c><00:00:12.679><c> the</c><00:00:12.840><c> derivative</c><00:00:13.839><c> of</c><00:00:14.160><c> y</c><00:00:14.440><c> =</c><00:00:14.920><c> x</c><00:00:15.200><c> *</c><00:00:15.719><c> cosine</c>
+
+00:00:16.109 --> 00:00:16.119 align:start position:0%
+to find the derivative of y = x * cosine
+ 
+
+00:00:16.119 --> 00:00:19.429 align:start position:0%
+to find the derivative of y = x * cosine
+inverse<00:00:16.480><c> of</c><00:00:16.720><c> X</c><00:00:17.720><c> all</c><00:00:18.039><c> divided</c><00:00:18.560><c> by</c><00:00:18.720><c> the</c><00:00:18.960><c> square</c><00:00:19.320><c> &lt;</c>
+
+00:00:19.429 --> 00:00:19.439 align:start position:0%
+inverse of X all divided by the square &lt;
+ 
+
+00:00:19.439 --> 00:00:24.550 align:start position:0%
+inverse of X all divided by the square &lt;
+TK<00:00:19.960><c> of</c><00:00:20.279><c> 1</c><00:00:20.600><c> -</c><00:00:21.359><c> x^2</c><00:00:22.359><c> why</c><00:00:22.480><c> do</c><00:00:22.640><c> we</c><00:00:22.800><c> use</c><00:00:23.279><c> logarithmic</c>
+
+00:00:24.550 --> 00:00:24.560 align:start position:0%
+TK of 1 - x^2 why do we use logarithmic
+ 
+
+00:00:24.560 --> 00:00:26.310 align:start position:0%
+TK of 1 - x^2 why do we use logarithmic
+differentiation<00:00:25.560><c> well</c><00:00:25.760><c> when</c><00:00:25.880><c> we</c><00:00:26.039><c> have</c>
+
+00:00:26.310 --> 00:00:26.320 align:start position:0%
+differentiation well when we have
+ 
+
+00:00:26.320 --> 00:00:28.429 align:start position:0%
+differentiation well when we have
+products<00:00:26.840><c> quotients</c><00:00:27.400><c> or</c><00:00:27.840><c> complex</c>
+
+00:00:28.429 --> 00:00:28.439 align:start position:0%
+products quotients or complex
+ 
+
+00:00:28.439 --> 00:00:30.990 align:start position:0%
+products quotients or complex
+Expressions<00:00:29.400><c> taking</c><00:00:29.720><c> the</c><00:00:30.039><c> natural</c><00:00:30.439><c> logarithm</c>
+
+00:00:30.990 --> 00:00:31.000 align:start position:0%
+Expressions taking the natural logarithm
+ 
+
+00:00:31.000 --> 00:00:34.030 align:start position:0%
+Expressions taking the natural logarithm
+of<00:00:31.240><c> both</c><00:00:31.560><c> sides</c><00:00:32.000><c> can</c><00:00:32.279><c> simplify</c><00:00:32.960><c> our</c><00:00:33.200><c> work</c>
+
+00:00:34.030 --> 00:00:34.040 align:start position:0%
+of both sides can simplify our work
+ 
+
+00:00:34.040 --> 00:00:36.470 align:start position:0%
+of both sides can simplify our work
+significantly<00:00:34.879><c> by</c><00:00:35.040><c> turning</c><00:00:35.520><c> products</c><00:00:36.160><c> into</c>
+
+00:00:36.470 --> 00:00:36.480 align:start position:0%
+significantly by turning products into
+ 
+
+00:00:36.480 --> 00:00:39.709 align:start position:0%
+significantly by turning products into
+sums<00:00:37.079><c> and</c><00:00:37.399><c> quotients</c><00:00:38.160><c> into</c><00:00:38.719><c> differences</c>
+
+00:00:39.709 --> 00:00:39.719 align:start position:0%
+sums and quotients into differences
+ 
+
+00:00:39.719 --> 00:00:43.430 align:start position:0%
+sums and quotients into differences
+let's<00:00:39.960><c> solve</c><00:00:40.239><c> a</c><00:00:40.480><c> step</c><00:00:40.760><c> by</c><00:00:41.120><c> step</c><00:00:42.039><c> step</c><00:00:42.320><c> one</c><00:00:43.160><c> take</c>
+
+00:00:43.430 --> 00:00:43.440 align:start position:0%
+let's solve a step by step step one take
+ 
+
+00:00:43.440 --> 00:00:46.670 align:start position:0%
+let's solve a step by step step one take
+the<00:00:43.680><c> natural</c><00:00:44.160><c> logarithm</c><00:00:44.840><c> of</c><00:00:45.120><c> both</c><00:00:45.520><c> sides</c><00:00:46.520><c> we</c>
+
+00:00:46.670 --> 00:00:46.680 align:start position:0%
+the natural logarithm of both sides we
+ 
+
+00:00:46.680 --> 00:00:49.950 align:start position:0%
+the natural logarithm of both sides we
+get<00:00:46.960><c> Ln</c><00:00:47.640><c> of</c><00:00:47.879><c> y</c><00:00:48.199><c> equals</c><00:00:48.640><c> Ln</c><00:00:49.039><c> of</c><00:00:49.199><c> the</c><00:00:49.399><c> entire</c>
+
+00:00:49.950 --> 00:00:49.960 align:start position:0%
+get Ln of y equals Ln of the entire
+ 
+
+00:00:49.960 --> 00:00:53.389 align:start position:0%
+get Ln of y equals Ln of the entire
+right<00:00:50.320><c> side</c><00:00:51.280><c> step</c><00:00:51.600><c> two</c><00:00:52.520><c> use</c><00:00:52.840><c> the</c><00:00:53.039><c> properties</c>
+
+00:00:53.389 --> 00:00:53.399 align:start position:0%
+right side step two use the properties
+ 
+
+00:00:53.399 --> 00:00:56.110 align:start position:0%
+right side step two use the properties
+of<00:00:53.600><c> logarithms</c><00:00:54.359><c> to</c><00:00:54.520><c> break</c><00:00:54.800><c> this</c><00:00:55.039><c> down</c><00:00:55.879><c> the</c>
+
+00:00:56.110 --> 00:00:56.120 align:start position:0%
+of logarithms to break this down the
+ 
+
+00:00:56.120 --> 00:00:58.310 align:start position:0%
+of logarithms to break this down the
+logarithm<00:00:56.719><c> of</c><00:00:56.840><c> a</c><00:00:57.039><c> quotient</c><00:00:57.920><c> is</c><00:00:58.120><c> the</c>
+
+00:00:58.310 --> 00:00:58.320 align:start position:0%
+logarithm of a quotient is the
+ 
+
+00:00:58.320 --> 00:01:01.069 align:start position:0%
+logarithm of a quotient is the
+difference<00:00:59.199><c> of</c><00:00:59.480><c> logarith</c>
+
+00:01:01.069 --> 00:01:01.079 align:start position:0%
+difference of logarith
+ 
+
+00:01:01.079 --> 00:01:04.109 align:start position:0%
+difference of logarith
+and<00:01:01.280><c> the</c><00:01:01.600><c> logarithm</c><00:01:02.320><c> of</c><00:01:02.440><c> a</c><00:01:02.719><c> product</c><00:01:03.680><c> is</c><00:01:03.920><c> the</c>
+
+00:01:04.109 --> 00:01:04.119 align:start position:0%
+and the logarithm of a product is the
+ 
+
+00:01:04.119 --> 00:01:09.789 align:start position:0%
+and the logarithm of a product is the
+sum<00:01:04.400><c> of</c>
+
+00:01:09.789 --> 00:01:09.799 align:start position:0%
+ 
+ 
+
+00:01:09.799 --> 00:01:12.870 align:start position:0%
+ 
+logarithms<00:01:10.799><c> step</c><00:01:11.200><c> three</c><00:01:12.200><c> apply</c><00:01:12.640><c> these</c>
+
+00:01:12.870 --> 00:01:12.880 align:start position:0%
+logarithms step three apply these
+ 
+
+00:01:12.880 --> 00:01:15.510 align:start position:0%
+logarithms step three apply these
+properties<00:01:13.280><c> to</c><00:01:13.479><c> our</c><00:01:13.840><c> equation</c><00:01:14.840><c> this</c><00:01:15.080><c> gives</c><00:01:15.280><c> us</c>
+
+00:01:15.510 --> 00:01:15.520 align:start position:0%
+properties to our equation this gives us
+ 
+
+00:01:15.520 --> 00:01:21.469 align:start position:0%
+properties to our equation this gives us
+Ln<00:01:16.400><c> of</c><00:01:16.640><c> Y</c><00:01:16.880><c> =</c><00:01:17.560><c> Ln</c><00:01:18.560><c> of</c><00:01:18.799><c> x</c><00:01:19.080><c> +</c><00:01:19.560><c> Ln</c><00:01:20.119><c> of</c><00:01:20.439><c> cine</c><00:01:21.000><c> inverse</c>
+
+00:01:21.469 --> 00:01:21.479 align:start position:0%
+Ln of Y = Ln of x + Ln of cine inverse
+ 
+
+00:01:21.479 --> 00:01:31.270 align:start position:0%
+Ln of Y = Ln of x + Ln of cine inverse
+of<00:01:21.799><c> x</c><00:01:22.240><c> -</c><00:01:23.040><c> 12</c><00:01:23.439><c> Ln</c><00:01:24.360><c> of</c><00:01:24.600><c> 1</c><00:01:24.920><c> -</c><00:01:25.360><c> x^2</c>
+
+00:01:31.270 --> 00:01:31.280 align:start position:0%
+ 
+ 
+
+00:01:31.280 --> 00:01:34.510 align:start position:0%
+ 
+step<00:01:31.759><c> four</c><00:01:32.759><c> now</c><00:01:33.000><c> we</c><00:01:33.119><c> can</c><00:01:33.360><c> differentiate</c><00:01:34.159><c> both</c>
+
+00:01:34.510 --> 00:01:34.520 align:start position:0%
+step four now we can differentiate both
+ 
+
+00:01:34.520 --> 00:01:38.109 align:start position:0%
+step four now we can differentiate both
+sides<00:01:34.960><c> with</c><00:01:35.159><c> respect</c><00:01:35.479><c> to</c><00:01:35.720><c> X</c><00:01:36.640><c> remember</c><00:01:37.640><c> when</c><00:01:37.920><c> we</c>
+
+00:01:38.109 --> 00:01:38.119 align:start position:0%
+sides with respect to X remember when we
+ 
+
+00:01:38.119 --> 00:01:43.030 align:start position:0%
+sides with respect to X remember when we
+differentiate<00:01:38.840><c> Ln</c><00:01:39.280><c> of</c><00:01:39.640><c> Y</c><00:01:40.479><c> we</c><00:01:40.680><c> get</c><00:01:40.920><c> 1/</c><00:01:41.720><c> y</c><00:01:42.000><c> *</c>
+
+00:01:43.030 --> 00:01:43.040 align:start position:0%
+differentiate Ln of Y we get 1/ y *
+ 
+
+00:01:43.040 --> 00:01:50.590 align:start position:0%
+differentiate Ln of Y we get 1/ y *
+dydx<00:01:44.040><c> this</c><00:01:44.280><c> is</c><00:01:44.640><c> implicit</c>
+
+00:01:50.590 --> 00:01:50.600 align:start position:0%
+ 
+ 
+
+00:01:50.600 --> 00:01:53.670 align:start position:0%
+ 
+differentiation<00:01:51.600><c> step</c><00:01:52.000><c> five</c><00:01:53.000><c> let's</c><00:01:53.320><c> handle</c>
+
+00:01:53.670 --> 00:01:53.680 align:start position:0%
+differentiation step five let's handle
+ 
+
+00:01:53.680 --> 00:01:56.590 align:start position:0%
+differentiation step five let's handle
+each<00:01:54.040><c> term</c><00:01:54.759><c> separately</c><00:01:55.759><c> the</c><00:01:55.960><c> derivative</c><00:01:56.439><c> of</c>
+
+00:01:56.590 --> 00:01:56.600 align:start position:0%
+each term separately the derivative of
+ 
+
+00:01:56.600 --> 00:02:01.830 align:start position:0%
+each term separately the derivative of
+Ln<00:01:56.920><c> of</c><00:01:57.119><c> X</c><00:01:58.039><c> is</c><00:01:58.520><c> 1</c><00:01:58.759><c> /x</c><00:02:00.039><c> for</c><00:02:00.360><c> Ln</c><00:02:00.759><c> of</c><00:02:01.039><c> cosine</c><00:02:01.439><c> inverse</c>
+
+00:02:01.830 --> 00:02:01.840 align:start position:0%
+Ln of X is 1 /x for Ln of cosine inverse
+ 
+
+00:02:01.840 --> 00:02:06.190 align:start position:0%
+Ln of X is 1 /x for Ln of cosine inverse
+of<00:02:02.000><c> X</c><00:02:02.640><c> we</c><00:02:02.759><c> use</c><00:02:03.079><c> the</c><00:02:03.240><c> chain</c><00:02:03.640><c> Rule</c><00:02:04.640><c> and</c><00:02:04.840><c> for</c><00:02:05.119><c> Ln</c><00:02:05.960><c> of</c>
+
+00:02:06.190 --> 00:02:06.200 align:start position:0%
+of X we use the chain Rule and for Ln of
+ 
+
+00:02:06.200 --> 00:02:21.030 align:start position:0%
+of X we use the chain Rule and for Ln of
+1<00:02:06.479><c> -</c><00:02:07.039><c> x^2</c><00:02:08.039><c> we</c><00:02:08.200><c> get</c><00:02:08.759><c> -2X</c><00:02:09.720><c> over</c><00:02:10.319><c> 1</c><00:02:10.599><c> -</c>
+
+00:02:21.030 --> 00:02:21.040 align:start position:0%
+ 
+ 
+
+00:02:21.040 --> 00:02:25.030 align:start position:0%
+ 
+x^2<00:02:22.040><c> step</c><00:02:22.480><c> six</c><00:02:23.440><c> putting</c><00:02:23.720><c> it</c><00:02:23.920><c> all</c><00:02:24.280><c> together</c><00:02:24.840><c> we</c>
+
+00:02:25.030 --> 00:02:25.040 align:start position:0%
+x^2 step six putting it all together we
+ 
+
+00:02:25.040 --> 00:02:28.070 align:start position:0%
+x^2 step six putting it all together we
+get<00:02:25.239><c> this</c><00:02:25.640><c> expression</c><00:02:26.640><c> now</c><00:02:27.000><c> multiply</c><00:02:27.760><c> both</c>
+
+00:02:28.070 --> 00:02:28.080 align:start position:0%
+get this expression now multiply both
+ 
+
+00:02:28.080 --> 00:02:35.509 align:start position:0%
+get this expression now multiply both
+sides<00:02:28.680><c> by</c><00:02:29.280><c> y</c><00:02:29.920><c> solve</c><00:02:30.120><c> for</c>
+
+00:02:35.509 --> 00:02:35.519 align:start position:0%
+ 
+ 
+
+00:02:35.519 --> 00:02:39.630 align:start position:0%
+ 
+dydx<00:02:36.519><c> step</c><00:02:36.959><c> seven</c><00:02:37.959><c> our</c><00:02:38.360><c> final</c><00:02:38.760><c> step</c><00:02:39.159><c> is</c><00:02:39.280><c> to</c>
+
+00:02:39.630 --> 00:02:39.640 align:start position:0%
+dydx step seven our final step is to
+ 
+
+00:02:39.640 --> 00:02:41.790 align:start position:0%
+dydx step seven our final step is to
+substitute<00:02:40.400><c> back</c><00:02:40.640><c> the</c><00:02:40.800><c> original</c><00:02:41.280><c> expression</c>
+
+00:02:41.790 --> 00:02:41.800 align:start position:0%
+substitute back the original expression
+ 
+
+00:02:41.800 --> 00:02:45.670 align:start position:0%
+substitute back the original expression
+for<00:02:42.159><c> y</c><00:02:43.080><c> and</c><00:02:43.560><c> simplify</c><00:02:44.560><c> after</c><00:02:44.920><c> combining</c><00:02:45.440><c> like</c>
+
+00:02:45.670 --> 00:02:45.680 align:start position:0%
+for y and simplify after combining like
+ 
+
+00:02:45.680 --> 00:02:52.350 align:start position:0%
+for y and simplify after combining like
+terms<00:02:46.560><c> we</c><00:02:46.760><c> get</c><00:02:46.920><c> our</c><00:02:47.200><c> final</c>
+
+00:02:52.350 --> 00:02:52.360 align:start position:0%
+ 
+ 
+
+00:02:52.360 --> 00:02:55.670 align:start position:0%
+ 
+answer<00:02:53.360><c> and</c><00:02:53.640><c> that's</c><00:02:54.080><c> how</c><00:02:54.280><c> we</c><00:02:54.480><c> use</c><00:02:54.920><c> logarithmic</c>
+
+00:02:55.670 --> 00:02:55.680 align:start position:0%
+answer and that's how we use logarithmic
+ 
+
+00:02:55.680 --> 00:02:57.910 align:start position:0%
+answer and that's how we use logarithmic
+differentiation<00:02:56.519><c> to</c><00:02:56.760><c> find</c><00:02:57.120><c> the</c><00:02:57.319><c> derivative</c>
+
+00:02:57.910 --> 00:02:57.920 align:start position:0%
+differentiation to find the derivative
+ 
+
+00:02:57.920 --> 00:03:01.509 align:start position:0%
+differentiation to find the derivative
+of<00:02:58.040><c> a</c><00:02:58.280><c> complex</c><00:02:58.879><c> function</c><00:03:00.239><c> remember</c><00:03:01.239><c> this</c>
+
+00:03:01.509 --> 00:03:01.519 align:start position:0%
+of a complex function remember this
+ 
+
+00:03:01.519 --> 00:03:03.509 align:start position:0%
+of a complex function remember this
+technique<00:03:02.120><c> is</c><00:03:02.400><c> especially</c><00:03:02.920><c> useful</c><00:03:03.360><c> when</c>
+
+00:03:03.509 --> 00:03:03.519 align:start position:0%
+technique is especially useful when
+ 
+
+00:03:03.519 --> 00:03:05.990 align:start position:0%
+technique is especially useful when
+dealing<00:03:03.879><c> with</c><00:03:04.159><c> products</c><00:03:04.560><c> and</c><00:03:05.000><c> quotients</c>
+
+00:03:05.990 --> 00:03:06.000 align:start position:0%
+dealing with products and quotients
+ 
+
+00:03:06.000 --> 00:03:09.599 align:start position:0%
+dealing with products and quotients
+thank<00:03:06.200><c> you</c><00:03:06.319><c> for</c><00:03:06.599><c> watching</c>
+

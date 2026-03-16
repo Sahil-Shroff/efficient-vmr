@@ -1,0 +1,102 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.100 --> 00:00:02.620
+Professor Dave again, let’s talk about midsegments.
+
+00:00:09.740 --> 00:00:15.100
+We just looked at all kinds of bisectors and
+other lines that pertain to triangles, so
+
+00:00:15.110 --> 00:00:17.410
+let’s learn just one more type.
+
+00:00:17.410 --> 00:00:23.240
+A midsegment of a triangle is a line segment
+that joins the midpoints of two sides of the
+
+00:00:23.240 --> 00:00:24.420
+triangle.
+
+00:00:24.420 --> 00:00:31.230
+Every triangle will therefore have precisely
+three midsegments, and these three line segments
+
+00:00:31.230 --> 00:00:35.500
+form another triangle, the midsegment triangle.
+
+00:00:35.500 --> 00:00:41.319
+Since the vertices of the midsegment triangle
+are the midpoints of these sides, we can know
+
+00:00:41.319 --> 00:00:46.050
+that the segments on either side of a midpoint
+are equal to one another.
+
+00:00:46.050 --> 00:00:51.389
+This is signified by these tick marks, one
+line here and one line here means these are
+
+00:00:51.389 --> 00:00:52.750
+the same.
+
+00:00:52.750 --> 00:00:58.489
+Two lines here and two lines here means these
+are the same as each other, but not necessarily
+
+00:00:58.489 --> 00:01:02.359
+the same as the segments with one tick mark.
+
+00:01:02.359 --> 00:01:04.729
+Three tick marks, same idea.
+
+00:01:04.729 --> 00:01:10.920
+Furthermore, the triangle midsegment theorem
+states that any midsegment of a triangle is
+
+00:01:10.920 --> 00:01:17.040
+parallel to one of the sides of the triangle
+and is also precisely half the length of that
+
+00:01:17.040 --> 00:01:18.040
+side.
+
+00:01:18.040 --> 00:01:23.740
+So here we can see one midsegment and the
+side of the triangle that it is parallel to.
+
+00:01:23.740 --> 00:01:29.840
+The midsegment is half the length of the side,
+and since the side is split up into two equal
+
+00:01:29.840 --> 00:01:35.310
+sections, the midsegment is equal to both
+of these two sections.
+
+00:01:35.310 --> 00:01:40.630
+We can say the same thing for the other two
+midsegments and their corresponding parallel
+
+00:01:40.630 --> 00:01:41.640
+sides.
+
+00:01:41.640 --> 00:01:47.329
+This allows us to draw all kinds of figures
+like this one, where some lengths are given
+
+00:01:47.329 --> 00:01:50.100
+and others can be determined.
+
+00:01:50.100 --> 00:01:55.340
+If we know the length of this midsegment,
+we know this side length.
+
+00:01:55.340 --> 00:02:00.649
+If we know this other side length, then we
+know the length of this other midsegment.
+
+00:02:00.649 --> 00:02:05.740
+There’s plenty of algebra we can do with
+this theorem, so let’s check comprehension.
+

@@ -1,0 +1,144 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.560 --> 00:00:02.310 align:start position:0%
+ 
+let's<00:00:00.799><c> play</c><00:00:00.960><c> the</c><00:00:01.120><c> chaos</c><00:00:01.520><c> game</c><00:00:01.839><c> inside</c><00:00:02.080><c> of</c><00:00:02.159><c> an</c>
+
+00:00:02.310 --> 00:00:02.320 align:start position:0%
+let's play the chaos game inside of an
+ 
+
+00:00:02.320 --> 00:00:04.710 align:start position:0%
+let's play the chaos game inside of an
+equilateral<00:00:02.960><c> triangle</c><00:00:03.840><c> start</c><00:00:04.160><c> with</c><00:00:04.319><c> a</c><00:00:04.400><c> dot</c>
+
+00:00:04.710 --> 00:00:04.720 align:start position:0%
+equilateral triangle start with a dot
+ 
+
+00:00:04.720 --> 00:00:07.190 align:start position:0%
+equilateral triangle start with a dot
+anywhere<00:00:05.359><c> inside</c><00:00:05.759><c> the</c><00:00:05.920><c> triangle</c><00:00:06.879><c> now</c>
+
+00:00:07.190 --> 00:00:07.200 align:start position:0%
+anywhere inside the triangle now
+ 
+
+00:00:07.200 --> 00:00:09.350 align:start position:0%
+anywhere inside the triangle now
+iteratively<00:00:07.839><c> add</c><00:00:08.080><c> a</c><00:00:08.160><c> point</c><00:00:08.720><c> one</c><00:00:08.960><c> half</c><00:00:09.200><c> of</c><00:00:09.280><c> the</c>
+
+00:00:09.350 --> 00:00:09.360 align:start position:0%
+iteratively add a point one half of the
+ 
+
+00:00:09.360 --> 00:00:11.030 align:start position:0%
+iteratively add a point one half of the
+distance<00:00:09.920><c> between</c><00:00:10.240><c> the</c><00:00:10.400><c> current</c><00:00:10.719><c> dot's</c>
+
+00:00:11.030 --> 00:00:11.040 align:start position:0%
+distance between the current dot's
+ 
+
+00:00:11.040 --> 00:00:13.509 align:start position:0%
+distance between the current dot's
+location<00:00:11.840><c> and</c><00:00:12.080><c> a</c><00:00:12.160><c> uniformly</c><00:00:12.719><c> randomly</c><00:00:13.120><c> chosen</c>
+
+00:00:13.509 --> 00:00:13.519 align:start position:0%
+location and a uniformly randomly chosen
+ 
+
+00:00:13.519 --> 00:00:14.629 align:start position:0%
+location and a uniformly randomly chosen
+vertex
+
+00:00:14.629 --> 00:00:14.639 align:start position:0%
+vertex
+ 
+
+00:00:14.639 --> 00:00:16.390 align:start position:0%
+vertex
+here<00:00:14.799><c> are</c><00:00:14.960><c> the</c><00:00:15.120><c> first</c><00:00:15.440><c> few</c><00:00:15.679><c> iterations</c><00:00:16.240><c> of</c><00:00:16.320><c> the</c>
+
+00:00:16.390 --> 00:00:16.400 align:start position:0%
+here are the first few iterations of the
+ 
+
+00:00:16.400 --> 00:00:19.029 align:start position:0%
+here are the first few iterations of the
+chaos<00:00:16.880><c> game</c>
+
+00:00:19.029 --> 00:00:19.039 align:start position:0%
+chaos game
+ 
+
+00:00:19.039 --> 00:00:21.269 align:start position:0%
+chaos game
+but<00:00:19.199><c> don't</c><00:00:19.439><c> just</c><00:00:19.600><c> do</c><00:00:19.760><c> this</c><00:00:20.000><c> a</c><00:00:20.080><c> few</c><00:00:20.320><c> times</c><00:00:21.039><c> let's</c>
+
+00:00:21.269 --> 00:00:21.279 align:start position:0%
+but don't just do this a few times let's
+ 
+
+00:00:21.279 --> 00:00:23.910 align:start position:0%
+but don't just do this a few times let's
+do<00:00:21.359><c> this</c><00:00:21.600><c> 30</c><00:00:22.080><c> 000</c><00:00:22.480><c> times</c><00:00:23.039><c> and</c><00:00:23.279><c> see</c><00:00:23.519><c> exactly</c>
+
+00:00:23.910 --> 00:00:23.920 align:start position:0%
+do this 30 000 times and see exactly
+ 
+
+00:00:23.920 --> 00:00:25.150 align:start position:0%
+do this 30 000 times and see exactly
+what<00:00:24.160><c> happens</c>
+
+00:00:25.150 --> 00:00:25.160 align:start position:0%
+what happens
+ 
+
+00:00:25.160 --> 00:00:34.470 align:start position:0%
+what happens
+[Music]
+
+00:00:34.470 --> 00:00:34.480 align:start position:0%
+ 
+ 
+
+00:00:34.480 --> 00:00:36.630 align:start position:0%
+ 
+the<00:00:34.640><c> limiting</c><00:00:35.040><c> shape</c><00:00:35.520><c> is</c><00:00:35.680><c> the</c><00:00:35.840><c> famous</c><00:00:36.239><c> fractal</c>
+
+00:00:36.630 --> 00:00:36.640 align:start position:0%
+the limiting shape is the famous fractal
+ 
+
+00:00:36.640 --> 00:00:38.630 align:start position:0%
+the limiting shape is the famous fractal
+known<00:00:36.880><c> as</c><00:00:36.960><c> the</c><00:00:37.040><c> sierpinski</c><00:00:37.600><c> triangle</c>
+
+00:00:38.630 --> 00:00:38.640 align:start position:0%
+known as the sierpinski triangle
+ 
+
+00:00:38.640 --> 00:00:39.750 align:start position:0%
+known as the sierpinski triangle
+check<00:00:38.879><c> out</c><00:00:38.960><c> the</c><00:00:39.040><c> linked</c><00:00:39.360><c> video</c><00:00:39.600><c> in</c><00:00:39.680><c> the</c>
+
+00:00:39.750 --> 00:00:39.760 align:start position:0%
+check out the linked video in the
+ 
+
+00:00:39.760 --> 00:00:41.430 align:start position:0%
+check out the linked video in the
+description<00:00:40.239><c> to</c><00:00:40.399><c> find</c><00:00:40.640><c> other</c><00:00:40.879><c> constructions</c>
+
+00:00:41.430 --> 00:00:41.440 align:start position:0%
+description to find other constructions
+ 
+
+00:00:41.440 --> 00:00:45.079 align:start position:0%
+description to find other constructions
+of<00:00:41.520><c> this</c><00:00:41.760><c> awesome</c><00:00:42.079><c> triangle</c>
+

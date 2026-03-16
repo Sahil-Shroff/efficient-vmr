@@ -6,8 +6,8 @@ if [[ -f .env ]]; then
 fi
 
 python -m src.eval_transcript_bm25 \
-  --split "${VIDEOMMLU_SPLIT:-train}" \
+  --split "${VIDEOMMLU_SPLIT:-Video_MMLU}" \
   --window-char-len "${WINDOW_CHAR_LEN:-700}" \
   --window-char-stride "${WINDOW_CHAR_STRIDE:-500}" \
   --top-k "${TOP_K:-3}" \
-  --output-dir "${OUTPUT_DIR:-outputs}"
+  --output-dir "${OUTPUT_DIR:-outputs/legacy_qa}"

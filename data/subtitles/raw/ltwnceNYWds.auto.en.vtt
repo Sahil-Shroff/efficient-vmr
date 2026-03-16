@@ -1,0 +1,224 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.280 --> 00:00:01.870 align:start position:0%
+ 
+there<00:00:00.399><c> are</c><00:00:00.560><c> numerous</c><00:00:01.000><c> ways</c><00:00:01.280><c> that</c><00:00:01.360><c> a</c><00:00:01.520><c> function</c>
+
+00:00:01.870 --> 00:00:01.880 align:start position:0%
+there are numerous ways that a function
+ 
+
+00:00:01.880 --> 00:00:03.670 align:start position:0%
+there are numerous ways that a function
+might<00:00:02.080><c> fail</c><00:00:02.360><c> to</c><00:00:02.480><c> be</c><00:00:02.679><c> differentiable</c><00:00:03.280><c> at</c><00:00:03.360><c> a</c>
+
+00:00:03.670 --> 00:00:03.680 align:start position:0%
+might fail to be differentiable at a
+ 
+
+00:00:03.680 --> 00:00:05.749 align:start position:0%
+might fail to be differentiable at a
+point<00:00:04.680><c> you</c><00:00:04.839><c> might</c><00:00:05.040><c> have</c><00:00:05.160><c> a</c><00:00:05.279><c> removable</c>
+
+00:00:05.749 --> 00:00:05.759 align:start position:0%
+point you might have a removable
+ 
+
+00:00:05.759 --> 00:00:07.910 align:start position:0%
+point you might have a removable
+discontinuity<00:00:06.560><c> or</c><00:00:06.680><c> a</c><00:00:06.799><c> so-called</c><00:00:07.240><c> hole</c><00:00:07.480><c> at</c><00:00:07.640><c> the</c>
+
+00:00:07.910 --> 00:00:07.920 align:start position:0%
+discontinuity or a so-called hole at the
+ 
+
+00:00:07.920 --> 00:00:10.629 align:start position:0%
+discontinuity or a so-called hole at the
+point<00:00:08.920><c> similarly</c><00:00:09.679><c> you</c><00:00:09.840><c> might</c><00:00:10.080><c> have</c><00:00:10.200><c> a</c><00:00:10.320><c> jump</c>
+
+00:00:10.629 --> 00:00:10.639 align:start position:0%
+point similarly you might have a jump
+ 
+
+00:00:10.639 --> 00:00:12.310 align:start position:0%
+point similarly you might have a jump
+discontinuity<00:00:11.519><c> in</c><00:00:11.679><c> this</c><00:00:11.880><c> case</c><00:00:12.120><c> it's</c>
+
+00:00:12.310 --> 00:00:12.320 align:start position:0%
+discontinuity in this case it's
+ 
+
+00:00:12.320 --> 00:00:13.829 align:start position:0%
+discontinuity in this case it's
+impossible<00:00:12.759><c> to</c><00:00:12.880><c> have</c><00:00:12.960><c> a</c><00:00:13.080><c> uniquely</c><00:00:13.480><c> defined</c>
+
+00:00:13.829 --> 00:00:13.839 align:start position:0%
+impossible to have a uniquely defined
+ 
+
+00:00:13.839 --> 00:00:16.550 align:start position:0%
+impossible to have a uniquely defined
+tangent<00:00:14.240><c> line</c><00:00:14.960><c> in</c><00:00:15.160><c> fact</c><00:00:15.519><c> any</c><00:00:15.879><c> discontinuity</c>
+
+00:00:16.550 --> 00:00:16.560 align:start position:0%
+tangent line in fact any discontinuity
+ 
+
+00:00:16.560 --> 00:00:17.390 align:start position:0%
+tangent line in fact any discontinuity
+leads<00:00:16.800><c> to</c><00:00:16.960><c> a</c><00:00:17.080><c> point</c><00:00:17.279><c> of</c>
+
+00:00:17.390 --> 00:00:17.400 align:start position:0%
+leads to a point of
+ 
+
+00:00:17.400 --> 00:00:19.590 align:start position:0%
+leads to a point of
+non-differentiability<00:00:18.199><c> so</c><00:00:18.920><c> vertical</c><00:00:19.279><c> ASM</c>
+
+00:00:19.590 --> 00:00:19.600 align:start position:0%
+non-differentiability so vertical ASM
+ 
+
+00:00:19.600 --> 00:00:21.509 align:start position:0%
+non-differentiability so vertical ASM
+tootes<00:00:19.920><c> also</c><00:00:20.199><c> create</c><00:00:20.640><c> problems</c><00:00:21.160><c> such</c><00:00:21.320><c> as</c><00:00:21.439><c> the</c>
+
+00:00:21.509 --> 00:00:21.519 align:start position:0%
+tootes also create problems such as the
+ 
+
+00:00:21.519 --> 00:00:23.390 align:start position:0%
+tootes also create problems such as the
+one<00:00:21.640><c> you</c><00:00:21.760><c> might</c><00:00:21.920><c> find</c><00:00:22.119><c> in</c><00:00:22.199><c> the</c><00:00:22.320><c> function</c><00:00:22.640><c> 1</c><00:00:22.800><c> /x</c>
+
+00:00:23.390 --> 00:00:23.400 align:start position:0%
+one you might find in the function 1 /x
+ 
+
+00:00:23.400 --> 00:00:25.950 align:start position:0%
+one you might find in the function 1 /x
+like<00:00:23.680><c> this</c><00:00:24.680><c> you</c><00:00:24.840><c> might</c><00:00:25.080><c> also</c><00:00:25.320><c> have</c><00:00:25.480><c> a</c><00:00:25.640><c> point</c>
+
+00:00:25.950 --> 00:00:25.960 align:start position:0%
+like this you might also have a point
+ 
+
+00:00:25.960 --> 00:00:28.189 align:start position:0%
+like this you might also have a point
+where<00:00:26.119><c> there's</c><00:00:26.279><c> an</c><00:00:26.439><c> Abrupt</c><00:00:26.840><c> change</c><00:00:27.119><c> in</c><00:00:27.359><c> slope</c>
+
+00:00:28.189 --> 00:00:28.199 align:start position:0%
+where there's an Abrupt change in slope
+ 
+
+00:00:28.199 --> 00:00:30.150 align:start position:0%
+where there's an Abrupt change in slope
+this<00:00:28.320><c> is</c><00:00:28.519><c> often</c><00:00:28.760><c> called</c><00:00:28.960><c> a</c><00:00:29.080><c> cusp</c><00:00:29.439><c> or</c><00:00:29.519><c> a</c><00:00:29.640><c> corner</c>
+
+00:00:30.150 --> 00:00:30.160 align:start position:0%
+this is often called a cusp or a corner
+ 
+
+00:00:30.160 --> 00:00:31.509 align:start position:0%
+this is often called a cusp or a corner
+and<00:00:30.279><c> it</c><00:00:30.400><c> appears</c><00:00:30.679><c> in</c><00:00:30.840><c> functions</c><00:00:31.240><c> like</c><00:00:31.359><c> the</c>
+
+00:00:31.509 --> 00:00:31.519 align:start position:0%
+and it appears in functions like the
+ 
+
+00:00:31.519 --> 00:00:34.110 align:start position:0%
+and it appears in functions like the
+absolute<00:00:31.920><c> value</c><00:00:32.440><c> function</c><00:00:33.440><c> another</c><00:00:33.760><c> way</c><00:00:34.000><c> is</c>
+
+00:00:34.110 --> 00:00:34.120 align:start position:0%
+absolute value function another way is
+ 
+
+00:00:34.120 --> 00:00:35.670 align:start position:0%
+absolute value function another way is
+that<00:00:34.239><c> you</c><00:00:34.399><c> might</c><00:00:34.600><c> have</c><00:00:34.719><c> a</c><00:00:34.879><c> vertical</c><00:00:35.280><c> tangent</c>
+
+00:00:35.670 --> 00:00:35.680 align:start position:0%
+that you might have a vertical tangent
+ 
+
+00:00:35.680 --> 00:00:37.229 align:start position:0%
+that you might have a vertical tangent
+line<00:00:36.040><c> like</c><00:00:36.200><c> the</c><00:00:36.280><c> one</c><00:00:36.440><c> appearing</c><00:00:36.760><c> in</c><00:00:36.840><c> the</c><00:00:37.000><c> cube</c>
+
+00:00:37.229 --> 00:00:37.239 align:start position:0%
+line like the one appearing in the cube
+ 
+
+00:00:37.239 --> 00:00:39.350 align:start position:0%
+line like the one appearing in the cube
+root<00:00:37.520><c> function</c><00:00:38.440><c> this</c><00:00:38.559><c> would</c><00:00:38.760><c> correspond</c><00:00:39.239><c> to</c>
+
+00:00:39.350 --> 00:00:39.360 align:start position:0%
+root function this would correspond to
+ 
+
+00:00:39.360 --> 00:00:42.029 align:start position:0%
+root function this would correspond to
+an<00:00:39.480><c> infinite</c><00:00:39.840><c> slope</c><00:00:40.200><c> which</c><00:00:40.280><c> is</c><00:00:40.680><c> undefined</c><00:00:41.680><c> so</c>
+
+00:00:42.029 --> 00:00:42.039 align:start position:0%
+an infinite slope which is undefined so
+ 
+
+00:00:42.039 --> 00:00:44.069 align:start position:0%
+an infinite slope which is undefined so
+we've<00:00:42.200><c> seen</c><00:00:42.480><c> that</c><00:00:42.719><c> discontinuities</c><00:00:43.719><c> places</c>
+
+00:00:44.069 --> 00:00:44.079 align:start position:0%
+we've seen that discontinuities places
+ 
+
+00:00:44.079 --> 00:00:46.270 align:start position:0%
+we've seen that discontinuities places
+with<00:00:44.280><c> abrupt</c><00:00:44.640><c> changes</c><00:00:44.960><c> in</c><00:00:45.160><c> slope</c><00:00:45.719><c> and</c><00:00:45.960><c> points</c>
+
+00:00:46.270 --> 00:00:46.280 align:start position:0%
+with abrupt changes in slope and points
+ 
+
+00:00:46.280 --> 00:00:47.869 align:start position:0%
+with abrupt changes in slope and points
+where<00:00:46.399><c> there</c><00:00:46.480><c> is</c><00:00:46.600><c> a</c><00:00:46.760><c> vertical</c><00:00:47.160><c> tangent</c><00:00:47.520><c> line</c>
+
+00:00:47.869 --> 00:00:47.879 align:start position:0%
+where there is a vertical tangent line
+ 
+
+00:00:47.879 --> 00:00:49.189 align:start position:0%
+where there is a vertical tangent line
+all<00:00:48.120><c> create</c><00:00:48.520><c> problems</c><00:00:48.800><c> for</c>
+
+00:00:49.189 --> 00:00:49.199 align:start position:0%
+all create problems for
+ 
+
+00:00:49.199 --> 00:00:51.029 align:start position:0%
+all create problems for
+differentiability<00:00:50.199><c> can</c><00:00:50.360><c> you</c><00:00:50.480><c> think</c><00:00:50.640><c> of</c><00:00:50.800><c> any</c>
+
+00:00:51.029 --> 00:00:51.039 align:start position:0%
+differentiability can you think of any
+ 
+
+00:00:51.039 --> 00:00:52.630 align:start position:0%
+differentiability can you think of any
+other<00:00:51.320><c> situations</c><00:00:51.840><c> where</c><00:00:51.960><c> a</c><00:00:52.079><c> function</c><00:00:52.399><c> won't</c>
+
+00:00:52.630 --> 00:00:52.640 align:start position:0%
+other situations where a function won't
+ 
+
+00:00:52.640 --> 00:00:55.760 align:start position:0%
+other situations where a function won't
+be<00:00:52.760><c> differentiable</c>
+

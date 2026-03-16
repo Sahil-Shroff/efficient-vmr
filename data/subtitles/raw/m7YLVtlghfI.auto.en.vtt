@@ -1,0 +1,160 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.080 --> 00:00:01.870 align:start position:0%
+ 
+let<00:00:00.280><c> X</c><00:00:00.520><c> be</c><00:00:00.680><c> a</c><00:00:00.880><c> positive</c><00:00:01.199><c> real</c><00:00:01.439><c> number</c><00:00:01.719><c> and</c>
+
+00:00:01.870 --> 00:00:01.880 align:start position:0%
+let X be a positive real number and
+ 
+
+00:00:01.880 --> 00:00:03.389 align:start position:0%
+let X be a positive real number and
+assume<00:00:02.159><c> that</c><00:00:02.320><c> X</c><00:00:02.520><c> is</c><00:00:02.679><c> greater</c><00:00:02.960><c> than</c><00:00:03.080><c> or</c><00:00:03.199><c> equal</c>
+
+00:00:03.389 --> 00:00:03.399 align:start position:0%
+assume that X is greater than or equal
+ 
+
+00:00:03.399 --> 00:00:06.389 align:start position:0%
+assume that X is greater than or equal
+to<00:00:03.600><c> 1x</c><00:00:04.600><c> consider</c><00:00:04.960><c> a</c><00:00:05.200><c> right</c><00:00:05.440><c> triangle</c><00:00:06.000><c> with</c><00:00:06.160><c> one</c>
+
+00:00:06.389 --> 00:00:06.399 align:start position:0%
+to 1x consider a right triangle with one
+ 
+
+00:00:06.399 --> 00:00:08.390 align:start position:0%
+to 1x consider a right triangle with one
+leg<00:00:06.560><c> of</c><00:00:06.720><c> length</c><00:00:07.000><c> 2</c><00:00:07.399><c> and</c><00:00:07.560><c> the</c><00:00:07.680><c> other</c><00:00:08.000><c> leg</c><00:00:08.240><c> of</c>
+
+00:00:08.390 --> 00:00:08.400 align:start position:0%
+leg of length 2 and the other leg of
+ 
+
+00:00:08.400 --> 00:00:09.790 align:start position:0%
+leg of length 2 and the other leg of
+length<00:00:08.679><c> x</c><00:00:08.920><c> -</c>
+
+00:00:09.790 --> 00:00:09.800 align:start position:0%
+length x -
+ 
+
+00:00:09.800 --> 00:00:12.310 align:start position:0%
+length x -
+1X<00:00:10.800><c> as</c><00:00:11.000><c> this</c><00:00:11.080><c> is</c><00:00:11.200><c> a</c><00:00:11.400><c> right</c><00:00:11.599><c> triangle</c><00:00:12.080><c> we</c><00:00:12.200><c> can</c>
+
+00:00:12.310 --> 00:00:12.320 align:start position:0%
+1X as this is a right triangle we can
+ 
+
+00:00:12.320 --> 00:00:13.950 align:start position:0%
+1X as this is a right triangle we can
+use<00:00:12.519><c> the</c><00:00:12.639><c> Pythagorean</c><00:00:13.160><c> theorem</c><00:00:13.519><c> to</c><00:00:13.639><c> find</c><00:00:13.839><c> the</c>
+
+00:00:13.950 --> 00:00:13.960 align:start position:0%
+use the Pythagorean theorem to find the
+ 
+
+00:00:13.960 --> 00:00:15.910 align:start position:0%
+use the Pythagorean theorem to find the
+length<00:00:14.200><c> of</c><00:00:14.320><c> the</c><00:00:14.519><c> hypotenuse</c><00:00:15.280><c> in</c><00:00:15.400><c> terms</c><00:00:15.599><c> of</c><00:00:15.759><c> the</c>
+
+00:00:15.910 --> 00:00:15.920 align:start position:0%
+length of the hypotenuse in terms of the
+ 
+
+00:00:15.920 --> 00:00:17.910 align:start position:0%
+length of the hypotenuse in terms of the
+legs<00:00:16.680><c> in</c><00:00:16.840><c> this</c><00:00:17.000><c> case</c><00:00:17.279><c> we</c><00:00:17.400><c> see</c><00:00:17.600><c> that</c><00:00:17.760><c> the</c>
+
+00:00:17.910 --> 00:00:17.920 align:start position:0%
+legs in this case we see that the
+ 
+
+00:00:17.920 --> 00:00:20.070 align:start position:0%
+legs in this case we see that the
+hypotenuse<00:00:18.480><c> length</c><00:00:18.840><c> is</c><00:00:18.960><c> the</c><00:00:19.279><c> &lt;</c><00:00:19.400><c> TK</c><00:00:19.480><c> of</c><00:00:19.560><c> 2^2</c>
+
+00:00:20.070 --> 00:00:20.080 align:start position:0%
+hypotenuse length is the &lt; TK of 2^2
+ 
+
+00:00:20.080 --> 00:00:22.750 align:start position:0%
+hypotenuse length is the &lt; TK of 2^2
+plus<00:00:20.279><c> the</c><00:00:20.400><c> quantity</c><00:00:20.840><c> x</c><00:00:21.039><c> -</c><00:00:21.279><c> 1x^2</c><00:00:21.920><c> and</c><00:00:22.600><c> this</c>
+
+00:00:22.750 --> 00:00:22.760 align:start position:0%
+plus the quantity x - 1x^2 and this
+ 
+
+00:00:22.760 --> 00:00:26.189 align:start position:0%
+plus the quantity x - 1x^2 and this
+simplifies<00:00:23.240><c> to</c><00:00:23.400><c> x</c><00:00:23.560><c> +</c><00:00:23.760><c> 1</c><00:00:24.439><c> overx</c><00:00:25.439><c> but</c><00:00:25.640><c> in</c><00:00:25.880><c> any</c>
+
+00:00:26.189 --> 00:00:26.199 align:start position:0%
+simplifies to x + 1 overx but in any
+ 
+
+00:00:26.199 --> 00:00:28.109 align:start position:0%
+simplifies to x + 1 overx but in any
+right<00:00:26.400><c> triangle</c><00:00:26.920><c> the</c><00:00:27.080><c> hypotenuse</c><00:00:27.640><c> is</c><00:00:27.800><c> longer</c>
+
+00:00:28.109 --> 00:00:28.119 align:start position:0%
+right triangle the hypotenuse is longer
+ 
+
+00:00:28.119 --> 00:00:29.990 align:start position:0%
+right triangle the hypotenuse is longer
+than<00:00:28.279><c> the</c><00:00:28.400><c> leg</c><00:00:28.640><c> lengths</c><00:00:29.279><c> and</c><00:00:29.400><c> so</c><00:00:29.519><c> in</c><00:00:29.640><c> this</c>
+
+00:00:29.990 --> 00:00:30.000 align:start position:0%
+than the leg lengths and so in this
+ 
+
+00:00:30.000 --> 00:00:31.990 align:start position:0%
+than the leg lengths and so in this
+situation<00:00:30.480><c> we</c><00:00:30.599><c> see</c><00:00:30.960><c> that</c><00:00:31.080><c> the</c><00:00:31.199><c> quantity</c><00:00:31.599><c> x</c><00:00:31.759><c> +</c>
+
+00:00:31.990 --> 00:00:32.000 align:start position:0%
+situation we see that the quantity x +
+ 
+
+00:00:32.000 --> 00:00:34.709 align:start position:0%
+situation we see that the quantity x +
+1X<00:00:32.640><c> is</c><00:00:32.800><c> greater</c><00:00:33.079><c> than</c><00:00:33.200><c> or</c><00:00:33.360><c> equal</c><00:00:33.600><c> to</c><00:00:33.800><c> 2</c><00:00:34.559><c> this</c>
+
+00:00:34.709 --> 00:00:34.719 align:start position:0%
+1X is greater than or equal to 2 this
+ 
+
+00:00:34.719 --> 00:00:36.750 align:start position:0%
+1X is greater than or equal to 2 this
+inequality<00:00:35.280><c> is</c><00:00:35.399><c> true</c><00:00:35.600><c> for</c><00:00:35.920><c> any</c><00:00:36.239><c> positive</c><00:00:36.559><c> real</c>
+
+00:00:36.750 --> 00:00:36.760 align:start position:0%
+inequality is true for any positive real
+ 
+
+00:00:36.760 --> 00:00:38.630 align:start position:0%
+inequality is true for any positive real
+number<00:00:37.000><c> X</c><00:00:37.360><c> because</c><00:00:37.520><c> we</c><00:00:37.640><c> can</c><00:00:37.800><c> interchange</c><00:00:38.399><c> X</c>
+
+00:00:38.630 --> 00:00:38.640 align:start position:0%
+number X because we can interchange X
+ 
+
+00:00:38.640 --> 00:00:41.150 align:start position:0%
+number X because we can interchange X
+and<00:00:38.800><c> 1</c><00:00:38.960><c> /x</c><00:00:39.960><c> can</c><00:00:40.079><c> you</c><00:00:40.200><c> see</c><00:00:40.399><c> from</c><00:00:40.520><c> the</c><00:00:40.719><c> diagram</c>
+
+00:00:41.150 --> 00:00:41.160 align:start position:0%
+and 1 /x can you see from the diagram
+ 
+
+00:00:41.160 --> 00:00:44.559 align:start position:0%
+and 1 /x can you see from the diagram
+when<00:00:41.399><c> equality</c><00:00:41.920><c> holds</c>
+

@@ -1,0 +1,131 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.269 --> 00:00:02.340
+[Music] button
+
+00:00:02.960 --> 00:00:14.820
+[Music] Professor Dave and Chegg here we've&nbsp;
+learned a lot about proton NMR Spectra and this&nbsp;&nbsp;
+
+00:00:14.820 --> 00:00:20.340
+is indeed the single most important technique in&nbsp;
+organic chemistry for the characterization of any&nbsp;&nbsp;
+
+00:00:20.340 --> 00:00:25.740
+molecule however there are other related tools&nbsp;
+that can also be quite useful and one of them&nbsp;&nbsp;
+
+00:00:25.740 --> 00:00:32.820
+is carbon 13 NMR spectroscopy let's learn how&nbsp;
+this works as well as another form of nuclear&nbsp;&nbsp;
+
+00:00:32.820 --> 00:00:39.960
+magnetic resonance spectroscopy this operates by&nbsp;
+precisely the same principles as proton NMR it is&nbsp;&nbsp;
+
+00:00:39.960 --> 00:00:45.900
+simply focused on a different nuclide instead&nbsp;
+of protium an isotope of hydrogen data will be&nbsp;&nbsp;
+
+00:00:45.900 --> 00:00:52.260
+collected regarding carbon 13 nuclides now it&nbsp;
+is true that only about one percent of carbon&nbsp;&nbsp;
+
+00:00:52.260 --> 00:00:57.840
+atoms will be carbon 13 Isotopes so most of&nbsp;
+the individual molecules in a sample will&nbsp;&nbsp;
+
+00:00:57.840 --> 00:01:03.840
+not contain any carbon 13. but this is okay&nbsp;
+because given a macroscopic sample trillions&nbsp;&nbsp;
+
+00:01:03.840 --> 00:01:10.080
+upon trillions of molecules within that sample&nbsp;
+will contain a carbon 13 atom at a particular&nbsp;&nbsp;
+
+00:01:10.080 --> 00:01:15.960
+location in the molecule thus generating data&nbsp;
+for us to examine regarding that position on the&nbsp;&nbsp;
+
+00:01:15.960 --> 00:01:21.720
+molecule and the same goes for every other carbon&nbsp;
+in the molecule so we can therefore gather data&nbsp;&nbsp;
+
+00:01:21.720 --> 00:01:27.840
+regarding the chemical environment experienced&nbsp;
+by every carbon atom in any structure this&nbsp;&nbsp;
+
+00:01:27.840 --> 00:01:35.220
+approach can be described as signal averaging&nbsp;
+as performed by Fourier transform NMR or ft NMR&nbsp;&nbsp;
+
+00:01:35.760 --> 00:01:41.220
+the tricky thing about signal averaging is that&nbsp;
+there is a lot of noise to deal with the signals&nbsp;&nbsp;
+
+00:01:41.220 --> 00:01:47.220
+from the 13c nuclides are weak in comparison&nbsp;
+to background electronic noise but we can run&nbsp;&nbsp;
+
+00:01:47.220 --> 00:01:53.340
+hundreds or even thousands of Trials and average&nbsp;
+them together hence the term signal averaging and&nbsp;&nbsp;
+
+00:01:53.340 --> 00:02:00.600
+digitally lock on to any data that is non-random&nbsp;
+and therefore due to 13c nuclides the random noise&nbsp;&nbsp;
+
+00:02:00.600 --> 00:02:06.360
+can then be minimized so that the important data&nbsp;
+can stand out the problem is that taking so many&nbsp;&nbsp;
+
+00:02:06.360 --> 00:02:12.480
+measurements is extremely time consuming that's&nbsp;
+where the Ft NMR comes into play a short pulse&nbsp;&nbsp;
+
+00:02:12.480 --> 00:02:19.980
+of RF energy irradiates the sample all 1H and&nbsp;
+13c nuclides resonate at once and the resulting&nbsp;&nbsp;
+
+00:02:19.980 --> 00:02:25.440
+complex signal is manipulated using Fourier&nbsp;
+transforms allowing for data to be collected&nbsp;&nbsp;
+
+00:02:25.440 --> 00:02:31.740
+in mere seconds we will examine carbon 13 Spectra&nbsp;
+later but for now there is one interesting fact&nbsp;&nbsp;
+
+00:02:31.740 --> 00:02:38.160
+to be aware of we will not see splitting patterns&nbsp;
+the way we do with proton NMR the reason for this&nbsp;&nbsp;
+
+00:02:38.160 --> 00:02:43.740
+has to do with the low abundance of this isotope&nbsp;
+it is unlikely that carbon 13 nuclides will be&nbsp;&nbsp;
+
+00:02:43.740 --> 00:02:48.960
+adjacent in any particular molecule so there is&nbsp;
+no opportunity for them to split each other's&nbsp;&nbsp;
+
+00:02:48.960 --> 00:02:55.020
+signals the way protons do coupling with protons&nbsp;
+themselves also does not occur because these&nbsp;&nbsp;
+
+00:02:55.020 --> 00:03:01.260
+Spectra are recorded with Broadband decoupling a&nbsp;
+second irradiation makes hydrogen's spin flip so&nbsp;&nbsp;
+
+00:03:01.260 --> 00:03:06.840
+rapidly that their local magnetic fields average&nbsp;
+to zero and no coupling with carbon will occur
+
+00:03:09.060 --> 00:03:13.980
+so with that we understand roughly&nbsp;
+how carbon 13 NMR Works through&nbsp;&nbsp;
+
+00:03:13.980 --> 00:03:18.840
+signal averaging and Fourier transforms&nbsp;
+Professor day for Chegg see you next time
+

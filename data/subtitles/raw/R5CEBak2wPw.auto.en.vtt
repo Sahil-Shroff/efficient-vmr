@@ -1,0 +1,392 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.320 --> 00:00:03.709 align:start position:0%
+ 
+welcome<00:00:01.319><c> we'll</c><00:00:01.599><c> find</c><00:00:01.920><c> the</c><00:00:02.159><c> derivative</c><00:00:03.159><c> of</c><00:00:03.399><c> e</c>
+
+00:00:03.709 --> 00:00:03.719 align:start position:0%
+welcome we'll find the derivative of e
+ 
+
+00:00:03.719 --> 00:00:06.950 align:start position:0%
+welcome we'll find the derivative of e
+to<00:00:03.959><c> the</c><00:00:04.200><c> power</c><00:00:04.640><c> of</c><00:00:05.040><c> MX</c><00:00:06.040><c> using</c><00:00:06.399><c> first</c>
+
+00:00:06.950 --> 00:00:06.960 align:start position:0%
+to the power of MX using first
+ 
+
+00:00:06.960 --> 00:00:09.549 align:start position:0%
+to the power of MX using first
+principles<00:00:07.960><c> this</c><00:00:08.400><c> is</c><00:00:08.519><c> a</c><00:00:08.840><c> fundamental</c>
+
+00:00:09.549 --> 00:00:09.559 align:start position:0%
+principles this is a fundamental
+ 
+
+00:00:09.559 --> 00:00:11.430 align:start position:0%
+principles this is a fundamental
+derivative<00:00:10.080><c> that's</c><00:00:10.320><c> important</c><00:00:10.840><c> to</c>
+
+00:00:11.430 --> 00:00:11.440 align:start position:0%
+derivative that's important to
+ 
+
+00:00:11.440 --> 00:00:14.190 align:start position:0%
+derivative that's important to
+understand<00:00:12.280><c> let's</c><00:00:12.519><c> start</c><00:00:12.759><c> with</c><00:00:12.880><c> our</c><00:00:13.200><c> function</c>
+
+00:00:14.190 --> 00:00:14.200 align:start position:0%
+understand let's start with our function
+ 
+
+00:00:14.200 --> 00:00:18.429 align:start position:0%
+understand let's start with our function
+let<00:00:14.519><c> F</c><00:00:14.719><c> ofx</c><00:00:15.440><c> equal</c><00:00:15.799><c> e</c><00:00:16.119><c> to</c><00:00:16.279><c> the</c><00:00:16.520><c> power</c><00:00:16.920><c> of</c><00:00:17.439><c> MX</c>
+
+00:00:18.429 --> 00:00:18.439 align:start position:0%
+let F ofx equal e to the power of MX
+ 
+
+00:00:18.439 --> 00:00:22.630 align:start position:0%
+let F ofx equal e to the power of MX
+step<00:00:18.760><c> one</c><00:00:19.160><c> is</c><00:00:19.279><c> to</c><00:00:19.520><c> find</c><00:00:19.960><c> f</c><00:00:20.320><c> of</c><00:00:20.600><c> x</c><00:00:20.880><c> +</c><00:00:21.240><c> H</c><00:00:22.160><c> when</c><00:00:22.359><c> we</c>
+
+00:00:22.630 --> 00:00:22.640 align:start position:0%
+step one is to find f of x + H when we
+ 
+
+00:00:22.640 --> 00:00:26.109 align:start position:0%
+step one is to find f of x + H when we
+substitute<00:00:23.320><c> x</c><00:00:23.599><c> +</c><00:00:23.920><c> H</c><00:00:24.320><c> into</c><00:00:24.599><c> our</c><00:00:24.880><c> function</c><00:00:25.880><c> we</c>
+
+00:00:26.109 --> 00:00:26.119 align:start position:0%
+substitute x + H into our function we
+ 
+
+00:00:26.119 --> 00:00:31.509 align:start position:0%
+substitute x + H into our function we
+get<00:00:26.359><c> f</c><00:00:26.760><c> of</c><00:00:27.000><c> x</c><00:00:27.359><c> +</c><00:00:27.760><c> h</c><00:00:28.240><c> =</c><00:00:28.840><c> e</c><00:00:29.119><c> to</c><00:00:29.279><c> the</c><00:00:29.519><c> power</c><00:00:30.039><c> of</c><00:00:30.320><c> M</c><00:00:31.080><c> *</c>
+
+00:00:31.509 --> 00:00:31.519 align:start position:0%
+get f of x + h = e to the power of M *
+ 
+
+00:00:31.519 --> 00:00:36.229 align:start position:0%
+get f of x + h = e to the power of M *
+thean<00:00:32.160><c> x</c><00:00:32.439><c> +</c>
+
+00:00:36.229 --> 00:00:36.239 align:start position:0%
+ 
+ 
+
+00:00:36.239 --> 00:00:40.029 align:start position:0%
+ 
+H<00:00:37.239><c> step</c><00:00:37.559><c> two</c><00:00:38.399><c> we'll</c><00:00:38.640><c> use</c><00:00:38.920><c> the</c><00:00:39.160><c> definition</c><00:00:39.879><c> of</c>
+
+00:00:40.029 --> 00:00:40.039 align:start position:0%
+H step two we'll use the definition of
+ 
+
+00:00:40.039 --> 00:00:42.630 align:start position:0%
+H step two we'll use the definition of
+the<00:00:40.200><c> derivative</c><00:00:41.160><c> the</c><00:00:41.320><c> derivative</c><00:00:41.879><c> is</c><00:00:42.120><c> defined</c>
+
+00:00:42.630 --> 00:00:42.640 align:start position:0%
+the derivative the derivative is defined
+ 
+
+00:00:42.640 --> 00:00:45.709 align:start position:0%
+the derivative the derivative is defined
+as<00:00:42.800><c> the</c><00:00:42.960><c> limit</c><00:00:43.800><c> as</c><00:00:44.000><c> H</c><00:00:44.280><c> approaches</c><00:00:44.840><c> zero</c><00:00:45.200><c> of</c><00:00:45.480><c> f</c>
+
+00:00:45.709 --> 00:00:45.719 align:start position:0%
+as the limit as H approaches zero of f
+ 
+
+00:00:45.719 --> 00:00:51.590 align:start position:0%
+as the limit as H approaches zero of f
+of<00:00:45.960><c> x</c><00:00:46.399><c> +</c><00:00:46.840><c> H</c><00:00:47.280><c> -</c><00:00:48.239><c> FX</c><00:00:49.239><c> all</c><00:00:49.559><c> divid</c><00:00:50.320><c> H</c><00:00:51.320><c> let's</c>
+
+00:00:51.590 --> 00:00:51.600 align:start position:0%
+of x + H - FX all divid H let's
+ 
+
+00:00:51.600 --> 00:00:55.590 align:start position:0%
+of x + H - FX all divid H let's
+substitute<00:00:52.359><c> our</c>
+
+00:00:55.590 --> 00:00:55.600 align:start position:0%
+ 
+ 
+
+00:00:55.600 --> 00:00:58.950 align:start position:0%
+ 
+Expressions<00:00:56.600><c> step</c><00:00:57.120><c> three</c><00:00:58.120><c> let's</c><00:00:58.399><c> simplify</c>
+
+00:00:58.950 --> 00:00:58.960 align:start position:0%
+Expressions step three let's simplify
+ 
+
+00:00:58.960 --> 00:01:02.189 align:start position:0%
+Expressions step three let's simplify
+this<00:00:59.160><c> expression</c><00:01:00.239><c> first</c><00:01:01.079><c> we</c><00:01:01.199><c> can</c><00:01:01.440><c> rewrite</c><00:01:01.920><c> e</c>
+
+00:01:02.189 --> 00:01:02.199 align:start position:0%
+this expression first we can rewrite e
+ 
+
+00:01:02.199 --> 00:01:06.710 align:start position:0%
+this expression first we can rewrite e
+to<00:01:02.399><c> the</c><00:01:02.600><c> power</c><00:01:03.000><c> of</c><00:01:03.280><c> M</c><00:01:03.840><c> *</c><00:01:04.320><c> x</c><00:01:04.600><c> +</c><00:01:04.920><c> H</c><00:01:05.840><c> as</c><00:01:06.080><c> e</c><00:01:06.320><c> to</c><00:01:06.520><c> the</c>
+
+00:01:06.710 --> 00:01:06.720 align:start position:0%
+to the power of M * x + H as e to the
+ 
+
+00:01:06.720 --> 00:01:11.710 align:start position:0%
+to the power of M * x + H as e to the
+power<00:01:07.200><c> of</c><00:01:07.520><c> MX</c><00:01:08.240><c> *</c><00:01:09.000><c> e</c><00:01:09.200><c> to</c><00:01:09.360><c> the</c><00:01:09.560><c> power</c><00:01:09.960><c> of</c><00:01:10.360><c> MH</c><00:01:11.360><c> then</c>
+
+00:01:11.710 --> 00:01:11.720 align:start position:0%
+power of MX * e to the power of MH then
+ 
+
+00:01:11.720 --> 00:01:14.870 align:start position:0%
+power of MX * e to the power of MH then
+we<00:01:11.880><c> can</c><00:01:12.200><c> factor</c><00:01:12.560><c> out</c><00:01:12.840><c> e</c><00:01:13.080><c> to</c><00:01:13.280><c> the</c><00:01:13.520><c> power</c><00:01:13.960><c> of</c><00:01:14.280><c> MX</c>
+
+00:01:14.870 --> 00:01:14.880 align:start position:0%
+we can factor out e to the power of MX
+ 
+
+00:01:14.880 --> 00:01:18.270 align:start position:0%
+we can factor out e to the power of MX
+from<00:01:15.080><c> the</c><00:01:15.479><c> numerator</c><00:01:16.479><c> step</c><00:01:16.759><c> four</c><00:01:17.759><c> now</c><00:01:18.040><c> comes</c>
+
+00:01:18.270 --> 00:01:18.280 align:start position:0%
+from the numerator step four now comes
+ 
+
+00:01:18.280 --> 00:01:21.109 align:start position:0%
+from the numerator step four now comes
+the<00:01:18.479><c> key</c><00:01:18.799><c> Insight</c><00:01:19.799><c> we'll</c><00:01:20.079><c> use</c><00:01:20.400><c> the</c><00:01:20.640><c> series</c>
+
+00:01:21.109 --> 00:01:21.119 align:start position:0%
+the key Insight we'll use the series
+ 
+
+00:01:21.119 --> 00:01:26.030 align:start position:0%
+the key Insight we'll use the series
+expansion<00:01:21.680><c> for</c><00:01:22.119><c> e</c><00:01:22.920><c> to</c><00:01:23.159><c> the</c><00:01:23.439><c> power</c><00:01:23.799><c> of</c><00:01:24.439><c> MH</c><00:01:25.439><c> E</c>
+
+00:01:26.030 --> 00:01:26.040 align:start position:0%
+expansion for e to the power of MH E
+ 
+
+00:01:26.040 --> 00:01:30.429 align:start position:0%
+expansion for e to the power of MH E
+power<00:01:26.479><c> of</c><00:01:26.840><c> MH</c><00:01:27.759><c> =</c><00:01:28.759><c> 1</c><00:01:29.159><c> +</c><00:01:29.560><c> m</c>
+
+00:01:30.429 --> 00:01:30.439 align:start position:0%
+power of MH = 1 + m
+ 
+
+00:01:30.439 --> 00:01:37.069 align:start position:0%
+power of MH = 1 + m
+H<00:01:31.360><c> 1</c><00:01:31.759><c> factorial</c><00:01:32.360><c> +</c><00:01:32.759><c> m^</c><00:01:33.320><c> 2</c><00:01:34.200><c> h^</c><00:01:34.560><c> 2/</c><00:01:35.479><c> 2</c><00:01:35.960><c> factorial</c><00:01:36.600><c> +</c>
+
+00:01:37.069 --> 00:01:37.079 align:start position:0%
+H 1 factorial + m^ 2 h^ 2/ 2 factorial +
+ 
+
+00:01:37.079 --> 00:01:41.469 align:start position:0%
+H 1 factorial + m^ 2 h^ 2/ 2 factorial +
+m<00:01:37.600><c> Cub</c><00:01:38.000><c> H</c><00:01:38.399><c> cubed</c><00:01:38.840><c> over</c><00:01:39.079><c> 3</c><00:01:39.479><c> factorial</c><00:01:40.439><c> and</c><00:01:40.640><c> so</c>
+
+00:01:41.469 --> 00:01:41.479 align:start position:0%
+m Cub H cubed over 3 factorial and so
+ 
+
+00:01:41.479 --> 00:01:45.069 align:start position:0%
+m Cub H cubed over 3 factorial and so
+on<00:01:42.479><c> step</c><00:01:42.880><c> five</c><00:01:43.880><c> let's</c><00:01:44.200><c> substitute</c><00:01:44.840><c> this</c>
+
+00:01:45.069 --> 00:01:45.079 align:start position:0%
+on step five let's substitute this
+ 
+
+00:01:45.079 --> 00:01:47.910 align:start position:0%
+on step five let's substitute this
+series<00:01:45.600><c> into</c><00:01:45.960><c> our</c><00:01:46.159><c> limit</c><00:01:47.000><c> when</c><00:01:47.159><c> we</c><00:01:47.360><c> subtract</c>
+
+00:01:47.910 --> 00:01:47.920 align:start position:0%
+series into our limit when we subtract
+ 
+
+00:01:47.920 --> 00:01:51.270 align:start position:0%
+series into our limit when we subtract
+one<00:01:48.439><c> and</c><00:01:48.680><c> divide</c><00:01:49.159><c> by</c><00:01:49.399><c> H</c><00:01:50.320><c> we</c><00:01:50.479><c> get</c><00:01:50.680><c> e</c><00:01:50.920><c> to</c><00:01:51.079><c> the</c>
+
+00:01:51.270 --> 00:01:51.280 align:start position:0%
+one and divide by H we get e to the
+ 
+
+00:01:51.280 --> 00:01:54.990 align:start position:0%
+one and divide by H we get e to the
+power<00:01:51.759><c> of</c><00:01:52.079><c> MX</c><00:01:52.759><c> *</c><00:01:53.159><c> the</c><00:01:53.320><c> limit</c><00:01:54.000><c> as</c><00:01:54.200><c> H</c><00:01:54.479><c> approaches</c>
+
+00:01:54.990 --> 00:01:55.000 align:start position:0%
+power of MX * the limit as H approaches
+ 
+
+00:01:55.000 --> 00:02:02.670 align:start position:0%
+power of MX * the limit as H approaches
+Zer<00:01:55.439><c> of</c><00:01:55.719><c> m</c><00:01:56.280><c> +</c><00:01:56.719><c> m^</c><00:01:57.680><c> 2</c><00:01:58.520><c> H</c><00:01:58.880><c> over</c><00:01:59.159><c> 2</c><00:01:59.479><c> Factor</c><00:02:00.240><c> +</c><00:02:00.600><c> MB</c><00:02:01.680><c> h^2</c>
+
+00:02:02.670 --> 00:02:02.680 align:start position:0%
+Zer of m + m^ 2 H over 2 Factor + MB h^2
+ 
+
+00:02:02.680 --> 00:02:05.310 align:start position:0%
+Zer of m + m^ 2 H over 2 Factor + MB h^2
+3<00:02:03.119><c> factorial</c><00:02:04.119><c> and</c><00:02:04.320><c> so</c>
+
+00:02:05.310 --> 00:02:05.320 align:start position:0%
+3 factorial and so
+ 
+
+00:02:05.320 --> 00:02:10.430 align:start position:0%
+3 factorial and so
+on<00:02:06.320><c> step</c><00:02:06.719><c> six</c><00:02:07.520><c> finally</c><00:02:08.399><c> as</c><00:02:08.560><c> H</c><00:02:08.840><c> approaches</c><00:02:09.440><c> zero</c>
+
+00:02:10.430 --> 00:02:10.440 align:start position:0%
+on step six finally as H approaches zero
+ 
+
+00:02:10.440 --> 00:02:13.790 align:start position:0%
+on step six finally as H approaches zero
+all<00:02:10.720><c> terms</c><00:02:11.160><c> with</c><00:02:11.400><c> h</c><00:02:11.720><c> go</c><00:02:11.920><c> to</c><00:02:12.200><c> zero</c><00:02:13.160><c> this</c><00:02:13.400><c> leaves</c>
+
+00:02:13.790 --> 00:02:13.800 align:start position:0%
+all terms with h go to zero this leaves
+ 
+
+00:02:13.800 --> 00:02:18.110 align:start position:0%
+all terms with h go to zero this leaves
+us<00:02:14.080><c> with</c><00:02:14.319><c> just</c><00:02:14.599><c> m</c><00:02:14.920><c> *</c><00:02:15.480><c> e</c><00:02:15.680><c> to</c><00:02:15.879><c> the</c><00:02:16.120><c> power</c><00:02:16.599><c> of</c><00:02:17.120><c> MX</c>
+
+00:02:18.110 --> 00:02:18.120 align:start position:0%
+us with just m * e to the power of MX
+ 
+
+00:02:18.120 --> 00:02:21.270 align:start position:0%
+us with just m * e to the power of MX
+therefore<00:02:19.120><c> the</c><00:02:19.280><c> derivative</c><00:02:20.280><c> of</c><00:02:20.480><c> e</c><00:02:20.800><c> to</c><00:02:21.000><c> the</c>
+
+00:02:21.270 --> 00:02:21.280 align:start position:0%
+therefore the derivative of e to the
+ 
+
+00:02:21.280 --> 00:02:27.030 align:start position:0%
+therefore the derivative of e to the
+power<00:02:21.720><c> of</c><00:02:22.120><c> MX</c><00:02:23.040><c> =</c><00:02:23.599><c> M</c><00:02:24.040><c> *</c><00:02:24.760><c> E</c><00:02:25.400><c> power</c><00:02:25.879><c> of</c><00:02:26.120><c> MX</c><00:02:26.760><c> this</c><00:02:26.959><c> is</c>
+
+00:02:27.030 --> 00:02:27.040 align:start position:0%
+power of MX = M * E power of MX this is
+ 
+
+00:02:27.040 --> 00:02:29.949 align:start position:0%
+power of MX = M * E power of MX this is
+a<00:02:27.319><c> powerful</c><00:02:27.840><c> result</c><00:02:28.560><c> that</c><00:02:28.720><c> shows</c><00:02:29.080><c> us</c><00:02:29.360><c> that</c><00:02:29.519><c> the</c>
+
+00:02:29.949 --> 00:02:29.959 align:start position:0%
+a powerful result that shows us that the
+ 
+
+00:02:29.959 --> 00:02:32.830 align:start position:0%
+a powerful result that shows us that the
+exponential<00:02:30.560><c> function</c><00:02:31.080><c> is</c><00:02:31.360><c> special</c><00:02:32.360><c> it's</c><00:02:32.640><c> the</c>
+
+00:02:32.830 --> 00:02:32.840 align:start position:0%
+exponential function is special it's the
+ 
+
+00:02:32.840 --> 00:02:34.910 align:start position:0%
+exponential function is special it's the
+only<00:02:33.280><c> function</c><00:02:33.720><c> that</c><00:02:33.840><c> is</c><00:02:34.120><c> proportional</c><00:02:34.720><c> to</c>
+
+00:02:34.910 --> 00:02:34.920 align:start position:0%
+only function that is proportional to
+ 
+
+00:02:34.920 --> 00:02:39.229 align:start position:0%
+only function that is proportional to
+its<00:02:35.120><c> own</c><00:02:35.560><c> derivative</c><00:02:36.560><c> when</c><00:02:36.920><c> m</c><00:02:37.319><c> =</c><00:02:37.720><c> 1</c><00:02:38.720><c> we</c><00:02:38.879><c> get</c><00:02:39.080><c> the</c>
+
+00:02:39.229 --> 00:02:39.239 align:start position:0%
+its own derivative when m = 1 we get the
+ 
+
+00:02:39.239 --> 00:02:40.910 align:start position:0%
+its own derivative when m = 1 we get the
+even<00:02:39.440><c> more</c><00:02:39.760><c> special</c><00:02:40.200><c> case</c><00:02:40.480><c> where</c><00:02:40.680><c> the</c>
+
+00:02:40.910 --> 00:02:40.920 align:start position:0%
+even more special case where the
+ 
+
+00:02:40.920 --> 00:02:43.350 align:start position:0%
+even more special case where the
+function<00:02:41.519><c> exactly</c><00:02:42.120><c> equals</c><00:02:42.560><c> its</c><00:02:42.840><c> own</c>
+
+00:02:43.350 --> 00:02:43.360 align:start position:0%
+function exactly equals its own
+ 
+
+00:02:43.360 --> 00:02:46.110 align:start position:0%
+function exactly equals its own
+derivative<00:02:44.360><c> let's</c><00:02:44.680><c> visualize</c><00:02:45.280><c> this</c><00:02:45.480><c> function</c>
+
+00:02:46.110 --> 00:02:46.120 align:start position:0%
+derivative let's visualize this function
+ 
+
+00:02:46.120 --> 00:02:49.229 align:start position:0%
+derivative let's visualize this function
+and<00:02:46.360><c> its</c><00:02:46.879><c> derivative</c><00:02:47.879><c> the</c><00:02:48.040><c> blue</c><00:02:48.480><c> curve</c><00:02:48.800><c> shows</c>
+
+00:02:49.229 --> 00:02:49.239 align:start position:0%
+and its derivative the blue curve shows
+ 
+
+00:02:49.239 --> 00:02:52.470 align:start position:0%
+and its derivative the blue curve shows
+e<00:02:49.440><c> to</c><00:02:49.599><c> the</c><00:02:49.760><c> power</c><00:02:50.040><c> of</c><00:02:50.519><c> MX</c><00:02:51.519><c> and</c><00:02:51.680><c> the</c><00:02:51.840><c> red</c><00:02:52.159><c> curve</c>
+
+00:02:52.470 --> 00:02:52.480 align:start position:0%
+e to the power of MX and the red curve
+ 
+
+00:02:52.480 --> 00:02:57.790 align:start position:0%
+e to the power of MX and the red curve
+shows<00:02:52.840><c> its</c><00:02:53.280><c> derivative</c><00:02:54.280><c> M</c><00:02:54.879><c> *</c><00:02:55.599><c> E</c><00:02:56.200><c> power</c><00:02:56.519><c> of</c><00:02:56.800><c> MX</c>
+
+00:02:57.790 --> 00:02:57.800 align:start position:0%
+shows its derivative M * E power of MX
+ 
+
+00:02:57.800 --> 00:02:59.589 align:start position:0%
+shows its derivative M * E power of MX
+notice<00:02:58.440><c> how</c><00:02:58.599><c> they're</c><00:02:58.840><c> proportional</c><00:02:59.319><c> to</c><00:02:59.480><c> each</c>
+
+00:02:59.589 --> 00:02:59.599 align:start position:0%
+notice how they're proportional to each
+ 
+
+00:02:59.599 --> 00:03:02.840 align:start position:0%
+notice how they're proportional to each
+other<00:02:59.840><c> mother</c>
+

@@ -1,0 +1,368 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.400 --> 00:00:03.030 align:start position:0%
+ 
+welcome<00:00:01.400><c> today</c><00:00:01.760><c> we're</c><00:00:01.920><c> going</c><00:00:02.080><c> to</c><00:00:02.240><c> learn</c><00:00:02.520><c> about</c>
+
+00:00:03.030 --> 00:00:03.040 align:start position:0%
+welcome today we're going to learn about
+ 
+
+00:00:03.040 --> 00:00:05.670 align:start position:0%
+welcome today we're going to learn about
+logarithmic<00:00:03.920><c> differentiation</c><00:00:04.920><c> by</c><00:00:05.240><c> finding</c>
+
+00:00:05.670 --> 00:00:05.680 align:start position:0%
+logarithmic differentiation by finding
+ 
+
+00:00:05.680 --> 00:00:09.070 align:start position:0%
+logarithmic differentiation by finding
+the<00:00:05.920><c> derivative</c><00:00:06.919><c> of</c><00:00:07.080><c> a</c><00:00:07.480><c> complex</c><00:00:08.400><c> exponential</c>
+
+00:00:09.070 --> 00:00:09.080 align:start position:0%
+the derivative of a complex exponential
+ 
+
+00:00:09.080 --> 00:00:13.310 align:start position:0%
+the derivative of a complex exponential
+function<00:00:10.000><c> our</c><00:00:10.400><c> function</c><00:00:10.800><c> is</c><00:00:11.120><c> y</c><00:00:11.440><c> =</c><00:00:11.960><c> x</c><00:00:12.360><c> ra</c><00:00:12.920><c> to</c><00:00:13.120><c> the</c>
+
+00:00:13.310 --> 00:00:13.320 align:start position:0%
+function our function is y = x ra to the
+ 
+
+00:00:13.320 --> 00:00:16.670 align:start position:0%
+function our function is y = x ra to the
+power<00:00:13.799><c> of</c><00:00:14.120><c> E</c><00:00:14.440><c> to</c><00:00:14.920><c> X</c><00:00:15.920><c> why</c><00:00:16.080><c> do</c><00:00:16.199><c> we</c><00:00:16.320><c> need</c>
+
+00:00:16.670 --> 00:00:16.680 align:start position:0%
+power of E to X why do we need
+ 
+
+00:00:16.680 --> 00:00:20.109 align:start position:0%
+power of E to X why do we need
+logarithmic<00:00:17.480><c> differentiation</c><00:00:18.359><c> here</c><00:00:19.279><c> well</c>
+
+00:00:20.109 --> 00:00:20.119 align:start position:0%
+logarithmic differentiation here well
+ 
+
+00:00:20.119 --> 00:00:22.630 align:start position:0%
+logarithmic differentiation here well
+this<00:00:20.359><c> function</c><00:00:20.720><c> is</c><00:00:20.960><c> particularly</c><00:00:21.640><c> tricky</c>
+
+00:00:22.630 --> 00:00:22.640 align:start position:0%
+this function is particularly tricky
+ 
+
+00:00:22.640 --> 00:00:25.310 align:start position:0%
+this function is particularly tricky
+because<00:00:23.000><c> we</c><00:00:23.160><c> have</c><00:00:23.279><c> a</c><00:00:23.519><c> variable</c><00:00:24.039><c> X</c><00:00:24.680><c> as</c><00:00:24.920><c> both</c><00:00:25.160><c> the</c>
+
+00:00:25.310 --> 00:00:25.320 align:start position:0%
+because we have a variable X as both the
+ 
+
+00:00:25.320 --> 00:00:28.390 align:start position:0%
+because we have a variable X as both the
+base<00:00:25.840><c> and</c><00:00:26.080><c> in</c><00:00:26.279><c> the</c><00:00:26.519><c> exponent</c><00:00:27.519><c> using</c><00:00:27.920><c> normal</c>
+
+00:00:28.390 --> 00:00:28.400 align:start position:0%
+base and in the exponent using normal
+ 
+
+00:00:28.400 --> 00:00:31.510 align:start position:0%
+base and in the exponent using normal
+differentiation<00:00:29.199><c> rules</c><00:00:29.640><c> would</c><00:00:29.800><c> be</c><00:00:30.400><c> extremely</c>
+
+00:00:31.510 --> 00:00:31.520 align:start position:0%
+differentiation rules would be extremely
+ 
+
+00:00:31.520 --> 00:00:34.350 align:start position:0%
+differentiation rules would be extremely
+complicated<00:00:32.520><c> however</c><00:00:33.480><c> by</c><00:00:33.719><c> taking</c><00:00:34.079><c> the</c>
+
+00:00:34.350 --> 00:00:34.360 align:start position:0%
+complicated however by taking the
+ 
+
+00:00:34.360 --> 00:00:37.350 align:start position:0%
+complicated however by taking the
+natural<00:00:34.840><c> log</c><00:00:35.079><c> of</c><00:00:35.360><c> both</c><00:00:35.680><c> sides</c><00:00:36.239><c> first</c><00:00:37.040><c> we</c><00:00:37.160><c> can</c>
+
+00:00:37.350 --> 00:00:37.360 align:start position:0%
+natural log of both sides first we can
+ 
+
+00:00:37.360 --> 00:00:39.950 align:start position:0%
+natural log of both sides first we can
+make<00:00:37.600><c> this</c><00:00:37.840><c> much</c><00:00:38.239><c> easier</c><00:00:38.600><c> to</c><00:00:38.800><c> handle</c><00:00:39.760><c> let's</c>
+
+00:00:39.950 --> 00:00:39.960 align:start position:0%
+make this much easier to handle let's
+ 
+
+00:00:39.960 --> 00:00:43.709 align:start position:0%
+make this much easier to handle let's
+solve<00:00:40.239><c> a</c><00:00:40.480><c> step</c><00:00:40.760><c> by</c><00:00:41.079><c> step</c><00:00:42.039><c> step</c><00:00:42.320><c> one</c><00:00:43.239><c> take</c><00:00:43.480><c> the</c>
+
+00:00:43.709 --> 00:00:43.719 align:start position:0%
+solve a step by step step one take the
+ 
+
+00:00:43.719 --> 00:00:46.950 align:start position:0%
+solve a step by step step one take the
+natural<00:00:44.160><c> log</c><00:00:44.440><c> of</c><00:00:44.680><c> both</c><00:00:45.079><c> sides</c><00:00:46.079><c> this</c><00:00:46.280><c> gives</c><00:00:46.520><c> us</c>
+
+00:00:46.950 --> 00:00:46.960 align:start position:0%
+natural log of both sides this gives us
+ 
+
+00:00:46.960 --> 00:00:54.830 align:start position:0%
+natural log of both sides this gives us
+Ln<00:00:47.960><c> of</c><00:00:48.320><c> Y</c><00:00:48.640><c> =</c><00:00:49.280><c> Ln</c><00:00:50.280><c> of</c><00:00:50.600><c> x</c><00:00:51.360><c> raed</c><00:00:51.879><c> to</c><00:00:52.079><c> e</c><00:00:52.320><c> to</c><00:00:52.640><c> X</c><00:00:53.600><c> Step</c><00:00:53.879><c> 2</c>
+
+00:00:54.830 --> 00:00:54.840 align:start position:0%
+Ln of Y = Ln of x raed to e to X Step 2
+ 
+
+00:00:54.840 --> 00:00:57.510 align:start position:0%
+Ln of Y = Ln of x raed to e to X Step 2
+use<00:00:55.120><c> the</c><00:00:55.280><c> logarithm</c><00:00:55.920><c> property</c><00:00:56.320><c> that</c><00:00:56.480><c> says</c><00:00:56.840><c> Ln</c>
+
+00:00:57.510 --> 00:00:57.520 align:start position:0%
+use the logarithm property that says Ln
+ 
+
+00:00:57.520 --> 00:01:02.509 align:start position:0%
+use the logarithm property that says Ln
+of<00:00:57.719><c> x</c><00:00:58.000><c> raed</c><00:00:58.440><c> to</c><00:00:58.680><c> n</c><00:00:59.160><c> =</c><00:00:59.600><c> n</c><00:01:00.039><c> *</c><00:01:00.480><c> Ln</c><00:01:00.920><c> of</c><00:01:01.079><c> X</c><00:01:02.079><c> this</c><00:01:02.280><c> gives</c>
+
+00:01:02.509 --> 00:01:02.519 align:start position:0%
+of x raed to n = n * Ln of X this gives
+ 
+
+00:01:02.519 --> 00:01:10.350 align:start position:0%
+of x raed to n = n * Ln of X this gives
+us<00:01:02.879><c> Ln</c><00:01:03.719><c> of</c><00:01:04.159><c> y</c><00:01:04.400><c> =</c><00:01:05.080><c> e</c><00:01:05.600><c> x</c><00:01:05.960><c> *</c><00:01:06.439><c> Ln</c><00:01:06.840><c> of</c>
+
+00:01:10.350 --> 00:01:10.360 align:start position:0%
+ 
+ 
+
+00:01:10.360 --> 00:01:14.109 align:start position:0%
+ 
+X<00:01:11.360><c> step</c><00:01:11.720><c> three</c><00:01:12.720><c> now</c><00:01:12.960><c> we</c><00:01:13.119><c> can</c><00:01:13.360><c> differentiate</c>
+
+00:01:14.109 --> 00:01:14.119 align:start position:0%
+X step three now we can differentiate
+ 
+
+00:01:14.119 --> 00:01:17.350 align:start position:0%
+X step three now we can differentiate
+both<00:01:14.479><c> sides</c><00:01:14.880><c> with</c><00:01:15.080><c> respect</c><00:01:15.439><c> to</c><00:01:15.680><c> X</c><00:01:16.600><c> on</c><00:01:16.759><c> the</c><00:01:17.000><c> left</c>
+
+00:01:17.350 --> 00:01:17.360 align:start position:0%
+both sides with respect to X on the left
+ 
+
+00:01:17.360 --> 00:01:20.510 align:start position:0%
+both sides with respect to X on the left
+side<00:01:18.240><c> we</c><00:01:18.400><c> get</c><00:01:18.600><c> 1/</c><00:01:19.240><c> y</c><00:01:19.479><c> *</c>
+
+00:01:20.510 --> 00:01:20.520 align:start position:0%
+side we get 1/ y *
+ 
+
+00:01:20.520 --> 00:01:25.990 align:start position:0%
+side we get 1/ y *
+dydx<00:01:21.520><c> this</c><00:01:21.759><c> comes</c><00:01:22.040><c> from</c><00:01:22.159><c> the</c><00:01:22.280><c> chain</c>
+
+00:01:25.990 --> 00:01:26.000 align:start position:0%
+ 
+ 
+
+00:01:26.000 --> 00:01:29.950 align:start position:0%
+ 
+rule<00:01:27.000><c> step</c><00:01:27.280><c> four</c><00:01:28.119><c> for</c><00:01:28.320><c> the</c><00:01:28.560><c> right</c><00:01:28.920><c> side</c><00:01:29.600><c> we</c>
+
+00:01:29.950 --> 00:01:29.960 align:start position:0%
+rule step four for the right side we
+ 
+
+00:01:29.960 --> 00:01:32.270 align:start position:0%
+rule step four for the right side we
+need<00:01:30.119><c> to</c><00:01:30.280><c> use</c><00:01:30.520><c> the</c><00:01:30.680><c> product</c><00:01:31.040><c> rule</c><00:01:31.759><c> since</c><00:01:32.040><c> we</c>
+
+00:01:32.270 --> 00:01:32.280 align:start position:0%
+need to use the product rule since we
+ 
+
+00:01:32.280 --> 00:01:36.550 align:start position:0%
+need to use the product rule since we
+have<00:01:32.600><c> e</c><00:01:32.880><c> to</c><00:01:33.240><c> x</c><00:01:33.560><c> *</c><00:01:34.079><c> Ln</c><00:01:34.520><c> of</c><00:01:34.720><c> X</c><00:01:35.600><c> the</c><00:01:35.799><c> product</c><00:01:36.240><c> rule</c>
+
+00:01:36.550 --> 00:01:36.560 align:start position:0%
+have e to x * Ln of X the product rule
+ 
+
+00:01:36.560 --> 00:01:40.550 align:start position:0%
+have e to x * Ln of X the product rule
+says<00:01:36.880><c> that</c><00:01:37.040><c> the</c><00:01:37.159><c> derivative</c><00:01:37.600><c> of</c><00:01:37.720><c> U</c><00:01:38.000><c> *</c><00:01:39.000><c> v</c><00:01:39.399><c> =</c><00:01:39.840><c> u</c><00:01:40.079><c> *</c>
+
+00:01:40.550 --> 00:01:40.560 align:start position:0%
+says that the derivative of U * v = u *
+ 
+
+00:01:40.560 --> 00:01:46.069 align:start position:0%
+says that the derivative of U * v = u *
+dvdx<00:01:41.560><c> +</c><00:01:41.960><c> B</c><00:01:42.200><c> *</c><00:01:42.600><c> D</c><00:01:42.960><c> DX</c><00:01:43.960><c> in</c><00:01:44.119><c> our</c><00:01:44.439><c> case</c><00:01:45.119><c> U</c><00:01:45.399><c> is</c><00:01:45.600><c> e</c><00:01:45.920><c> to</c>
+
+00:01:46.069 --> 00:01:46.079 align:start position:0%
+dvdx + B * D DX in our case U is e to
+ 
+
+00:01:46.079 --> 00:01:54.550 align:start position:0%
+dvdx + B * D DX in our case U is e to
+the<00:01:46.240><c> X</c><00:01:47.119><c> and</c><00:01:47.320><c> V</c><00:01:47.840><c> is</c><00:01:48.079><c> Ln</c><00:01:48.479><c> of</c>
+
+00:01:54.550 --> 00:01:54.560 align:start position:0%
+ 
+ 
+
+00:01:54.560 --> 00:01:58.350 align:start position:0%
+ 
+X<00:01:55.560><c> step</c><00:01:56.039><c> five</c><00:01:57.039><c> let's</c><00:01:57.320><c> differentiate</c><00:01:58.079><c> each</c>
+
+00:01:58.350 --> 00:01:58.360 align:start position:0%
+X step five let's differentiate each
+ 
+
+00:01:58.360 --> 00:02:03.550 align:start position:0%
+X step five let's differentiate each
+part<00:01:59.079><c> the</c><00:01:59.240><c> derivative</c><00:01:59.960><c> of</c><00:02:00.159><c> e</c><00:02:00.479><c> to</c><00:02:00.799><c> X</c><00:02:01.680><c> is</c><00:02:02.000><c> e</c><00:02:02.280><c> to</c><00:02:02.640><c> X</c>
+
+00:02:03.550 --> 00:02:03.560 align:start position:0%
+part the derivative of e to X is e to X
+ 
+
+00:02:03.560 --> 00:02:07.709 align:start position:0%
+part the derivative of e to X is e to X
+the<00:02:03.759><c> derivative</c><00:02:04.280><c> of</c><00:02:04.479><c> Ln</c><00:02:04.880><c> of</c><00:02:05.079><c> X</c><00:02:05.960><c> is</c><00:02:06.240><c> 1</c><00:02:06.719><c> /x</c>
+
+00:02:07.709 --> 00:02:07.719 align:start position:0%
+the derivative of Ln of X is 1 /x
+ 
+
+00:02:07.719 --> 00:02:11.790 align:start position:0%
+the derivative of Ln of X is 1 /x
+putting<00:02:08.119><c> this</c><00:02:08.399><c> together</c><00:02:09.239><c> we</c><00:02:09.440><c> get</c><00:02:09.679><c> e</c><00:02:10.000><c> to</c><00:02:10.399><c> x</c><00:02:10.920><c> *</c><00:02:11.480><c> 1</c>
+
+00:02:11.790 --> 00:02:11.800 align:start position:0%
+putting this together we get e to x * 1
+ 
+
+00:02:11.800 --> 00:02:22.830 align:start position:0%
+putting this together we get e to x * 1
+/x<00:02:12.480><c> +</c><00:02:12.920><c> Ln</c><00:02:13.520><c> of</c><00:02:13.800><c> x</c><00:02:14.200><c> *</c><00:02:15.040><c> e</c><00:02:15.280><c> to</c>
+
+00:02:22.830 --> 00:02:22.840 align:start position:0%
+ 
+ 
+
+00:02:22.840 --> 00:02:27.030 align:start position:0%
+ 
+X<00:02:23.840><c> step</c><00:02:24.440><c> six</c><00:02:25.440><c> now</c><00:02:25.640><c> we</c><00:02:25.760><c> can</c><00:02:25.959><c> solve</c><00:02:26.239><c> for</c>
+
+00:02:27.030 --> 00:02:27.040 align:start position:0%
+X step six now we can solve for
+ 
+
+00:02:27.040 --> 00:02:31.070 align:start position:0%
+X step six now we can solve for
+dydx<00:02:28.040><c> multiply</c><00:02:28.720><c> both</c><00:02:29.040><c> sides</c><00:02:29.440><c> by</c><00:02:29.599><c> 1</c><00:02:30.000><c> Y</c><00:02:30.680><c> which</c><00:02:30.840><c> is</c>
+
+00:02:31.070 --> 00:02:31.080 align:start position:0%
+dydx multiply both sides by 1 Y which is
+ 
+
+00:02:31.080 --> 00:02:34.430 align:start position:0%
+dydx multiply both sides by 1 Y which is
+X<00:02:31.480><c> the</c><00:02:31.560><c> E</c><00:02:31.760><c> to</c><00:02:32.120><c> X</c><00:02:33.120><c> this</c><00:02:33.319><c> gives</c><00:02:33.560><c> us</c><00:02:33.720><c> our</c><00:02:34.000><c> final</c>
+
+00:02:34.430 --> 00:02:34.440 align:start position:0%
+X the E to X this gives us our final
+ 
+
+00:02:34.440 --> 00:02:39.309 align:start position:0%
+X the E to X this gives us our final
+answer<00:02:35.440><c> Dy</c><00:02:36.000><c> DX</c><00:02:36.560><c> =</c><00:02:36.959><c> x</c><00:02:37.480><c> e</c><00:02:37.720><c> to</c><00:02:38.160><c> the</c><00:02:38.319><c> x</c><00:02:38.680><c> *</c><00:02:39.200><c> the</c>
+
+00:02:39.309 --> 00:02:39.319 align:start position:0%
+answer Dy DX = x e to the x * the
+ 
+
+00:02:39.319 --> 00:02:50.949 align:start position:0%
+answer Dy DX = x e to the x * the
+quantity<00:02:39.800><c> e</c><00:02:40.000><c> to</c><00:02:40.280><c> X</c><00:02:40.760><c> over</c><00:02:41.040><c> x</c><00:02:41.319><c> +</c><00:02:41.800><c> Ln</c><00:02:42.239><c> of</c><00:02:42.480><c> x</c><00:02:42.760><c> *</c><00:02:43.480><c> e</c><00:02:43.680><c> to</c>
+
+00:02:50.949 --> 00:02:50.959 align:start position:0%
+ 
+ 
+
+00:02:50.959 --> 00:02:54.790 align:start position:0%
+ 
+X<00:02:51.959><c> and</c><00:02:52.159><c> there</c><00:02:52.280><c> you</c><00:02:52.519><c> have</c><00:02:52.680><c> it</c><00:02:53.519><c> we've</c><00:02:53.920><c> found</c><00:02:54.599><c> the</c>
+
+00:02:54.790 --> 00:02:54.800 align:start position:0%
+X and there you have it we've found the
+ 
+
+00:02:54.800 --> 00:02:57.949 align:start position:0%
+X and there you have it we've found the
+derivative<00:02:55.760><c> using</c><00:02:56.440><c> logarithmic</c>
+
+00:02:57.949 --> 00:02:57.959 align:start position:0%
+derivative using logarithmic
+ 
+
+00:02:57.959 --> 00:03:00.070 align:start position:0%
+derivative using logarithmic
+differentiation<00:02:58.959><c> this</c><00:02:59.239><c> method</c><00:02:59.680><c> is</c><00:02:59.840><c> is</c>
+
+00:03:00.070 --> 00:03:00.080 align:start position:0%
+differentiation this method is is
+ 
+
+00:03:00.080 --> 00:03:01.910 align:start position:0%
+differentiation this method is is
+particularly<00:03:00.720><c> useful</c><00:03:01.159><c> when</c><00:03:01.360><c> dealing</c><00:03:01.720><c> with</c>
+
+00:03:01.910 --> 00:03:01.920 align:start position:0%
+particularly useful when dealing with
+ 
+
+00:03:01.920 --> 00:03:03.949 align:start position:0%
+particularly useful when dealing with
+functions<00:03:02.400><c> that</c><00:03:02.560><c> have</c><00:03:02.800><c> variables</c><00:03:03.480><c> in</c><00:03:03.760><c> both</c>
+
+00:03:03.949 --> 00:03:03.959 align:start position:0%
+functions that have variables in both
+ 
+
+00:03:03.959 --> 00:03:07.030 align:start position:0%
+functions that have variables in both
+the<00:03:04.200><c> base</c><00:03:04.840><c> and</c><00:03:05.400><c> exponent</c><00:03:06.400><c> thank</c><00:03:06.599><c> you</c><00:03:06.720><c> for</c>
+
+00:03:07.030 --> 00:03:07.040 align:start position:0%
+the base and exponent thank you for
+ 
+
+00:03:07.040 --> 00:03:10.040 align:start position:0%
+the base and exponent thank you for
+watching
+

@@ -1,0 +1,472 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.080 --> 00:00:01.589 align:start position:0%
+ 
+let's<00:00:00.320><c> recall</c><00:00:00.640><c> the</c><00:00:00.719><c> fundamental</c><00:00:01.199><c> theorem</c><00:00:01.520><c> of</c>
+
+00:00:01.589 --> 00:00:01.599 align:start position:0%
+let's recall the fundamental theorem of
+ 
+
+00:00:01.599 --> 00:00:03.990 align:start position:0%
+let's recall the fundamental theorem of
+calculus<00:00:02.159><c> that</c><00:00:02.240><c> we</c><00:00:02.399><c> learned</c><00:00:02.960><c> in</c><00:00:03.199><c> kindergarten</c>
+
+00:00:03.990 --> 00:00:04.000 align:start position:0%
+calculus that we learned in kindergarten
+ 
+
+00:00:04.000 --> 00:00:05.349 align:start position:0%
+calculus that we learned in kindergarten
+so<00:00:04.160><c> the</c><00:00:04.240><c> formulation</c><00:00:04.799><c> i'm</c><00:00:04.880><c> going</c><00:00:05.040><c> to</c><00:00:05.120><c> take</c>
+
+00:00:05.349 --> 00:00:05.359 align:start position:0%
+so the formulation i'm going to take
+ 
+
+00:00:05.359 --> 00:00:07.430 align:start position:0%
+so the formulation i'm going to take
+here<00:00:05.680><c> is</c><00:00:05.839><c> that</c><00:00:06.240><c> the</c><00:00:06.720><c> integral</c>
+
+00:00:07.430 --> 00:00:07.440 align:start position:0%
+here is that the integral
+ 
+
+00:00:07.440 --> 00:00:10.549 align:start position:0%
+here is that the integral
+of<00:00:07.680><c> a</c><00:00:07.839><c> to</c><00:00:08.080><c> b</c><00:00:08.639><c> of</c><00:00:08.880><c> f</c><00:00:09.120><c> prime</c><00:00:09.360><c> of</c><00:00:09.519><c> x</c><00:00:09.840><c> dx</c>
+
+00:00:10.549 --> 00:00:10.559 align:start position:0%
+of a to b of f prime of x dx
+ 
+
+00:00:10.559 --> 00:00:13.990 align:start position:0%
+of a to b of f prime of x dx
+is<00:00:10.719><c> equal</c><00:00:11.040><c> to</c><00:00:11.519><c> f</c><00:00:11.759><c> of</c><00:00:11.920><c> b</c><00:00:12.559><c> minus</c><00:00:12.960><c> f</c><00:00:13.120><c> of</c><00:00:13.280><c> a</c>
+
+00:00:13.990 --> 00:00:14.000 align:start position:0%
+is equal to f of b minus f of a
+ 
+
+00:00:14.000 --> 00:00:15.990 align:start position:0%
+is equal to f of b minus f of a
+so<00:00:14.160><c> if</c><00:00:14.320><c> we</c><00:00:14.400><c> look</c><00:00:14.480><c> at</c><00:00:14.559><c> the</c><00:00:14.719><c> graph</c><00:00:15.280><c> of</c><00:00:15.440><c> f</c><00:00:15.599><c> prime</c><00:00:15.839><c> of</c>
+
+00:00:15.990 --> 00:00:16.000 align:start position:0%
+so if we look at the graph of f prime of
+ 
+
+00:00:16.000 --> 00:00:18.150 align:start position:0%
+so if we look at the graph of f prime of
+x<00:00:16.640><c> the</c><00:00:16.800><c> fundamental</c><00:00:17.279><c> theorem</c><00:00:17.600><c> of</c><00:00:17.680><c> calculus</c>
+
+00:00:18.150 --> 00:00:18.160 align:start position:0%
+x the fundamental theorem of calculus
+ 
+
+00:00:18.160 --> 00:00:19.990 align:start position:0%
+x the fundamental theorem of calculus
+tells<00:00:18.480><c> us</c><00:00:18.640><c> that</c><00:00:18.800><c> if</c><00:00:18.880><c> we</c><00:00:19.039><c> take</c><00:00:19.199><c> two</c><00:00:19.439><c> points</c><00:00:19.760><c> a</c>
+
+00:00:19.990 --> 00:00:20.000 align:start position:0%
+tells us that if we take two points a
+ 
+
+00:00:20.000 --> 00:00:23.109 align:start position:0%
+tells us that if we take two points a
+and<00:00:20.160><c> b</c><00:00:20.720><c> then</c><00:00:20.960><c> the</c><00:00:21.359><c> area</c><00:00:22.320><c> underneath</c>
+
+00:00:23.109 --> 00:00:23.119 align:start position:0%
+and b then the area underneath
+ 
+
+00:00:23.119 --> 00:00:26.470 align:start position:0%
+and b then the area underneath
+this<00:00:23.439><c> graph</c><00:00:24.080><c> is</c><00:00:24.240><c> determined</c><00:00:24.960><c> by</c><00:00:25.519><c> the</c><00:00:25.760><c> value</c><00:00:26.320><c> of</c>
+
+00:00:26.470 --> 00:00:26.480 align:start position:0%
+this graph is determined by the value of
+ 
+
+00:00:26.480 --> 00:00:27.830 align:start position:0%
+this graph is determined by the value of
+another<00:00:26.880><c> function</c><00:00:27.359><c> namely</c>
+
+00:00:27.830 --> 00:00:27.840 align:start position:0%
+another function namely
+ 
+
+00:00:27.840 --> 00:00:30.870 align:start position:0%
+another function namely
+f<00:00:28.240><c> at</c><00:00:28.640><c> these</c><00:00:29.039><c> boundary</c><00:00:29.439><c> points</c><00:00:29.840><c> alone</c>
+
+00:00:30.870 --> 00:00:30.880 align:start position:0%
+f at these boundary points alone
+ 
+
+00:00:30.880 --> 00:00:33.110 align:start position:0%
+f at these boundary points alone
+now<00:00:31.119><c> a</c><00:00:31.199><c> priori</c><00:00:31.840><c> we</c><00:00:31.920><c> need</c><00:00:32.079><c> to</c><00:00:32.239><c> know</c><00:00:32.480><c> every</c><00:00:32.800><c> point</c>
+
+00:00:33.110 --> 00:00:33.120 align:start position:0%
+now a priori we need to know every point
+ 
+
+00:00:33.120 --> 00:00:34.470 align:start position:0%
+now a priori we need to know every point
+between<00:00:33.600><c> a</c><00:00:33.840><c> and</c><00:00:34.000><c> b</c>
+
+00:00:34.470 --> 00:00:34.480 align:start position:0%
+between a and b
+ 
+
+00:00:34.480 --> 00:00:36.069 align:start position:0%
+between a and b
+to<00:00:34.640><c> determine</c><00:00:35.120><c> the</c><00:00:35.280><c> area</c><00:00:35.840><c> but</c><00:00:36.000><c> the</c>
+
+00:00:36.069 --> 00:00:36.079 align:start position:0%
+to determine the area but the
+ 
+
+00:00:36.079 --> 00:00:37.990 align:start position:0%
+to determine the area but the
+fundamental<00:00:36.640><c> theorem</c><00:00:36.880><c> of</c><00:00:36.960><c> calculus</c><00:00:37.520><c> tells</c><00:00:37.840><c> us</c>
+
+00:00:37.990 --> 00:00:38.000 align:start position:0%
+fundamental theorem of calculus tells us
+ 
+
+00:00:38.000 --> 00:00:39.030 align:start position:0%
+fundamental theorem of calculus tells us
+that<00:00:38.160><c> it's</c><00:00:38.399><c> actually</c>
+
+00:00:39.030 --> 00:00:39.040 align:start position:0%
+that it's actually
+ 
+
+00:00:39.040 --> 00:00:40.869 align:start position:0%
+that it's actually
+only<00:00:39.360><c> determined</c><00:00:39.840><c> by</c><00:00:40.079><c> the</c><00:00:40.239><c> values</c><00:00:40.640><c> of</c><00:00:40.800><c> a</c>
+
+00:00:40.869 --> 00:00:40.879 align:start position:0%
+only determined by the values of a
+ 
+
+00:00:40.879 --> 00:00:42.470 align:start position:0%
+only determined by the values of a
+separate<00:00:41.280><c> function</c><00:00:42.000><c> namely</c><00:00:42.320><c> its</c>
+
+00:00:42.470 --> 00:00:42.480 align:start position:0%
+separate function namely its
+ 
+
+00:00:42.480 --> 00:00:43.590 align:start position:0%
+separate function namely its
+antiderivative
+
+00:00:43.590 --> 00:00:43.600 align:start position:0%
+antiderivative
+ 
+
+00:00:43.600 --> 00:00:45.990 align:start position:0%
+antiderivative
+at<00:00:43.760><c> the</c><00:00:44.000><c> endpoints</c><00:00:45.039><c> now</c><00:00:45.200><c> to</c><00:00:45.360><c> get</c><00:00:45.600><c> further</c>
+
+00:00:45.990 --> 00:00:46.000 align:start position:0%
+at the endpoints now to get further
+ 
+
+00:00:46.000 --> 00:00:47.670 align:start position:0%
+at the endpoints now to get further
+insight<00:00:46.559><c> on</c><00:00:46.640><c> the</c><00:00:46.800><c> fundamental</c><00:00:47.280><c> theorem</c><00:00:47.600><c> of</c>
+
+00:00:47.670 --> 00:00:47.680 align:start position:0%
+insight on the fundamental theorem of
+ 
+
+00:00:47.680 --> 00:00:48.470 align:start position:0%
+insight on the fundamental theorem of
+calculus
+
+00:00:48.470 --> 00:00:48.480 align:start position:0%
+calculus
+ 
+
+00:00:48.480 --> 00:00:50.470 align:start position:0%
+calculus
+what<00:00:48.640><c> we'll</c><00:00:48.800><c> do</c><00:00:49.039><c> is</c><00:00:49.200><c> we'll</c><00:00:49.440><c> rewrite</c><00:00:50.239><c> the</c>
+
+00:00:50.470 --> 00:00:50.480 align:start position:0%
+what we'll do is we'll rewrite the
+ 
+
+00:00:50.480 --> 00:00:52.869 align:start position:0%
+what we'll do is we'll rewrite the
+integral<00:00:50.960><c> from</c><00:00:51.120><c> a</c><00:00:51.280><c> to</c><00:00:51.440><c> b</c><00:00:51.680><c> of</c><00:00:51.840><c> f</c><00:00:52.079><c> prime</c><00:00:52.320><c> of</c><00:00:52.480><c> x</c>
+
+00:00:52.869 --> 00:00:52.879 align:start position:0%
+integral from a to b of f prime of x
+ 
+
+00:00:52.879 --> 00:00:55.590 align:start position:0%
+integral from a to b of f prime of x
+dx<00:00:53.600><c> as</c><00:00:53.840><c> the</c><00:00:54.079><c> integral</c><00:00:54.640><c> over</c><00:00:54.800><c> the</c><00:00:55.039><c> closed</c>
+
+00:00:55.590 --> 00:00:55.600 align:start position:0%
+dx as the integral over the closed
+ 
+
+00:00:55.600 --> 00:00:56.150 align:start position:0%
+dx as the integral over the closed
+interval
+
+00:00:56.150 --> 00:00:56.160 align:start position:0%
+interval
+ 
+
+00:00:56.160 --> 00:00:59.189 align:start position:0%
+interval
+a<00:00:56.399><c> b</c><00:00:56.800><c> f</c><00:00:57.039><c> prime</c><00:00:57.280><c> of</c><00:00:57.440><c> x</c><00:00:57.680><c> dx</c><00:00:58.399><c> for</c><00:00:58.559><c> us</c><00:00:58.719><c> this</c><00:00:58.960><c> is</c><00:00:59.039><c> going</c>
+
+00:00:59.189 --> 00:00:59.199 align:start position:0%
+a b f prime of x dx for us this is going
+ 
+
+00:00:59.199 --> 00:01:00.069 align:start position:0%
+a b f prime of x dx for us this is going
+to<00:00:59.280><c> be</c><00:00:59.440><c> the</c><00:00:59.600><c> same</c>
+
+00:01:00.069 --> 00:01:00.079 align:start position:0%
+to be the same
+ 
+
+00:01:00.079 --> 00:01:02.869 align:start position:0%
+to be the same
+and<00:01:00.320><c> we'll</c><00:01:00.559><c> also</c><00:01:00.879><c> write</c><00:01:01.199><c> f</c><00:01:01.359><c> prime</c><00:01:01.600><c> of</c><00:01:01.760><c> x</c><00:01:02.079><c> as</c><00:01:02.399><c> df</c>
+
+00:01:02.869 --> 00:01:02.879 align:start position:0%
+and we'll also write f prime of x as df
+ 
+
+00:01:02.879 --> 00:01:03.830 align:start position:0%
+and we'll also write f prime of x as df
+dx
+
+00:01:03.830 --> 00:01:03.840 align:start position:0%
+dx
+ 
+
+00:01:03.840 --> 00:01:07.670 align:start position:0%
+dx
+also<00:01:04.320><c> write</c><00:01:05.040><c> a</c><00:01:05.360><c> b</c><00:01:05.760><c> as</c><00:01:06.000><c> the</c><00:01:06.320><c> boundary</c>
+
+00:01:07.670 --> 00:01:07.680 align:start position:0%
+also write a b as the boundary
+ 
+
+00:01:07.680 --> 00:01:10.950 align:start position:0%
+also write a b as the boundary
+of<00:01:08.159><c> the</c><00:01:08.479><c> closed</c><00:01:08.880><c> interval</c><00:01:09.280><c> a</c><00:01:09.520><c> b</c><00:01:10.320><c> to</c><00:01:10.479><c> denote</c><00:01:10.880><c> the</c>
+
+00:01:10.950 --> 00:01:10.960 align:start position:0%
+of the closed interval a b to denote the
+ 
+
+00:01:10.960 --> 00:01:11.990 align:start position:0%
+of the closed interval a b to denote the
+boundary<00:01:11.439><c> of</c><00:01:11.600><c> a</c><00:01:11.680><c> set</c>
+
+00:01:11.990 --> 00:01:12.000 align:start position:0%
+boundary of a set
+ 
+
+00:01:12.000 --> 00:01:15.109 align:start position:0%
+boundary of a set
+we<00:01:12.159><c> use</c><00:01:12.400><c> this</c><00:01:12.640><c> partial</c><00:01:13.040><c> symbol</c><00:01:13.439><c> so</c><00:01:14.240><c> the</c><00:01:14.880><c> set</c>
+
+00:01:15.109 --> 00:01:15.119 align:start position:0%
+we use this partial symbol so the set
+ 
+
+00:01:15.119 --> 00:01:17.109 align:start position:0%
+we use this partial symbol so the set
+containing<00:01:15.680><c> only</c><00:01:16.000><c> the</c><00:01:16.159><c> elements</c><00:01:16.560><c> a</c><00:01:16.799><c> b</c>
+
+00:01:17.109 --> 00:01:17.119 align:start position:0%
+containing only the elements a b
+ 
+
+00:01:17.119 --> 00:01:19.590 align:start position:0%
+containing only the elements a b
+is<00:01:17.200><c> denoted</c><00:01:17.680><c> by</c><00:01:18.000><c> partial</c><00:01:18.880><c> of</c><00:01:19.040><c> the</c><00:01:19.200><c> closed</c>
+
+00:01:19.590 --> 00:01:19.600 align:start position:0%
+is denoted by partial of the closed
+ 
+
+00:01:19.600 --> 00:01:20.630 align:start position:0%
+is denoted by partial of the closed
+interval<00:01:20.000><c> a</c><00:01:20.159><c> b</c>
+
+00:01:20.630 --> 00:01:20.640 align:start position:0%
+interval a b
+ 
+
+00:01:20.640 --> 00:01:22.070 align:start position:0%
+interval a b
+so<00:01:20.799><c> now</c><00:01:20.960><c> what</c><00:01:21.119><c> the</c><00:01:21.200><c> fundamental</c><00:01:21.680><c> theorem</c><00:01:21.920><c> of</c>
+
+00:01:22.070 --> 00:01:22.080 align:start position:0%
+so now what the fundamental theorem of
+ 
+
+00:01:22.080 --> 00:01:23.990 align:start position:0%
+so now what the fundamental theorem of
+calculus<00:01:22.560><c> says</c><00:01:23.200><c> is</c><00:01:23.439><c> that</c><00:01:23.680><c> the</c>
+
+00:01:23.990 --> 00:01:24.000 align:start position:0%
+calculus says is that the
+ 
+
+00:01:24.000 --> 00:01:26.390 align:start position:0%
+calculus says is that the
+integral<00:01:24.560><c> over</c><00:01:24.720><c> the</c><00:01:24.880><c> closed</c><00:01:25.200><c> interval</c><00:01:25.600><c> a</c><00:01:25.759><c> b</c><00:01:26.240><c> of</c>
+
+00:01:26.390 --> 00:01:26.400 align:start position:0%
+integral over the closed interval a b of
+ 
+
+00:01:26.400 --> 00:01:27.670 align:start position:0%
+integral over the closed interval a b of
+df<00:01:26.880><c> dx</c>
+
+00:01:27.670 --> 00:01:27.680 align:start position:0%
+df dx
+ 
+
+00:01:27.680 --> 00:01:29.510 align:start position:0%
+df dx
+is<00:01:27.840><c> equal</c><00:01:28.159><c> to</c><00:01:28.479><c> the</c><00:01:28.720><c> integral</c><00:01:29.200><c> over</c><00:01:29.360><c> the</c>
+
+00:01:29.510 --> 00:01:29.520 align:start position:0%
+is equal to the integral over the
+ 
+
+00:01:29.520 --> 00:01:31.270 align:start position:0%
+is equal to the integral over the
+boundary<00:01:30.000><c> of</c><00:01:30.079><c> the</c><00:01:30.240><c> closed</c><00:01:30.640><c> interval</c>
+
+00:01:31.270 --> 00:01:31.280 align:start position:0%
+boundary of the closed interval
+ 
+
+00:01:31.280 --> 00:01:35.510 align:start position:0%
+boundary of the closed interval
+of<00:01:31.520><c> a</c><00:01:31.680><c> b</c><00:01:32.240><c> of</c><00:01:32.560><c> f</c><00:01:32.799><c> dx</c><00:01:34.000><c> now</c><00:01:34.240><c> just</c><00:01:34.400><c> to</c><00:01:34.560><c> make</c><00:01:34.799><c> this</c>
+
+00:01:35.510 --> 00:01:35.520 align:start position:0%
+of a b of f dx now just to make this
+ 
+
+00:01:35.520 --> 00:01:37.990 align:start position:0%
+of a b of f dx now just to make this
+subsequent<00:01:36.000><c> remark</c><00:01:36.640><c> more</c><00:01:36.880><c> transparent</c><00:01:37.759><c> what</c>
+
+00:01:37.990 --> 00:01:38.000 align:start position:0%
+subsequent remark more transparent what
+ 
+
+00:01:38.000 --> 00:01:39.590 align:start position:0%
+subsequent remark more transparent what
+we<00:01:38.079><c> can</c><00:01:38.240><c> do</c><00:01:38.400><c> is</c><00:01:38.479><c> it</c><00:01:38.640><c> can</c><00:01:38.799><c> actually</c><00:01:39.040><c> replace</c>
+
+00:01:39.590 --> 00:01:39.600 align:start position:0%
+we can do is it can actually replace
+ 
+
+00:01:39.600 --> 00:01:43.670 align:start position:0%
+we can do is it can actually replace
+df<00:01:40.240><c> with</c><00:01:40.560><c> partial</c><00:01:41.119><c> f</c><00:01:42.560><c> so</c><00:01:42.799><c> from</c><00:01:43.040><c> what</c><00:01:43.200><c> we've</c>
+
+00:01:43.670 --> 00:01:43.680 align:start position:0%
+df with partial f so from what we've
+ 
+
+00:01:43.680 --> 00:01:45.190 align:start position:0%
+df with partial f so from what we've
+done<00:01:44.000><c> here</c><00:01:44.399><c> the</c><00:01:44.479><c> way</c><00:01:44.720><c> we've</c><00:01:44.880><c> written</c><00:01:45.119><c> the</c>
+
+00:01:45.190 --> 00:01:45.200 align:start position:0%
+done here the way we've written the
+ 
+
+00:01:45.200 --> 00:01:46.950 align:start position:0%
+done here the way we've written the
+fundamental<00:01:45.759><c> theorem</c><00:01:46.079><c> of</c><00:01:46.159><c> calculus</c><00:01:46.640><c> what</c><00:01:46.720><c> we</c>
+
+00:01:46.950 --> 00:01:46.960 align:start position:0%
+fundamental theorem of calculus what we
+ 
+
+00:01:46.960 --> 00:01:48.950 align:start position:0%
+fundamental theorem of calculus what we
+see<00:01:47.200><c> is</c><00:01:47.360><c> that</c><00:01:47.600><c> it's</c><00:01:47.840><c> not</c><00:01:48.000><c> that</c><00:01:48.240><c> derivatives</c>
+
+00:01:48.950 --> 00:01:48.960 align:start position:0%
+see is that it's not that derivatives
+ 
+
+00:01:48.960 --> 00:01:49.190 align:start position:0%
+see is that it's not that derivatives
+and
+
+00:01:49.190 --> 00:01:49.200 align:start position:0%
+and
+ 
+
+00:01:49.200 --> 00:01:50.950 align:start position:0%
+and
+integrals<00:01:49.920><c> are</c><00:01:50.000><c> the</c><00:01:50.159><c> opposites</c><00:01:50.640><c> of</c><00:01:50.720><c> each</c>
+
+00:01:50.950 --> 00:01:50.960 align:start position:0%
+integrals are the opposites of each
+ 
+
+00:01:50.960 --> 00:01:53.350 align:start position:0%
+integrals are the opposites of each
+other<00:01:51.439><c> it's</c><00:01:51.759><c> that</c><00:01:52.079><c> derivatives</c>
+
+00:01:53.350 --> 00:01:53.360 align:start position:0%
+other it's that derivatives
+ 
+
+00:01:53.360 --> 00:01:56.709 align:start position:0%
+other it's that derivatives
+are<00:01:54.079><c> dual</c><00:01:55.040><c> to</c><00:01:55.200><c> the</c><00:01:55.439><c> boundaries</c>
+
+00:01:56.709 --> 00:01:56.719 align:start position:0%
+are dual to the boundaries
+ 
+
+00:01:56.719 --> 00:01:58.870 align:start position:0%
+are dual to the boundaries
+of<00:01:56.960><c> regions</c><00:01:57.360><c> of</c><00:01:57.520><c> integration</c><00:01:58.560><c> and</c><00:01:58.640><c> the</c>
+
+00:01:58.870 --> 00:01:58.880 align:start position:0%
+of regions of integration and the
+ 
+
+00:01:58.880 --> 00:02:09.910 align:start position:0%
+of regions of integration and the
+integral<00:01:59.360><c> is</c><00:01:59.439><c> the</c><00:01:59.600><c> dual</c><00:01:59.920><c> pairing</c><00:02:06.840><c> here</c>
+
+00:02:09.910 --> 00:02:09.920 align:start position:0%
+ 
+ 
+
+00:02:09.920 --> 00:02:12.000 align:start position:0%
+ 
+you
+

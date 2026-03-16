@@ -1,0 +1,304 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.400 --> 00:00:03.389 align:start position:0%
+ 
+welcome<00:00:01.400><c> today</c><00:00:02.000><c> we'll</c><00:00:02.200><c> solve</c><00:00:02.520><c> a</c><00:00:02.760><c> challenging</c>
+
+00:00:03.389 --> 00:00:03.399 align:start position:0%
+welcome today we'll solve a challenging
+ 
+
+00:00:03.399 --> 00:00:07.110 align:start position:0%
+welcome today we'll solve a challenging
+derivative<00:00:04.040><c> problem</c><00:00:04.440><c> step</c><00:00:04.759><c> by</c><00:00:05.040><c> step</c><00:00:05.920><c> our</c><00:00:06.359><c> task</c>
+
+00:00:07.110 --> 00:00:07.120 align:start position:0%
+derivative problem step by step our task
+ 
+
+00:00:07.120 --> 00:00:09.310 align:start position:0%
+derivative problem step by step our task
+is<00:00:07.240><c> to</c><00:00:07.480><c> find</c><00:00:07.720><c> the</c><00:00:07.879><c> derivative</c><00:00:08.519><c> of</c><00:00:08.639><c> the</c><00:00:08.880><c> natural</c>
+
+00:00:09.310 --> 00:00:09.320 align:start position:0%
+is to find the derivative of the natural
+ 
+
+00:00:09.320 --> 00:00:15.030 align:start position:0%
+is to find the derivative of the natural
+logarithm<00:00:10.160><c> of</c><00:00:10.400><c> x-</c><00:00:11.400><c> the</c><00:00:12.080><c> &lt;</c><00:00:12.240><c> TK</c><00:00:12.559><c> of</c><00:00:12.880><c> x^2</c><00:00:13.759><c> -</c><00:00:14.160><c> 1</c>
+
+00:00:15.030 --> 00:00:15.040 align:start position:0%
+logarithm of x- the &lt; TK of x^2 - 1
+ 
+
+00:00:15.040 --> 00:00:18.670 align:start position:0%
+logarithm of x- the &lt; TK of x^2 - 1
+let's<00:00:15.320><c> break</c><00:00:15.599><c> this</c><00:00:15.799><c> down</c><00:00:16.279><c> step</c><00:00:16.640><c> by</c><00:00:16.960><c> step</c><00:00:17.960><c> first</c>
+
+00:00:18.670 --> 00:00:18.680 align:start position:0%
+let's break this down step by step first
+ 
+
+00:00:18.680 --> 00:00:21.429 align:start position:0%
+let's break this down step by step first
+we'll<00:00:18.960><c> use</c><00:00:19.199><c> the</c><00:00:19.359><c> chain</c><00:00:19.720><c> rule</c><00:00:20.480><c> since</c><00:00:20.720><c> we</c><00:00:20.920><c> have</c><00:00:21.039><c> a</c>
+
+00:00:21.429 --> 00:00:21.439 align:start position:0%
+we'll use the chain rule since we have a
+ 
+
+00:00:21.439 --> 00:00:23.910 align:start position:0%
+we'll use the chain rule since we have a
+natural<00:00:21.960><c> logarithm</c><00:00:22.600><c> of</c><00:00:22.720><c> a</c><00:00:23.080><c> complex</c>
+
+00:00:23.910 --> 00:00:23.920 align:start position:0%
+natural logarithm of a complex
+ 
+
+00:00:23.920 --> 00:00:27.070 align:start position:0%
+natural logarithm of a complex
+expression<00:00:25.160><c> remember</c><00:00:26.160><c> the</c><00:00:26.359><c> derivative</c><00:00:26.840><c> of</c>
+
+00:00:27.070 --> 00:00:27.080 align:start position:0%
+expression remember the derivative of
+ 
+
+00:00:27.080 --> 00:00:29.990 align:start position:0%
+expression remember the derivative of
+natural<00:00:27.480><c> log</c><00:00:27.920><c> is</c><00:00:28.199><c> one</c><00:00:28.439><c> over</c><00:00:28.679><c> the</c><00:00:28.960><c> function</c>
+
+00:00:29.990 --> 00:00:30.000 align:start position:0%
+natural log is one over the function
+ 
+
+00:00:30.000 --> 00:00:31.870 align:start position:0%
+natural log is one over the function
+times<00:00:30.400><c> the</c><00:00:30.599><c> derivative</c><00:00:31.240><c> of</c><00:00:31.359><c> the</c><00:00:31.480><c> inner</c>
+
+00:00:31.870 --> 00:00:31.880 align:start position:0%
+times the derivative of the inner
+ 
+
+00:00:31.880 --> 00:00:34.430 align:start position:0%
+times the derivative of the inner
+function<00:00:32.880><c> now</c><00:00:33.160><c> we</c><00:00:33.280><c> can</c><00:00:33.559><c> differentiate</c><00:00:34.320><c> the</c>
+
+00:00:34.430 --> 00:00:34.440 align:start position:0%
+function now we can differentiate the
+ 
+
+00:00:34.440 --> 00:00:37.389 align:start position:0%
+function now we can differentiate the
+inner<00:00:34.879><c> expression</c><00:00:35.879><c> the</c><00:00:36.079><c> derivative</c><00:00:36.559><c> of</c><00:00:36.719><c> x</c><00:00:37.120><c> is</c>
+
+00:00:37.389 --> 00:00:37.399 align:start position:0%
+inner expression the derivative of x is
+ 
+
+00:00:37.399 --> 00:00:40.709 align:start position:0%
+inner expression the derivative of x is
+1<00:00:38.399><c> and</c><00:00:38.559><c> for</c><00:00:38.760><c> the</c><00:00:38.960><c> square</c><00:00:39.320><c> root</c><00:00:39.600><c> term</c><00:00:40.480><c> we'll</c>
+
+00:00:40.709 --> 00:00:40.719 align:start position:0%
+1 and for the square root term we'll
+ 
+
+00:00:40.719 --> 00:00:43.150 align:start position:0%
+1 and for the square root term we'll
+need<00:00:40.879><c> to</c><00:00:41.079><c> use</c><00:00:41.280><c> the</c><00:00:41.399><c> chain</c><00:00:41.680><c> rule</c><00:00:42.079><c> again</c><00:00:42.800><c> for</c><00:00:42.960><c> the</c>
+
+00:00:43.150 --> 00:00:43.160 align:start position:0%
+need to use the chain rule again for the
+ 
+
+00:00:43.160 --> 00:00:46.910 align:start position:0%
+need to use the chain rule again for the
+square<00:00:43.520><c> root</c><00:00:43.879><c> term</c><00:00:44.879><c> we</c><00:00:45.079><c> use</c><00:00:45.320><c> the</c><00:00:45.520><c> power</c><00:00:45.920><c> rule</c>
+
+00:00:46.910 --> 00:00:46.920 align:start position:0%
+square root term we use the power rule
+ 
+
+00:00:46.920 --> 00:00:49.310 align:start position:0%
+square root term we use the power rule
+the<00:00:47.079><c> derivative</c><00:00:47.520><c> of</c><00:00:47.719><c> square</c><00:00:48.039><c> &lt;</c><00:00:48.199><c> TK</c><00:00:48.320><c> of</c><00:00:48.480><c> U</c><00:00:48.800><c> is</c><00:00:49.079><c> 1</c>
+
+00:00:49.310 --> 00:00:49.320 align:start position:0%
+the derivative of square &lt; TK of U is 1
+ 
+
+00:00:49.320 --> 00:00:53.510 align:start position:0%
+the derivative of square &lt; TK of U is 1
+/<00:00:49.640><c> 2</c><00:00:50.480><c> &lt;</c><00:00:50.600><c> TK</c><00:00:50.879><c> U</c><00:00:51.480><c> *</c><00:00:51.879><c> the</c><00:00:52.039><c> derivative</c><00:00:52.480><c> of</c><00:00:52.640><c> U</c><00:00:53.359><c> the</c>
+
+00:00:53.510 --> 00:00:53.520 align:start position:0%
+/ 2 &lt; TK U * the derivative of U the
+ 
+
+00:00:53.520 --> 00:00:57.750 align:start position:0%
+/ 2 &lt; TK U * the derivative of U the
+derivative<00:00:54.079><c> of</c><00:00:54.280><c> x^2</c><00:00:55.079><c> -</c><00:00:55.480><c> 1</c><00:00:55.960><c> is</c><00:00:56.480><c> 2x</c><00:00:57.480><c> let's</c>
+
+00:00:57.750 --> 00:00:57.760 align:start position:0%
+derivative of x^2 - 1 is 2x let's
+ 
+
+00:00:57.760 --> 00:01:01.590 align:start position:0%
+derivative of x^2 - 1 is 2x let's
+substitute<00:00:58.399><c> that</c><00:00:58.600><c> in</c><00:00:59.519><c> now</c><00:01:00.039><c> we</c><00:01:00.160><c> can</c><00:01:00.600><c> simplify</c>
+
+00:01:01.590 --> 00:01:01.600 align:start position:0%
+substitute that in now we can simplify
+ 
+
+00:01:01.600 --> 00:01:04.549 align:start position:0%
+substitute that in now we can simplify
+the<00:01:01.840><c> expression</c><00:01:02.719><c> inside</c><00:01:03.120><c> the</c><00:01:03.360><c> brackets</c><00:01:04.360><c> the</c>
+
+00:01:04.549 --> 00:01:04.559 align:start position:0%
+the expression inside the brackets the
+ 
+
+00:01:04.559 --> 00:01:07.270 align:start position:0%
+the expression inside the brackets the
+two<00:01:05.000><c> and</c><00:01:05.199><c> two</c><00:01:05.640><c> cancel</c><00:01:06.040><c> out</c><00:01:06.600><c> giving</c><00:01:06.840><c> us</c><00:01:07.080><c> this</c>
+
+00:01:07.270 --> 00:01:07.280 align:start position:0%
+two and two cancel out giving us this
+ 
+
+00:01:07.280 --> 00:01:10.429 align:start position:0%
+two and two cancel out giving us this
+simpler<00:01:07.680><c> form</c><00:01:08.560><c> to</c><00:01:08.799><c> combine</c><00:01:09.320><c> these</c><00:01:09.520><c> terms</c><00:01:10.280><c> we</c>
+
+00:01:10.429 --> 00:01:10.439 align:start position:0%
+simpler form to combine these terms we
+ 
+
+00:01:10.439 --> 00:01:13.630 align:start position:0%
+simpler form to combine these terms we
+need<00:01:10.640><c> a</c><00:01:10.920><c> common</c><00:01:11.640><c> denominator</c><00:01:12.640><c> we</c><00:01:12.799><c> can</c><00:01:13.080><c> rewrite</c>
+
+00:01:13.630 --> 00:01:13.640 align:start position:0%
+need a common denominator we can rewrite
+ 
+
+00:01:13.640 --> 00:01:18.910 align:start position:0%
+need a common denominator we can rewrite
+one<00:01:14.520><c> as</c><00:01:14.720><c> the</c><00:01:15.000><c> square</c><00:01:15.360><c> root</c><00:01:15.720><c> of</c><00:01:16.479><c> x^2</c><00:01:17.479><c> -</c><00:01:18.119><c> 1/</c>
+
+00:01:18.910 --> 00:01:18.920 align:start position:0%
+one as the square root of x^2 - 1/
+ 
+
+00:01:18.920 --> 00:01:22.550 align:start position:0%
+one as the square root of x^2 - 1/
+itself<00:01:19.920><c> next</c><00:01:20.280><c> we</c><00:01:20.400><c> can</c><00:01:20.640><c> factor</c><00:01:21.119><c> out</c><00:01:21.880><c> -1</c><00:01:22.400><c> from</c>
+
+00:01:22.550 --> 00:01:22.560 align:start position:0%
+itself next we can factor out -1 from
+ 
+
+00:01:22.560 --> 00:01:26.310 align:start position:0%
+itself next we can factor out -1 from
+the<00:01:23.000><c> numerator</c><00:01:24.000><c> and</c><00:01:24.320><c> finally</c><00:01:25.320><c> notice</c><00:01:25.759><c> that</c><00:01:26.000><c> x</c>
+
+00:01:26.310 --> 00:01:26.320 align:start position:0%
+the numerator and finally notice that x
+ 
+
+00:01:26.320 --> 00:01:30.190 align:start position:0%
+the numerator and finally notice that x
+-<00:01:27.119><c> &lt;</c><00:01:27.240><c> TK</c><00:01:27.520><c> of</c><00:01:27.759><c> x^2</c><00:01:28.520><c> -</c><00:01:29.040><c> 1</c><00:01:29.320><c> appears</c><00:01:29.600><c> in</c><00:01:29.759><c> both</c><00:01:29.960><c> both</c>
+
+00:01:30.190 --> 00:01:30.200 align:start position:0%
+- &lt; TK of x^2 - 1 appears in both both
+ 
+
+00:01:30.200 --> 00:01:32.910 align:start position:0%
+- &lt; TK of x^2 - 1 appears in both both
+numerator<00:01:30.799><c> and</c><00:01:31.119><c> denominator</c><00:01:32.119><c> so</c><00:01:32.360><c> they</c><00:01:32.560><c> cancel</c>
+
+00:01:32.910 --> 00:01:32.920 align:start position:0%
+numerator and denominator so they cancel
+ 
+
+00:01:32.920 --> 00:01:36.550 align:start position:0%
+numerator and denominator so they cancel
+out<00:01:33.200><c> leaving</c><00:01:33.520><c> us</c><00:01:33.680><c> with</c><00:01:33.840><c> our</c><00:01:34.200><c> final</c><00:01:35.040><c> answer</c><00:01:36.040><c> -1</c>
+
+00:01:36.550 --> 00:01:36.560 align:start position:0%
+out leaving us with our final answer -1
+ 
+
+00:01:36.560 --> 00:01:38.789 align:start position:0%
+out leaving us with our final answer -1
+over<00:01:37.240><c> &lt;</c><00:01:37.360><c> TK</c><00:01:37.520><c> of</c>
+
+00:01:38.789 --> 00:01:38.799 align:start position:0%
+over &lt; TK of
+ 
+
+00:01:38.799 --> 00:01:41.789 align:start position:0%
+over &lt; TK of
+x^2-1<00:01:39.799><c> this</c><00:01:39.960><c> was</c><00:01:40.079><c> a</c><00:01:40.439><c> complex</c><00:01:41.159><c> derivative</c>
+
+00:01:41.789 --> 00:01:41.799 align:start position:0%
+x^2-1 this was a complex derivative
+ 
+
+00:01:41.799 --> 00:01:43.670 align:start position:0%
+x^2-1 this was a complex derivative
+problem<00:01:42.200><c> that</c><00:01:42.399><c> required</c><00:01:43.079><c> careful</c>
+
+00:01:43.670 --> 00:01:43.680 align:start position:0%
+problem that required careful
+ 
+
+00:01:43.680 --> 00:01:46.630 align:start position:0%
+problem that required careful
+application<00:01:44.399><c> of</c><00:01:44.719><c> multiple</c><00:01:45.280><c> derivative</c><00:01:45.719><c> rules</c>
+
+00:01:46.630 --> 00:01:46.640 align:start position:0%
+application of multiple derivative rules
+ 
+
+00:01:46.640 --> 00:01:49.870 align:start position:0%
+application of multiple derivative rules
+the<00:01:46.759><c> chain</c><00:01:47.159><c> rule</c><00:01:47.840><c> the</c><00:01:48.119><c> power</c><00:01:48.520><c> rule</c><00:01:49.479><c> and</c>
+
+00:01:49.870 --> 00:01:49.880 align:start position:0%
+the chain rule the power rule and
+ 
+
+00:01:49.880 --> 00:01:52.910 align:start position:0%
+the chain rule the power rule and
+careful<00:01:50.399><c> algebraic</c><00:01:51.280><c> manipulation</c><00:01:52.280><c> the</c><00:01:52.520><c> key</c>
+
+00:01:52.910 --> 00:01:52.920 align:start position:0%
+careful algebraic manipulation the key
+ 
+
+00:01:52.920 --> 00:01:55.149 align:start position:0%
+careful algebraic manipulation the key
+was<00:01:53.240><c> breaking</c><00:01:53.600><c> it</c><00:01:53.880><c> down</c><00:01:54.240><c> into</c><00:01:54.560><c> manageable</c>
+
+00:01:55.149 --> 00:01:55.159 align:start position:0%
+was breaking it down into manageable
+ 
+
+00:01:55.159 --> 00:01:57.149 align:start position:0%
+was breaking it down into manageable
+steps<00:01:56.079><c> and</c><00:01:56.280><c> working</c><00:01:56.680><c> through</c><00:01:56.880><c> it</c>
+
+00:01:57.149 --> 00:01:57.159 align:start position:0%
+steps and working through it
+ 
+
+00:01:57.159 --> 00:02:00.159 align:start position:0%
+steps and working through it
+systematically
+

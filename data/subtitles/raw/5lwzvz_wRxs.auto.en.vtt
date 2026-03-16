@@ -1,0 +1,264 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.280 --> 00:00:02.629 align:start position:0%
+ 
+let's<00:00:00.560><c> solve</c><00:00:00.919><c> this</c><00:00:01.160><c> calculus</c><00:00:01.800><c> problem</c><00:00:02.320><c> step</c>
+
+00:00:02.629 --> 00:00:02.639 align:start position:0%
+let's solve this calculus problem step
+ 
+
+00:00:02.639 --> 00:00:05.309 align:start position:0%
+let's solve this calculus problem step
+by<00:00:03.000><c> step</c><00:00:03.840><c> we</c><00:00:04.000><c> need</c><00:00:04.200><c> to</c><00:00:04.440><c> differentiate</c><00:00:05.120><c> the</c>
+
+00:00:05.309 --> 00:00:05.319 align:start position:0%
+by step we need to differentiate the
+ 
+
+00:00:05.319 --> 00:00:09.870 align:start position:0%
+by step we need to differentiate the
+inverse<00:00:06.000><c> cosine</c><00:00:06.799><c> of</c><00:00:07.000><c> 1</c><00:00:07.279><c> -</c><00:00:07.760><c> 2x</c><00:00:08.760><c> with</c><00:00:09.000><c> respect</c><00:00:09.559><c> to</c>
+
+00:00:09.870 --> 00:00:09.880 align:start position:0%
+inverse cosine of 1 - 2x with respect to
+ 
+
+00:00:09.880 --> 00:00:13.150 align:start position:0%
+inverse cosine of 1 - 2x with respect to
+X<00:00:10.759><c> to</c><00:00:11.040><c> solve</c><00:00:11.400><c> this</c><00:00:11.599><c> we'll</c><00:00:11.799><c> use</c><00:00:12.120><c> the</c><00:00:12.280><c> chain</c><00:00:12.679><c> Rule</c>
+
+00:00:13.150 --> 00:00:13.160 align:start position:0%
+X to solve this we'll use the chain Rule
+ 
+
+00:00:13.160 --> 00:00:15.590 align:start position:0%
+X to solve this we'll use the chain Rule
+and<00:00:13.519><c> the</c><00:00:13.719><c> derivative</c><00:00:14.240><c> formula</c><00:00:14.599><c> for</c><00:00:14.920><c> inverse</c>
+
+00:00:15.590 --> 00:00:15.600 align:start position:0%
+and the derivative formula for inverse
+ 
+
+00:00:15.600 --> 00:00:18.830 align:start position:0%
+and the derivative formula for inverse
+cosine<00:00:16.800><c> remember</c><00:00:17.800><c> the</c><00:00:17.960><c> derivative</c><00:00:18.560><c> of</c>
+
+00:00:18.830 --> 00:00:18.840 align:start position:0%
+cosine remember the derivative of
+ 
+
+00:00:18.840 --> 00:00:22.590 align:start position:0%
+cosine remember the derivative of
+inverse<00:00:19.400><c> cosine</c><00:00:19.760><c> of</c><00:00:19.920><c> U</c><00:00:20.279><c> is-</c><00:00:21.279><c> 1</c><00:00:21.640><c> over</c><00:00:21.880><c> theare</c><00:00:22.480><c> &lt;</c>
+
+00:00:22.590 --> 00:00:22.600 align:start position:0%
+inverse cosine of U is- 1 over theare &lt;
+ 
+
+00:00:22.600 --> 00:00:27.429 align:start position:0%
+inverse cosine of U is- 1 over theare &lt;
+TK<00:00:23.279><c> of</c><00:00:23.560><c> 1</c><00:00:23.800><c> -</c><00:00:24.240><c> U</c><00:00:24.359><c> ^2</c><00:00:25.359><c> *</c><00:00:25.800><c> the</c><00:00:25.960><c> derivative</c><00:00:26.439><c> of</c><00:00:26.560><c> U</c><00:00:27.320><c> in</c>
+
+00:00:27.429 --> 00:00:27.439 align:start position:0%
+TK of 1 - U ^2 * the derivative of U in
+ 
+
+00:00:27.439 --> 00:00:32.069 align:start position:0%
+TK of 1 - U ^2 * the derivative of U in
+our<00:00:27.760><c> case</c><00:00:28.320><c> u</c><00:00:28.560><c> =</c><00:00:29.080><c> 1</c><00:00:29.359><c> -</c><00:00:29.679><c> 2</c><00:00:30.119><c> X</c><00:00:31.039><c> let's</c><00:00:31.320><c> substitute</c>
+
+00:00:32.069 --> 00:00:32.079 align:start position:0%
+our case u = 1 - 2 X let's substitute
+ 
+
+00:00:32.079 --> 00:00:35.830 align:start position:0%
+our case u = 1 - 2 X let's substitute
+this<00:00:32.399><c> into</c><00:00:32.719><c> our</c><00:00:33.200><c> formula</c><00:00:34.200><c> now</c><00:00:35.040><c> let's</c><00:00:35.360><c> find</c><00:00:35.640><c> the</c>
+
+00:00:35.830 --> 00:00:35.840 align:start position:0%
+this into our formula now let's find the
+ 
+
+00:00:35.840 --> 00:00:39.790 align:start position:0%
+this into our formula now let's find the
+derivative<00:00:36.480><c> of</c><00:00:36.640><c> U</c><00:00:37.440><c> with</c><00:00:37.640><c> respect</c><00:00:38.399><c> to</c><00:00:38.719><c> X</c><00:00:39.600><c> the</c>
+
+00:00:39.790 --> 00:00:39.800 align:start position:0%
+derivative of U with respect to X the
+ 
+
+00:00:39.800 --> 00:00:45.190 align:start position:0%
+derivative of U with respect to X the
+derivative<00:00:40.360><c> of</c><00:00:40.600><c> 1</c><00:00:40.920><c> -</c><00:00:41.480><c> 2x</c><00:00:42.480><c> is</c><00:00:43.239><c> -2</c><00:00:44.239><c> next</c><00:00:44.920><c> let's</c>
+
+00:00:45.190 --> 00:00:45.200 align:start position:0%
+derivative of 1 - 2x is -2 next let's
+ 
+
+00:00:45.200 --> 00:00:47.830 align:start position:0%
+derivative of 1 - 2x is -2 next let's
+expand<00:00:45.719><c> what's</c><00:00:46.120><c> inside</c><00:00:46.559><c> the</c><00:00:46.680><c> square</c><00:00:47.039><c> root</c>
+
+00:00:47.830 --> 00:00:47.840 align:start position:0%
+expand what's inside the square root
+ 
+
+00:00:47.840 --> 00:00:51.430 align:start position:0%
+expand what's inside the square root
+under<00:00:48.120><c> the</c><00:00:48.280><c> square</c><00:00:48.640><c> root</c><00:00:49.640><c> we</c><00:00:49.800><c> have</c><00:00:50.239><c> 1us</c><00:00:51.239><c> the</c>
+
+00:00:51.430 --> 00:00:51.440 align:start position:0%
+under the square root we have 1us the
+ 
+
+00:00:51.440 --> 00:00:53.389 align:start position:0%
+under the square root we have 1us the
+quantity<00:00:52.120><c> 1</c><00:00:52.440><c> -</c>
+
+00:00:53.389 --> 00:00:53.399 align:start position:0%
+quantity 1 -
+ 
+
+00:00:53.399 --> 00:00:57.389 align:start position:0%
+quantity 1 -
+2x^2<00:00:54.399><c> when</c><00:00:54.559><c> we</c><00:00:54.800><c> expand</c><00:00:55.359><c> this</c><00:00:55.840><c> we</c><00:00:56.039><c> get</c><00:00:56.399><c> 1us</c><00:00:57.239><c> the</c>
+
+00:00:57.389 --> 00:00:57.399 align:start position:0%
+2x^2 when we expand this we get 1us the
+ 
+
+00:00:57.399 --> 00:01:00.509 align:start position:0%
+2x^2 when we expand this we get 1us the
+quantity<00:00:58.320><c> 1</c><00:00:58.600><c> -</c><00:00:59.000><c> 4x</c><00:00:59.640><c> +</c>
+
+00:01:00.509 --> 00:01:00.519 align:start position:0%
+quantity 1 - 4x +
+ 
+
+00:01:00.519 --> 00:01:03.630 align:start position:0%
+quantity 1 - 4x +
+4x^2<00:01:01.519><c> let's</c><00:01:01.920><c> simplify</c><00:01:02.920><c> what's</c><00:01:03.160><c> under</c><00:01:03.480><c> the</c>
+
+00:01:03.630 --> 00:01:03.640 align:start position:0%
+4x^2 let's simplify what's under the
+ 
+
+00:01:03.640 --> 00:01:09.830 align:start position:0%
+4x^2 let's simplify what's under the
+square<00:01:03.960><c> root</c><00:01:04.839><c> 1</c><00:01:05.360><c> -</c><00:01:06.159><c> 1</c><00:01:06.520><c> +</c><00:01:06.880><c> 4x</c><00:01:07.520><c> -</c><00:01:08.200><c> 4x^2</c><00:01:09.200><c> simplifies</c>
+
+00:01:09.830 --> 00:01:09.840 align:start position:0%
+square root 1 - 1 + 4x - 4x^2 simplifies
+ 
+
+00:01:09.840 --> 00:01:11.789 align:start position:0%
+square root 1 - 1 + 4x - 4x^2 simplifies
+to<00:01:10.080><c> 4x</c><00:01:10.799><c> -</c>
+
+00:01:11.789 --> 00:01:11.799 align:start position:0%
+to 4x -
+ 
+
+00:01:11.799 --> 00:01:15.429 align:start position:0%
+to 4x -
+4x^2<00:01:12.799><c> now</c><00:01:13.080><c> we</c><00:01:13.200><c> can</c><00:01:13.479><c> factor</c><00:01:13.799><c> out</c><00:01:13.960><c> a</c><00:01:14.159><c> 4</c><00:01:15.159><c> from</c>
+
+00:01:15.429 --> 00:01:15.439 align:start position:0%
+4x^2 now we can factor out a 4 from
+ 
+
+00:01:15.439 --> 00:01:18.429 align:start position:0%
+4x^2 now we can factor out a 4 from
+under<00:01:15.720><c> the</c><00:01:15.960><c> square</c><00:01:16.240><c> root</c><00:01:17.080><c> the</c><00:01:17.360><c> square</c><00:01:17.799><c> &lt;</c><00:01:17.920><c> TK</c><00:01:18.200><c> of</c>
+
+00:01:18.429 --> 00:01:18.439 align:start position:0%
+under the square root the square &lt; TK of
+ 
+
+00:01:18.439 --> 00:01:26.230 align:start position:0%
+under the square root the square &lt; TK of
+4x<00:01:19.200><c> -</c><00:01:19.920><c> 4x^2</c><00:01:20.920><c> =</c><00:01:21.680><c> 2</c><00:01:22.040><c> *</c><00:01:22.560><c> the</c><00:01:23.119><c> &lt;</c><00:01:23.240><c> TK</c><00:01:23.479><c> of</c><00:01:23.799><c> x</c><00:01:24.320><c> -</c><00:01:25.240><c> x^2</c>
+
+00:01:26.230 --> 00:01:26.240 align:start position:0%
+4x - 4x^2 = 2 * the &lt; TK of x - x^2
+ 
+
+00:01:26.240 --> 00:01:28.630 align:start position:0%
+4x - 4x^2 = 2 * the &lt; TK of x - x^2
+finally<00:01:26.960><c> we</c><00:01:27.079><c> can</c><00:01:27.360><c> cancel</c><00:01:27.720><c> the</c><00:01:27.840><c> twos</c><00:01:28.320><c> in</c><00:01:28.439><c> the</c>
+
+00:01:28.630 --> 00:01:28.640 align:start position:0%
+finally we can cancel the twos in the
+ 
+
+00:01:28.640 --> 00:01:31.830 align:start position:0%
+finally we can cancel the twos in the
+numerator<00:01:29.520><c> and</c><00:01:30.200><c> denominator</c><00:01:31.200><c> this</c><00:01:31.439><c> gives</c><00:01:31.680><c> us</c>
+
+00:01:31.830 --> 00:01:31.840 align:start position:0%
+numerator and denominator this gives us
+ 
+
+00:01:31.840 --> 00:01:38.590 align:start position:0%
+numerator and denominator this gives us
+our<00:01:32.119><c> final</c><00:01:32.560><c> answer</c><00:01:33.840><c> 1/</c><00:01:34.840><c> &lt;</c><00:01:34.960><c> TK</c><00:01:35.640><c> x</c><00:01:36.520><c> -</c><00:01:37.320><c> x^2</c><00:01:38.320><c> to</c>
+
+00:01:38.590 --> 00:01:38.600 align:start position:0%
+our final answer 1/ &lt; TK x - x^2 to
+ 
+
+00:01:38.600 --> 00:01:40.830 align:start position:0%
+our final answer 1/ &lt; TK x - x^2 to
+verify<00:01:39.159><c> this</c><00:01:39.280><c> is</c><00:01:39.479><c> correct</c><00:01:39.960><c> we</c><00:01:40.079><c> can</c><00:01:40.280><c> check</c><00:01:40.600><c> that</c>
+
+00:01:40.830 --> 00:01:40.840 align:start position:0%
+verify this is correct we can check that
+ 
+
+00:01:40.840 --> 00:01:44.149 align:start position:0%
+verify this is correct we can check that
+we<00:01:41.680><c> used</c><00:01:42.079><c> the</c><00:01:42.240><c> chain</c><00:01:42.799><c> rule</c><00:01:43.240><c> correctly</c>
+
+00:01:44.149 --> 00:01:44.159 align:start position:0%
+we used the chain rule correctly
+ 
+
+00:01:44.159 --> 00:01:46.630 align:start position:0%
+we used the chain rule correctly
+expanded<00:01:44.680><c> the</c><00:01:44.880><c> squared</c><00:01:45.320><c> term</c><00:01:45.719><c> properly</c>
+
+00:01:46.630 --> 00:01:46.640 align:start position:0%
+expanded the squared term properly
+ 
+
+00:01:46.640 --> 00:01:48.670 align:start position:0%
+expanded the squared term properly
+simplifi<00:01:47.240><c> the</c><00:01:47.439><c> expression</c><00:01:47.880><c> under</c><00:01:48.159><c> the</c><00:01:48.320><c> square</c>
+
+00:01:48.670 --> 00:01:48.680 align:start position:0%
+simplifi the expression under the square
+ 
+
+00:01:48.680 --> 00:01:52.510 align:start position:0%
+simplifi the expression under the square
+root<00:01:49.560><c> and</c><00:01:49.880><c> cancel</c><00:01:50.320><c> common</c><00:01:50.759><c> factors</c><00:01:51.759><c> each</c><00:01:52.159><c> step</c>
+
+00:01:52.510 --> 00:01:52.520 align:start position:0%
+root and cancel common factors each step
+ 
+
+00:01:52.520 --> 00:01:55.149 align:start position:0%
+root and cancel common factors each step
+followed<00:01:53.200><c> logically</c><00:01:53.880><c> from</c><00:01:54.079><c> the</c><00:01:54.280><c> previous</c><00:01:54.680><c> one</c>
+
+00:01:55.149 --> 00:01:55.159 align:start position:0%
+followed logically from the previous one
+ 
+
+00:01:55.159 --> 00:01:59.600 align:start position:0%
+followed logically from the previous one
+leading<00:01:55.520><c> us</c><00:01:55.719><c> to</c><00:01:55.920><c> our</c><00:01:56.200><c> final</c><00:01:56.600><c> answer</c>
+

@@ -1,0 +1,216 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.210 align:start position:0%
+ 
+let's<00:00:00.539><c> plot</c><00:00:00.900><c> the</c><00:00:01.020><c> function</c><00:00:01.260><c> f</c><00:00:01.560><c> of</c><00:00:01.680><c> x</c><00:00:01.860><c> equals</c>
+
+00:00:02.210 --> 00:00:02.220 align:start position:0%
+let's plot the function f of x equals
+ 
+
+00:00:02.220 --> 00:00:06.530 align:start position:0%
+let's plot the function f of x equals
+sine<00:00:02.460><c> of</c><00:00:02.639><c> X</c><00:00:02.820><c> on</c><00:00:03.060><c> this</c><00:00:03.300><c> axis</c><00:00:03.720><c> below</c>
+
+00:00:06.530 --> 00:00:06.540 align:start position:0%
+ 
+ 
+
+00:00:06.540 --> 00:00:08.750 align:start position:0%
+ 
+we<00:00:07.020><c> notice</c><00:00:07.259><c> that</c><00:00:07.379><c> if</c><00:00:07.500><c> we</c><00:00:07.680><c> plot</c><00:00:07.980><c> a</c><00:00:08.160><c> point</c><00:00:08.340><c> on</c>
+
+00:00:08.750 --> 00:00:08.760 align:start position:0%
+we notice that if we plot a point on
+ 
+
+00:00:08.760 --> 00:00:10.730 align:start position:0%
+we notice that if we plot a point on
+this<00:00:09.000><c> curve</c><00:00:09.480><c> we</c><00:00:09.960><c> can</c><00:00:10.080><c> draw</c><00:00:10.260><c> the</c><00:00:10.500><c> linear</c>
+
+00:00:10.730 --> 00:00:10.740 align:start position:0%
+this curve we can draw the linear
+ 
+
+00:00:10.740 --> 00:00:12.650 align:start position:0%
+this curve we can draw the linear
+approximation<00:00:11.400><c> or</c><00:00:11.700><c> the</c><00:00:11.820><c> tangent</c><00:00:12.179><c> line</c><00:00:12.360><c> to</c><00:00:12.540><c> the</c>
+
+00:00:12.650 --> 00:00:12.660 align:start position:0%
+approximation or the tangent line to the
+ 
+
+00:00:12.660 --> 00:00:14.629 align:start position:0%
+approximation or the tangent line to the
+curve<00:00:12.960><c> and</c><00:00:13.380><c> we</c><00:00:13.500><c> can</c><00:00:13.620><c> compute</c><00:00:13.980><c> the</c><00:00:14.219><c> slope</c><00:00:14.460><c> of</c>
+
+00:00:14.629 --> 00:00:14.639 align:start position:0%
+curve and we can compute the slope of
+ 
+
+00:00:14.639 --> 00:00:16.250 align:start position:0%
+curve and we can compute the slope of
+this<00:00:14.820><c> tangent</c><00:00:15.179><c> line</c>
+
+00:00:16.250 --> 00:00:16.260 align:start position:0%
+this tangent line
+ 
+
+00:00:16.260 --> 00:00:18.290 align:start position:0%
+this tangent line
+we<00:00:16.619><c> can</c><00:00:16.740><c> then</c><00:00:16.859><c> move</c><00:00:17.160><c> the</c><00:00:17.520><c> point</c><00:00:17.699><c> along</c><00:00:18.000><c> the</c>
+
+00:00:18.290 --> 00:00:18.300 align:start position:0%
+we can then move the point along the
+ 
+
+00:00:18.300 --> 00:00:20.150 align:start position:0%
+we can then move the point along the
+curve<00:00:18.600><c> and</c><00:00:18.779><c> we</c><00:00:18.960><c> note</c><00:00:19.140><c> that</c><00:00:19.440><c> the</c><00:00:19.619><c> slope</c><00:00:19.800><c> of</c><00:00:19.980><c> the</c>
+
+00:00:20.150 --> 00:00:20.160 align:start position:0%
+curve and we note that the slope of the
+ 
+
+00:00:20.160 --> 00:00:22.070 align:start position:0%
+curve and we note that the slope of the
+corresponding<00:00:20.640><c> tangent</c><00:00:21.060><c> line</c><00:00:21.240><c> changes</c><00:00:21.779><c> as</c><00:00:21.900><c> we</c>
+
+00:00:22.070 --> 00:00:22.080 align:start position:0%
+corresponding tangent line changes as we
+ 
+
+00:00:22.080 --> 00:00:24.769 align:start position:0%
+corresponding tangent line changes as we
+move<00:00:22.260><c> the</c><00:00:22.500><c> point</c><00:00:22.740><c> we</c><00:00:23.699><c> can</c><00:00:23.880><c> see</c><00:00:24.119><c> that</c><00:00:24.359><c> the</c><00:00:24.539><c> slope</c>
+
+00:00:24.769 --> 00:00:24.779 align:start position:0%
+move the point we can see that the slope
+ 
+
+00:00:24.779 --> 00:00:26.509 align:start position:0%
+move the point we can see that the slope
+of<00:00:24.900><c> the</c><00:00:25.080><c> tangent</c><00:00:25.380><c> line</c><00:00:25.560><c> ranges</c><00:00:26.160><c> between</c>
+
+00:00:26.509 --> 00:00:26.519 align:start position:0%
+of the tangent line ranges between
+ 
+
+00:00:26.519 --> 00:00:29.330 align:start position:0%
+of the tangent line ranges between
+negative<00:00:27.180><c> one</c><00:00:27.359><c> and</c><00:00:27.599><c> one</c><00:00:27.900><c> in</c><00:00:28.260><c> this</c><00:00:28.380><c> picture</c>
+
+00:00:29.330 --> 00:00:29.340 align:start position:0%
+negative one and one in this picture
+ 
+
+00:00:29.340 --> 00:00:31.849 align:start position:0%
+negative one and one in this picture
+so<00:00:29.820><c> let's</c><00:00:30.000><c> take</c><00:00:30.180><c> this</c><00:00:30.420><c> one</c><00:00:30.599><c> step</c><00:00:30.840><c> further</c><00:00:31.260><c> and</c>
+
+00:00:31.849 --> 00:00:31.859 align:start position:0%
+so let's take this one step further and
+ 
+
+00:00:31.859 --> 00:00:33.350 align:start position:0%
+so let's take this one step further and
+let's<00:00:32.040><c> plot</c><00:00:32.399><c> the</c><00:00:32.579><c> slopes</c><00:00:32.820><c> of</c><00:00:33.000><c> the</c><00:00:33.059><c> tangent</c>
+
+00:00:33.350 --> 00:00:33.360 align:start position:0%
+let's plot the slopes of the tangent
+ 
+
+00:00:33.360 --> 00:00:36.290 align:start position:0%
+let's plot the slopes of the tangent
+lines<00:00:33.600><c> on</c><00:00:33.899><c> a</c><00:00:34.020><c> separate</c><00:00:34.320><c> axis</c><00:00:34.860><c> system</c><00:00:35.120><c> as</c><00:00:36.120><c> we</c>
+
+00:00:36.290 --> 00:00:36.300 align:start position:0%
+lines on a separate axis system as we
+ 
+
+00:00:36.300 --> 00:00:38.569 align:start position:0%
+lines on a separate axis system as we
+move<00:00:36.540><c> the</c><00:00:36.960><c> point</c><00:00:37.200><c> along</c><00:00:37.559><c> the</c><00:00:37.800><c> curve</c><00:00:38.040><c> f</c><00:00:38.280><c> of</c><00:00:38.460><c> x</c>
+
+00:00:38.569 --> 00:00:38.579 align:start position:0%
+move the point along the curve f of x
+ 
+
+00:00:38.579 --> 00:00:40.970 align:start position:0%
+move the point along the curve f of x
+equals<00:00:38.940><c> sine</c><00:00:39.180><c> X</c><00:00:39.360><c> we</c><00:00:39.960><c> map</c><00:00:40.140><c> out</c><00:00:40.320><c> the</c><00:00:40.559><c> slopes</c><00:00:40.860><c> of</c>
+
+00:00:40.970 --> 00:00:40.980 align:start position:0%
+equals sine X we map out the slopes of
+ 
+
+00:00:40.980 --> 00:00:42.950 align:start position:0%
+equals sine X we map out the slopes of
+the<00:00:41.100><c> tangent</c><00:00:41.399><c> lines</c><00:00:41.700><c> on</c><00:00:42.120><c> the</c><00:00:42.300><c> second</c><00:00:42.420><c> axis</c>
+
+00:00:42.950 --> 00:00:42.960 align:start position:0%
+the tangent lines on the second axis
+ 
+
+00:00:42.960 --> 00:00:43.970 align:start position:0%
+the tangent lines on the second axis
+below
+
+00:00:43.970 --> 00:00:43.980 align:start position:0%
+below
+ 
+
+00:00:43.980 --> 00:00:46.130 align:start position:0%
+below
+it<00:00:44.460><c> turns</c><00:00:44.760><c> out</c><00:00:44.879><c> and</c><00:00:45.120><c> you</c><00:00:45.360><c> can</c><00:00:45.420><c> see</c><00:00:45.600><c> it</c><00:00:45.780><c> visually</c>
+
+00:00:46.130 --> 00:00:46.140 align:start position:0%
+it turns out and you can see it visually
+ 
+
+00:00:46.140 --> 00:00:49.369 align:start position:0%
+it turns out and you can see it visually
+that<00:00:46.920><c> the</c><00:00:47.160><c> slope</c><00:00:47.460><c> function</c><00:00:47.879><c> of</c><00:00:48.480><c> f</c><00:00:48.719><c> of</c><00:00:48.899><c> x</c><00:00:49.079><c> equals</c>
+
+00:00:49.369 --> 00:00:49.379 align:start position:0%
+that the slope function of f of x equals
+ 
+
+00:00:49.379 --> 00:00:51.590 align:start position:0%
+that the slope function of f of x equals
+sine<00:00:49.620><c> X</c><00:00:49.800><c> is</c><00:00:50.340><c> the</c><00:00:50.520><c> function</c><00:00:50.760><c> f</c><00:00:51.059><c> Prime</c><00:00:51.239><c> of</c><00:00:51.480><c> x</c>
+
+00:00:51.590 --> 00:00:51.600 align:start position:0%
+sine X is the function f Prime of x
+ 
+
+00:00:51.600 --> 00:00:53.810 align:start position:0%
+sine X is the function f Prime of x
+equals<00:00:51.960><c> cosine</c><00:00:52.320><c> X</c><00:00:52.559><c> to</c><00:00:53.039><c> prove</c><00:00:53.280><c> this</c><00:00:53.460><c> requires</c>
+
+00:00:53.810 --> 00:00:53.820 align:start position:0%
+equals cosine X to prove this requires
+ 
+
+00:00:53.820 --> 00:00:55.369 align:start position:0%
+equals cosine X to prove this requires
+more<00:00:54.059><c> work</c><00:00:54.239><c> but</c><00:00:54.539><c> this</c><00:00:54.660><c> is</c><00:00:54.780><c> a</c><00:00:54.960><c> nice</c><00:00:55.079><c> visual</c>
+
+00:00:55.369 --> 00:00:55.379 align:start position:0%
+more work but this is a nice visual
+ 
+
+00:00:55.379 --> 00:00:56.810 align:start position:0%
+more work but this is a nice visual
+representation<00:00:55.860><c> of</c><00:00:56.160><c> the</c><00:00:56.340><c> fact</c><00:00:56.460><c> that</c><00:00:56.640><c> the</c>
+
+00:00:56.810 --> 00:00:56.820 align:start position:0%
+representation of the fact that the
+ 
+
+00:00:56.820 --> 00:01:00.079 align:start position:0%
+representation of the fact that the
+derivative<00:00:57.120><c> of</c><00:00:57.360><c> sine</c><00:00:57.600><c> is</c><00:00:57.719><c> cosine</c>
+

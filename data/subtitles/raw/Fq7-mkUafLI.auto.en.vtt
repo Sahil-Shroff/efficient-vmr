@@ -1,0 +1,112 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:01.969 align:start position:0%
+ 
+created<00:00:00.539><c> ternary</c><00:00:00.960><c> branching</c><00:00:01.439><c> tree</c><00:00:01.620><c> by</c>
+
+00:00:01.969 --> 00:00:01.979 align:start position:0%
+created ternary branching tree by
+ 
+
+00:00:01.979 --> 00:00:03.230 align:start position:0%
+created ternary branching tree by
+starting<00:00:02.159><c> with</c><00:00:02.340><c> a</c><00:00:02.520><c> line</c><00:00:02.639><c> segment</c><00:00:02.940><c> of</c><00:00:03.120><c> unit</c>
+
+00:00:03.230 --> 00:00:03.240 align:start position:0%
+starting with a line segment of unit
+ 
+
+00:00:03.240 --> 00:00:05.749 align:start position:0%
+starting with a line segment of unit
+length<00:00:03.740><c> scaling</c><00:00:04.740><c> the</c><00:00:04.860><c> line</c><00:00:04.980><c> segment</c><00:00:05.339><c> by</c><00:00:05.580><c> a</c>
+
+00:00:05.749 --> 00:00:05.759 align:start position:0%
+length scaling the line segment by a
+ 
+
+00:00:05.759 --> 00:00:07.849 align:start position:0%
+length scaling the line segment by a
+half<00:00:05.880><c> and</c><00:00:06.299><c> rotating</c><00:00:06.540><c> by</c><00:00:06.779><c> the</c><00:00:06.899><c> multiples</c><00:00:07.259><c> of</c><00:00:07.680><c> 2</c>
+
+00:00:07.849 --> 00:00:07.859 align:start position:0%
+half and rotating by the multiples of 2
+ 
+
+00:00:07.859 --> 00:00:10.129 align:start position:0%
+half and rotating by the multiples of 2
+pi<00:00:08.160><c> over</c><00:00:08.280><c> three</c><00:00:08.519><c> repeat</c><00:00:09.240><c> this</c><00:00:09.599><c> scaling</c><00:00:10.019><c> and</c>
+
+00:00:10.129 --> 00:00:10.139 align:start position:0%
+pi over three repeat this scaling and
+ 
+
+00:00:10.139 --> 00:00:11.870 align:start position:0%
+pi over three repeat this scaling and
+rotating<00:00:10.440><c> process</c><00:00:10.800><c> for</c><00:00:11.160><c> each</c><00:00:11.340><c> new</c><00:00:11.519><c> set</c><00:00:11.700><c> of</c>
+
+00:00:11.870 --> 00:00:11.880 align:start position:0%
+rotating process for each new set of
+ 
+
+00:00:11.880 --> 00:00:13.370 align:start position:0%
+rotating process for each new set of
+branches
+
+00:00:13.370 --> 00:00:13.380 align:start position:0%
+branches
+ 
+
+00:00:13.380 --> 00:00:15.709 align:start position:0%
+branches
+if<00:00:13.799><c> we</c><00:00:13.920><c> continue</c><00:00:14.099><c> this</c><00:00:14.519><c> process</c><00:00:14.820><c> for</c><00:00:15.420><c> as</c><00:00:15.599><c> long</c>
+
+00:00:15.709 --> 00:00:15.719 align:start position:0%
+if we continue this process for as long
+ 
+
+00:00:15.719 --> 00:00:18.290 align:start position:0%
+if we continue this process for as long
+as<00:00:15.839><c> we</c><00:00:16.139><c> can</c><00:00:16.320><c> and</c><00:00:16.920><c> eventually</c><00:00:17.220><c> remove</c><00:00:17.580><c> all</c><00:00:18.060><c> but</c>
+
+00:00:18.290 --> 00:00:18.300 align:start position:0%
+as we can and eventually remove all but
+ 
+
+00:00:18.300 --> 00:00:20.330 align:start position:0%
+as we can and eventually remove all but
+the<00:00:18.539><c> last</c><00:00:18.720><c> level</c><00:00:18.960><c> of</c><00:00:19.260><c> the</c><00:00:19.500><c> leaves</c><00:00:19.800><c> you</c><00:00:20.220><c> should</c>
+
+00:00:20.330 --> 00:00:20.340 align:start position:0%
+the last level of the leaves you should
+ 
+
+00:00:20.340 --> 00:00:22.910 align:start position:0%
+the last level of the leaves you should
+see<00:00:20.520><c> an</c><00:00:20.699><c> interesting</c><00:00:21.060><c> shape</c><00:00:21.359><c> appear</c>
+
+00:00:22.910 --> 00:00:22.920 align:start position:0%
+see an interesting shape appear
+ 
+
+00:00:22.920 --> 00:00:24.950 align:start position:0%
+see an interesting shape appear
+to<00:00:23.400><c> see</c><00:00:23.520><c> other</c><00:00:23.760><c> amazing</c><00:00:24.180><c> ways</c><00:00:24.539><c> to</c><00:00:24.720><c> construct</c>
+
+00:00:24.950 --> 00:00:24.960 align:start position:0%
+to see other amazing ways to construct
+ 
+
+00:00:24.960 --> 00:00:26.870 align:start position:0%
+to see other amazing ways to construct
+the<00:00:25.140><c> sierpinski</c><00:00:25.680><c> triangle</c><00:00:26.160><c> check</c><00:00:26.519><c> the</c><00:00:26.699><c> video</c>
+
+00:00:26.870 --> 00:00:26.880 align:start position:0%
+the sierpinski triangle check the video
+ 
+
+00:00:26.880 --> 00:00:29.900 align:start position:0%
+the sierpinski triangle check the video
+that's<00:00:27.119><c> Linked</c><00:00:27.420><c> In</c><00:00:27.539><c> the</c><00:00:27.660><c> description</c>
+

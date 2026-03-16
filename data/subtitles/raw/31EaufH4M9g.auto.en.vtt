@@ -1,0 +1,720 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.040 --> 00:00:01.470 align:start position:0%
+ 
+hey<00:00:00.160><c> guys</c><00:00:00.320><c> this</c><00:00:00.399><c> looked</c><00:00:00.640><c> like</c><00:00:00.719><c> a</c><00:00:00.840><c> fun</c><00:00:01.079><c> one</c><00:00:01.360><c> it's</c>
+
+00:00:01.470 --> 00:00:01.480 align:start position:0%
+hey guys this looked like a fun one it's
+ 
+
+00:00:01.480 --> 00:00:03.230 align:start position:0%
+hey guys this looked like a fun one it's
+a<00:00:01.640><c> lot</c><00:00:01.800><c> more</c><00:00:02.000><c> work</c><00:00:02.280><c> than</c><00:00:02.399><c> I</c><00:00:02.480><c> was</c><00:00:02.679><c> expecting</c><00:00:03.080><c> it</c>
+
+00:00:03.230 --> 00:00:03.240 align:start position:0%
+a lot more work than I was expecting it
+ 
+
+00:00:03.240 --> 00:00:05.110 align:start position:0%
+a lot more work than I was expecting it
+to<00:00:03.360><c> be</c><00:00:03.719><c> we're</c><00:00:03.879><c> trying</c><00:00:04.120><c> to</c><00:00:04.240><c> find</c><00:00:04.440><c> the</c><00:00:04.600><c> area</c><00:00:04.920><c> of</c>
+
+00:00:05.110 --> 00:00:05.120 align:start position:0%
+to be we're trying to find the area of
+ 
+
+00:00:05.120 --> 00:00:07.150 align:start position:0%
+to be we're trying to find the area of
+this<00:00:05.319><c> orange</c><00:00:05.879><c> triangle</c><00:00:06.680><c> if</c><00:00:06.759><c> you</c><00:00:06.839><c> want</c><00:00:06.919><c> to</c><00:00:07.040><c> try</c>
+
+00:00:07.150 --> 00:00:07.160 align:start position:0%
+this orange triangle if you want to try
+ 
+
+00:00:07.160 --> 00:00:08.709 align:start position:0%
+this orange triangle if you want to try
+it<00:00:07.240><c> on</c><00:00:07.359><c> your</c><00:00:07.439><c> own</c><00:00:07.680><c> pause</c><00:00:07.919><c> it</c><00:00:08.200><c> right</c><00:00:08.360><c> now</c><00:00:08.559><c> cuz</c>
+
+00:00:08.709 --> 00:00:08.719 align:start position:0%
+it on your own pause it right now cuz
+ 
+
+00:00:08.719 --> 00:00:11.669 align:start position:0%
+it on your own pause it right now cuz
+I'm<00:00:08.800><c> going</c><00:00:08.920><c> to</c><00:00:09.040><c> solve</c><00:00:09.280><c> it</c><00:00:09.440><c> in</c><00:00:09.639><c> 3</c><00:00:10.240><c> 2</c><00:00:10.840><c> 1</c><00:00:11.360><c> we</c><00:00:11.480><c> know</c>
+
+00:00:11.669 --> 00:00:11.679 align:start position:0%
+I'm going to solve it in 3 2 1 we know
+ 
+
+00:00:11.679 --> 00:00:13.430 align:start position:0%
+I'm going to solve it in 3 2 1 we know
+the<00:00:11.840><c> three</c><00:00:12.080><c> sides</c><00:00:12.320><c> of</c><00:00:12.480><c> this</c><00:00:12.639><c> golden</c><00:00:13.080><c> yellow</c>
+
+00:00:13.430 --> 00:00:13.440 align:start position:0%
+the three sides of this golden yellow
+ 
+
+00:00:13.440 --> 00:00:15.509 align:start position:0%
+the three sides of this golden yellow
+triangle<00:00:13.920><c> I</c><00:00:14.000><c> want</c><00:00:14.080><c> to</c><00:00:14.200><c> find</c><00:00:14.400><c> the</c><00:00:14.559><c> area</c><00:00:14.879><c> of</c><00:00:15.080><c> it</c>
+
+00:00:15.509 --> 00:00:15.519 align:start position:0%
+triangle I want to find the area of it
+ 
+
+00:00:15.519 --> 00:00:17.510 align:start position:0%
+triangle I want to find the area of it
+first<00:00:16.160><c> and</c><00:00:16.279><c> we</c><00:00:16.359><c> can</c><00:00:16.480><c> do</c><00:00:16.640><c> that</c><00:00:16.760><c> with</c><00:00:16.960><c> Heron's</c>
+
+00:00:17.510 --> 00:00:17.520 align:start position:0%
+first and we can do that with Heron's
+ 
+
+00:00:17.520 --> 00:00:19.710 align:start position:0%
+first and we can do that with Heron's
+formula<00:00:18.119><c> it</c><00:00:18.279><c> uses</c><00:00:18.600><c> the</c><00:00:18.800><c> semi-perimeter</c><00:00:19.359><c> which</c>
+
+00:00:19.710 --> 00:00:19.720 align:start position:0%
+formula it uses the semi-perimeter which
+ 
+
+00:00:19.720 --> 00:00:21.550 align:start position:0%
+formula it uses the semi-perimeter which
+is<00:00:20.000><c> half</c><00:00:20.160><c> of</c><00:00:20.320><c> the</c><00:00:20.480><c> perimeter</c><00:00:21.240><c> and</c><00:00:21.320><c> then</c><00:00:21.439><c> you</c>
+
+00:00:21.550 --> 00:00:21.560 align:start position:0%
+is half of the perimeter and then you
+ 
+
+00:00:21.560 --> 00:00:23.230 align:start position:0%
+is half of the perimeter and then you
+just<00:00:21.720><c> plug</c><00:00:21.960><c> it</c><00:00:22.080><c> into</c><00:00:22.359><c> this</c><00:00:22.519><c> formula</c><00:00:23.039><c> right</c>
+
+00:00:23.230 --> 00:00:23.240 align:start position:0%
+just plug it into this formula right
+ 
+
+00:00:23.240 --> 00:00:25.150 align:start position:0%
+just plug it into this formula right
+here<00:00:23.599><c> so</c><00:00:23.760><c> let's</c><00:00:24.000><c> do</c><00:00:24.119><c> it</c><00:00:24.240><c> for</c><00:00:24.400><c> our</c><00:00:24.720><c> Golden</c>
+
+00:00:25.150 --> 00:00:25.160 align:start position:0%
+here so let's do it for our Golden
+ 
+
+00:00:25.160 --> 00:00:27.150 align:start position:0%
+here so let's do it for our Golden
+Triangle<00:00:25.920><c> for</c><00:00:26.119><c> a</c><00:00:26.279><c> b</c><00:00:26.480><c> and</c><00:00:26.599><c> c</c><00:00:26.840><c> we're</c><00:00:26.960><c> going</c><00:00:27.039><c> to</c>
+
+00:00:27.150 --> 00:00:27.160 align:start position:0%
+Triangle for a b and c we're going to
+ 
+
+00:00:27.160 --> 00:00:30.710 align:start position:0%
+Triangle for a b and c we're going to
+plug<00:00:27.359><c> in</c><00:00:27.480><c> the</c><00:00:27.679><c> sides</c><00:00:27.920><c> 8</c><00:00:28.199><c> 4</c><00:00:28.480><c> and</c><00:00:28.679><c> 6</c><00:00:29.240><c> and</c><00:00:29.320><c> 8+</c><00:00:29.679><c> 4</c><00:00:30.119><c> 6</c><00:00:30.279><c> /</c>
+
+00:00:30.710 --> 00:00:30.720 align:start position:0%
+plug in the sides 8 4 and 6 and 8+ 4 6 /
+ 
+
+00:00:30.720 --> 00:00:33.229 align:start position:0%
+plug in the sides 8 4 and 6 and 8+ 4 6 /
+2<00:00:30.960><c> is</c><00:00:31.119><c> equal</c><00:00:31.400><c> to</c><00:00:31.599><c> 9</c><00:00:32.200><c> so</c><00:00:32.360><c> in</c><00:00:32.480><c> the</c><00:00:32.640><c> place</c><00:00:32.800><c> of</c><00:00:33.040><c> all</c>
+
+00:00:33.229 --> 00:00:33.239 align:start position:0%
+2 is equal to 9 so in the place of all
+ 
+
+00:00:33.239 --> 00:00:35.630 align:start position:0%
+2 is equal to 9 so in the place of all
+these<00:00:33.480><c> s's</c><00:00:34.000><c> I'm</c><00:00:34.120><c> going</c><00:00:34.200><c> to</c><00:00:34.360><c> plug</c><00:00:34.600><c> in</c><00:00:34.840><c> 9</c><00:00:35.559><c> and</c>
+
+00:00:35.630 --> 00:00:35.640 align:start position:0%
+these s's I'm going to plug in 9 and
+ 
+
+00:00:35.640 --> 00:00:37.750 align:start position:0%
+these s's I'm going to plug in 9 and
+then<00:00:35.760><c> we'll</c><00:00:35.920><c> plug</c><00:00:36.120><c> in</c><00:00:36.239><c> 8</c><00:00:36.520><c> for</c><00:00:36.680><c> the</c><00:00:36.840><c> a</c><00:00:37.239><c> four</c><00:00:37.559><c> for</c>
+
+00:00:37.750 --> 00:00:37.760 align:start position:0%
+then we'll plug in 8 for the a four for
+ 
+
+00:00:37.760 --> 00:00:40.069 align:start position:0%
+then we'll plug in 8 for the a four for
+the<00:00:37.960><c> B</c><00:00:38.360><c> and</c><00:00:38.559><c> 6</c><00:00:38.800><c> for</c><00:00:39.000><c> the</c><00:00:39.120><c> C</c><00:00:39.719><c> and</c><00:00:39.840><c> we</c><00:00:39.920><c> can</c>
+
+00:00:40.069 --> 00:00:40.079 align:start position:0%
+the B and 6 for the C and we can
+ 
+
+00:00:40.079 --> 00:00:41.750 align:start position:0%
+the B and 6 for the C and we can
+simplify<00:00:40.600><c> this</c><00:00:40.800><c> we</c><00:00:40.879><c> can</c><00:00:41.000><c> bring</c><00:00:41.200><c> down</c><00:00:41.360><c> the</c><00:00:41.480><c> 9</c>
+
+00:00:41.750 --> 00:00:41.760 align:start position:0%
+simplify this we can bring down the 9
+ 
+
+00:00:41.760 --> 00:00:44.470 align:start position:0%
+simplify this we can bring down the 9
+and<00:00:41.920><c> all</c><00:00:42.079><c> the</c><00:00:42.320><c> parentheses</c><00:00:43.320><c> 9</c><00:00:43.600><c> -</c><00:00:43.879><c> 8</c><00:00:44.120><c> is</c><00:00:44.239><c> equal</c>
+
+00:00:44.470 --> 00:00:44.480 align:start position:0%
+and all the parentheses 9 - 8 is equal
+ 
+
+00:00:44.480 --> 00:00:47.990 align:start position:0%
+and all the parentheses 9 - 8 is equal
+to<00:00:44.640><c> 1</c><00:00:45.000><c> 9</c><00:00:45.239><c> -</c><00:00:45.520><c> 4</c><00:00:45.879><c> is</c><00:00:46.039><c> equal</c><00:00:46.280><c> to</c><00:00:46.440><c> 5</c><00:00:46.800><c> 9</c><00:00:47.039><c> -</c><00:00:47.360><c> 6</c><00:00:47.640><c> is</c><00:00:47.760><c> equal</c>
+
+00:00:47.990 --> 00:00:48.000 align:start position:0%
+to 1 9 - 4 is equal to 5 9 - 6 is equal
+ 
+
+00:00:48.000 --> 00:00:50.310 align:start position:0%
+to 1 9 - 4 is equal to 5 9 - 6 is equal
+to<00:00:48.160><c> 3</c><00:00:48.640><c> so</c><00:00:48.800><c> this</c><00:00:48.879><c> will</c><00:00:49.079><c> equal</c><00:00:49.320><c> theare</c><00:00:49.680><c> &lt;</c><00:00:49.800><c> TK</c><00:00:49.920><c> of</c><00:00:50.039><c> 9</c>
+
+00:00:50.310 --> 00:00:50.320 align:start position:0%
+to 3 so this will equal theare &lt; TK of 9
+ 
+
+00:00:50.320 --> 00:00:52.910 align:start position:0%
+to 3 so this will equal theare &lt; TK of 9
+*<00:00:50.840><c> 15</c><00:00:51.520><c> and</c><00:00:51.600><c> we</c><00:00:51.719><c> can</c><00:00:51.840><c> split</c><00:00:52.079><c> this</c><00:00:52.199><c> up</c><00:00:52.359><c> into</c><00:00:52.600><c> two</c>
+
+00:00:52.910 --> 00:00:52.920 align:start position:0%
+* 15 and we can split this up into two
+ 
+
+00:00:52.920 --> 00:00:56.189 align:start position:0%
+* 15 and we can split this up into two
+separate<00:00:53.280><c> square</c><00:00:53.559><c> roots</c><00:00:54.120><c> &gt;</c><00:00:54.359><c> of</c><00:00:54.440><c> 9</c><00:00:54.640><c> *</c><00:00:55.079><c> &gt;</c><00:00:55.440><c> 15</c><00:00:56.120><c> and</c>
+
+00:00:56.189 --> 00:00:56.199 align:start position:0%
+separate square roots &gt; of 9 * &gt; 15 and
+ 
+
+00:00:56.199 --> 00:00:58.509 align:start position:0%
+separate square roots &gt; of 9 * &gt; 15 and
+theun<00:00:56.719><c> of</c><00:00:56.800><c> 9</c><00:00:57.000><c> is</c><00:00:57.120><c> equal</c><00:00:57.359><c> to</c><00:00:57.520><c> 3</c><00:00:57.800><c> so</c><00:00:57.960><c> the</c><00:00:58.120><c> area</c><00:00:58.359><c> of</c>
+
+00:00:58.509 --> 00:00:58.519 align:start position:0%
+theun of 9 is equal to 3 so the area of
+ 
+
+00:00:58.519 --> 00:01:01.509 align:start position:0%
+theun of 9 is equal to 3 so the area of
+this<00:00:58.680><c> triangle</c><00:00:59.199><c> is</c><00:00:59.359><c> 3un</c><00:01:00.199><c> 15</c><00:01:01.039><c> but</c><00:01:01.160><c> the</c><00:01:01.239><c> area</c><00:01:01.440><c> of</c>
+
+00:01:01.509 --> 00:01:01.519 align:start position:0%
+this triangle is 3un 15 but the area of
+ 
+
+00:01:01.519 --> 00:01:03.630 align:start position:0%
+this triangle is 3un 15 but the area of
+a<00:01:01.600><c> triangle</c><00:01:01.960><c> is</c><00:01:02.160><c> also</c><00:01:02.440><c> equal</c><00:01:02.680><c> to/</c><00:01:03.079><c> 12</c><00:01:03.320><c> base</c>
+
+00:01:03.630 --> 00:01:03.640 align:start position:0%
+a triangle is also equal to/ 12 base
+ 
+
+00:01:03.640 --> 00:01:05.189 align:start position:0%
+a triangle is also equal to/ 12 base
+time<00:01:03.920><c> height</c><00:01:04.199><c> where</c><00:01:04.439><c> this</c><00:01:04.559><c> is</c><00:01:04.720><c> the</c><00:01:04.879><c> height</c><00:01:05.080><c> of</c>
+
+00:01:05.189 --> 00:01:05.199 align:start position:0%
+time height where this is the height of
+ 
+
+00:01:05.199 --> 00:01:07.429 align:start position:0%
+time height where this is the height of
+the<00:01:05.360><c> triangle</c><00:01:05.920><c> right</c><00:01:06.119><c> here</c><00:01:06.720><c> so</c><00:01:07.040><c> this</c><00:01:07.200><c> will</c>
+
+00:01:07.429 --> 00:01:07.439 align:start position:0%
+the triangle right here so this will
+ 
+
+00:01:07.439 --> 00:01:10.550 align:start position:0%
+the triangle right here so this will
+also<00:01:07.680><c> equal</c><00:01:08.080><c> 3un</c><00:01:08.720><c> 15</c><00:01:09.360><c> b</c><00:01:09.640><c> stands</c><00:01:09.920><c> for</c><00:01:10.080><c> the</c><00:01:10.240><c> base</c>
+
+00:01:10.550 --> 00:01:10.560 align:start position:0%
+also equal 3un 15 b stands for the base
+ 
+
+00:01:10.560 --> 00:01:12.070 align:start position:0%
+also equal 3un 15 b stands for the base
+and<00:01:10.680><c> the</c><00:01:10.840><c> base</c><00:01:11.040><c> of</c><00:01:11.159><c> this</c><00:01:11.320><c> triangle</c><00:01:11.680><c> is</c><00:01:11.840><c> equal</c>
+
+00:01:12.070 --> 00:01:12.080 align:start position:0%
+and the base of this triangle is equal
+ 
+
+00:01:12.080 --> 00:01:15.390 align:start position:0%
+and the base of this triangle is equal
+to<00:01:12.360><c> 6</c><00:01:13.000><c> and</c><00:01:13.119><c> then</c><00:01:13.280><c> 1</c><00:01:13.520><c> 12</c><00:01:13.720><c> *</c><00:01:14.040><c> 6</c><00:01:14.320><c> is</c><00:01:14.479><c> equal</c><00:01:14.720><c> to</c><00:01:14.880><c> 3</c><00:01:15.280><c> and</c>
+
+00:01:15.390 --> 00:01:15.400 align:start position:0%
+to 6 and then 1 12 * 6 is equal to 3 and
+ 
+
+00:01:15.400 --> 00:01:17.310 align:start position:0%
+to 6 and then 1 12 * 6 is equal to 3 and
+after<00:01:15.560><c> we</c><00:01:15.680><c> divide</c><00:01:16.040><c> both</c><00:01:16.200><c> sides</c><00:01:16.520><c> by</c><00:01:16.680><c> three</c><00:01:17.200><c> we</c>
+
+00:01:17.310 --> 00:01:17.320 align:start position:0%
+after we divide both sides by three we
+ 
+
+00:01:17.320 --> 00:01:19.950 align:start position:0%
+after we divide both sides by three we
+get<00:01:17.479><c> H</c><00:01:17.759><c> is</c><00:01:17.960><c> equal</c><00:01:18.240><c> to</c><00:01:18.479><c> theare</c><00:01:18.840><c> &lt;</c><00:01:18.960><c> TK</c><00:01:19.080><c> of</c><00:01:19.240><c> 15</c><00:01:19.840><c> and</c>
+
+00:01:19.950 --> 00:01:19.960 align:start position:0%
+get H is equal to theare &lt; TK of 15 and
+ 
+
+00:01:19.960 --> 00:01:21.749 align:start position:0%
+get H is equal to theare &lt; TK of 15 and
+we<00:01:20.040><c> can</c><00:01:20.200><c> update</c><00:01:20.560><c> this</c><00:01:20.720><c> H</c><00:01:20.960><c> to</c><00:01:21.079><c> be</c><00:01:21.280><c> square</c><00:01:21.520><c> &lt;</c><00:01:21.640><c> TK</c>
+
+00:01:21.749 --> 00:01:21.759 align:start position:0%
+we can update this H to be square &lt; TK
+ 
+
+00:01:21.759 --> 00:01:23.870 align:start position:0%
+we can update this H to be square &lt; TK
+of<00:01:21.880><c> 15</c><00:01:22.560><c> now</c><00:01:22.720><c> let's</c><00:01:22.880><c> bring</c><00:01:23.119><c> back</c><00:01:23.240><c> our</c><00:01:23.400><c> orange</c>
+
+00:01:23.870 --> 00:01:23.880 align:start position:0%
+of 15 now let's bring back our orange
+ 
+
+00:01:23.880 --> 00:01:25.710 align:start position:0%
+of 15 now let's bring back our orange
+triangle<00:01:24.479><c> I</c><00:01:24.560><c> want</c><00:01:24.680><c> to</c><00:01:24.799><c> draw</c><00:01:24.960><c> a</c><00:01:25.079><c> line</c><00:01:25.280><c> from</c><00:01:25.520><c> this</c>
+
+00:01:25.710 --> 00:01:25.720 align:start position:0%
+triangle I want to draw a line from this
+ 
+
+00:01:25.720 --> 00:01:28.109 align:start position:0%
+triangle I want to draw a line from this
+vertex<00:01:26.240><c> up</c><00:01:26.439><c> here</c><00:01:26.759><c> that's</c><00:01:27.119><c> parallel</c><00:01:27.640><c> to</c><00:01:27.920><c> this</c>
+
+00:01:28.109 --> 00:01:28.119 align:start position:0%
+vertex up here that's parallel to this
+ 
+
+00:01:28.119 --> 00:01:30.069 align:start position:0%
+vertex up here that's parallel to this
+line<00:01:28.640><c> let's</c><00:01:28.840><c> make</c><00:01:29.040><c> this</c><00:01:29.159><c> line</c><00:01:29.320><c> more</c><00:01:29.520><c> bold</c><00:01:29.960><c> and</c>
+
+00:01:30.069 --> 00:01:30.079 align:start position:0%
+line let's make this line more bold and
+ 
+
+00:01:30.079 --> 00:01:31.830 align:start position:0%
+line let's make this line more bold and
+let's<00:01:30.320><c> hide</c><00:01:30.520><c> this</c><00:01:30.680><c> stuff</c><00:01:30.960><c> for</c><00:01:31.079><c> a</c><00:01:31.240><c> second</c><00:01:31.680><c> these</c>
+
+00:01:31.830 --> 00:01:31.840 align:start position:0%
+let's hide this stuff for a second these
+ 
+
+00:01:31.840 --> 00:01:33.789 align:start position:0%
+let's hide this stuff for a second these
+two<00:01:32.000><c> angles</c><00:01:32.240><c> are</c><00:01:32.399><c> called</c><00:01:32.720><c> alternate</c><00:01:33.240><c> interior</c>
+
+00:01:33.789 --> 00:01:33.799 align:start position:0%
+two angles are called alternate interior
+ 
+
+00:01:33.799 --> 00:01:35.550 align:start position:0%
+two angles are called alternate interior
+angles<00:01:34.320><c> and</c><00:01:34.479><c> since</c><00:01:34.799><c> these</c><00:01:34.960><c> two</c><00:01:35.119><c> lines</c><00:01:35.360><c> are</c>
+
+00:01:35.550 --> 00:01:35.560 align:start position:0%
+angles and since these two lines are
+ 
+
+00:01:35.560 --> 00:01:37.469 align:start position:0%
+angles and since these two lines are
+parallel<00:01:36.119><c> these</c><00:01:36.320><c> angles</c><00:01:36.640><c> are</c><00:01:36.880><c> congruent</c><00:01:37.320><c> to</c>
+
+00:01:37.469 --> 00:01:37.479 align:start position:0%
+parallel these angles are congruent to
+ 
+
+00:01:37.479 --> 00:01:39.870 align:start position:0%
+parallel these angles are congruent to
+each<00:01:37.640><c> other</c><00:01:38.520><c> and</c><00:01:38.720><c> let's</c><00:01:38.920><c> make</c><00:01:39.159><c> this</c><00:01:39.320><c> line</c><00:01:39.560><c> bold</c>
+
+00:01:39.870 --> 00:01:39.880 align:start position:0%
+each other and let's make this line bold
+ 
+
+00:01:39.880 --> 00:01:41.749 align:start position:0%
+each other and let's make this line bold
+and<00:01:40.079><c> extend</c><00:01:40.399><c> it</c><00:01:40.560><c> a</c><00:01:40.720><c> little</c><00:01:40.920><c> bit</c><00:01:41.360><c> these</c><00:01:41.520><c> two</c>
+
+00:01:41.749 --> 00:01:41.759 align:start position:0%
+and extend it a little bit these two
+ 
+
+00:01:41.759 --> 00:01:43.789 align:start position:0%
+and extend it a little bit these two
+angles<00:01:42.119><c> are</c><00:01:42.360><c> called</c><00:01:42.799><c> vertical</c><00:01:43.240><c> angles</c><00:01:43.680><c> and</c>
+
+00:01:43.789 --> 00:01:43.799 align:start position:0%
+angles are called vertical angles and
+ 
+
+00:01:43.799 --> 00:01:46.149 align:start position:0%
+angles are called vertical angles and
+they<00:01:43.880><c> are</c><00:01:44.119><c> also</c><00:01:44.600><c> congruent</c><00:01:45.600><c> and</c><00:01:45.719><c> then</c><00:01:46.000><c> this</c>
+
+00:01:46.149 --> 00:01:46.159 align:start position:0%
+they are also congruent and then this
+ 
+
+00:01:46.159 --> 00:01:47.709 align:start position:0%
+they are also congruent and then this
+angle<00:01:46.520><c> and</c><00:01:46.680><c> this</c><00:01:46.840><c> angle</c><00:01:47.159><c> are</c><00:01:47.320><c> called</c>
+
+00:01:47.709 --> 00:01:47.719 align:start position:0%
+angle and this angle are called
+ 
+
+00:01:47.719 --> 00:01:49.709 align:start position:0%
+angle and this angle are called
+corresponding<00:01:48.479><c> angles</c><00:01:49.159><c> since</c><00:01:49.399><c> these</c><00:01:49.520><c> are</c>
+
+00:01:49.709 --> 00:01:49.719 align:start position:0%
+corresponding angles since these are
+ 
+
+00:01:49.719 --> 00:01:51.310 align:start position:0%
+corresponding angles since these are
+parallel<00:01:50.200><c> these</c><00:01:50.360><c> corresponding</c><00:01:50.880><c> angles</c><00:01:51.200><c> are</c>
+
+00:01:51.310 --> 00:01:51.320 align:start position:0%
+parallel these corresponding angles are
+ 
+
+00:01:51.320 --> 00:01:53.469 align:start position:0%
+parallel these corresponding angles are
+going<00:01:51.439><c> to</c><00:01:51.560><c> be</c><00:01:51.719><c> congruent</c><00:01:52.159><c> to</c><00:01:52.360><c> each</c><00:01:52.520><c> other</c><00:01:53.360><c> now</c>
+
+00:01:53.469 --> 00:01:53.479 align:start position:0%
+going to be congruent to each other now
+ 
+
+00:01:53.479 --> 00:01:55.230 align:start position:0%
+going to be congruent to each other now
+we<00:01:53.560><c> can</c><00:01:53.719><c> focus</c><00:01:54.040><c> on</c><00:01:54.240><c> this</c><00:01:54.360><c> triangle</c><00:01:54.840><c> right</c><00:01:54.960><c> here</c>
+
+00:01:55.230 --> 00:01:55.240 align:start position:0%
+we can focus on this triangle right here
+ 
+
+00:01:55.240 --> 00:01:57.389 align:start position:0%
+we can focus on this triangle right here
+we<00:01:55.360><c> have</c><00:01:55.560><c> these</c><00:01:55.719><c> two</c><00:01:56.000><c> base</c><00:01:56.280><c> angles</c><00:01:56.680><c> congruent</c>
+
+00:01:57.389 --> 00:01:57.399 align:start position:0%
+we have these two base angles congruent
+ 
+
+00:01:57.399 --> 00:01:59.510 align:start position:0%
+we have these two base angles congruent
+which<00:01:57.520><c> means</c><00:01:57.840><c> this</c><00:01:57.920><c> is</c><00:01:58.039><c> an</c><00:01:58.280><c> isoceles</c><00:01:59.000><c> triangle</c>
+
+00:01:59.510 --> 00:01:59.520 align:start position:0%
+which means this is an isoceles triangle
+ 
+
+00:01:59.520 --> 00:02:01.350 align:start position:0%
+which means this is an isoceles triangle
+so<00:01:59.680><c> this</c><00:02:00.000><c> side</c><00:02:00.159><c> will</c><00:02:00.360><c> also</c><00:02:00.640><c> have</c><00:02:00.759><c> a</c><00:02:00.960><c> length</c><00:02:01.200><c> of</c>
+
+00:02:01.350 --> 00:02:01.360 align:start position:0%
+so this side will also have a length of
+ 
+
+00:02:01.360 --> 00:02:03.870 align:start position:0%
+so this side will also have a length of
+four<00:02:02.240><c> and</c><00:02:02.399><c> since</c><00:02:02.799><c> this</c><00:02:02.960><c> is</c><00:02:03.119><c> four</c><00:02:03.560><c> and</c><00:02:03.719><c> the</c>
+
+00:02:03.870 --> 00:02:03.880 align:start position:0%
+four and since this is four and the
+ 
+
+00:02:03.880 --> 00:02:05.590 align:start position:0%
+four and since this is four and the
+entire<00:02:04.280><c> side</c><00:02:04.520><c> length</c><00:02:04.719><c> is</c><00:02:04.880><c> eight</c><00:02:05.200><c> this</c><00:02:05.360><c> piece</c>
+
+00:02:05.590 --> 00:02:05.600 align:start position:0%
+entire side length is eight this piece
+ 
+
+00:02:05.600 --> 00:02:07.870 align:start position:0%
+entire side length is eight this piece
+will<00:02:05.799><c> also</c><00:02:06.079><c> be</c><00:02:06.240><c> four</c><00:02:07.000><c> let's</c><00:02:07.200><c> label</c><00:02:07.479><c> the</c><00:02:07.600><c> base</c>
+
+00:02:07.870 --> 00:02:07.880 align:start position:0%
+will also be four let's label the base
+ 
+
+00:02:07.880 --> 00:02:10.190 align:start position:0%
+will also be four let's label the base
+of<00:02:08.000><c> our</c><00:02:08.119><c> orange</c><00:02:08.479><c> triangle</c><00:02:09.080><c> X</c><00:02:09.679><c> and</c><00:02:09.840><c> now</c><00:02:09.959><c> we</c><00:02:10.080><c> can</c>
+
+00:02:10.190 --> 00:02:10.200 align:start position:0%
+of our orange triangle X and now we can
+ 
+
+00:02:10.200 --> 00:02:12.070 align:start position:0%
+of our orange triangle X and now we can
+use<00:02:10.440><c> th's</c><00:02:10.959><c> theorem</c><00:02:11.520><c> says</c><00:02:11.720><c> if</c><00:02:11.760><c> you</c><00:02:11.879><c> have</c><00:02:12.000><c> a</c>
+
+00:02:12.070 --> 00:02:12.080 align:start position:0%
+use th's theorem says if you have a
+ 
+
+00:02:12.080 --> 00:02:13.670 align:start position:0%
+use th's theorem says if you have a
+triangle<00:02:12.520><c> and</c><00:02:12.640><c> a</c><00:02:12.800><c> line</c><00:02:13.040><c> cutting</c><00:02:13.319><c> through</c><00:02:13.520><c> that</c>
+
+00:02:13.670 --> 00:02:13.680 align:start position:0%
+triangle and a line cutting through that
+ 
+
+00:02:13.680 --> 00:02:16.190 align:start position:0%
+triangle and a line cutting through that
+triangle<00:02:14.160><c> parallel</c><00:02:14.519><c> to</c><00:02:14.680><c> the</c><00:02:14.879><c> base</c><00:02:15.480><c> this</c><00:02:15.800><c> ratio</c>
+
+00:02:16.190 --> 00:02:16.200 align:start position:0%
+triangle parallel to the base this ratio
+ 
+
+00:02:16.200 --> 00:02:18.229 align:start position:0%
+triangle parallel to the base this ratio
+will<00:02:16.319><c> be</c><00:02:16.519><c> true</c><00:02:17.160><c> and</c><00:02:17.280><c> if</c><00:02:17.360><c> we</c><00:02:17.519><c> put</c><00:02:17.680><c> this</c><00:02:17.800><c> on</c><00:02:17.959><c> its</c>
+
+00:02:18.229 --> 00:02:18.239 align:start position:0%
+will be true and if we put this on its
+ 
+
+00:02:18.239 --> 00:02:20.070 align:start position:0%
+will be true and if we put this on its
+side<00:02:18.440><c> it'll</c><00:02:18.680><c> have</c><00:02:18.840><c> the</c><00:02:19.000><c> exact</c><00:02:19.319><c> orientation</c><00:02:19.920><c> of</c>
+
+00:02:20.070 --> 00:02:20.080 align:start position:0%
+side it'll have the exact orientation of
+ 
+
+00:02:20.080 --> 00:02:22.270 align:start position:0%
+side it'll have the exact orientation of
+our<00:02:20.319><c> triangle</c><00:02:20.879><c> here</c><00:02:21.200><c> and</c><00:02:21.319><c> we</c><00:02:21.400><c> can</c><00:02:21.519><c> set</c><00:02:21.720><c> up</c><00:02:21.920><c> our</c>
+
+00:02:22.270 --> 00:02:22.280 align:start position:0%
+our triangle here and we can set up our
+ 
+
+00:02:22.280 --> 00:02:25.470 align:start position:0%
+our triangle here and we can set up our
+proportion<00:02:23.160><c> a</c><00:02:23.400><c> is</c><00:02:23.519><c> going</c><00:02:23.640><c> to</c><00:02:23.800><c> be</c><00:02:23.959><c> equal</c><00:02:24.200><c> to</c><00:02:24.519><c> 6</c><00:02:25.200><c> B</c>
+
+00:02:25.470 --> 00:02:25.480 align:start position:0%
+proportion a is going to be equal to 6 B
+ 
+
+00:02:25.480 --> 00:02:28.270 align:start position:0%
+proportion a is going to be equal to 6 B
+is<00:02:25.599><c> going</c><00:02:25.720><c> to</c><00:02:25.800><c> be</c><00:02:26.000><c> equal</c><00:02:26.280><c> to</c><00:02:26.599><c> X</c><00:02:27.360><c> and</c><00:02:27.480><c> C</c><00:02:27.760><c> and</c><00:02:27.920><c> D</c>
+
+00:02:28.270 --> 00:02:28.280 align:start position:0%
+is going to be equal to X and C and D
+ 
+
+00:02:28.280 --> 00:02:30.949 align:start position:0%
+is going to be equal to X and C and D
+are<00:02:28.560><c> both</c><00:02:28.800><c> equal</c><00:02:29.120><c> to</c><00:02:29.280><c> 4</c><00:02:30.000><c> well</c><00:02:30.160><c> the</c><00:02:30.239><c> only</c><00:02:30.480><c> way</c><00:02:30.680><c> 6</c>
+
+00:02:30.949 --> 00:02:30.959 align:start position:0%
+are both equal to 4 well the only way 6
+ 
+
+00:02:30.959 --> 00:02:33.150 align:start position:0%
+are both equal to 4 well the only way 6
+overx<00:02:31.440><c> is</c><00:02:31.560><c> going</c><00:02:31.640><c> to</c><00:02:31.760><c> be</c><00:02:31.879><c> equal</c><00:02:32.120><c> to</c><00:02:32.239><c> 4</c><00:02:32.519><c> over</c><00:02:32.760><c> 4</c>
+
+00:02:33.150 --> 00:02:33.160 align:start position:0%
+overx is going to be equal to 4 over 4
+ 
+
+00:02:33.160 --> 00:02:35.550 align:start position:0%
+overx is going to be equal to 4 over 4
+is<00:02:33.280><c> if</c><00:02:33.480><c> x</c><00:02:33.720><c> is</c><00:02:33.840><c> equal</c><00:02:34.120><c> to</c><00:02:34.319><c> 6</c><00:02:35.000><c> so</c><00:02:35.120><c> that</c><00:02:35.200><c> means</c><00:02:35.440><c> the</c>
+
+00:02:35.550 --> 00:02:35.560 align:start position:0%
+is if x is equal to 6 so that means the
+ 
+
+00:02:35.560 --> 00:02:37.110 align:start position:0%
+is if x is equal to 6 so that means the
+base<00:02:35.760><c> of</c><00:02:35.879><c> our</c><00:02:36.040><c> orange</c><00:02:36.360><c> triangle</c><00:02:36.800><c> is</c><00:02:36.920><c> going</c><00:02:37.000><c> to</c>
+
+00:02:37.110 --> 00:02:37.120 align:start position:0%
+base of our orange triangle is going to
+ 
+
+00:02:37.120 --> 00:02:39.149 align:start position:0%
+base of our orange triangle is going to
+be<00:02:37.239><c> equal</c><00:02:37.519><c> to</c><00:02:37.640><c> 6</c><00:02:38.440><c> and</c><00:02:38.560><c> now</c><00:02:38.680><c> we're</c><00:02:38.840><c> ready</c><00:02:39.000><c> to</c>
+
+00:02:39.149 --> 00:02:39.159 align:start position:0%
+be equal to 6 and now we're ready to
+ 
+
+00:02:39.159 --> 00:02:40.790 align:start position:0%
+be equal to 6 and now we're ready to
+find<00:02:39.319><c> the</c><00:02:39.440><c> area</c><00:02:39.680><c> of</c><00:02:39.760><c> our</c><00:02:39.920><c> orange</c><00:02:40.239><c> triangle</c>
+
+00:02:40.790 --> 00:02:40.800 align:start position:0%
+find the area of our orange triangle
+ 
+
+00:02:40.800 --> 00:02:42.589 align:start position:0%
+find the area of our orange triangle
+this<00:02:41.040><c> height</c><00:02:41.360><c> is</c><00:02:41.560><c> the</c><00:02:41.760><c> same</c><00:02:42.080><c> as</c><00:02:42.200><c> the</c><00:02:42.319><c> height</c><00:02:42.519><c> of</c>
+
+00:02:42.589 --> 00:02:42.599 align:start position:0%
+this height is the same as the height of
+ 
+
+00:02:42.599 --> 00:02:44.030 align:start position:0%
+this height is the same as the height of
+our<00:02:42.760><c> orange</c><00:02:43.080><c> triangle</c><00:02:43.560><c> the</c><00:02:43.640><c> area</c><00:02:43.840><c> of</c><00:02:43.920><c> our</c>
+
+00:02:44.030 --> 00:02:44.040 align:start position:0%
+our orange triangle the area of our
+ 
+
+00:02:44.040 --> 00:02:45.990 align:start position:0%
+our orange triangle the area of our
+triangle<00:02:44.360><c> is</c><00:02:44.519><c> 1/2</c><00:02:44.959><c> base</c><00:02:45.280><c> time</c><00:02:45.560><c> height</c><00:02:45.840><c> where</c>
+
+00:02:45.990 --> 00:02:46.000 align:start position:0%
+triangle is 1/2 base time height where
+ 
+
+00:02:46.000 --> 00:02:48.110 align:start position:0%
+triangle is 1/2 base time height where
+the<00:02:46.120><c> base</c><00:02:46.400><c> is</c><00:02:46.560><c> equal</c><00:02:46.800><c> to</c><00:02:47.000><c> 6</c><00:02:47.440><c> and</c><00:02:47.560><c> the</c><00:02:47.720><c> height</c><00:02:48.000><c> is</c>
+
+00:02:48.110 --> 00:02:48.120 align:start position:0%
+the base is equal to 6 and the height is
+ 
+
+00:02:48.120 --> 00:02:50.990 align:start position:0%
+the base is equal to 6 and the height is
+equal<00:02:48.360><c> to</c><00:02:48.760><c> &lt;</c><00:02:48.879><c> TK</c><00:02:49.000><c> of</c><00:02:49.159><c> 15</c><00:02:49.760><c> 1</c><00:02:49.959><c> 12</c><00:02:50.120><c> of</c><00:02:50.280><c> 6</c><00:02:50.599><c> is</c><00:02:50.760><c> equal</c>
+
+00:02:50.990 --> 00:02:51.000 align:start position:0%
+equal to &lt; TK of 15 1 12 of 6 is equal
+ 
+
+00:02:51.000 --> 00:02:52.589 align:start position:0%
+equal to &lt; TK of 15 1 12 of 6 is equal
+to<00:02:51.159><c> 3</c><00:02:51.560><c> and</c><00:02:51.640><c> that's</c><00:02:51.800><c> going</c><00:02:51.879><c> to</c><00:02:51.959><c> be</c><00:02:52.120><c> multiplied</c>
+
+00:02:52.589 --> 00:02:52.599 align:start position:0%
+to 3 and that's going to be multiplied
+ 
+
+00:02:52.599 --> 00:02:54.589 align:start position:0%
+to 3 and that's going to be multiplied
+by<00:02:52.680><c> the</c><00:02:53.000><c> &lt;</c><00:02:53.120><c> TK</c><00:02:53.239><c> of</c><00:02:53.360><c> 15</c><00:02:53.959><c> and</c><00:02:54.080><c> that's</c><00:02:54.239><c> the</c><00:02:54.400><c> answer</c>
+
+00:02:54.589 --> 00:02:54.599 align:start position:0%
+by the &lt; TK of 15 and that's the answer
+ 
+
+00:02:54.599 --> 00:02:56.430 align:start position:0%
+by the &lt; TK of 15 and that's the answer
+to<00:02:54.760><c> our</c><00:02:55.000><c> question</c><00:02:55.440><c> we</c><00:02:55.519><c> can</c><00:02:55.640><c> put</c><00:02:55.760><c> a</c><00:02:55.959><c> box</c><00:02:56.200><c> around</c>
+
+00:02:56.430 --> 00:02:56.440 align:start position:0%
+to our question we can put a box around
+ 
+
+00:02:56.440 --> 00:02:58.350 align:start position:0%
+to our question we can put a box around
+it<00:02:56.840><c> so</c><00:02:56.959><c> in</c><00:02:57.120><c> this</c><00:02:57.280><c> problem</c><00:02:57.560><c> the</c><00:02:57.720><c> area</c><00:02:58.000><c> of</c><00:02:58.200><c> this</c>
+
+00:02:58.350 --> 00:02:58.360 align:start position:0%
+it so in this problem the area of this
+ 
+
+00:02:58.360 --> 00:03:01.149 align:start position:0%
+it so in this problem the area of this
+orange<00:02:58.720><c> triangle</c><00:02:59.120><c> is</c><00:02:59.280><c> equal</c><00:02:59.480><c> to</c><00:02:59.840><c> 3</c><00:03:00.280><c> &lt;</c><00:03:00.400><c> TK</c><00:03:00.640><c> 15</c>
+
+00:03:01.149 --> 00:03:01.159 align:start position:0%
+orange triangle is equal to 3 &lt; TK 15
+ 
+
+00:03:01.159 --> 00:03:03.589 align:start position:0%
+orange triangle is equal to 3 &lt; TK 15
+square<00:03:01.599><c> units</c><00:03:02.239><c> and</c><00:03:02.360><c> that</c><00:03:02.480><c> is</c><00:03:02.680><c> approximately</c>
+
+00:03:03.589 --> 00:03:03.599 align:start position:0%
+square units and that is approximately
+ 
+
+00:03:03.599 --> 00:03:07.229 align:start position:0%
+square units and that is approximately
+11.62<00:03:04.599><c> square</c><00:03:04.959><c> units</c><00:03:05.680><c> how</c><00:03:06.239><c> exciting</c><00:03:06.959><c> this</c><00:03:07.040><c> was</c>
+
+00:03:07.229 --> 00:03:07.239 align:start position:0%
+11.62 square units how exciting this was
+ 
+
+00:03:07.239 --> 00:03:08.430 align:start position:0%
+11.62 square units how exciting this was
+kind<00:03:07.319><c> of</c><00:03:07.440><c> a</c><00:03:07.560><c> long</c><00:03:07.799><c> one</c><00:03:08.000><c> if</c><00:03:08.080><c> you</c><00:03:08.239><c> actually</c>
+
+00:03:08.430 --> 00:03:08.440 align:start position:0%
+kind of a long one if you actually
+ 
+
+00:03:08.440 --> 00:03:10.750 align:start position:0%
+kind of a long one if you actually
+finished<00:03:08.799><c> it</c><00:03:09.120><c> comment</c><00:03:09.599><c> a</c><00:03:09.799><c> TV</c><00:03:10.120><c> series</c><00:03:10.480><c> you'd</c>
+
+00:03:10.750 --> 00:03:10.760 align:start position:0%
+finished it comment a TV series you'd
+ 
+
+00:03:10.760 --> 00:03:12.190 align:start position:0%
+finished it comment a TV series you'd
+recommend<00:03:11.239><c> watching</c><00:03:11.720><c> I</c><00:03:11.799><c> need</c><00:03:11.959><c> some</c>
+
+00:03:12.190 --> 00:03:12.200 align:start position:0%
+recommend watching I need some
+ 
+
+00:03:12.200 --> 00:03:14.959 align:start position:0%
+recommend watching I need some
+suggestions
+

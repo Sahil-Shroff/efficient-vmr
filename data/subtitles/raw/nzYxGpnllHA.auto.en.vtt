@@ -1,0 +1,608 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:03.620 --> 00:00:06.610 align:start position:0%
+ 
+in<00:00:04.609><c> this</c><00:00:04.940><c> video</c><00:00:05.270><c> I</c><00:00:05.600><c> want</c><00:00:06.019><c> to</c><00:00:06.109><c> investigate</c>
+
+00:00:06.610 --> 00:00:06.620 align:start position:0%
+in this video I want to investigate
+ 
+
+00:00:06.620 --> 00:00:08.280 align:start position:0%
+in this video I want to investigate
+whether<00:00:07.069><c> I</c><00:00:07.130><c> can</c><00:00:07.279><c> make</c><00:00:07.519><c> this</c><00:00:07.760><c> particular</c>
+
+00:00:08.280 --> 00:00:08.290 align:start position:0%
+whether I can make this particular
+ 
+
+00:00:08.290 --> 00:00:11.970 align:start position:0%
+whether I can make this particular
+piecewise<00:00:09.290><c> function</c><00:00:09.980><c> continuous</c><00:00:10.790><c> everywhere</c>
+
+00:00:11.970 --> 00:00:11.980 align:start position:0%
+piecewise function continuous everywhere
+ 
+
+00:00:11.980 --> 00:00:14.020 align:start position:0%
+piecewise function continuous everywhere
+well<00:00:12.980><c> I</c><00:00:13.130><c> have</c><00:00:13.309><c> a</c><00:00:13.340><c> little</c><00:00:13.550><c> bit</c><00:00:13.730><c> of</c><00:00:13.790><c> freedom</c>
+
+00:00:14.020 --> 00:00:14.030 align:start position:0%
+well I have a little bit of freedom
+ 
+
+00:00:14.030 --> 00:00:16.480 align:start position:0%
+well I have a little bit of freedom
+notice<00:00:14.930><c> that</c><00:00:15.080><c> there's</c><00:00:15.440><c> a</c><00:00:15.530><c> see</c><00:00:15.830><c> inside</c><00:00:16.279><c> of</c>
+
+00:00:16.480 --> 00:00:16.490 align:start position:0%
+notice that there's a see inside of
+ 
+
+00:00:16.490 --> 00:00:17.740 align:start position:0%
+notice that there's a see inside of
+there<00:00:16.640><c> so</c><00:00:16.670><c> the</c><00:00:16.939><c> hope</c><00:00:17.119><c> is</c><00:00:17.330><c> that</c><00:00:17.390><c> by</c>
+
+00:00:17.740 --> 00:00:17.750 align:start position:0%
+there so the hope is that by
+ 
+
+00:00:17.750 --> 00:00:20.109 align:start position:0%
+there so the hope is that by
+manipulating<00:00:17.960><c> the</c><00:00:18.710><c> C</c><00:00:19.039><c> I</c><00:00:19.340><c> can</c><00:00:19.850><c> make</c><00:00:19.970><c> it</c>
+
+00:00:20.109 --> 00:00:20.119 align:start position:0%
+manipulating the C I can make it
+ 
+
+00:00:20.119 --> 00:00:22.359 align:start position:0%
+manipulating the C I can make it
+continuous<00:00:20.570><c> everywhere</c><00:00:21.010><c> first</c><00:00:22.010><c> I</c><00:00:22.130><c> want</c><00:00:22.310><c> to</c>
+
+00:00:22.359 --> 00:00:22.369 align:start position:0%
+continuous everywhere first I want to
+ 
+
+00:00:22.369 --> 00:00:24.340 align:start position:0%
+continuous everywhere first I want to
+note<00:00:22.490><c> this</c><00:00:22.670><c> but</c><00:00:23.390><c> look</c><00:00:23.480><c> at</c><00:00:23.630><c> this</c><00:00:23.779><c> function</c><00:00:23.990><c> here</c>
+
+00:00:24.340 --> 00:00:24.350 align:start position:0%
+note this but look at this function here
+ 
+
+00:00:24.350 --> 00:00:26.920 align:start position:0%
+note this but look at this function here
+or<00:00:24.500><c> this</c><00:00:24.619><c> function</c><00:00:25.210><c> individually</c><00:00:26.210><c> like</c><00:00:26.810><c> if</c>
+
+00:00:26.920 --> 00:00:26.930 align:start position:0%
+or this function individually like if
+ 
+
+00:00:26.930 --> 00:00:28.960 align:start position:0%
+or this function individually like if
+this<00:00:27.080><c> applied</c><00:00:27.440><c> for</c><00:00:27.710><c> all</c><00:00:27.920><c> values</c><00:00:28.400><c> of</c><00:00:28.430><c> X</c><00:00:28.699><c> either</c>
+
+00:00:28.960 --> 00:00:28.970 align:start position:0%
+this applied for all values of X either
+ 
+
+00:00:28.970 --> 00:00:30.970 align:start position:0%
+this applied for all values of X either
+of<00:00:29.240><c> those</c><00:00:29.359><c> are</c><00:00:29.539><c> just</c><00:00:29.710><c> polynomials</c><00:00:30.710><c> one's</c><00:00:30.890><c> a</c>
+
+00:00:30.970 --> 00:00:30.980 align:start position:0%
+of those are just polynomials one's a
+ 
+
+00:00:30.980 --> 00:00:33.580 align:start position:0%
+of those are just polynomials one's a
+quadratic<00:00:31.400><c> one's</c><00:00:31.789><c> a</c><00:00:31.910><c> linear</c><00:00:32.180><c> and</c><00:00:32.689><c> polynomials</c>
+
+00:00:33.580 --> 00:00:33.590 align:start position:0%
+quadratic one's a linear and polynomials
+ 
+
+00:00:33.590 --> 00:00:35.590 align:start position:0%
+quadratic one's a linear and polynomials
+are<00:00:33.800><c> continuous</c><00:00:34.210><c> absolutely</c><00:00:35.210><c> everywhere</c>
+
+00:00:35.590 --> 00:00:35.600 align:start position:0%
+are continuous absolutely everywhere
+ 
+
+00:00:35.600 --> 00:00:37.540 align:start position:0%
+are continuous absolutely everywhere
+there's<00:00:36.050><c> no</c><00:00:36.140><c> division</c><00:00:36.350><c> by</c><00:00:36.620><c> zero</c><00:00:36.980><c> there's</c><00:00:37.430><c> no</c>
+
+00:00:37.540 --> 00:00:37.550 align:start position:0%
+there's no division by zero there's no
+ 
+
+00:00:37.550 --> 00:00:39.819 align:start position:0%
+there's no division by zero there's no
+infinite<00:00:38.059><c> spikes</c><00:00:38.450><c> there's</c><00:00:38.780><c> no</c><00:00:38.960><c> oscillatory</c>
+
+00:00:39.819 --> 00:00:39.829 align:start position:0%
+infinite spikes there's no oscillatory
+ 
+
+00:00:39.829 --> 00:00:41.940 align:start position:0%
+infinite spikes there's no oscillatory
+behavior<00:00:39.980><c> these</c><00:00:40.880><c> are</c><00:00:41.030><c> continuous</c><00:00:41.270><c> everywhere</c>
+
+00:00:41.940 --> 00:00:41.950 align:start position:0%
+behavior these are continuous everywhere
+ 
+
+00:00:41.950 --> 00:00:44.830 align:start position:0%
+behavior these are continuous everywhere
+so<00:00:42.950><c> the</c><00:00:43.100><c> only</c><00:00:43.250><c> possibility</c><00:00:43.969><c> the</c><00:00:44.270><c> only</c><00:00:44.480><c> spot</c>
+
+00:00:44.830 --> 00:00:44.840 align:start position:0%
+so the only possibility the only spot
+ 
+
+00:00:44.840 --> 00:00:46.389 align:start position:0%
+so the only possibility the only spot
+where<00:00:44.989><c> there</c><00:00:45.140><c> could</c><00:00:45.440><c> be</c><00:00:45.469><c> a</c><00:00:45.620><c> problem</c><00:00:45.950><c> with</c><00:00:46.280><c> this</c>
+
+00:00:46.389 --> 00:00:46.399 align:start position:0%
+where there could be a problem with this
+ 
+
+00:00:46.399 --> 00:00:49.720 align:start position:0%
+where there could be a problem with this
+value<00:00:46.820><c> of</c><00:00:47.000><c> x</c><00:00:47.600><c> equal</c><00:00:48.410><c> to</c><00:00:48.440><c> one</c><00:00:48.800><c> that's</c><00:00:49.219><c> where</c><00:00:49.550><c> it</c>
+
+00:00:49.720 --> 00:00:49.730 align:start position:0%
+value of x equal to one that's where it
+ 
+
+00:00:49.730 --> 00:00:51.100 align:start position:0%
+value of x equal to one that's where it
+might<00:00:50.030><c> be</c><00:00:50.300><c> that</c><00:00:50.480><c> the</c><00:00:50.570><c> limit</c><00:00:50.840><c> from</c><00:00:50.960><c> the</c><00:00:51.020><c> left</c>
+
+00:00:51.100 --> 00:00:51.110 align:start position:0%
+might be that the limit from the left
+ 
+
+00:00:51.110 --> 00:00:54.160 align:start position:0%
+might be that the limit from the left
+and<00:00:51.649><c> I'll</c><00:00:52.370><c> limit</c><00:00:52.550><c> from</c><00:00:52.760><c> the</c><00:00:52.820><c> right</c><00:00:53.120><c> and</c><00:00:53.420><c> the</c>
+
+00:00:54.160 --> 00:00:54.170 align:start position:0%
+and I'll limit from the right and the
+ 
+
+00:00:54.170 --> 00:00:57.130 align:start position:0%
+and I'll limit from the right and the
+function<00:00:54.739><c> value</c><00:00:55.190><c> might</c><00:00:55.879><c> be</c><00:00:56.000><c> different</c><00:00:56.420><c> okay</c>
+
+00:00:57.130 --> 00:00:57.140 align:start position:0%
+function value might be different okay
+ 
+
+00:00:57.140 --> 00:00:59.020 align:start position:0%
+function value might be different okay
+so<00:00:57.200><c> let's</c><00:00:57.410><c> match</c><00:00:57.590><c> them</c><00:00:57.860><c> our</c><00:00:58.070><c> goal</c><00:00:58.489><c> is</c><00:00:58.700><c> this</c><00:00:58.879><c> I</c>
+
+00:00:59.020 --> 00:00:59.030 align:start position:0%
+so let's match them our goal is this I
+ 
+
+00:00:59.030 --> 00:01:02.529 align:start position:0%
+so let's match them our goal is this I
+want<00:00:59.270><c> to</c><00:00:59.420><c> say</c><00:00:59.629><c> that</c><00:01:00.170><c> the</c><00:01:00.410><c> limit</c><00:01:00.920><c> as</c><00:01:01.190><c> X</c><00:01:02.090><c> goes</c><00:01:02.300><c> to</c>
+
+00:01:02.529 --> 00:01:02.539 align:start position:0%
+want to say that the limit as X goes to
+ 
+
+00:01:02.539 --> 00:01:04.689 align:start position:0%
+want to say that the limit as X goes to
+the<00:01:02.870><c> interesting</c><00:01:03.350><c> spot</c><00:01:03.620><c> the</c><00:01:03.800><c> 1</c><00:01:04.039><c> as</c><00:01:04.280><c> X</c><00:01:04.460><c> goes</c><00:01:04.670><c> to</c>
+
+00:01:04.689 --> 00:01:04.699 align:start position:0%
+the interesting spot the 1 as X goes to
+ 
+
+00:01:04.699 --> 00:01:09.870 align:start position:0%
+the interesting spot the 1 as X goes to
+1<00:01:05.180><c> from</c><00:01:05.649><c> let's</c><00:01:06.649><c> do</c><00:01:06.740><c> the</c><00:01:06.829><c> left</c><00:01:07.039><c> first</c><00:01:07.340><c> of</c><00:01:07.670><c> f</c><00:01:08.479><c> of</c><00:01:08.659><c> X</c>
+
+00:01:09.870 --> 00:01:09.880 align:start position:0%
+1 from let's do the left first of f of X
+ 
+
+00:01:09.880 --> 00:01:12.639 align:start position:0%
+1 from let's do the left first of f of X
+what<00:01:10.880><c> I'm</c><00:01:11.060><c> hoping</c><00:01:11.389><c> is</c><00:01:11.869><c> that</c><00:01:12.109><c> this</c><00:01:12.289><c> is</c><00:01:12.439><c> going</c><00:01:12.560><c> to</c>
+
+00:01:12.639 --> 00:01:12.649 align:start position:0%
+what I'm hoping is that this is going to
+ 
+
+00:01:12.649 --> 00:01:15.160 align:start position:0%
+what I'm hoping is that this is going to
+be<00:01:12.740><c> the</c><00:01:12.889><c> same</c><00:01:13.159><c> thing</c><00:01:13.520><c> as</c><00:01:13.729><c> the</c><00:01:13.880><c> limit</c><00:01:14.029><c> as</c><00:01:14.389><c> X</c><00:01:15.079><c> goes</c>
+
+00:01:15.160 --> 00:01:15.170 align:start position:0%
+be the same thing as the limit as X goes
+ 
+
+00:01:15.170 --> 00:01:18.639 align:start position:0%
+be the same thing as the limit as X goes
+to<00:01:15.350><c> 1</c><00:01:15.740><c> now</c><00:01:16.069><c> from</c><00:01:16.459><c> the</c><00:01:16.579><c> right</c><00:01:16.909><c> of</c><00:01:17.359><c> my</c><00:01:18.139><c> function</c><00:01:18.560><c> f</c>
+
+00:01:18.639 --> 00:01:18.649 align:start position:0%
+to 1 now from the right of my function f
+ 
+
+00:01:18.649 --> 00:01:21.519 align:start position:0%
+to 1 now from the right of my function f
+of<00:01:18.740><c> X</c><00:01:18.950><c> so</c><00:01:19.819><c> I</c><00:01:20.029><c> need</c><00:01:20.450><c> that</c><00:01:20.719><c> to</c><00:01:20.869><c> be</c><00:01:20.959><c> the</c><00:01:21.079><c> case</c><00:01:21.109><c> if</c><00:01:21.469><c> I</c>
+
+00:01:21.519 --> 00:01:21.529 align:start position:0%
+of X so I need that to be the case if I
+ 
+
+00:01:21.529 --> 00:01:22.870 align:start position:0%
+of X so I need that to be the case if I
+have<00:01:21.619><c> any</c><00:01:21.740><c> hope</c><00:01:21.829><c> for</c><00:01:22.219><c> it</c><00:01:22.279><c> to</c><00:01:22.369><c> be</c><00:01:22.490><c> continuous</c>
+
+00:01:22.870 --> 00:01:22.880 align:start position:0%
+have any hope for it to be continuous
+ 
+
+00:01:22.880 --> 00:01:24.999 align:start position:0%
+have any hope for it to be continuous
+and<00:01:23.240><c> an</c><00:01:23.450><c> indeed</c><00:01:23.719><c> my</c><00:01:24.170><c> third</c><00:01:24.439><c> condition</c><00:01:24.859><c> is</c><00:01:24.979><c> that</c>
+
+00:01:24.999 --> 00:01:25.009 align:start position:0%
+and an indeed my third condition is that
+ 
+
+00:01:25.009 --> 00:01:26.469 align:start position:0%
+and an indeed my third condition is that
+I<00:01:25.310><c> want</c><00:01:25.520><c> it</c><00:01:25.579><c> to</c><00:01:25.670><c> be</c><00:01:25.729><c> equal</c><00:01:25.880><c> to</c><00:01:25.939><c> F</c><00:01:26.029><c> of</c><00:01:26.149><c> 1</c><00:01:26.329><c> that</c>
+
+00:01:26.469 --> 00:01:26.479 align:start position:0%
+I want it to be equal to F of 1 that
+ 
+
+00:01:26.479 --> 00:01:27.819 align:start position:0%
+I want it to be equal to F of 1 that
+one's<00:01:26.659><c> going</c><00:01:26.810><c> to</c><00:01:26.840><c> come</c><00:01:27.020><c> more</c><00:01:27.469><c> or</c><00:01:27.590><c> less</c><00:01:27.679><c> for</c>
+
+00:01:27.819 --> 00:01:27.829 align:start position:0%
+one's going to come more or less for
+ 
+
+00:01:27.829 --> 00:01:32.080 align:start position:0%
+one's going to come more or less for
+free<00:01:28.749><c> ok</c><00:01:29.749><c> well</c><00:01:29.990><c> now</c><00:01:30.109><c> let's</c><00:01:30.380><c> do</c><00:01:30.560><c> the</c><00:01:31.279><c> one</c><00:01:31.639><c> from</c>
+
+00:01:32.080 --> 00:01:32.090 align:start position:0%
+free ok well now let's do the one from
+ 
+
+00:01:32.090 --> 00:01:34.149 align:start position:0%
+free ok well now let's do the one from
+the<00:01:32.209><c> left</c><00:01:32.419><c> now</c><00:01:32.689><c> from</c><00:01:33.169><c> the</c><00:01:33.289><c> left</c><00:01:33.529><c> is</c><00:01:33.709><c> this</c><00:01:33.859><c> top</c>
+
+00:01:34.149 --> 00:01:34.159 align:start position:0%
+the left now from the left is this top
+ 
+
+00:01:34.159 --> 00:01:37.719 align:start position:0%
+the left now from the left is this top
+one<00:01:34.399><c> up</c><00:01:34.490><c> here</c><00:01:34.729><c> X</c><00:01:34.969><c> values</c><00:01:35.539><c> less</c><00:01:36.229><c> than</c><00:01:36.259><c> one</c><00:01:36.709><c> so</c><00:01:37.429><c> in</c>
+
+00:01:37.719 --> 00:01:37.729 align:start position:0%
+one up here X values less than one so in
+ 
+
+00:01:37.729 --> 00:01:39.609 align:start position:0%
+one up here X values less than one so in
+other<00:01:37.880><c> words</c><00:01:38.090><c> this</c><00:01:38.389><c> is</c><00:01:38.539><c> the</c><00:01:38.689><c> same</c><00:01:38.990><c> thing</c><00:01:39.319><c> as</c>
+
+00:01:39.609 --> 00:01:39.619 align:start position:0%
+other words this is the same thing as
+ 
+
+00:01:39.619 --> 00:01:42.879 align:start position:0%
+other words this is the same thing as
+the<00:01:39.829><c> limit</c><00:01:40.149><c> as</c><00:01:41.149><c> X</c><00:01:41.389><c> goes</c><00:01:41.569><c> to</c><00:01:41.630><c> 1</c><00:01:42.380><c> from</c><00:01:42.679><c> the</c><00:01:42.859><c> left</c>
+
+00:01:42.879 --> 00:01:42.889 align:start position:0%
+the limit as X goes to 1 from the left
+ 
+
+00:01:42.889 --> 00:01:47.769 align:start position:0%
+the limit as X goes to 1 from the left
+of<00:01:43.429><c> see</c><00:01:44.560><c> x</c><00:01:45.560><c> squared</c><00:01:46.099><c> plus</c><00:01:46.639><c> 1</c><00:01:46.939><c> and</c><00:01:47.209><c> and</c><00:01:47.450><c> this</c><00:01:47.569><c> one</c>
+
+00:01:47.769 --> 00:01:47.779 align:start position:0%
+of see x squared plus 1 and and this one
+ 
+
+00:01:47.779 --> 00:01:49.479 align:start position:0%
+of see x squared plus 1 and and this one
+over<00:01:47.869><c> here</c><00:01:48.229><c> is</c><00:01:48.259><c> just</c><00:01:48.619><c> going</c><00:01:48.770><c> to</c><00:01:48.919><c> be</c><00:01:49.039><c> equal</c><00:01:49.459><c> to</c>
+
+00:01:49.479 --> 00:01:49.489 align:start position:0%
+over here is just going to be equal to
+ 
+
+00:01:49.489 --> 00:01:54.129 align:start position:0%
+over here is just going to be equal to
+the<00:01:50.119><c> limit</c><00:01:50.450><c> as</c><00:01:51.219><c> X</c><00:01:52.219><c> goes</c><00:01:52.429><c> to</c><00:01:52.489><c> one</c><00:01:53.149><c> now</c><00:01:53.539><c> from</c><00:01:53.929><c> the</c>
+
+00:01:54.129 --> 00:01:54.139 align:start position:0%
+the limit as X goes to one now from the
+ 
+
+00:01:54.139 --> 00:01:59.620 align:start position:0%
+the limit as X goes to one now from the
+right<00:01:54.529><c> of</c><00:01:54.919><c> 2</c><00:01:55.729><c> X</c><00:01:55.909><c> minus</c><00:01:56.209><c> C</c><00:01:56.590><c> and</c><00:01:58.029><c> the</c><00:01:59.029><c> F</c><00:01:59.209><c> of</c><00:01:59.419><c> 1</c><00:01:59.599><c> is</c>
+
+00:01:59.620 --> 00:01:59.630 align:start position:0%
+right of 2 X minus C and the F of 1 is
+ 
+
+00:01:59.630 --> 00:02:00.909 align:start position:0%
+right of 2 X minus C and the F of 1 is
+just<00:01:59.779><c> going</c><00:01:59.989><c> to</c><00:02:00.079><c> be</c><00:02:00.139><c> plugging</c><00:02:00.380><c> in</c><00:02:00.529><c> here</c><00:02:00.770><c> this</c>
+
+00:02:00.909 --> 00:02:00.919 align:start position:0%
+just going to be plugging in here this
+ 
+
+00:02:00.919 --> 00:02:06.069 align:start position:0%
+just going to be plugging in here this
+is<00:02:00.979><c> going</c><00:02:01.159><c> to</c><00:02:01.219><c> be</c><00:02:01.309><c> equal</c><00:02:01.579><c> to</c><00:02:01.759><c> 2</c><00:02:02.509><c> minus</c><00:02:02.659><c> C</c><00:02:05.079><c> so</c>
+
+00:02:06.069 --> 00:02:06.079 align:start position:0%
+is going to be equal to 2 minus C so
+ 
+
+00:02:06.079 --> 00:02:07.149 align:start position:0%
+is going to be equal to 2 minus C so
+these<00:02:06.229><c> are</c><00:02:06.380><c> the</c><00:02:06.469><c> three</c><00:02:06.709><c> different</c><00:02:06.859><c> things</c>
+
+00:02:07.149 --> 00:02:07.159 align:start position:0%
+these are the three different things
+ 
+
+00:02:07.159 --> 00:02:10.029 align:start position:0%
+these are the three different things
+that<00:02:07.489><c> I</c><00:02:07.549><c> need</c><00:02:08.209><c> to</c><00:02:08.599><c> be</c><00:02:08.690><c> equal</c><00:02:09.170><c> ok</c><00:02:09.530><c> well</c><00:02:09.709><c> how</c><00:02:09.830><c> do</c><00:02:09.890><c> i</c>
+
+00:02:10.029 --> 00:02:10.039 align:start position:0%
+that I need to be equal ok well how do i
+ 
+
+00:02:10.039 --> 00:02:11.559 align:start position:0%
+that I need to be equal ok well how do i
+do<00:02:10.099><c> these</c><00:02:10.340><c> limits</c><00:02:10.729><c> both</c><00:02:10.880><c> of</c><00:02:11.060><c> these</c><00:02:11.180><c> limits</c>
+
+00:02:11.559 --> 00:02:11.569 align:start position:0%
+do these limits both of these limits
+ 
+
+00:02:11.569 --> 00:02:14.110 align:start position:0%
+do these limits both of these limits
+over<00:02:11.780><c> here</c><00:02:12.049><c> are</c><00:02:12.230><c> easy</c><00:02:13.069><c> in</c><00:02:13.459><c> the</c><00:02:13.640><c> sense</c><00:02:13.670><c> that</c>
+
+00:02:14.110 --> 00:02:14.120 align:start position:0%
+over here are easy in the sense that
+ 
+
+00:02:14.120 --> 00:02:16.540 align:start position:0%
+over here are easy in the sense that
+these<00:02:14.360><c> are</c><00:02:14.420><c> polynomials</c><00:02:14.870><c> so</c><00:02:15.799><c> that</c>
+
+00:02:16.540 --> 00:02:16.550 align:start position:0%
+these are polynomials so that
+ 
+
+00:02:16.550 --> 00:02:19.150 align:start position:0%
+these are polynomials so that
+ulis<00:02:16.850><c> so</c><00:02:17.450><c> the</c><00:02:17.570><c> computer</c><00:02:17.900><c> limit</c><00:02:18.170><c> I</c><00:02:18.350><c> just</c><00:02:18.830><c> plug</c>
+
+00:02:19.150 --> 00:02:19.160 align:start position:0%
+ulis so the computer limit I just plug
+ 
+
+00:02:19.160 --> 00:02:21.580 align:start position:0%
+ulis so the computer limit I just plug
+it<00:02:19.280><c> in</c><00:02:19.370><c> so</c><00:02:20.150><c> in</c><00:02:20.300><c> this</c><00:02:20.390><c> case</c><00:02:20.660><c> if</c><00:02:20.840><c> I</c><00:02:20.930><c> plug</c><00:02:21.200><c> in</c><00:02:21.350><c> one</c>
+
+00:02:21.580 --> 00:02:21.590 align:start position:0%
+it in so in this case if I plug in one
+ 
+
+00:02:21.590 --> 00:02:23.230 align:start position:0%
+it in so in this case if I plug in one
+for<00:02:21.620><c> the</c><00:02:21.830><c> value</c><00:02:22.160><c> of</c><00:02:22.310><c> X</c><00:02:22.490><c> so</c><00:02:22.700><c> this</c><00:02:22.820><c> is</c><00:02:22.880><c> equal</c><00:02:23.030><c> to</c>
+
+00:02:23.230 --> 00:02:23.240 align:start position:0%
+for the value of X so this is equal to
+ 
+
+00:02:23.240 --> 00:02:25.750 align:start position:0%
+for the value of X so this is equal to
+two<00:02:23.480><c> minus</c><00:02:23.690><c> C</c><00:02:24.110><c> the</c><00:02:24.980><c> same</c><00:02:25.190><c> value</c><00:02:25.550><c> as</c><00:02:25.580><c> the</c>
+
+00:02:25.750 --> 00:02:25.760 align:start position:0%
+two minus C the same value as the
+ 
+
+00:02:25.760 --> 00:02:26.920 align:start position:0%
+two minus C the same value as the
+function<00:02:26.090><c> value</c><00:02:26.360><c> as</c><00:02:26.510><c> we</c><00:02:26.660><c> would</c><00:02:26.780><c> have</c><00:02:26.840><c> expected</c>
+
+00:02:26.920 --> 00:02:26.930 align:start position:0%
+function value as we would have expected
+ 
+
+00:02:26.930 --> 00:02:29.680 align:start position:0%
+function value as we would have expected
+and<00:02:27.590><c> then</c><00:02:28.190><c> over</c><00:02:28.400><c> here</c><00:02:28.430><c> I'm</c><00:02:28.910><c> gonna</c><00:02:29.060><c> plug</c><00:02:29.330><c> in</c><00:02:29.480><c> one</c>
+
+00:02:29.680 --> 00:02:29.690 align:start position:0%
+and then over here I'm gonna plug in one
+ 
+
+00:02:29.690 --> 00:02:33.310 align:start position:0%
+and then over here I'm gonna plug in one
+and<00:02:29.840><c> I'm</c><00:02:29.900><c> gonna</c><00:02:30.020><c> get</c><00:02:30.200><c> c</c><00:02:30.620><c> plus</c><00:02:31.190><c> one</c><00:02:32.200><c> so</c><00:02:33.200><c> this</c>
+
+00:02:33.310 --> 00:02:33.320 align:start position:0%
+and I'm gonna get c plus one so this
+ 
+
+00:02:33.320 --> 00:02:35.470 align:start position:0%
+and I'm gonna get c plus one so this
+gives<00:02:33.650><c> me</c><00:02:33.740><c> an</c><00:02:34.070><c> equation</c><00:02:34.490><c> it</c><00:02:34.940><c> tells</c><00:02:35.180><c> me</c><00:02:35.330><c> that</c><00:02:35.360><c> I</c>
+
+00:02:35.470 --> 00:02:35.480 align:start position:0%
+gives me an equation it tells me that I
+ 
+
+00:02:35.480 --> 00:02:38.410 align:start position:0%
+gives me an equation it tells me that I
+want<00:02:35.780><c> C</c><00:02:36.080><c> plus</c><00:02:36.350><c> one</c><00:02:36.620><c> to</c><00:02:36.890><c> equal</c><00:02:37.280><c> to</c><00:02:37.670><c> minus</c><00:02:38.060><c> C</c><00:02:38.240><c> so</c>
+
+00:02:38.410 --> 00:02:38.420 align:start position:0%
+want C plus one to equal to minus C so
+ 
+
+00:02:38.420 --> 00:02:42.370 align:start position:0%
+want C plus one to equal to minus C so
+let's<00:02:38.600><c> do</c><00:02:38.720><c> that</c><00:02:38.750><c> we're</c><00:02:39.080><c> gonna</c><00:02:39.170><c> see</c><00:02:39.530><c> plus</c><00:02:39.740><c> 1</c><00:02:41.380><c> to</c>
+
+00:02:42.370 --> 00:02:42.380 align:start position:0%
+let's do that we're gonna see plus 1 to
+ 
+
+00:02:42.380 --> 00:02:46.540 align:start position:0%
+let's do that we're gonna see plus 1 to
+be<00:02:42.530><c> equal</c><00:02:42.560><c> to</c><00:02:43.070><c> two</c><00:02:44.060><c> minus</c><00:02:44.570><c> C</c><00:02:45.170><c> and</c><00:02:45.650><c> then</c><00:02:46.310><c> if</c><00:02:46.400><c> I</c><00:02:46.490><c> do</c>
+
+00:02:46.540 --> 00:02:46.550 align:start position:0%
+be equal to two minus C and then if I do
+ 
+
+00:02:46.550 --> 00:02:48.070 align:start position:0%
+be equal to two minus C and then if I do
+a<00:02:46.670><c> little</c><00:02:46.850><c> bit</c><00:02:47.000><c> of</c><00:02:47.090><c> manipulation</c><00:02:47.390><c> on</c><00:02:47.810><c> this</c>
+
+00:02:48.070 --> 00:02:48.080 align:start position:0%
+a little bit of manipulation on this
+ 
+
+00:02:48.080 --> 00:02:50.200 align:start position:0%
+a little bit of manipulation on this
+okay<00:02:48.350><c> I'm</c><00:02:48.470><c> gonna</c><00:02:48.560><c> move</c><00:02:48.740><c> this</c><00:02:49.040><c> C</c><00:02:49.340><c> over</c><00:02:49.790><c> and</c><00:02:50.000><c> this</c>
+
+00:02:50.200 --> 00:02:50.210 align:start position:0%
+okay I'm gonna move this C over and this
+ 
+
+00:02:50.210 --> 00:02:51.880 align:start position:0%
+okay I'm gonna move this C over and this
+one<00:02:50.600><c> I'm</c><00:02:50.750><c> gonna</c><00:02:50.870><c> subtract</c><00:02:51.290><c> off</c><00:02:51.500><c> so</c><00:02:51.740><c> I'm</c><00:02:51.800><c> gonna</c>
+
+00:02:51.880 --> 00:02:51.890 align:start position:0%
+one I'm gonna subtract off so I'm gonna
+ 
+
+00:02:51.890 --> 00:02:55.480 align:start position:0%
+one I'm gonna subtract off so I'm gonna
+have<00:02:52.070><c> a</c><00:02:52.100><c> two</c><00:02:52.940><c> C</c><00:02:53.270><c> is</c><00:02:53.540><c> equal</c><00:02:53.960><c> to</c><00:02:54.110><c> one</c><00:02:54.590><c> and</c><00:02:54.980><c> so</c>
+
+00:02:55.480 --> 00:02:55.490 align:start position:0%
+have a two C is equal to one and so
+ 
+
+00:02:55.490 --> 00:02:57.520 align:start position:0%
+have a two C is equal to one and so
+finally<00:02:55.880><c> I</c><00:02:55.910><c> have</c><00:02:56.120><c> C</c><00:02:56.540><c> equal</c><00:02:57.020><c> to</c><00:02:57.050><c> the</c><00:02:57.170><c> value</c><00:02:57.320><c> of</c>
+
+00:02:57.520 --> 00:02:57.530 align:start position:0%
+finally I have C equal to the value of
+ 
+
+00:02:57.530 --> 00:02:58.800 align:start position:0%
+finally I have C equal to the value of
+one<00:02:57.920><c> half</c>
+
+00:02:58.800 --> 00:02:58.810 align:start position:0%
+one half
+ 
+
+00:02:58.810 --> 00:03:02.260 align:start position:0%
+one half
+and<00:02:59.810><c> indeed</c><00:03:00.140><c> when</c><00:03:00.470><c> I</c><00:03:00.500><c> do</c><00:03:00.650><c> this</c><00:03:01.040><c> this</c><00:03:01.580><c> value</c><00:03:02.120><c> of</c>
+
+00:03:02.260 --> 00:03:02.270 align:start position:0%
+and indeed when I do this this value of
+ 
+
+00:03:02.270 --> 00:03:04.900 align:start position:0%
+and indeed when I do this this value of
+C<00:03:02.300><c> would</c><00:03:02.600><c> have</c><00:03:02.720><c> hat</c><00:03:02.870><c> it</c><00:03:03.200><c> fixes</c><00:03:03.770><c> the</c><00:03:04.160><c> potential</c>
+
+00:03:04.900 --> 00:03:04.910 align:start position:0%
+C would have hat it fixes the potential
+ 
+
+00:03:04.910 --> 00:03:07.180 align:start position:0%
+C would have hat it fixes the potential
+discontinuity<00:03:05.900><c> at</c><00:03:06.020><c> one</c><00:03:06.320><c> the</c><00:03:06.770><c> letter</c><00:03:06.950><c> from</c><00:03:07.070><c> the</c>
+
+00:03:07.180 --> 00:03:07.190 align:start position:0%
+discontinuity at one the letter from the
+ 
+
+00:03:07.190 --> 00:03:08.830 align:start position:0%
+discontinuity at one the letter from the
+left<00:03:07.400><c> is</c><00:03:07.580><c> equal</c><00:03:07.760><c> to</c><00:03:07.820><c> limit</c><00:03:07.970><c> from</c><00:03:08.150><c> the</c><00:03:08.210><c> right</c><00:03:08.300><c> so</c>
+
+00:03:08.830 --> 00:03:08.840 align:start position:0%
+left is equal to limit from the right so
+ 
+
+00:03:08.840 --> 00:03:11.020 align:start position:0%
+left is equal to limit from the right so
+yes<00:03:09.200><c> indeed</c><00:03:09.500><c> this</c><00:03:09.920><c> is</c><00:03:09.980><c> continuous</c><00:03:10.550><c> at</c><00:03:10.700><c> one</c><00:03:10.880><c> and</c>
+
+00:03:11.020 --> 00:03:11.030 align:start position:0%
+yes indeed this is continuous at one and
+ 
+
+00:03:11.030 --> 00:03:13.840 align:start position:0%
+yes indeed this is continuous at one and
+because<00:03:11.270><c> of</c><00:03:11.300><c> continuous</c><00:03:11.930><c> everywhere</c><00:03:12.500><c> else</c><00:03:13.070><c> as</c>
+
+00:03:13.840 --> 00:03:13.850 align:start position:0%
+because of continuous everywhere else as
+ 
+
+00:03:13.850 --> 00:03:16.030 align:start position:0%
+because of continuous everywhere else as
+they're<00:03:14.060><c> polynomials</c><00:03:14.690><c> it's</c><00:03:15.440><c> continuous</c>
+
+00:03:16.030 --> 00:03:16.040 align:start position:0%
+they're polynomials it's continuous
+ 
+
+00:03:16.040 --> 00:03:18.250 align:start position:0%
+they're polynomials it's continuous
+everywhere
+

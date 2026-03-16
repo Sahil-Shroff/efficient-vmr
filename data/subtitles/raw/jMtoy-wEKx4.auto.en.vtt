@@ -1,0 +1,200 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.120 --> 00:00:02.450 align:start position:0%
+ 
+the<00:00:00.659><c> sum</c><00:00:00.840><c> of</c><00:00:01.020><c> the</c><00:00:01.140><c> first</c><00:00:01.319><c> n</c><00:00:01.620><c> positive</c><00:00:02.040><c> integers</c>
+
+00:00:02.450 --> 00:00:02.460 align:start position:0%
+the sum of the first n positive integers
+ 
+
+00:00:02.460 --> 00:00:04.430 align:start position:0%
+the sum of the first n positive integers
+can<00:00:02.700><c> be</c><00:00:02.820><c> represented</c><00:00:03.300><c> by</c><00:00:03.480><c> a</c><00:00:03.659><c> triangular</c><00:00:04.080><c> array</c>
+
+00:00:04.430 --> 00:00:04.440 align:start position:0%
+can be represented by a triangular array
+ 
+
+00:00:04.440 --> 00:00:06.349 align:start position:0%
+can be represented by a triangular array
+of<00:00:04.560><c> dots</c><00:00:04.920><c> as</c><00:00:05.040><c> pictured</c><00:00:05.460><c> the</c><00:00:05.759><c> first</c><00:00:05.880><c> row</c><00:00:06.240><c> has</c>
+
+00:00:06.349 --> 00:00:06.359 align:start position:0%
+of dots as pictured the first row has
+ 
+
+00:00:06.359 --> 00:00:08.990 align:start position:0%
+of dots as pictured the first row has
+one<00:00:06.540><c> dot</c><00:00:06.839><c> and</c><00:00:06.960><c> the</c><00:00:07.080><c> nthrow</c><00:00:07.440><c> has</c><00:00:07.620><c> n</c><00:00:07.799><c> dots</c><00:00:08.280><c> we</c><00:00:08.820><c> can</c>
+
+00:00:08.990 --> 00:00:09.000 align:start position:0%
+one dot and the nthrow has n dots we can
+ 
+
+00:00:09.000 --> 00:00:11.150 align:start position:0%
+one dot and the nthrow has n dots we can
+also<00:00:09.300><c> add</c><00:00:09.480><c> the</c><00:00:09.660><c> N</c><00:00:09.840><c> plus</c><00:00:10.019><c> first</c><00:00:10.320><c> row</c><00:00:10.740><c> like</c><00:00:10.980><c> this</c>
+
+00:00:11.150 --> 00:00:11.160 align:start position:0%
+also add the N plus first row like this
+ 
+
+00:00:11.160 --> 00:00:13.310 align:start position:0%
+also add the N plus first row like this
+where<00:00:11.460><c> there</c><00:00:11.639><c> are</c><00:00:11.760><c> n</c><00:00:11.820><c> plus</c><00:00:12.000><c> one</c><00:00:12.240><c> dots</c><00:00:12.719><c> now</c><00:00:13.139><c> we</c>
+
+00:00:13.310 --> 00:00:13.320 align:start position:0%
+where there are n plus one dots now we
+ 
+
+00:00:13.320 --> 00:00:14.870 align:start position:0%
+where there are n plus one dots now we
+can<00:00:13.440><c> build</c><00:00:13.620><c> a</c><00:00:13.860><c> one-to-one</c><00:00:14.280><c> correspondence</c>
+
+00:00:14.870 --> 00:00:14.880 align:start position:0%
+can build a one-to-one correspondence
+ 
+
+00:00:14.880 --> 00:00:16.849 align:start position:0%
+can build a one-to-one correspondence
+between<00:00:15.179><c> the</c><00:00:15.420><c> dots</c><00:00:15.780><c> in</c><00:00:15.900><c> the</c><00:00:16.020><c> Triangular</c><00:00:16.500><c> array</c>
+
+00:00:16.849 --> 00:00:16.859 align:start position:0%
+between the dots in the Triangular array
+ 
+
+00:00:16.859 --> 00:00:18.410 align:start position:0%
+between the dots in the Triangular array
+representing<00:00:17.400><c> the</c><00:00:17.520><c> sum</c><00:00:17.699><c> of</c><00:00:17.820><c> the</c><00:00:18.000><c> first</c><00:00:18.119><c> n</c>
+
+00:00:18.410 --> 00:00:18.420 align:start position:0%
+representing the sum of the first n
+ 
+
+00:00:18.420 --> 00:00:20.390 align:start position:0%
+representing the sum of the first n
+positive<00:00:18.840><c> integers</c><00:00:19.260><c> and</c><00:00:19.560><c> pairs</c><00:00:19.859><c> of</c><00:00:19.980><c> dots</c><00:00:20.279><c> in</c>
+
+00:00:20.390 --> 00:00:20.400 align:start position:0%
+positive integers and pairs of dots in
+ 
+
+00:00:20.400 --> 00:00:22.790 align:start position:0%
+positive integers and pairs of dots in
+the<00:00:20.520><c> N</c><00:00:20.580><c> plus</c><00:00:20.760><c> first</c><00:00:21.000><c> row</c><00:00:21.480><c> the</c><00:00:21.900><c> dot</c><00:00:22.199><c> in</c><00:00:22.320><c> Row</c><00:00:22.619><c> 1</c>
+
+00:00:22.790 --> 00:00:22.800 align:start position:0%
+the N plus first row the dot in Row 1
+ 
+
+00:00:22.800 --> 00:00:25.009 align:start position:0%
+the N plus first row the dot in Row 1
+maps<00:00:23.400><c> to</c><00:00:23.580><c> the</c><00:00:23.699><c> pair</c><00:00:23.939><c> of</c><00:00:24.060><c> dots</c><00:00:24.420><c> in</c><00:00:24.539><c> row</c><00:00:24.720><c> N</c><00:00:24.840><c> plus</c>
+
+00:00:25.009 --> 00:00:25.019 align:start position:0%
+maps to the pair of dots in row N plus
+ 
+
+00:00:25.019 --> 00:00:27.769 align:start position:0%
+maps to the pair of dots in row N plus
+one<00:00:25.260><c> that</c><00:00:25.800><c> are</c><00:00:25.920><c> n</c><00:00:26.160><c> units</c><00:00:26.640><c> apart</c><00:00:26.880><c> the</c><00:00:27.180><c> two</c><00:00:27.359><c> dots</c>
+
+00:00:27.769 --> 00:00:27.779 align:start position:0%
+one that are n units apart the two dots
+ 
+
+00:00:27.779 --> 00:00:30.349 align:start position:0%
+one that are n units apart the two dots
+in<00:00:27.840><c> row</c><00:00:28.140><c> two</c><00:00:28.260><c> map</c><00:00:28.740><c> to</c><00:00:28.980><c> the</c><00:00:29.160><c> two</c><00:00:29.400><c> pairs</c><00:00:29.939><c> in</c><00:00:30.180><c> row</c>
+
+00:00:30.349 --> 00:00:30.359 align:start position:0%
+in row two map to the two pairs in row
+ 
+
+00:00:30.359 --> 00:00:32.269 align:start position:0%
+in row two map to the two pairs in row
+one<00:00:30.539><c> plus</c><00:00:30.660><c> one</c><00:00:30.840><c> that</c><00:00:31.199><c> are</c><00:00:31.320><c> n</c><00:00:31.439><c> minus</c><00:00:31.740><c> one</c><00:00:31.859><c> units</c>
+
+00:00:32.269 --> 00:00:32.279 align:start position:0%
+one plus one that are n minus one units
+ 
+
+00:00:32.279 --> 00:00:34.549 align:start position:0%
+one plus one that are n minus one units
+apart<00:00:32.579><c> this</c><00:00:33.120><c> process</c><00:00:33.360><c> continues</c><00:00:34.079><c> all</c><00:00:34.380><c> the</c><00:00:34.500><c> way</c>
+
+00:00:34.549 --> 00:00:34.559 align:start position:0%
+apart this process continues all the way
+ 
+
+00:00:34.559 --> 00:00:37.150 align:start position:0%
+apart this process continues all the way
+down<00:00:34.860><c> until</c><00:00:35.219><c> we</c><00:00:35.520><c> see</c><00:00:35.640><c> the</c><00:00:35.880><c> dots</c><00:00:36.239><c> in</c><00:00:36.420><c> row</c><00:00:36.780><c> N</c>
+
+00:00:37.150 --> 00:00:37.160 align:start position:0%
+down until we see the dots in row N
+ 
+
+00:00:37.160 --> 00:00:40.069 align:start position:0%
+down until we see the dots in row N
+correspond<00:00:38.160><c> to</c><00:00:38.399><c> the</c><00:00:38.700><c> pairs</c><00:00:39.120><c> of</c><00:00:39.360><c> dots</c><00:00:39.719><c> in</c><00:00:39.780><c> row</c><00:00:39.960><c> N</c>
+
+00:00:40.069 --> 00:00:40.079 align:start position:0%
+correspond to the pairs of dots in row N
+ 
+
+00:00:40.079 --> 00:00:42.650 align:start position:0%
+correspond to the pairs of dots in row N
+plus<00:00:40.260><c> one</c><00:00:40.500><c> that</c><00:00:41.040><c> are</c><00:00:41.160><c> one</c><00:00:41.340><c> unit</c><00:00:41.520><c> apart</c><00:00:42.000><c> sure</c>
+
+00:00:42.650 --> 00:00:42.660 align:start position:0%
+plus one that are one unit apart sure
+ 
+
+00:00:42.660 --> 00:00:44.450 align:start position:0%
+plus one that are one unit apart sure
+enough<00:00:42.840><c> we've</c><00:00:43.260><c> mapped</c><00:00:43.620><c> to</c><00:00:43.739><c> every</c><00:00:44.040><c> possible</c>
+
+00:00:44.450 --> 00:00:44.460 align:start position:0%
+enough we've mapped to every possible
+ 
+
+00:00:44.460 --> 00:00:47.150 align:start position:0%
+enough we've mapped to every possible
+pair<00:00:45.000><c> of</c><00:00:45.360><c> two</c><00:00:45.600><c> dots</c><00:00:46.079><c> in</c><00:00:46.260><c> row</c><00:00:46.559><c> N</c><00:00:46.680><c> plus</c><00:00:46.860><c> one</c>
+
+00:00:47.150 --> 00:00:47.160 align:start position:0%
+pair of two dots in row N plus one
+ 
+
+00:00:47.160 --> 00:00:49.069 align:start position:0%
+pair of two dots in row N plus one
+therefore<00:00:47.940><c> the</c><00:00:48.120><c> sum</c><00:00:48.360><c> of</c><00:00:48.480><c> the</c><00:00:48.600><c> first</c><00:00:48.780><c> and</c>
+
+00:00:49.069 --> 00:00:49.079 align:start position:0%
+therefore the sum of the first and
+ 
+
+00:00:49.079 --> 00:00:50.990 align:start position:0%
+therefore the sum of the first and
+positive<00:00:49.559><c> integers</c><00:00:49.980><c> must</c><00:00:50.280><c> be</c><00:00:50.399><c> n</c><00:00:50.579><c> plus</c><00:00:50.760><c> one</c>
+
+00:00:50.990 --> 00:00:51.000 align:start position:0%
+positive integers must be n plus one
+ 
+
+00:00:51.000 --> 00:00:53.029 align:start position:0%
+positive integers must be n plus one
+choose<00:00:51.420><c> two</c><00:00:51.600><c> which</c><00:00:52.020><c> is</c><00:00:52.140><c> n</c><00:00:52.260><c> plus</c><00:00:52.440><c> one</c><00:00:52.620><c> times</c><00:00:52.860><c> n</c>
+
+00:00:53.029 --> 00:00:53.039 align:start position:0%
+choose two which is n plus one times n
+ 
+
+00:00:53.039 --> 00:00:55.760 align:start position:0%
+choose two which is n plus one times n
+divided<00:00:53.460><c> by</c><00:00:53.579><c> two</c>
+

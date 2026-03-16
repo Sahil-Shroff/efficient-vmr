@@ -1,0 +1,240 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.280 --> 00:00:02.909 align:start position:0%
+ 
+let's<00:00:00.560><c> solve</c><00:00:01.000><c> this</c><00:00:01.240><c> derivative</c><00:00:01.760><c> step</c><00:00:02.200><c> by</c><00:00:02.560><c> step</c>
+
+00:00:02.909 --> 00:00:02.919 align:start position:0%
+let's solve this derivative step by step
+ 
+
+00:00:02.919 --> 00:00:05.269 align:start position:0%
+let's solve this derivative step by step
+using<00:00:03.199><c> the</c><00:00:03.360><c> product</c><00:00:03.719><c> rule</c><00:00:04.560><c> we</c><00:00:04.680><c> want</c><00:00:04.799><c> to</c><00:00:05.000><c> find</c>
+
+00:00:05.269 --> 00:00:05.279 align:start position:0%
+using the product rule we want to find
+ 
+
+00:00:05.279 --> 00:00:10.549 align:start position:0%
+using the product rule we want to find
+the<00:00:05.480><c> derivative</c><00:00:06.440><c> of</c><00:00:06.720><c> x^2</c><00:00:07.640><c> *</c><00:00:08.480><c> cine</c><00:00:08.920><c> X</c><00:00:09.800><c> to</c><00:00:10.120><c> solve</c>
+
+00:00:10.549 --> 00:00:10.559 align:start position:0%
+the derivative of x^2 * cine X to solve
+ 
+
+00:00:10.559 --> 00:00:13.190 align:start position:0%
+the derivative of x^2 * cine X to solve
+this<00:00:11.040><c> we'll</c><00:00:11.280><c> use</c><00:00:11.519><c> the</c><00:00:11.719><c> product</c><00:00:12.080><c> rule</c><00:00:12.960><c> the</c>
+
+00:00:13.190 --> 00:00:13.200 align:start position:0%
+this we'll use the product rule the
+ 
+
+00:00:13.200 --> 00:00:15.470 align:start position:0%
+this we'll use the product rule the
+product<00:00:13.759><c> rule</c><00:00:14.160><c> states</c><00:00:14.679><c> that</c><00:00:14.799><c> the</c><00:00:14.960><c> derivative</c>
+
+00:00:15.470 --> 00:00:15.480 align:start position:0%
+product rule states that the derivative
+ 
+
+00:00:15.480 --> 00:00:18.070 align:start position:0%
+product rule states that the derivative
+of<00:00:15.559><c> a</c><00:00:15.759><c> product</c><00:00:16.160><c> of</c><00:00:16.400><c> two</c><00:00:16.800><c> functions</c><00:00:17.439><c> equals</c><00:00:17.880><c> the</c>
+
+00:00:18.070 --> 00:00:18.080 align:start position:0%
+of a product of two functions equals the
+ 
+
+00:00:18.080 --> 00:00:20.109 align:start position:0%
+of a product of two functions equals the
+first<00:00:18.480><c> function</c><00:00:19.000><c> time</c><00:00:19.359><c> the</c><00:00:19.520><c> derivative</c><00:00:19.960><c> of</c>
+
+00:00:20.109 --> 00:00:20.119 align:start position:0%
+first function time the derivative of
+ 
+
+00:00:20.119 --> 00:00:23.230 align:start position:0%
+first function time the derivative of
+the<00:00:20.359><c> second</c><00:00:21.359><c> plus</c><00:00:21.640><c> the</c><00:00:21.800><c> second</c><00:00:22.160><c> function</c><00:00:22.840><c> time</c>
+
+00:00:23.230 --> 00:00:23.240 align:start position:0%
+the second plus the second function time
+ 
+
+00:00:23.240 --> 00:00:25.550 align:start position:0%
+the second plus the second function time
+the<00:00:23.400><c> derivative</c><00:00:23.920><c> of</c><00:00:24.119><c> the</c><00:00:24.279><c> first</c><00:00:25.240><c> let's</c>
+
+00:00:25.550 --> 00:00:25.560 align:start position:0%
+the derivative of the first let's
+ 
+
+00:00:25.560 --> 00:00:30.470 align:start position:0%
+the derivative of the first let's
+identify<00:00:26.240><c> our</c><00:00:26.640><c> functions</c><00:00:27.640><c> let</c><00:00:27.920><c> U</c><00:00:28.119><c> of</c><00:00:28.439><c> X</c><00:00:28.840><c> =</c><00:00:29.240><c> x^2</c>
+
+00:00:30.470 --> 00:00:30.480 align:start position:0%
+identify our functions let U of X = x^2
+ 
+
+00:00:30.480 --> 00:00:34.790 align:start position:0%
+identify our functions let U of X = x^2
+and<00:00:30.720><c> V</c><00:00:30.960><c> ofx</c><00:00:31.480><c> =</c><00:00:31.920><c> cosine</c><00:00:32.320><c> X</c><00:00:33.320><c> now</c><00:00:33.920><c> let's</c><00:00:34.280><c> find</c><00:00:34.600><c> the</c>
+
+00:00:34.790 --> 00:00:34.800 align:start position:0%
+and V ofx = cosine X now let's find the
+ 
+
+00:00:34.800 --> 00:00:38.030 align:start position:0%
+and V ofx = cosine X now let's find the
+derivatives<00:00:35.520><c> of</c><00:00:35.879><c> each</c><00:00:36.280><c> function</c><00:00:37.040><c> separately</c>
+
+00:00:38.030 --> 00:00:38.040 align:start position:0%
+derivatives of each function separately
+ 
+
+00:00:38.040 --> 00:00:41.110 align:start position:0%
+derivatives of each function separately
+the<00:00:38.160><c> derivative</c><00:00:38.719><c> of</c><00:00:38.920><c> x^2</c><00:00:39.559><c> is</c><00:00:39.840><c> 2X</c><00:00:40.840><c> and</c><00:00:41.000><c> the</c>
+
+00:00:41.110 --> 00:00:41.120 align:start position:0%
+the derivative of x^2 is 2X and the
+ 
+
+00:00:41.120 --> 00:00:45.229 align:start position:0%
+the derivative of x^2 is 2X and the
+derivative<00:00:41.559><c> of</c><00:00:41.800><c> cosine</c><00:00:42.200><c> X</c><00:00:42.879><c> is</c><00:00:43.920><c> sinx</c><00:00:44.920><c> let's</c>
+
+00:00:45.229 --> 00:00:45.239 align:start position:0%
+derivative of cosine X is sinx let's
+ 
+
+00:00:45.239 --> 00:00:47.790 align:start position:0%
+derivative of cosine X is sinx let's
+substitute<00:00:45.960><c> these</c><00:00:46.199><c> into</c><00:00:46.440><c> the</c><00:00:46.600><c> product</c><00:00:46.920><c> rule</c>
+
+00:00:47.790 --> 00:00:47.800 align:start position:0%
+substitute these into the product rule
+ 
+
+00:00:47.800 --> 00:00:54.229 align:start position:0%
+substitute these into the product rule
+we<00:00:48.000><c> get</c><00:00:48.239><c> x^2</c><00:00:48.920><c> *</c><00:00:50.039><c> sinx</c><00:00:51.039><c> plus</c><00:00:51.399><c> cosine</c><00:00:51.800><c> x</c><00:00:52.079><c> *</c><00:00:52.719><c> 2x</c><00:00:53.719><c> now</c>
+
+00:00:54.229 --> 00:00:54.239 align:start position:0%
+we get x^2 * sinx plus cosine x * 2x now
+ 
+
+00:00:54.239 --> 00:00:57.470 align:start position:0%
+we get x^2 * sinx plus cosine x * 2x now
+let's<00:00:54.600><c> simplify</c><00:00:55.199><c> this</c><00:00:55.680><c> expression</c><00:00:56.680><c> first</c>
+
+00:00:57.470 --> 00:00:57.480 align:start position:0%
+let's simplify this expression first
+ 
+
+00:00:57.480 --> 00:01:00.509 align:start position:0%
+let's simplify this expression first
+we'll<00:00:57.760><c> rearrange</c><00:00:58.320><c> the</c><00:00:58.440><c> terms</c><00:00:58.719><c> to</c><00:00:58.920><c> get</c><00:00:59.199><c> 2X</c><00:01:00.079><c> cine</c>
+
+00:01:00.509 --> 00:01:00.519 align:start position:0%
+we'll rearrange the terms to get 2X cine
+ 
+
+00:01:00.519 --> 00:01:05.670 align:start position:0%
+we'll rearrange the terms to get 2X cine
+x<00:01:01.000><c> -</c><00:01:01.559><c> x^2</c><00:01:02.320><c> sin</c><00:01:02.800><c> x</c><00:01:03.800><c> finally</c><00:01:04.680><c> we</c><00:01:04.799><c> can</c><00:01:05.119><c> factor</c><00:01:05.439><c> out</c>
+
+00:01:05.670 --> 00:01:05.680 align:start position:0%
+x - x^2 sin x finally we can factor out
+ 
+
+00:01:05.680 --> 00:01:09.550 align:start position:0%
+x - x^2 sin x finally we can factor out
+an<00:01:05.920><c> X</c><00:01:06.880><c> this</c><00:01:07.119><c> gives</c><00:01:07.320><c> us</c><00:01:07.680><c> x</c><00:01:08.040><c> *</c><00:01:08.439><c> the</c><00:01:08.600><c> quantity</c><00:01:09.080><c> 2</c>
+
+00:01:09.550 --> 00:01:09.560 align:start position:0%
+an X this gives us x * the quantity 2
+ 
+
+00:01:09.560 --> 00:01:14.230 align:start position:0%
+an X this gives us x * the quantity 2
+cosine<00:01:10.119><c> x</c><00:01:10.759><c> -</c><00:01:11.360><c> x</c><00:01:11.720><c> sin</c><00:01:12.040><c> x</c><00:01:13.000><c> let's</c><00:01:13.320><c> visualize</c><00:01:13.960><c> how</c>
+
+00:01:14.230 --> 00:01:14.240 align:start position:0%
+cosine x - x sin x let's visualize how
+ 
+
+00:01:14.240 --> 00:01:16.590 align:start position:0%
+cosine x - x sin x let's visualize how
+this<00:01:14.479><c> derivative</c><00:01:15.000><c> works</c><00:01:15.320><c> with</c><00:01:15.439><c> a</c><00:01:15.640><c> graph</c>
+
+00:01:16.590 --> 00:01:16.600 align:start position:0%
+this derivative works with a graph
+ 
+
+00:01:16.600 --> 00:01:19.910 align:start position:0%
+this derivative works with a graph
+here's<00:01:16.880><c> the</c><00:01:17.040><c> original</c><00:01:17.520><c> function</c><00:01:18.159><c> x^2</c><00:01:19.159><c> cine</c><00:01:19.640><c> X</c>
+
+00:01:19.910 --> 00:01:19.920 align:start position:0%
+here's the original function x^2 cine X
+ 
+
+00:01:19.920 --> 00:01:23.469 align:start position:0%
+here's the original function x^2 cine X
+in<00:01:20.119><c> blue</c><00:01:21.000><c> and</c><00:01:21.159><c> it's</c><00:01:21.439><c> derivative</c><00:01:21.920><c> in</c><00:01:22.159><c> red</c><00:01:23.000><c> to</c>
+
+00:01:23.469 --> 00:01:23.479 align:start position:0%
+in blue and it's derivative in red to
+ 
+
+00:01:23.479 --> 00:01:26.190 align:start position:0%
+in blue and it's derivative in red to
+summarize<00:01:24.479><c> we</c><00:01:24.600><c> use</c><00:01:24.880><c> the</c><00:01:25.040><c> product</c><00:01:25.400><c> rule</c><00:01:26.000><c> to</c>
+
+00:01:26.190 --> 00:01:26.200 align:start position:0%
+summarize we use the product rule to
+ 
+
+00:01:26.200 --> 00:01:30.230 align:start position:0%
+summarize we use the product rule to
+find<00:01:26.439><c> the</c><00:01:26.640><c> derivative</c><00:01:27.560><c> of</c><00:01:27.840><c> x^2</c><00:01:28.720><c> cosine</c><00:01:29.159><c> X</c><00:01:30.000><c> we</c>
+
+00:01:30.230 --> 00:01:30.240 align:start position:0%
+find the derivative of x^2 cosine X we
+ 
+
+00:01:30.240 --> 00:01:32.230 align:start position:0%
+find the derivative of x^2 cosine X we
+identified<00:01:30.920><c> our</c><00:01:31.119><c> functions</c><00:01:31.640><c> found</c><00:01:31.920><c> their</c>
+
+00:01:32.230 --> 00:01:32.240 align:start position:0%
+identified our functions found their
+ 
+
+00:01:32.240 --> 00:01:34.389 align:start position:0%
+identified our functions found their
+individual<00:01:32.880><c> derivatives</c><00:01:33.840><c> applied</c><00:01:34.200><c> the</c>
+
+00:01:34.389 --> 00:01:34.399 align:start position:0%
+individual derivatives applied the
+ 
+
+00:01:34.399 --> 00:01:37.310 align:start position:0%
+individual derivatives applied the
+product<00:01:34.799><c> rule</c><00:01:35.799><c> and</c><00:01:36.119><c> simplified</c><00:01:36.759><c> our</c><00:01:36.960><c> result</c>
+
+00:01:37.310 --> 00:01:37.320 align:start position:0%
+product rule and simplified our result
+ 
+
+00:01:37.320 --> 00:01:41.399 align:start position:0%
+product rule and simplified our result
+to<00:01:37.479><c> get</c><00:01:37.640><c> our</c><00:01:38.000><c> final</c><00:01:38.399><c> answer</c>
+

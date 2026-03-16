@@ -1,0 +1,320 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.280 --> 00:00:03.030 align:start position:0%
+ 
+let's<00:00:00.560><c> solve</c><00:00:00.880><c> the</c><00:00:01.079><c> step</c><00:00:01.400><c> by</c><00:00:01.680><c> step</c><00:00:02.480><c> we</c><00:00:02.639><c> need</c><00:00:02.840><c> to</c>
+
+00:00:03.030 --> 00:00:03.040 align:start position:0%
+let's solve the step by step we need to
+ 
+
+00:00:03.040 --> 00:00:06.789 align:start position:0%
+let's solve the step by step we need to
+find<00:00:03.360><c> the</c><00:00:03.560><c> derivative</c><00:00:04.040><c> of</c><00:00:04.359><c> cine</c><00:00:04.880><c> 2</c><00:00:05.319><c> of</c><00:00:05.799><c> x^2</c>
+
+00:00:06.789 --> 00:00:06.799 align:start position:0%
+find the derivative of cine 2 of x^2
+ 
+
+00:00:06.799 --> 00:00:08.549 align:start position:0%
+find the derivative of cine 2 of x^2
+first<00:00:07.200><c> let's</c><00:00:07.839><c> understand</c><00:00:08.240><c> what</c><00:00:08.360><c> we're</c>
+
+00:00:08.549 --> 00:00:08.559 align:start position:0%
+first let's understand what we're
+ 
+
+00:00:08.559 --> 00:00:10.990 align:start position:0%
+first let's understand what we're
+dealing<00:00:08.960><c> with</c><00:00:09.760><c> this</c><00:00:09.880><c> is</c><00:00:10.040><c> a</c><00:00:10.320><c> composite</c>
+
+00:00:10.990 --> 00:00:11.000 align:start position:0%
+dealing with this is a composite
+ 
+
+00:00:11.000 --> 00:00:14.390 align:start position:0%
+dealing with this is a composite
+function<00:00:11.400><c> we</c><00:00:11.559><c> have</c><00:00:11.880><c> cosine</c><00:00:12.559><c> squar</c><00:00:13.559><c> and</c><00:00:13.839><c> inside</c>
+
+00:00:14.390 --> 00:00:14.400 align:start position:0%
+function we have cosine squar and inside
+ 
+
+00:00:14.400 --> 00:00:17.109 align:start position:0%
+function we have cosine squar and inside
+that<00:00:14.639><c> we</c><00:00:14.799><c> have</c><00:00:15.199><c> X2</c><00:00:16.199><c> we'll</c><00:00:16.400><c> need</c><00:00:16.560><c> to</c><00:00:16.720><c> use</c><00:00:17.000><c> the</c>
+
+00:00:17.109 --> 00:00:17.119 align:start position:0%
+that we have X2 we'll need to use the
+ 
+
+00:00:17.119 --> 00:00:19.630 align:start position:0%
+that we have X2 we'll need to use the
+chain<00:00:17.439><c> rule</c><00:00:17.840><c> here</c><00:00:18.560><c> let's</c><00:00:18.800><c> apply</c><00:00:19.119><c> the</c><00:00:19.279><c> chain</c>
+
+00:00:19.630 --> 00:00:19.640 align:start position:0%
+chain rule here let's apply the chain
+ 
+
+00:00:19.640 --> 00:00:22.710 align:start position:0%
+chain rule here let's apply the chain
+rule<00:00:20.480><c> the</c><00:00:20.680><c> chain</c><00:00:21.119><c> rule</c><00:00:21.680><c> tells</c><00:00:22.000><c> us</c><00:00:22.240><c> that</c><00:00:22.400><c> we</c>
+
+00:00:22.710 --> 00:00:22.720 align:start position:0%
+rule the chain rule tells us that we
+ 
+
+00:00:22.720 --> 00:00:24.750 align:start position:0%
+rule the chain rule tells us that we
+multiply<00:00:23.400><c> the</c><00:00:23.560><c> derivative</c><00:00:24.119><c> of</c><00:00:24.240><c> the</c><00:00:24.400><c> outer</c>
+
+00:00:24.750 --> 00:00:24.760 align:start position:0%
+multiply the derivative of the outer
+ 
+
+00:00:24.760 --> 00:00:27.189 align:start position:0%
+multiply the derivative of the outer
+function<00:00:25.160><c> with</c><00:00:25.359><c> respect</c><00:00:25.680><c> to</c><00:00:25.880><c> U</c><00:00:26.599><c> times</c><00:00:27.000><c> the</c>
+
+00:00:27.189 --> 00:00:27.199 align:start position:0%
+function with respect to U times the
+ 
+
+00:00:27.199 --> 00:00:28.750 align:start position:0%
+function with respect to U times the
+derivative<00:00:27.640><c> of</c><00:00:27.760><c> the</c><00:00:27.840><c> inner</c><00:00:28.160><c> function</c><00:00:28.560><c> with</c>
+
+00:00:28.750 --> 00:00:28.760 align:start position:0%
+derivative of the inner function with
+ 
+
+00:00:28.760 --> 00:00:31.669 align:start position:0%
+derivative of the inner function with
+respect<00:00:29.119><c> to</c><00:00:29.400><c> X</c><00:00:30.279><c> let's</c><00:00:30.599><c> find</c><00:00:30.880><c> the</c><00:00:31.080><c> derivative</c>
+
+00:00:31.669 --> 00:00:31.679 align:start position:0%
+respect to X let's find the derivative
+ 
+
+00:00:31.679 --> 00:00:34.069 align:start position:0%
+respect to X let's find the derivative
+of<00:00:31.840><c> the</c><00:00:32.040><c> outer</c><00:00:32.480><c> function</c><00:00:32.960><c> first</c><00:00:33.800><c> to</c>
+
+00:00:34.069 --> 00:00:34.079 align:start position:0%
+of the outer function first to
+ 
+
+00:00:34.079 --> 00:00:36.750 align:start position:0%
+of the outer function first to
+differentiate<00:00:34.879><c> cosine</c><00:00:35.360><c> squar</c><00:00:36.120><c> we</c><00:00:36.320><c> use</c><00:00:36.559><c> the</c>
+
+00:00:36.750 --> 00:00:36.760 align:start position:0%
+differentiate cosine squar we use the
+ 
+
+00:00:36.760 --> 00:00:40.229 align:start position:0%
+differentiate cosine squar we use the
+power<00:00:37.200><c> rule</c><00:00:38.200><c> the</c><00:00:38.399><c> power</c><00:00:38.760><c> comes</c><00:00:39.040><c> down</c><00:00:39.239><c> in</c><00:00:39.399><c> front</c>
+
+00:00:40.229 --> 00:00:40.239 align:start position:0%
+power rule the power comes down in front
+ 
+
+00:00:40.239 --> 00:00:43.510 align:start position:0%
+power rule the power comes down in front
+and<00:00:40.399><c> we</c><00:00:40.719><c> multiply</c><00:00:41.559><c> by</c><00:00:42.200><c> the</c><00:00:42.399><c> derivative</c><00:00:43.320><c> of</c>
+
+00:00:43.510 --> 00:00:43.520 align:start position:0%
+and we multiply by the derivative of
+ 
+
+00:00:43.520 --> 00:00:46.110 align:start position:0%
+and we multiply by the derivative of
+what's<00:00:44.000><c> inside</c><00:00:45.000><c> so</c><00:00:45.239><c> the</c><00:00:45.399><c> derivative</c><00:00:45.800><c> of</c>
+
+00:00:46.110 --> 00:00:46.120 align:start position:0%
+what's inside so the derivative of
+ 
+
+00:00:46.120 --> 00:00:50.110 align:start position:0%
+what's inside so the derivative of
+cosine<00:00:46.520><c> 2</c><00:00:46.879><c> of</c><00:00:47.039><c> U</c><00:00:47.520><c> is</c><00:00:47.719><c> 2</c><00:00:48.320><c> cosine</c><00:00:48.920><c> of</c><00:00:49.120><c> U</c><00:00:49.480><c> *</c><00:00:49.960><c> the</c>
+
+00:00:50.110 --> 00:00:50.120 align:start position:0%
+cosine 2 of U is 2 cosine of U * the
+ 
+
+00:00:50.120 --> 00:00:52.549 align:start position:0%
+cosine 2 of U is 2 cosine of U * the
+derivative<00:00:50.600><c> of</c><00:00:50.879><c> cosine</c><00:00:51.239><c> of</c><00:00:51.440><c> U</c><00:00:52.079><c> which</c><00:00:52.239><c> is</c>
+
+00:00:52.549 --> 00:00:52.559 align:start position:0%
+derivative of cosine of U which is
+ 
+
+00:00:52.559 --> 00:00:55.709 align:start position:0%
+derivative of cosine of U which is
+negative<00:00:53.000><c> s</c><00:00:53.199><c> of</c><00:00:53.359><c> U</c><00:00:54.320><c> now</c><00:00:54.960><c> for</c><00:00:55.160><c> the</c><00:00:55.320><c> inner</c>
+
+00:00:55.709 --> 00:00:55.719 align:start position:0%
+negative s of U now for the inner
+ 
+
+00:00:55.719 --> 00:00:58.750 align:start position:0%
+negative s of U now for the inner
+function<00:00:56.680><c> the</c><00:00:56.840><c> derivative</c><00:00:57.359><c> of</c><00:00:57.520><c> x^2</c><00:00:58.199><c> is</c><00:00:58.399><c> simply</c>
+
+00:00:58.750 --> 00:00:58.760 align:start position:0%
+function the derivative of x^2 is simply
+ 
+
+00:00:58.760 --> 00:01:02.630 align:start position:0%
+function the derivative of x^2 is simply
+2X<00:01:00.160><c> now</c><00:01:00.440><c> let's</c><00:01:00.719><c> put</c><00:01:00.840><c> it</c><00:01:01.000><c> all</c><00:01:01.320><c> together</c><00:01:02.199><c> we</c>
+
+00:01:02.630 --> 00:01:02.640 align:start position:0%
+2X now let's put it all together we
+ 
+
+00:01:02.640 --> 00:01:06.469 align:start position:0%
+2X now let's put it all together we
+multiply<00:01:03.640><c> -2</c><00:01:04.239><c> cosine</c><00:01:04.600><c> of</c><00:01:04.760><c> u</c><00:01:05.000><c> s</c><00:01:05.239><c> of</c><00:01:05.400><c> U</c><00:01:06.000><c> where</c><00:01:06.240><c> U</c>
+
+00:01:06.469 --> 00:01:06.479 align:start position:0%
+multiply -2 cosine of u s of U where U
+ 
+
+00:01:06.479 --> 00:01:12.109 align:start position:0%
+multiply -2 cosine of u s of U where U
+is<00:01:07.080><c> x^2</c><00:01:08.080><c> *</c><00:01:08.799><c> 2x</c><00:01:09.799><c> this</c><00:01:10.000><c> gives</c><00:01:10.200><c> us</c><00:01:10.759><c> -2</c><00:01:11.400><c> cosine</c><00:01:11.920><c> of</c>
+
+00:01:12.109 --> 00:01:12.119 align:start position:0%
+is x^2 * 2x this gives us -2 cosine of
+ 
+
+00:01:12.119 --> 00:01:17.270 align:start position:0%
+is x^2 * 2x this gives us -2 cosine of
+x^2<00:01:12.840><c> sin</c><00:01:13.280><c> of</c><00:01:13.520><c> x^2</c><00:01:14.320><c> *</c><00:01:15.000><c> 2x</c><00:01:16.000><c> let's</c><00:01:16.320><c> simplify</c><00:01:17.000><c> this</c>
+
+00:01:17.270 --> 00:01:17.280 align:start position:0%
+x^2 sin of x^2 * 2x let's simplify this
+ 
+
+00:01:17.280 --> 00:01:20.030 align:start position:0%
+x^2 sin of x^2 * 2x let's simplify this
+expression<00:01:18.280><c> we</c><00:01:18.400><c> can</c><00:01:18.640><c> rearrange</c><00:01:19.360><c> the</c><00:01:19.520><c> terms</c><00:01:19.840><c> to</c>
+
+00:01:20.030 --> 00:01:20.040 align:start position:0%
+expression we can rearrange the terms to
+ 
+
+00:01:20.040 --> 00:01:26.190 align:start position:0%
+expression we can rearrange the terms to
+get<00:01:20.560><c> -2X</c><00:01:21.520><c> *</c><00:01:22.280><c> 2</c><00:01:22.680><c> sin</c><00:01:23.000><c> of</c><00:01:23.280><c> x^2</c><00:01:24.119><c> cosine</c><00:01:24.560><c> of</c><00:01:25.200><c> x^2</c>
+
+00:01:26.190 --> 00:01:26.200 align:start position:0%
+get -2X * 2 sin of x^2 cosine of x^2
+ 
+
+00:01:26.200 --> 00:01:28.590 align:start position:0%
+get -2X * 2 sin of x^2 cosine of x^2
+finally<00:01:26.880><c> we</c><00:01:27.040><c> can</c><00:01:27.240><c> use</c><00:01:27.600><c> the</c><00:01:27.840><c> double</c><00:01:28.159><c> angle</c>
+
+00:01:28.590 --> 00:01:28.600 align:start position:0%
+finally we can use the double angle
+ 
+
+00:01:28.600 --> 00:01:31.670 align:start position:0%
+finally we can use the double angle
+formula<00:01:29.600><c> remember</c><00:01:29.920><c> remember</c><00:01:30.640><c> that</c><00:01:30.840><c> 2</c><00:01:31.280><c> sin</c><00:01:31.520><c> of</c>
+
+00:01:31.670 --> 00:01:31.680 align:start position:0%
+formula remember remember that 2 sin of
+ 
+
+00:01:31.680 --> 00:01:37.230 align:start position:0%
+formula remember remember that 2 sin of
+x<00:01:32.119><c> cosine</c><00:01:32.640><c> of</c><00:01:32.920><c> x</c><00:01:33.439><c> =</c><00:01:33.960><c> sin</c><00:01:34.479><c> of</c><00:01:35.200><c> 2x</c><00:01:36.200><c> so</c><00:01:36.479><c> our</c><00:01:36.799><c> final</c>
+
+00:01:37.230 --> 00:01:37.240 align:start position:0%
+x cosine of x = sin of 2x so our final
+ 
+
+00:01:37.240 --> 00:01:40.230 align:start position:0%
+x cosine of x = sin of 2x so our final
+answer<00:01:37.560><c> is</c><00:01:38.200><c> -2X</c><00:01:39.079><c> sin</c><00:01:39.439><c> of</c>
+
+00:01:40.230 --> 00:01:40.240 align:start position:0%
+answer is -2X sin of
+ 
+
+00:01:40.240 --> 00:01:43.469 align:start position:0%
+answer is -2X sin of
+2x^2<00:01:41.240><c> and</c><00:01:41.479><c> there</c><00:01:41.600><c> we</c><00:01:41.880><c> have</c><00:01:42.040><c> it</c><00:01:42.840><c> we've</c><00:01:43.119><c> found</c>
+
+00:01:43.469 --> 00:01:43.479 align:start position:0%
+2x^2 and there we have it we've found
+ 
+
+00:01:43.479 --> 00:01:46.429 align:start position:0%
+2x^2 and there we have it we've found
+the<00:01:43.719><c> derivative</c><00:01:44.719><c> using</c><00:01:45.040><c> the</c><00:01:45.200><c> chain</c><00:01:45.520><c> Rule</c><00:01:46.280><c> and</c>
+
+00:01:46.429 --> 00:01:46.439 align:start position:0%
+the derivative using the chain Rule and
+ 
+
+00:01:46.439 --> 00:01:49.069 align:start position:0%
+the derivative using the chain Rule and
+the<00:01:46.640><c> double</c><00:01:46.920><c> angle</c><00:01:47.479><c> formula</c><00:01:48.479><c> let's</c><00:01:48.759><c> review</c>
+
+00:01:49.069 --> 00:01:49.079 align:start position:0%
+the double angle formula let's review
+ 
+
+00:01:49.079 --> 00:01:51.670 align:start position:0%
+the double angle formula let's review
+the<00:01:49.240><c> key</c><00:01:49.520><c> steps</c><00:01:50.439><c> we</c><00:01:50.560><c> use</c><00:01:50.799><c> the</c><00:01:50.920><c> chain</c><00:01:51.240><c> rule</c><00:01:51.520><c> to</c>
+
+00:01:51.670 --> 00:01:51.680 align:start position:0%
+the key steps we use the chain rule to
+ 
+
+00:01:51.680 --> 00:01:53.749 align:start position:0%
+the key steps we use the chain rule to
+break<00:01:51.960><c> down</c><00:01:52.159><c> the</c><00:01:52.320><c> derivative</c><00:01:53.320><c> found</c><00:01:53.600><c> the</c>
+
+00:01:53.749 --> 00:01:53.759 align:start position:0%
+break down the derivative found the
+ 
+
+00:01:53.759 --> 00:01:56.190 align:start position:0%
+break down the derivative found the
+derivatives<00:01:54.320><c> of</c><00:01:54.520><c> both</c><00:01:54.719><c> the</c><00:01:54.920><c> outer</c><00:01:55.399><c> and</c><00:01:55.640><c> inner</c>
+
+00:01:56.190 --> 00:01:56.200 align:start position:0%
+derivatives of both the outer and inner
+ 
+
+00:01:56.200 --> 00:01:59.230 align:start position:0%
+derivatives of both the outer and inner
+functions<00:01:57.200><c> multipli</c><00:01:57.799><c> them</c><00:01:58.079><c> together</c><00:01:58.960><c> and</c>
+
+00:01:59.230 --> 00:01:59.240 align:start position:0%
+functions multipli them together and
+ 
+
+00:01:59.240 --> 00:02:01.149 align:start position:0%
+functions multipli them together and
+simplified<00:02:00.000><c> using</c><00:02:00.280><c> the</c><00:02:00.399><c> double</c><00:02:00.719><c> angle</c>
+
+00:02:01.149 --> 00:02:01.159 align:start position:0%
+simplified using the double angle
+ 
+
+00:02:01.159 --> 00:02:04.159 align:start position:0%
+simplified using the double angle
+formula
+

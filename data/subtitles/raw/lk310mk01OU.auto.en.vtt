@@ -1,0 +1,224 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.040 --> 00:00:01.790 align:start position:0%
+ 
+the<00:00:00.160><c> Fibonacci</c><00:00:00.680><c> sequence</c><00:00:01.000><c> starts</c><00:00:01.240><c> with</c><00:00:01.400><c> fub1</c>
+
+00:00:01.790 --> 00:00:01.800 align:start position:0%
+the Fibonacci sequence starts with fub1
+ 
+
+00:00:01.800 --> 00:00:04.670 align:start position:0%
+the Fibonacci sequence starts with fub1
+equal<00:00:02.080><c> to</c><00:00:02.240><c> 1</c><00:00:02.679><c> so</c><00:00:02.919><c> f1^</c><00:00:03.320><c> squar</c><00:00:03.800><c> is</c><00:00:03.919><c> the</c><00:00:04.080><c> area</c><00:00:04.480><c> of</c><00:00:04.560><c> a</c>
+
+00:00:04.670 --> 00:00:04.680 align:start position:0%
+equal to 1 so f1^ squar is the area of a
+ 
+
+00:00:04.680 --> 00:00:08.470 align:start position:0%
+equal to 1 so f1^ squar is the area of a
+1x1<00:00:05.279><c> Square</c><00:00:06.000><c> FS2</c><00:00:06.520><c> is</c><00:00:06.759><c> also</c><00:00:07.040><c> equal</c><00:00:07.319><c> to</c><00:00:07.480><c> 1</c><00:00:07.799><c> so</c><00:00:08.120><c> FS2</c>
+
+00:00:08.470 --> 00:00:08.480 align:start position:0%
+1x1 Square FS2 is also equal to 1 so FS2
+ 
+
+00:00:08.480 --> 00:00:11.030 align:start position:0%
+1x1 Square FS2 is also equal to 1 so FS2
+^2<00:00:09.040><c> is</c><00:00:09.160><c> the</c><00:00:09.320><c> area</c><00:00:09.599><c> of</c><00:00:09.719><c> a</c><00:00:09.840><c> 1x</c><00:00:10.200><c> one</c><00:00:10.400><c> square</c><00:00:10.880><c> as</c>
+
+00:00:11.030 --> 00:00:11.040 align:start position:0%
+^2 is the area of a 1x one square as
+ 
+
+00:00:11.040 --> 00:00:13.430 align:start position:0%
+^2 is the area of a 1x one square as
+well<00:00:11.599><c> when</c><00:00:11.759><c> n</c><00:00:11.960><c> is</c><00:00:12.120><c> greater</c><00:00:12.440><c> than</c><00:00:12.599><c> two</c><00:00:13.000><c> the</c><00:00:13.120><c> nth</c>
+
+00:00:13.430 --> 00:00:13.440 align:start position:0%
+well when n is greater than two the nth
+ 
+
+00:00:13.440 --> 00:00:15.110 align:start position:0%
+well when n is greater than two the nth
+Fibonacci<00:00:13.920><c> number</c><00:00:14.200><c> is</c><00:00:14.360><c> the</c><00:00:14.519><c> sum</c><00:00:14.799><c> of</c><00:00:14.920><c> the</c>
+
+00:00:15.110 --> 00:00:15.120 align:start position:0%
+Fibonacci number is the sum of the
+ 
+
+00:00:15.120 --> 00:00:17.310 align:start position:0%
+Fibonacci number is the sum of the
+previous<00:00:15.480><c> two</c><00:00:15.799><c> Fibonacci</c><00:00:16.359><c> numbers</c><00:00:16.880><c> notice</c><00:00:17.199><c> we</c>
+
+00:00:17.310 --> 00:00:17.320 align:start position:0%
+previous two Fibonacci numbers notice we
+ 
+
+00:00:17.320 --> 00:00:18.870 align:start position:0%
+previous two Fibonacci numbers notice we
+can<00:00:17.520><c> keep</c><00:00:17.760><c> attaching</c><00:00:18.199><c> squares</c><00:00:18.520><c> to</c><00:00:18.720><c> this</c>
+
+00:00:18.870 --> 00:00:18.880 align:start position:0%
+can keep attaching squares to this
+ 
+
+00:00:18.880 --> 00:00:20.750 align:start position:0%
+can keep attaching squares to this
+diagram<00:00:19.439><c> in</c><00:00:19.640><c> such</c><00:00:19.760><c> a</c><00:00:19.960><c> way</c><00:00:20.160><c> that</c><00:00:20.320><c> the</c><00:00:20.519><c> side</c>
+
+00:00:20.750 --> 00:00:20.760 align:start position:0%
+diagram in such a way that the side
+ 
+
+00:00:20.760 --> 00:00:22.590 align:start position:0%
+diagram in such a way that the side
+length<00:00:21.039><c> is</c><00:00:21.160><c> the</c><00:00:21.320><c> sum</c><00:00:21.640><c> of</c><00:00:21.800><c> the</c><00:00:21.960><c> previous</c><00:00:22.359><c> two</c>
+
+00:00:22.590 --> 00:00:22.600 align:start position:0%
+length is the sum of the previous two
+ 
+
+00:00:22.600 --> 00:00:24.189 align:start position:0%
+length is the sum of the previous two
+Fibonacci<00:00:23.119><c> numbers</c><00:00:23.560><c> and</c><00:00:23.640><c> is</c><00:00:23.800><c> therefore</c><00:00:24.000><c> for</c>
+
+00:00:24.189 --> 00:00:24.199 align:start position:0%
+Fibonacci numbers and is therefore for
+ 
+
+00:00:24.199 --> 00:00:26.550 align:start position:0%
+Fibonacci numbers and is therefore for
+the<00:00:24.320><c> next</c><00:00:24.599><c> Fibonacci</c><00:00:25.160><c> number</c><00:00:25.720><c> so</c><00:00:25.960><c> as</c><00:00:26.080><c> we</c><00:00:26.279><c> add</c>
+
+00:00:26.550 --> 00:00:26.560 align:start position:0%
+the next Fibonacci number so as we add
+ 
+
+00:00:26.560 --> 00:00:28.710 align:start position:0%
+the next Fibonacci number so as we add
+squares<00:00:26.920><c> to</c><00:00:27.119><c> this</c><00:00:27.320><c> diagram</c><00:00:27.840><c> the</c><00:00:28.039><c> I</c><00:00:28.359><c> Square</c>
+
+00:00:28.710 --> 00:00:28.720 align:start position:0%
+squares to this diagram the I Square
+ 
+
+00:00:28.720 --> 00:00:30.310 align:start position:0%
+squares to this diagram the I Square
+will<00:00:28.840><c> have</c><00:00:28.960><c> an</c><00:00:29.119><c> area</c><00:00:29.480><c> given</c><00:00:29.679><c> by</c><00:00:29.800><c> this</c><00:00:30.039><c> square</c>
+
+00:00:30.310 --> 00:00:30.320 align:start position:0%
+will have an area given by this square
+ 
+
+00:00:30.320 --> 00:00:32.229 align:start position:0%
+will have an area given by this square
+of<00:00:30.439><c> the</c><00:00:30.599><c> I</c><00:00:30.800><c> Fibonacci</c><00:00:31.359><c> number</c><00:00:31.920><c> we</c><00:00:32.040><c> can</c>
+
+00:00:32.229 --> 00:00:32.239 align:start position:0%
+of the I Fibonacci number we can
+ 
+
+00:00:32.239 --> 00:00:34.590 align:start position:0%
+of the I Fibonacci number we can
+continue<00:00:32.680><c> this</c><00:00:32.920><c> process</c><00:00:33.320><c> as</c><00:00:33.480><c> long</c><00:00:33.719><c> as</c><00:00:33.879><c> we</c><00:00:34.040><c> like</c>
+
+00:00:34.590 --> 00:00:34.600 align:start position:0%
+continue this process as long as we like
+ 
+
+00:00:34.600 --> 00:00:36.709 align:start position:0%
+continue this process as long as we like
+if<00:00:34.719><c> we</c><00:00:34.920><c> eventually</c><00:00:35.440><c> stop</c><00:00:35.920><c> say</c><00:00:36.160><c> at</c><00:00:36.320><c> the</c><00:00:36.440><c> number</c>
+
+00:00:36.709 --> 00:00:36.719 align:start position:0%
+if we eventually stop say at the number
+ 
+
+00:00:36.719 --> 00:00:38.869 align:start position:0%
+if we eventually stop say at the number
+F<00:00:37.000><c> subn</c><00:00:37.680><c> then</c><00:00:37.800><c> we</c><00:00:37.960><c> have</c><00:00:38.079><c> a</c><00:00:38.200><c> rectangular</c>
+
+00:00:38.869 --> 00:00:38.879 align:start position:0%
+F subn then we have a rectangular
+ 
+
+00:00:38.879 --> 00:00:41.350 align:start position:0%
+F subn then we have a rectangular
+diagram<00:00:39.520><c> enclosing</c><00:00:40.079><c> an</c><00:00:40.320><c> area</c><00:00:40.800><c> given</c><00:00:41.039><c> by</c><00:00:41.200><c> the</c>
+
+00:00:41.350 --> 00:00:41.360 align:start position:0%
+diagram enclosing an area given by the
+ 
+
+00:00:41.360 --> 00:00:43.270 align:start position:0%
+diagram enclosing an area given by the
+sum<00:00:41.559><c> of</c><00:00:41.719><c> the</c><00:00:41.879><c> squares</c><00:00:42.320><c> of</c><00:00:42.480><c> the</c><00:00:42.640><c> first</c><00:00:42.960><c> n</c>
+
+00:00:43.270 --> 00:00:43.280 align:start position:0%
+sum of the squares of the first n
+ 
+
+00:00:43.280 --> 00:00:45.549 align:start position:0%
+sum of the squares of the first n
+Fibonacci<00:00:43.840><c> numbers</c><00:00:44.760><c> on</c><00:00:44.879><c> the</c><00:00:45.000><c> other</c><00:00:45.200><c> hand</c><00:00:45.440><c> the</c>
+
+00:00:45.549 --> 00:00:45.559 align:start position:0%
+Fibonacci numbers on the other hand the
+ 
+
+00:00:45.559 --> 00:00:47.189 align:start position:0%
+Fibonacci numbers on the other hand the
+dimensions<00:00:46.000><c> of</c><00:00:46.160><c> this</c><00:00:46.280><c> rectangular</c><00:00:46.760><c> diagram</c>
+
+00:00:47.189 --> 00:00:47.199 align:start position:0%
+dimensions of this rectangular diagram
+ 
+
+00:00:47.199 --> 00:00:49.029 align:start position:0%
+dimensions of this rectangular diagram
+are<00:00:47.320><c> the</c><00:00:47.440><c> N</c><00:00:47.680><c> Fibonacci</c><00:00:48.160><c> number</c><00:00:48.440><c> by</c><00:00:48.559><c> the</c><00:00:48.680><c> N</c><00:00:48.879><c> plus</c>
+
+00:00:49.029 --> 00:00:49.039 align:start position:0%
+are the N Fibonacci number by the N plus
+ 
+
+00:00:49.039 --> 00:00:51.350 align:start position:0%
+are the N Fibonacci number by the N plus
+1<00:00:49.280><c> Fibonacci</c><00:00:49.800><c> number</c><00:00:50.239><c> so</c><00:00:50.399><c> the</c><00:00:50.520><c> enclosed</c><00:00:51.039><c> area</c>
+
+00:00:51.350 --> 00:00:51.360 align:start position:0%
+1 Fibonacci number so the enclosed area
+ 
+
+00:00:51.360 --> 00:00:53.310 align:start position:0%
+1 Fibonacci number so the enclosed area
+is<00:00:51.520><c> the</c><00:00:51.719><c> product</c><00:00:52.000><c> of</c><00:00:52.160><c> these</c><00:00:52.320><c> two</c><00:00:52.480><c> numbers</c><00:00:53.199><c> this</c>
+
+00:00:53.310 --> 00:00:53.320 align:start position:0%
+is the product of these two numbers this
+ 
+
+00:00:53.320 --> 00:00:55.069 align:start position:0%
+is the product of these two numbers this
+means<00:00:53.719><c> that</c><00:00:53.960><c> the</c><00:00:54.079><c> sum</c><00:00:54.280><c> of</c><00:00:54.399><c> the</c><00:00:54.520><c> squares</c><00:00:54.840><c> of</c><00:00:54.960><c> the</c>
+
+00:00:55.069 --> 00:00:55.079 align:start position:0%
+means that the sum of the squares of the
+ 
+
+00:00:55.079 --> 00:00:57.349 align:start position:0%
+means that the sum of the squares of the
+first<00:00:55.280><c> n</c><00:00:55.559><c> Fibonacci</c><00:00:56.079><c> numbers</c><00:00:56.600><c> is</c><00:00:56.760><c> the</c><00:00:57.000><c> product</c>
+
+00:00:57.349 --> 00:00:57.359 align:start position:0%
+first n Fibonacci numbers is the product
+ 
+
+00:00:57.359 --> 00:01:01.559 align:start position:0%
+first n Fibonacci numbers is the product
+of<00:00:57.520><c> two</c><00:00:57.800><c> consecutive</c><00:00:58.359><c> Fibonacci</c><00:00:58.840><c> numbers</c>
+

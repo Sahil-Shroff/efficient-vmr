@@ -6,3 +6,4 @@ tqdm
 python-dotenv
 orjson
 scikit-learn
+yt-dlp

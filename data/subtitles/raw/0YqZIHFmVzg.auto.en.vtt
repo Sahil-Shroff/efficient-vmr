@@ -1,0 +1,704 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.320 --> 00:00:02.430 align:start position:0%
+ 
+if<00:00:00.440><c> you</c><00:00:00.640><c> recall</c><00:00:01.079><c> when</c><00:00:01.280><c> we</c><00:00:01.680><c> talked</c><00:00:01.959><c> about</c><00:00:02.159><c> a</c>
+
+00:00:02.430 --> 00:00:02.440 align:start position:0%
+if you recall when we talked about a
+ 
+
+00:00:02.440 --> 00:00:05.510 align:start position:0%
+if you recall when we talked about a
+normal<00:00:02.879><c> implication</c><00:00:03.520><c> P</c><00:00:03.800><c> implies</c><00:00:04.319><c> Q</c><00:00:05.319><c> we've</c>
+
+00:00:05.510 --> 00:00:05.520 align:start position:0%
+normal implication P implies Q we've
+ 
+
+00:00:05.520 --> 00:00:08.230 align:start position:0%
+normal implication P implies Q we've
+seen<00:00:05.799><c> before</c><00:00:06.160><c> that</c><00:00:06.359><c> P</c><00:00:06.600><c> implies</c><00:00:07.120><c> Q</c><00:00:07.480><c> is</c>
+
+00:00:08.230 --> 00:00:08.240 align:start position:0%
+seen before that P implies Q is
+ 
+
+00:00:08.240 --> 00:00:12.150 align:start position:0%
+seen before that P implies Q is
+logically<00:00:08.880><c> equivalent</c><00:00:09.440><c> to</c><00:00:10.280><c> not</c><00:00:10.759><c> Q</c><00:00:11.280><c> implies</c>
+
+00:00:12.150 --> 00:00:12.160 align:start position:0%
+logically equivalent to not Q implies
+ 
+
+00:00:12.160 --> 00:00:15.310 align:start position:0%
+logically equivalent to not Q implies
+not<00:00:12.519><c> P</c><00:00:13.519><c> so</c><00:00:13.839><c> I'm</c><00:00:13.960><c> going</c><00:00:14.080><c> to</c><00:00:14.280><c> make</c><00:00:14.519><c> use</c><00:00:14.719><c> of</c><00:00:15.120><c> that</c>
+
+00:00:15.310 --> 00:00:15.320 align:start position:0%
+not P so I'm going to make use of that
+ 
+
+00:00:15.320 --> 00:00:17.390 align:start position:0%
+not P so I'm going to make use of that
+logical<00:00:15.759><c> equivalency</c><00:00:16.520><c> when</c><00:00:16.640><c> I</c><00:00:16.760><c> try</c><00:00:16.920><c> to</c><00:00:17.080><c> go</c><00:00:17.199><c> out</c>
+
+00:00:17.390 --> 00:00:17.400 align:start position:0%
+logical equivalency when I try to go out
+ 
+
+00:00:17.400 --> 00:00:20.269 align:start position:0%
+logical equivalency when I try to go out
+and<00:00:17.560><c> prove</c><00:00:17.880><c> things</c><00:00:18.640><c> in</c><00:00:18.800><c> particular</c><00:00:19.680><c> my</c><00:00:19.920><c> first</c>
+
+00:00:20.269 --> 00:00:20.279 align:start position:0%
+and prove things in particular my first
+ 
+
+00:00:20.279 --> 00:00:21.870 align:start position:0%
+and prove things in particular my first
+goal<00:00:20.680><c> is</c><00:00:20.800><c> going</c><00:00:20.920><c> to</c><00:00:21.039><c> be</c><00:00:21.119><c> to</c><00:00:21.279><c> try</c><00:00:21.400><c> to</c><00:00:21.560><c> prove</c><00:00:21.760><c> an</c>
+
+00:00:21.870 --> 00:00:21.880 align:start position:0%
+goal is going to be to try to prove an
+ 
+
+00:00:21.880 --> 00:00:22.870 align:start position:0%
+goal is going to be to try to prove an
+implication<00:00:22.320><c> that's</c><00:00:22.400><c> what</c><00:00:22.480><c> I'm</c><00:00:22.560><c> trying</c><00:00:22.720><c> to</c><00:00:22.760><c> do</c>
+
+00:00:22.870 --> 00:00:22.880 align:start position:0%
+implication that's what I'm trying to do
+ 
+
+00:00:22.880 --> 00:00:24.390 align:start position:0%
+implication that's what I'm trying to do
+I'm<00:00:22.960><c> trying</c><00:00:23.080><c> to</c><00:00:23.160><c> show</c><00:00:23.320><c> prove</c><00:00:23.480><c> an</c><00:00:23.640><c> assumption</c>
+
+00:00:24.390 --> 00:00:24.400 align:start position:0%
+I'm trying to show prove an assumption
+ 
+
+00:00:24.400 --> 00:00:27.029 align:start position:0%
+I'm trying to show prove an assumption
+leads<00:00:24.720><c> to</c><00:00:24.840><c> a</c><00:00:25.439><c> conclusion</c><00:00:26.439><c> but</c><00:00:26.720><c> what</c><00:00:26.840><c> I'm</c><00:00:26.960><c> going</c>
+
+00:00:27.029 --> 00:00:27.039 align:start position:0%
+leads to a conclusion but what I'm going
+ 
+
+00:00:27.039 --> 00:00:29.390 align:start position:0%
+leads to a conclusion but what I'm going
+to<00:00:27.199><c> do</c><00:00:27.400><c> is</c><00:00:27.840><c> treat</c><00:00:28.240><c> this</c><00:00:28.439><c> as</c><00:00:28.640><c> the</c><00:00:28.880><c> other</c><00:00:29.199><c> way</c>
+
+00:00:29.390 --> 00:00:29.400 align:start position:0%
+to do is treat this as the other way
+ 
+
+00:00:29.400 --> 00:00:31.189 align:start position:0%
+to do is treat this as the other way
+around<00:00:29.720><c> I'm</c><00:00:30.039><c> know</c><00:00:30.160><c> that</c><00:00:30.279><c> P</c><00:00:30.439><c> implies</c><00:00:30.759><c> Q</c><00:00:30.960><c> is</c><00:00:31.080><c> the</c>
+
+00:00:31.189 --> 00:00:31.199 align:start position:0%
+around I'm know that P implies Q is the
+ 
+
+00:00:31.199 --> 00:00:34.229 align:start position:0%
+around I'm know that P implies Q is the
+same<00:00:31.359><c> thing</c><00:00:31.519><c> as</c><00:00:31.759><c> not</c><00:00:32.079><c> Q</c><00:00:32.360><c> implies</c><00:00:32.759><c> not</c><00:00:33.040><c> P</c><00:00:34.040><c> that</c>
+
+00:00:34.229 --> 00:00:34.239 align:start position:0%
+same thing as not Q implies not P that
+ 
+
+00:00:34.239 --> 00:00:36.990 align:start position:0%
+same thing as not Q implies not P that
+is<00:00:34.960><c> I'm</c><00:00:35.239><c> instead</c><00:00:36.000><c> going</c><00:00:36.120><c> to</c><00:00:36.360><c> go</c><00:00:36.480><c> and</c><00:00:36.640><c> try</c><00:00:36.800><c> to</c>
+
+00:00:36.990 --> 00:00:37.000 align:start position:0%
+is I'm instead going to go and try to
+ 
+
+00:00:37.000 --> 00:00:38.389 align:start position:0%
+is I'm instead going to go and try to
+prove<00:00:37.360><c> the</c><00:00:37.520><c> Contra</c><00:00:37.879><c> positive</c><00:00:38.160><c> I'm</c><00:00:38.200><c> going</c><00:00:38.320><c> to</c>
+
+00:00:38.389 --> 00:00:38.399 align:start position:0%
+prove the Contra positive I'm going to
+ 
+
+00:00:38.399 --> 00:00:41.910 align:start position:0%
+prove the Contra positive I'm going to
+try<00:00:38.520><c> to</c><00:00:38.680><c> prove</c><00:00:39.280><c> not</c><00:00:39.680><c> Q</c><00:00:40.320><c> implies</c><00:00:40.960><c> not</c><00:00:41.280><c> p</c><00:00:41.800><c> and</c>
+
+00:00:41.910 --> 00:00:41.920 align:start position:0%
+try to prove not Q implies not p and
+ 
+
+00:00:41.920 --> 00:00:43.630 align:start position:0%
+try to prove not Q implies not p and
+that's<00:00:42.079><c> the</c><00:00:42.200><c> way</c><00:00:42.399><c> I'm</c><00:00:42.520><c> going</c><00:00:42.719><c> to</c><00:00:42.960><c> demonstrate</c>
+
+00:00:43.630 --> 00:00:43.640 align:start position:0%
+that's the way I'm going to demonstrate
+ 
+
+00:00:43.640 --> 00:00:46.150 align:start position:0%
+that's the way I'm going to demonstrate
+that<00:00:43.800><c> P</c><00:00:44.000><c> implies</c><00:00:44.399><c> Q</c><00:00:45.120><c> so</c><00:00:45.239><c> let's</c><00:00:45.360><c> see</c><00:00:45.520><c> an</c>
+
+00:00:46.150 --> 00:00:46.160 align:start position:0%
+that P implies Q so let's see an
+ 
+
+00:00:46.160 --> 00:00:49.310 align:start position:0%
+that P implies Q so let's see an
+example<00:00:47.160><c> in</c><00:00:47.320><c> this</c><00:00:47.520><c> theorem</c><00:00:48.000><c> I'm</c><00:00:48.199><c> saying</c><00:00:49.120><c> if</c>
+
+00:00:49.310 --> 00:00:49.320 align:start position:0%
+example in this theorem I'm saying if
+ 
+
+00:00:49.320 --> 00:00:53.430 align:start position:0%
+example in this theorem I'm saying if
+the<00:00:49.640><c> square</c><00:00:50.079><c> is</c><00:00:50.600><c> even</c><00:00:51.600><c> then</c><00:00:52.079><c> n</c><00:00:52.440><c> itself</c><00:00:53.039><c> is</c><00:00:53.199><c> also</c>
+
+00:00:53.430 --> 00:00:53.440 align:start position:0%
+the square is even then n itself is also
+ 
+
+00:00:53.440 --> 00:00:55.430 align:start position:0%
+the square is even then n itself is also
+going<00:00:53.520><c> to</c><00:00:53.640><c> be</c><00:00:53.760><c> even</c><00:00:54.680><c> now</c><00:00:54.800><c> I</c><00:00:54.879><c> want</c><00:00:54.960><c> to</c><00:00:55.079><c> not</c>
+
+00:00:55.430 --> 00:00:55.440 align:start position:0%
+going to be even now I want to not
+ 
+
+00:00:55.440 --> 00:00:57.990 align:start position:0%
+going to be even now I want to not
+carefully<00:00:56.440><c> this</c><00:00:56.559><c> is</c><00:00:57.239><c> different</c><00:00:57.719><c> from</c><00:00:57.879><c> the</c>
+
+00:00:57.990 --> 00:00:58.000 align:start position:0%
+carefully this is different from the
+ 
+
+00:00:58.000 --> 00:00:59.349 align:start position:0%
+carefully this is different from the
+theorem<00:00:58.320><c> that</c><00:00:58.399><c> we've</c><00:00:58.600><c> seen</c><00:00:58.760><c> in</c><00:00:58.879><c> a</c><00:00:59.039><c> previous</c>
+
+00:00:59.349 --> 00:00:59.359 align:start position:0%
+theorem that we've seen in a previous
+ 
+
+00:00:59.359 --> 00:01:01.029 align:start position:0%
+theorem that we've seen in a previous
+video<00:00:59.600><c> this</c><00:00:59.680><c> is</c><00:00:59.760><c> not</c><00:00:59.960><c> not</c><00:01:00.120><c> saying</c><00:01:00.359><c> if</c><00:01:00.559><c> n</c><00:01:00.800><c> is</c>
+
+00:01:01.029 --> 00:01:01.039 align:start position:0%
+video this is not not saying if n is
+ 
+
+00:01:01.039 --> 00:01:03.150 align:start position:0%
+video this is not not saying if n is
+even<00:01:01.359><c> then</c><00:01:01.519><c> n</c><00:01:01.800><c> s</c><00:01:02.160><c> is</c><00:01:02.280><c> even</c><00:01:02.480><c> it's</c><00:01:02.640><c> the</c><00:01:02.760><c> other</c><00:01:02.960><c> way</c>
+
+00:01:03.150 --> 00:01:03.160 align:start position:0%
+even then n s is even it's the other way
+ 
+
+00:01:03.160 --> 00:01:06.469 align:start position:0%
+even then n s is even it's the other way
+around<00:01:03.960><c> it's</c><00:01:04.080><c> saying</c><00:01:04.360><c> if</c><00:01:04.519><c> n</c><00:01:04.879><c> squar</c><00:01:05.439><c> is</c><00:01:05.640><c> even</c>
+
+00:01:06.469 --> 00:01:06.479 align:start position:0%
+around it's saying if n squar is even
+ 
+
+00:01:06.479 --> 00:01:08.590 align:start position:0%
+around it's saying if n squar is even
+then<00:01:06.640><c> n</c><00:01:06.840><c> is</c><00:01:06.960><c> going</c><00:01:07.040><c> to</c><00:01:07.159><c> be</c><00:01:07.320><c> even</c><00:01:08.119><c> I'm</c><00:01:08.240><c> going</c><00:01:08.400><c> to</c>
+
+00:01:08.590 --> 00:01:08.600 align:start position:0%
+then n is going to be even I'm going to
+ 
+
+00:01:08.600 --> 00:01:11.390 align:start position:0%
+then n is going to be even I'm going to
+just<00:01:09.040><c> try</c><00:01:09.439><c> to</c><00:01:09.600><c> use</c><00:01:09.759><c> a</c><00:01:10.040><c> direct</c><00:01:10.479><c> proof</c><00:01:10.880><c> and</c><00:01:11.159><c> show</c>
+
+00:01:11.390 --> 00:01:11.400 align:start position:0%
+just try to use a direct proof and show
+ 
+
+00:01:11.400 --> 00:01:14.190 align:start position:0%
+just try to use a direct proof and show
+you<00:01:11.640><c> why</c><00:01:11.799><c> it</c><00:01:11.920><c> might</c><00:01:12.080><c> be</c><00:01:12.600><c> challenging</c><00:01:13.600><c> so</c><00:01:13.960><c> my</c>
+
+00:01:14.190 --> 00:01:14.200 align:start position:0%
+you why it might be challenging so my
+ 
+
+00:01:14.200 --> 00:01:18.190 align:start position:0%
+you why it might be challenging so my
+assumption<00:01:14.799><c> might</c><00:01:15.040><c> be</c><00:01:15.759><c> that</c><00:01:16.119><c> N2</c><00:01:17.080><c> is</c><00:01:17.320><c> even</c>
+
+00:01:18.190 --> 00:01:18.200 align:start position:0%
+assumption might be that N2 is even
+ 
+
+00:01:18.200 --> 00:01:20.030 align:start position:0%
+assumption might be that N2 is even
+which<00:01:18.280><c> is</c><00:01:18.400><c> going</c><00:01:18.520><c> to</c><00:01:18.600><c> be</c><00:01:18.759><c> that</c><00:01:18.920><c> N2</c><00:01:19.680><c> is</c><00:01:19.799><c> going</c><00:01:19.920><c> to</c>
+
+00:01:20.030 --> 00:01:20.040 align:start position:0%
+which is going to be that N2 is going to
+ 
+
+00:01:20.040 --> 00:01:23.109 align:start position:0%
+which is going to be that N2 is going to
+be<00:01:20.600><c> twice</c><00:01:21.079><c> some</c><00:01:21.479><c> k</c><00:01:21.720><c> for</c><00:01:21.960><c> some</c><00:01:22.280><c> K</c><00:01:22.799><c> I'm</c><00:01:22.920><c> not</c><00:01:23.040><c> going</c>
+
+00:01:23.109 --> 00:01:23.119 align:start position:0%
+be twice some k for some K I'm not going
+ 
+
+00:01:23.119 --> 00:01:24.710 align:start position:0%
+be twice some k for some K I'm not going
+to<00:01:23.200><c> write</c><00:01:23.360><c> all</c><00:01:23.479><c> my</c><00:01:23.560><c> symbols</c><00:01:24.000><c> down</c><00:01:24.240><c> because</c>
+
+00:01:24.710 --> 00:01:24.720 align:start position:0%
+to write all my symbols down because
+ 
+
+00:01:24.720 --> 00:01:26.590 align:start position:0%
+to write all my symbols down because
+this<00:01:24.799><c> is</c><00:01:25.079><c> my</c><00:01:25.280><c> plain</c><00:01:25.680><c> around</c><00:01:26.079><c> step</c><00:01:26.360><c> I</c><00:01:26.439><c> don't</c>
+
+00:01:26.590 --> 00:01:26.600 align:start position:0%
+this is my plain around step I don't
+ 
+
+00:01:26.600 --> 00:01:28.109 align:start position:0%
+this is my plain around step I don't
+have<00:01:26.680><c> to</c><00:01:26.799><c> be</c><00:01:26.920><c> all</c><00:01:27.040><c> that</c>
+
+00:01:28.109 --> 00:01:28.119 align:start position:0%
+have to be all that
+ 
+
+00:01:28.119 --> 00:01:30.030 align:start position:0%
+have to be all that
+precise<00:01:29.119><c> all</c><00:01:29.200><c> right</c><00:01:29.360><c> and</c><00:01:29.439><c> I</c><00:01:29.520><c> want</c><00:01:29.640><c> to</c><00:01:29.960><c> say</c>
+
+00:01:30.030 --> 00:01:30.040 align:start position:0%
+precise all right and I want to say
+ 
+
+00:01:30.040 --> 00:01:32.350 align:start position:0%
+precise all right and I want to say
+something<00:01:30.240><c> about</c><00:01:30.479><c> n</c><00:01:31.280><c> I've</c><00:01:31.400><c> got</c><00:01:31.560><c> this</c><00:01:31.840><c> Square</c>
+
+00:01:32.350 --> 00:01:32.360 align:start position:0%
+something about n I've got this Square
+ 
+
+00:01:32.360 --> 00:01:34.350 align:start position:0%
+something about n I've got this Square
+here<00:01:32.720><c> so</c><00:01:33.079><c> maybe</c><00:01:33.320><c> what</c><00:01:33.439><c> I</c><00:01:33.520><c> should</c><00:01:33.680><c> be</c><00:01:33.840><c> doing</c><00:01:34.159><c> is</c>
+
+00:01:34.350 --> 00:01:34.360 align:start position:0%
+here so maybe what I should be doing is
+ 
+
+00:01:34.360 --> 00:01:37.870 align:start position:0%
+here so maybe what I should be doing is
+taking<00:01:34.840><c> a</c><00:01:35.600><c> square</c><00:01:36.040><c> root</c><00:01:36.360><c> of</c><00:01:36.600><c> both</c><00:01:36.880><c> sides</c><00:01:37.680><c> that</c>
+
+00:01:37.870 --> 00:01:37.880 align:start position:0%
+taking a square root of both sides that
+ 
+
+00:01:37.880 --> 00:01:39.389 align:start position:0%
+taking a square root of both sides that
+might<00:01:38.079><c> give</c><00:01:38.200><c> me</c><00:01:38.360><c> my</c><00:01:38.520><c> n</c><00:01:38.759><c> if</c><00:01:38.880><c> I</c><00:01:39.000><c> took</c><00:01:39.159><c> the</c>
+
+00:01:39.389 --> 00:01:39.399 align:start position:0%
+might give me my n if I took the
+ 
+
+00:01:39.399 --> 00:01:41.950 align:start position:0%
+might give me my n if I took the
+positive<00:01:39.720><c> square</c><00:01:39.960><c> root</c><00:01:40.200><c> for</c><00:01:40.799><c> instance</c><00:01:41.799><c> but</c>
+
+00:01:41.950 --> 00:01:41.960 align:start position:0%
+positive square root for instance but
+ 
+
+00:01:41.960 --> 00:01:43.670 align:start position:0%
+positive square root for instance but
+then<00:01:42.200><c> what</c><00:01:42.320><c> I</c><00:01:42.479><c> have</c><00:01:42.680><c> is</c><00:01:42.799><c> it</c><00:01:42.960><c> being</c><00:01:43.240><c> like</c><00:01:43.399><c> equal</c>
+
+00:01:43.670 --> 00:01:43.680 align:start position:0%
+then what I have is it being like equal
+ 
+
+00:01:43.680 --> 00:01:47.670 align:start position:0%
+then what I have is it being like equal
+to<00:01:44.040><c> &lt;</c><00:01:44.200><c> tk2</c><00:01:44.880><c> *</c><00:01:45.520><c> &lt;</c><00:01:45.680><c> TK</c><00:01:46.119><c> K</c><00:01:46.600><c> which</c><00:01:47.079><c> doesn't</c><00:01:47.439><c> really</c>
+
+00:01:47.670 --> 00:01:47.680 align:start position:0%
+to &lt; tk2 * &lt; TK K which doesn't really
+ 
+
+00:01:47.680 --> 00:01:50.190 align:start position:0%
+to &lt; tk2 * &lt; TK K which doesn't really
+look<00:01:47.920><c> anything</c><00:01:48.200><c> at</c><00:01:48.280><c> all</c><00:01:48.479><c> like</c><00:01:48.680><c> being</c><00:01:48.960><c> even</c><00:01:49.960><c> so</c>
+
+00:01:50.190 --> 00:01:50.200 align:start position:0%
+look anything at all like being even so
+ 
+
+00:01:50.200 --> 00:01:51.870 align:start position:0%
+look anything at all like being even so
+assuming<00:01:50.560><c> that</c><00:01:50.719><c> my</c><00:01:50.840><c> n</c><00:01:51.079><c> squar</c><00:01:51.439><c> was</c><00:01:51.560><c> even</c><00:01:51.759><c> and</c>
+
+00:01:51.870 --> 00:01:51.880 align:start position:0%
+assuming that my n squar was even and
+ 
+
+00:01:51.880 --> 00:01:53.310 align:start position:0%
+assuming that my n squar was even and
+taking<00:01:52.079><c> square</c><00:01:52.360><c> roots</c><00:01:52.719><c> just</c><00:01:52.799><c> didn't</c><00:01:53.079><c> leave</c>
+
+00:01:53.310 --> 00:01:53.320 align:start position:0%
+taking square roots just didn't leave
+ 
+
+00:01:53.320 --> 00:01:54.910 align:start position:0%
+taking square roots just didn't leave
+anywhere<00:01:53.600><c> it's</c><00:01:53.759><c> got</c><00:01:53.880><c> all</c><00:01:54.000><c> this</c><00:01:54.119><c> messy</c><00:01:54.399><c> rot2</c>
+
+00:01:54.910 --> 00:01:54.920 align:start position:0%
+anywhere it's got all this messy rot2
+ 
+
+00:01:54.920 --> 00:01:57.149 align:start position:0%
+anywhere it's got all this messy rot2
+stuff<00:01:55.119><c> floating</c><00:01:55.520><c> around</c><00:01:56.280><c> so</c><00:01:56.560><c> proving</c><00:01:56.920><c> it</c>
+
+00:01:57.149 --> 00:01:57.159 align:start position:0%
+stuff floating around so proving it
+ 
+
+00:01:57.159 --> 00:01:59.550 align:start position:0%
+stuff floating around so proving it
+directly<00:01:58.119><c> seems</c><00:01:58.399><c> a</c><00:01:58.520><c> little</c><00:01:58.719><c> bit</c><00:01:58.960><c> challenging</c>
+
+00:01:59.550 --> 00:01:59.560 align:start position:0%
+directly seems a little bit challenging
+ 
+
+00:01:59.560 --> 00:02:01.469 align:start position:0%
+directly seems a little bit challenging
+so<00:01:59.719><c> let's</c><00:01:59.840><c> let's</c><00:01:59.960><c> get</c><00:02:00.079><c> rid</c><00:02:00.200><c> of</c>
+
+00:02:01.469 --> 00:02:01.479 align:start position:0%
+so let's let's get rid of
+ 
+
+00:02:01.479 --> 00:02:04.990 align:start position:0%
+so let's let's get rid of
+that<00:02:02.479><c> since</c><00:02:02.799><c> proving</c><00:02:03.200><c> this</c><00:02:03.759><c> directly</c><00:02:04.719><c> wasn't</c>
+
+00:02:04.990 --> 00:02:05.000 align:start position:0%
+that since proving this directly wasn't
+ 
+
+00:02:05.000 --> 00:02:07.429 align:start position:0%
+that since proving this directly wasn't
+all<00:02:05.159><c> that</c><00:02:05.320><c> useful</c><00:02:06.280><c> let's</c><00:02:06.479><c> try</c><00:02:06.640><c> to</c><00:02:06.840><c> prove</c><00:02:07.039><c> it</c><00:02:07.240><c> by</c>
+
+00:02:07.429 --> 00:02:07.439 align:start position:0%
+all that useful let's try to prove it by
+ 
+
+00:02:07.439 --> 00:02:09.109 align:start position:0%
+all that useful let's try to prove it by
+the<00:02:07.799><c> contrapositive</c><00:02:08.560><c> we're</c><00:02:08.759><c> we're</c><00:02:08.879><c> going</c><00:02:09.000><c> to</c>
+
+00:02:09.109 --> 00:02:09.119 align:start position:0%
+the contrapositive we're we're going to
+ 
+
+00:02:09.119 --> 00:02:12.110 align:start position:0%
+the contrapositive we're we're going to
+do<00:02:09.239><c> it</c><00:02:09.759><c> the</c><00:02:10.039><c> other</c><00:02:10.360><c> way</c><00:02:10.679><c> around</c><00:02:11.599><c> with</c>
+
+00:02:12.110 --> 00:02:12.120 align:start position:0%
+do it the other way around with
+ 
+
+00:02:12.120 --> 00:02:14.750 align:start position:0%
+do it the other way around with
+negations<00:02:13.120><c> so</c><00:02:13.640><c> when</c><00:02:13.760><c> I</c><00:02:13.879><c> write</c><00:02:14.040><c> it</c><00:02:14.160><c> as</c><00:02:14.319><c> proof</c><00:02:14.599><c> by</c>
+
+00:02:14.750 --> 00:02:14.760 align:start position:0%
+negations so when I write it as proof by
+ 
+
+00:02:14.760 --> 00:02:16.869 align:start position:0%
+negations so when I write it as proof by
+contradiction<00:02:15.400><c> by</c><00:02:15.519><c> Contra</c><00:02:16.000><c> positive</c><00:02:16.319><c> rather</c>
+
+00:02:16.869 --> 00:02:16.879 align:start position:0%
+contradiction by Contra positive rather
+ 
+
+00:02:16.879 --> 00:02:19.910 align:start position:0%
+contradiction by Contra positive rather
+note<00:02:17.160><c> what</c><00:02:17.519><c> happens</c><00:02:18.519><c> first</c><00:02:18.720><c> of</c><00:02:18.879><c> all</c><00:02:19.200><c> the</c><00:02:19.440><c> the</c><00:02:19.560><c> N</c>
+
+00:02:19.910 --> 00:02:19.920 align:start position:0%
+note what happens first of all the the N
+ 
+
+00:02:19.920 --> 00:02:21.949 align:start position:0%
+note what happens first of all the the N
+squar<00:02:20.400><c> is</c><00:02:20.560><c> even</c><00:02:20.760><c> and</c><00:02:20.879><c> the</c><00:02:20.959><c> N</c><00:02:21.120><c> is</c><00:02:21.280><c> even</c><00:02:21.760><c> they</c>
+
+00:02:21.949 --> 00:02:21.959 align:start position:0%
+squar is even and the N is even they
+ 
+
+00:02:21.959 --> 00:02:24.750 align:start position:0%
+squar is even and the N is even they
+flip<00:02:22.400><c> orders</c><00:02:23.239><c> but</c><00:02:23.400><c> they</c><00:02:23.560><c> also</c><00:02:23.959><c> get</c><00:02:24.120><c> two</c><00:02:24.400><c> knots</c>
+
+00:02:24.750 --> 00:02:24.760 align:start position:0%
+flip orders but they also get two knots
+ 
+
+00:02:24.760 --> 00:02:26.309 align:start position:0%
+flip orders but they also get two knots
+in<00:02:25.040><c> that's</c><00:02:25.160><c> what</c><00:02:25.280><c> happens</c><00:02:25.519><c> when</c><00:02:25.640><c> I</c><00:02:25.720><c> do</c><00:02:25.879><c> Contra</c>
+
+00:02:26.309 --> 00:02:26.319 align:start position:0%
+in that's what happens when I do Contra
+ 
+
+00:02:26.319 --> 00:02:29.070 align:start position:0%
+in that's what happens when I do Contra
+positive<00:02:27.280><c> so</c><00:02:27.400><c> in</c><00:02:27.480><c> other</c><00:02:27.680><c> words</c><00:02:28.200><c> I'm</c><00:02:28.480><c> assuming</c>
+
+00:02:29.070 --> 00:02:29.080 align:start position:0%
+positive so in other words I'm assuming
+ 
+
+00:02:29.080 --> 00:02:31.470 align:start position:0%
+positive so in other words I'm assuming
+that<00:02:29.280><c> n</c><00:02:29.440><c> is</c><00:02:29.920><c> not</c><00:02:30.239><c> even</c><00:02:30.720><c> and</c><00:02:30.840><c> I'm</c><00:02:31.000><c> trying</c><00:02:31.239><c> to</c>
+
+00:02:31.470 --> 00:02:31.480 align:start position:0%
+that n is not even and I'm trying to
+ 
+
+00:02:31.480 --> 00:02:35.910 align:start position:0%
+that n is not even and I'm trying to
+deduce<00:02:32.360><c> that</c><00:02:32.519><c> n^2</c><00:02:33.440><c> is</c><00:02:33.640><c> not</c><00:02:34.280><c> even</c><00:02:35.280><c> by</c><00:02:35.400><c> the</c><00:02:35.519><c> way</c>
+
+00:02:35.910 --> 00:02:35.920 align:start position:0%
+deduce that n^2 is not even by the way
+ 
+
+00:02:35.920 --> 00:02:37.869 align:start position:0%
+deduce that n^2 is not even by the way
+the<00:02:36.120><c> Assumption</c><00:02:36.599><c> n</c><00:02:36.840><c> is</c><00:02:37.000><c> not</c><00:02:37.200><c> even</c><00:02:37.440><c> is</c><00:02:37.560><c> the</c><00:02:37.640><c> same</c>
+
+00:02:37.869 --> 00:02:37.879 align:start position:0%
+the Assumption n is not even is the same
+ 
+
+00:02:37.879 --> 00:02:41.229 align:start position:0%
+the Assumption n is not even is the same
+thing<00:02:38.040><c> as</c><00:02:38.280><c> n</c><00:02:38.840><c> is</c><00:02:39.200><c> odd</c><00:02:40.120><c> and</c><00:02:40.239><c> the</c><00:02:40.440><c> conclusion</c><00:02:41.040><c> n</c>
+
+00:02:41.229 --> 00:02:41.239 align:start position:0%
+thing as n is odd and the conclusion n
+ 
+
+00:02:41.239 --> 00:02:42.710 align:start position:0%
+thing as n is odd and the conclusion n
+squ<00:02:41.519><c> is</c><00:02:41.640><c> not</c><00:02:41.840><c> even</c><00:02:42.080><c> is</c><00:02:42.159><c> the</c><00:02:42.280><c> same</c><00:02:42.440><c> as</c><00:02:42.599><c> the</c>
+
+00:02:42.710 --> 00:02:42.720 align:start position:0%
+squ is not even is the same as the
+ 
+
+00:02:42.720 --> 00:02:46.869 align:start position:0%
+squ is not even is the same as the
+conclusion<00:02:43.319><c> n</c><00:02:43.680><c> s</c><00:02:44.519><c> is</c><00:02:44.800><c> odd</c><00:02:45.800><c> but</c><00:02:45.920><c> I've</c><00:02:46.120><c> actually</c>
+
+00:02:46.869 --> 00:02:46.879 align:start position:0%
+conclusion n s is odd but I've actually
+ 
+
+00:02:46.879 --> 00:02:49.350 align:start position:0%
+conclusion n s is odd but I've actually
+seen<00:02:47.400><c> that</c><00:02:47.640><c> particular</c><00:02:48.120><c> proof</c><00:02:48.440><c> before</c><00:02:49.159><c> I've</c>
+
+00:02:49.350 --> 00:02:49.360 align:start position:0%
+seen that particular proof before I've
+ 
+
+00:02:49.360 --> 00:02:53.790 align:start position:0%
+seen that particular proof before I've
+seen<00:02:49.800><c> a</c><00:02:50.120><c> proof</c><00:02:50.680><c> that</c><00:02:51.239><c> n</c><00:02:51.640><c> is</c><00:02:52.040><c> odd</c><00:02:52.640><c> implies</c><00:02:53.239><c> N</c>
+
+00:02:53.790 --> 00:02:53.800 align:start position:0%
+seen a proof that n is odd implies N
+ 
+
+00:02:53.800 --> 00:02:55.790 align:start position:0%
+seen a proof that n is odd implies N
+squared<00:02:54.280><c> is</c><00:02:54.440><c> odd</c><00:02:55.000><c> and</c><00:02:55.120><c> so</c><00:02:55.319><c> we</c><00:02:55.400><c> can</c><00:02:55.519><c> sort</c><00:02:55.680><c> of</c>
+
+00:02:55.790 --> 00:02:55.800 align:start position:0%
+squared is odd and so we can sort of
+ 
+
+00:02:55.800 --> 00:02:58.630 align:start position:0%
+squared is odd and so we can sort of
+bring<00:02:56.120><c> that</c><00:02:56.239><c> one</c><00:02:56.480><c> in</c><00:02:57.239><c> and</c><00:02:57.560><c> this</c><00:02:57.680><c> is</c><00:02:58.040><c> the</c><00:02:58.280><c> proof</c>
+
+00:02:58.630 --> 00:02:58.640 align:start position:0%
+bring that one in and this is the proof
+ 
+
+00:02:58.640 --> 00:03:00.710 align:start position:0%
+bring that one in and this is the proof
+that<00:02:58.760><c> we've</c><00:02:58.959><c> seen</c><00:02:59.440><c> before</c>
+
+00:03:00.710 --> 00:03:00.720 align:start position:0%
+that we've seen before
+ 
+
+00:03:00.720 --> 00:03:04.190 align:start position:0%
+that we've seen before
+indeed<00:03:01.519><c> this</c><00:03:01.760><c> claim</c><00:03:02.200><c> n^2</c><00:03:02.840><c> even</c><00:03:03.239><c> implies</c><00:03:03.760><c> n</c><00:03:04.000><c> is</c>
+
+00:03:04.190 --> 00:03:04.200 align:start position:0%
+indeed this claim n^2 even implies n is
+ 
+
+00:03:04.200 --> 00:03:07.030 align:start position:0%
+indeed this claim n^2 even implies n is
+even<00:03:04.879><c> is</c><00:03:05.120><c> the</c><00:03:05.319><c> same</c><00:03:05.720><c> claim</c><00:03:06.200><c> it's</c><00:03:06.519><c> logically</c>
+
+00:03:07.030 --> 00:03:07.040 align:start position:0%
+even is the same claim it's logically
+ 
+
+00:03:07.040 --> 00:03:10.270 align:start position:0%
+even is the same claim it's logically
+equivalent<00:03:07.440><c> to</c><00:03:07.760><c> n</c><00:03:08.000><c> is</c><00:03:08.280><c> odd</c><00:03:09.080><c> implies</c><00:03:09.560><c> n</c><00:03:09.799><c> squ</c><00:03:10.120><c> is</c>
+
+00:03:10.270 --> 00:03:10.280 align:start position:0%
+equivalent to n is odd implies n squ is
+ 
+
+00:03:10.280 --> 00:03:12.509 align:start position:0%
+equivalent to n is odd implies n squ is
+odd<00:03:11.120><c> it's</c><00:03:11.280><c> just</c><00:03:11.599><c> that</c><00:03:11.760><c> when</c><00:03:11.879><c> it's</c><00:03:12.040><c> written</c>
+
+00:03:12.509 --> 00:03:12.519 align:start position:0%
+odd it's just that when it's written
+ 
+
+00:03:12.519 --> 00:03:14.550 align:start position:0%
+odd it's just that when it's written
+this<00:03:12.640><c> way</c><00:03:12.799><c> in</c><00:03:12.879><c> its</c><00:03:13.040><c> contrapositive</c><00:03:13.840><c> form</c><00:03:14.360><c> it's</c>
+
+00:03:14.550 --> 00:03:14.560 align:start position:0%
+this way in its contrapositive form it's
+ 
+
+00:03:14.560 --> 00:03:16.509 align:start position:0%
+this way in its contrapositive form it's
+quite<00:03:14.799><c> tractable</c><00:03:15.519><c> and</c><00:03:15.720><c> we</c><00:03:15.799><c> were</c><00:03:15.959><c> able</c><00:03:16.159><c> to</c><00:03:16.319><c> do</c>
+
+00:03:16.509 --> 00:03:16.519 align:start position:0%
+quite tractable and we were able to do
+ 
+
+00:03:16.519 --> 00:03:18.350 align:start position:0%
+quite tractable and we were able to do
+its<00:03:16.760><c> proof</c><00:03:17.239><c> almost</c><00:03:17.599><c> directly</c><00:03:17.959><c> it</c><00:03:18.080><c> sort</c><00:03:18.200><c> of</c>
+
+00:03:18.350 --> 00:03:18.360 align:start position:0%
+its proof almost directly it sort of
+ 
+
+00:03:18.360 --> 00:03:20.750 align:start position:0%
+its proof almost directly it sort of
+just<00:03:18.560><c> fell</c><00:03:18.920><c> out</c><00:03:19.159><c> by</c><00:03:19.319><c> our</c><00:03:19.599><c> assumptions</c><00:03:20.519><c> in</c><00:03:20.599><c> a</c>
+
+00:03:20.750 --> 00:03:20.760 align:start position:0%
+just fell out by our assumptions in a
+ 
+
+00:03:20.760 --> 00:03:22.550 align:start position:0%
+just fell out by our assumptions in a
+way<00:03:20.959><c> that</c><00:03:21.120><c> just</c><00:03:21.560><c> wasn't</c><00:03:21.920><c> true</c><00:03:22.120><c> when</c><00:03:22.239><c> I</c><00:03:22.360><c> tried</c>
+
+00:03:22.550 --> 00:03:22.560 align:start position:0%
+way that just wasn't true when I tried
+ 
+
+00:03:22.560 --> 00:03:25.070 align:start position:0%
+way that just wasn't true when I tried
+to<00:03:22.799><c> directly</c><00:03:23.280><c> prove</c><00:03:23.599><c> the</c><00:03:23.799><c> original</c><00:03:24.680><c> so</c><00:03:24.799><c> it's</c><00:03:24.920><c> a</c>
+
+00:03:25.070 --> 00:03:25.080 align:start position:0%
+to directly prove the original so it's a
+ 
+
+00:03:25.080 --> 00:03:28.030 align:start position:0%
+to directly prove the original so it's a
+wonderful<00:03:25.480><c> illustration</c><00:03:26.159><c> of</c><00:03:26.400><c> how</c><00:03:27.080><c> a</c><00:03:27.480><c> a</c><00:03:27.720><c> proof</c>
+
+00:03:28.030 --> 00:03:28.040 align:start position:0%
+wonderful illustration of how a a proof
+ 
+
+00:03:28.040 --> 00:03:30.470 align:start position:0%
+wonderful illustration of how a a proof
+that's<00:03:28.319><c> challenging</c><00:03:28.799><c> and</c><00:03:29.040><c> hard</c><00:03:29.840><c> if</c><00:03:30.000><c> you</c><00:03:30.280><c> try</c>
+
+00:03:30.470 --> 00:03:30.480 align:start position:0%
+that's challenging and hard if you try
+ 
+
+00:03:30.480 --> 00:03:32.429 align:start position:0%
+that's challenging and hard if you try
+to<00:03:30.640><c> go</c><00:03:30.799><c> and</c><00:03:30.959><c> prove</c><00:03:31.200><c> its</c><00:03:31.400><c> condra</c><00:03:31.879><c> positive</c><00:03:32.280><c> the</c>
+
+00:03:32.429 --> 00:03:32.439 align:start position:0%
+to go and prove its condra positive the
+ 
+
+00:03:32.439 --> 00:03:33.869 align:start position:0%
+to go and prove its condra positive the
+condra<00:03:32.879><c> positive</c><00:03:33.159><c> while</c><00:03:33.360><c> logically</c>
+
+00:03:33.869 --> 00:03:33.879 align:start position:0%
+condra positive while logically
+ 
+
+00:03:33.879 --> 00:03:39.680 align:start position:0%
+condra positive while logically
+equivalent<00:03:34.720><c> might</c><00:03:34.959><c> be</c><00:03:35.400><c> much</c><00:03:35.680><c> easier</c><00:03:36.360><c> to</c><00:03:36.680><c> prove</c>
+

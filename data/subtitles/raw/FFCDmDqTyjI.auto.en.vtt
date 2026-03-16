@@ -1,0 +1,144 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.080 --> 00:00:01.790 align:start position:0%
+ 
+here's<00:00:00.280><c> an</c><00:00:00.440><c> interesting</c><00:00:00.880><c> way</c><00:00:01.000><c> to</c><00:00:01.240><c> approximate</c>
+
+00:00:01.790 --> 00:00:01.800 align:start position:0%
+here's an interesting way to approximate
+ 
+
+00:00:01.800 --> 00:00:03.949 align:start position:0%
+here's an interesting way to approximate
+Pi<00:00:02.320><c> on</c><00:00:02.480><c> the</c><00:00:02.679><c> positive</c><00:00:03.040><c> integer</c><00:00:03.399><c> grid</c><00:00:03.679><c> up</c><00:00:03.800><c> to</c>
+
+00:00:03.949 --> 00:00:03.959 align:start position:0%
+Pi on the positive integer grid up to
+ 
+
+00:00:03.959 --> 00:00:06.909 align:start position:0%
+Pi on the positive integer grid up to
+101<00:00:04.880><c> shade</c><00:00:05.240><c> the</c><00:00:05.359><c> coordinate</c><00:00:05.799><c> XY</c><00:00:06.200><c> blue</c><00:00:06.640><c> if</c><00:00:06.799><c> the</c>
+
+00:00:06.909 --> 00:00:06.919 align:start position:0%
+101 shade the coordinate XY blue if the
+ 
+
+00:00:06.919 --> 00:00:08.669 align:start position:0%
+101 shade the coordinate XY blue if the
+greatest<00:00:07.200><c> common</c><00:00:07.439><c> divisor</c><00:00:07.759><c> of</c><00:00:07.919><c> X</c><00:00:08.080><c> and</c><00:00:08.280><c> Y</c><00:00:08.480><c> is</c>
+
+00:00:08.669 --> 00:00:08.679 align:start position:0%
+greatest common divisor of X and Y is
+ 
+
+00:00:08.679 --> 00:00:11.190 align:start position:0%
+greatest common divisor of X and Y is
+one<00:00:09.160><c> and</c><00:00:09.280><c> shade</c><00:00:09.599><c> the</c><00:00:09.679><c> coordinate</c><00:00:10.080><c> XY</c><00:00:10.559><c> red</c>
+
+00:00:11.190 --> 00:00:11.200 align:start position:0%
+one and shade the coordinate XY red
+ 
+
+00:00:11.200 --> 00:00:13.789 align:start position:0%
+one and shade the coordinate XY red
+otherwise<00:00:12.200><c> if</c><00:00:12.280><c> you</c><00:00:12.440><c> do</c><00:00:12.719><c> this</c><00:00:13.040><c> you</c><00:00:13.240><c> get</c><00:00:13.559><c> this</c>
+
+00:00:13.789 --> 00:00:13.799 align:start position:0%
+otherwise if you do this you get this
+ 
+
+00:00:13.799 --> 00:00:17.029 align:start position:0%
+otherwise if you do this you get this
+image<00:00:14.160><c> shown</c><00:00:14.799><c> here</c><00:00:15.799><c> it's</c><00:00:16.000><c> a</c><00:00:16.199><c> famous</c><00:00:16.600><c> result</c>
+
+00:00:17.029 --> 00:00:17.039 align:start position:0%
+image shown here it's a famous result
+ 
+
+00:00:17.039 --> 00:00:19.790 align:start position:0%
+image shown here it's a famous result
+that<00:00:17.160><c> the</c><00:00:17.279><c> quantity</c><00:00:17.800><c> 6</c><00:00:18.240><c> over</c><00:00:18.640><c> pi^</c><00:00:19.000><c> 2</c><00:00:19.600><c> is</c>
+
+00:00:19.790 --> 00:00:19.800 align:start position:0%
+that the quantity 6 over pi^ 2 is
+ 
+
+00:00:19.800 --> 00:00:22.029 align:start position:0%
+that the quantity 6 over pi^ 2 is
+approximately<00:00:20.519><c> equal</c><00:00:20.880><c> to</c><00:00:21.080><c> the</c><00:00:21.240><c> ratio</c><00:00:21.840><c> of</c><00:00:21.960><c> the</c>
+
+00:00:22.029 --> 00:00:22.039 align:start position:0%
+approximately equal to the ratio of the
+ 
+
+00:00:22.039 --> 00:00:24.470 align:start position:0%
+approximately equal to the ratio of the
+number<00:00:22.279><c> of</c><00:00:22.439><c> blue</c><00:00:22.720><c> dots</c><00:00:23.000><c> to</c><00:00:23.199><c> Total</c><00:00:23.560><c> dots</c><00:00:24.359><c> it</c>
+
+00:00:24.470 --> 00:00:24.480 align:start position:0%
+number of blue dots to Total dots it
+ 
+
+00:00:24.480 --> 00:00:26.150 align:start position:0%
+number of blue dots to Total dots it
+turns<00:00:24.720><c> out</c><00:00:24.880><c> in</c><00:00:25.039><c> this</c><00:00:25.160><c> picture</c><00:00:25.480><c> there</c><00:00:25.599><c> are</c>
+
+00:00:26.150 --> 00:00:26.160 align:start position:0%
+turns out in this picture there are
+ 
+
+00:00:26.160 --> 00:00:30.429 align:start position:0%
+turns out in this picture there are
+6,287<00:00:27.160><c> blue</c><00:00:27.439><c> dots</c><00:00:27.720><c> and</c><00:00:28.320><c> 10,21</c><00:00:29.320><c> total</c><00:00:29.640><c> dots</c>
+
+00:00:30.429 --> 00:00:30.439 align:start position:0%
+6,287 blue dots and 10,21 total dots
+ 
+
+00:00:30.439 --> 00:00:32.350 align:start position:0%
+6,287 blue dots and 10,21 total dots
+this<00:00:30.560><c> means</c><00:00:30.880><c> that</c><00:00:31.039><c> 6</c><00:00:31.320><c> over</c><00:00:31.560><c> pi^</c><00:00:31.759><c> 2</c><00:00:32.160><c> is</c>
+
+00:00:32.350 --> 00:00:32.360 align:start position:0%
+this means that 6 over pi^ 2 is
+ 
+
+00:00:32.360 --> 00:00:34.229 align:start position:0%
+this means that 6 over pi^ 2 is
+approximately<00:00:32.920><c> 0.</c>
+
+00:00:34.229 --> 00:00:34.239 align:start position:0%
+approximately 0.
+ 
+
+00:00:34.239 --> 00:00:36.869 align:start position:0%
+approximately 0.
+61631<00:00:35.239><c> and</c><00:00:35.360><c> from</c><00:00:35.559><c> this</c><00:00:35.719><c> we</c><00:00:35.879><c> conclude</c><00:00:36.360><c> that</c><00:00:36.640><c> Pi</c>
+
+00:00:36.869 --> 00:00:36.879 align:start position:0%
+61631 and from this we conclude that Pi
+ 
+
+00:00:36.879 --> 00:00:38.190 align:start position:0%
+61631 and from this we conclude that Pi
+is<00:00:37.079><c> approximately</c>
+
+00:00:38.190 --> 00:00:38.200 align:start position:0%
+is approximately
+ 
+
+00:00:38.200 --> 00:00:40.790 align:start position:0%
+is approximately
+3.12<00:00:39.200><c> not</c><00:00:39.399><c> the</c><00:00:39.559><c> best</c><00:00:39.840><c> approximation</c><00:00:40.640><c> but</c>
+
+00:00:40.790 --> 00:00:40.800 align:start position:0%
+3.12 not the best approximation but
+ 
+
+00:00:40.800 --> 00:00:44.320 align:start position:0%
+3.12 not the best approximation but
+definitely<00:00:41.120><c> a</c><00:00:41.239><c> fun</c><00:00:41.440><c> and</c><00:00:41.600><c> beautiful</c><00:00:42.000><c> one</c>
+

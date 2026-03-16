@@ -1,0 +1,132 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.180 --> 00:00:03.260
+It’s Professor Dave, let’s learn the distance
+formula.
+
+00:00:10.220 --> 00:00:15.440
+As we navigate the coordinate plane in our
+algebraic adventures, one thing we might want
+
+00:00:15.440 --> 00:00:18.610
+to do is find the distance between two points.
+
+00:00:18.610 --> 00:00:24.530
+Luckily, we are well equipped to do this,
+since we know the Pythagorean Theorem.
+
+00:00:24.530 --> 00:00:29.840
+If you need to review it, check out the tutorials
+on how to use the theorem, as well as how
+
+00:00:29.840 --> 00:00:34.559
+the theorem was derived, in the geometry portion
+of this playlist.
+
+00:00:34.560 --> 00:00:41.880
+Otherwise, let’s just select two points
+in the coordinate plane, and draw a line between them.
+
+00:00:42.000 --> 00:00:46.409
+The length of this line is what we are trying
+to figure out, and in order to get it, we
+
+00:00:46.409 --> 00:00:48.699
+can make a right triangle.
+
+00:00:48.699 --> 00:00:54.440
+This line will be the hypotenuse, and the
+legs will be the horizontal and vertical line
+
+00:00:54.440 --> 00:00:57.629
+segments we need to construct the triangle.
+
+00:00:57.629 --> 00:01:02.570
+Now let’s label the hypotenuse as D, the
+distance we want to know.
+
+00:01:02.570 --> 00:01:08.720
+The legs can be expressed as the difference
+between the respective points that mark their ends.
+
+00:01:08.800 --> 00:01:14.320
+This horizontal line segment has a length
+of X two minus X one, since it only moves
+
+00:01:14.330 --> 00:01:15.950
+in the X direction.
+
+00:01:15.950 --> 00:01:21.010
+The vertical line segment has a length of
+Y two minus Y one, since it only moves in
+
+00:01:21.010 --> 00:01:22.240
+the Y direction.
+
+00:01:22.240 --> 00:01:25.600
+Now, we just use the Pythagorean Theorem.
+
+00:01:25.600 --> 00:01:32.940
+The square of this leg plus the square of
+the other leg equals the hypotenuse squared,
+
+00:01:32.940 --> 00:01:34.240
+or D squared.
+
+00:01:34.240 --> 00:01:39.300
+Then, all we do is take the square root of
+both sides to solve for D.
+
+00:01:39.300 --> 00:01:44.850
+We will only take the positive value here,
+as negative length doesn’t make any sense.
+
+00:01:44.850 --> 00:01:48.080
+And there you have it, we have derived the
+distance formula.
+
+00:01:48.080 --> 00:01:49.930
+Let’s give it a shot.
+
+00:01:49.930 --> 00:01:54.020
+Take the points negative two, two, and two,
+five.
+
+00:01:54.020 --> 00:01:58.140
+What is the distance covered by the line segment
+that connects these two points?
+
+00:01:58.140 --> 00:02:05.480
+Well, let’s take our X values and our Y
+values, and plug them into the formula.
+
+00:02:05.480 --> 00:02:11.930
+That gives us four, which squared is sixteen,
+and three, which squared is nine.
+
+00:02:11.930 --> 00:02:18.060
+Add them up and we get twenty-five, take the
+square root, and that gives us five for the
+
+00:02:18.060 --> 00:02:20.170
+distance.
+
+00:02:20.170 --> 00:02:25.630
+This is the same value we would get if we
+contructed a triangle and performed the Pythagorean
+
+00:02:25.630 --> 00:02:26.630
+Theorem.
+
+00:02:26.630 --> 00:02:32.819
+So the distance formula is a generalized way
+to simply plug in the coordinates of two points,
+
+00:02:32.820 --> 00:02:34.900
+and find the distance between them.
+
+00:02:34.980 --> 00:02:36.160
+Let's check comprehension.
+

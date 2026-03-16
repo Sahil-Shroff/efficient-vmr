@@ -3,7 +3,7 @@ from __future__ import annotations
 import argparse
 from collections import Counter
 
-from .load_videommlu import flatten_videommlu, load_raw_videommlu
+from .data import flatten_video_qa_rows, load_raw_video_rows
 
 
 def main() -> None:
@@ -12,8 +12,8 @@ def main() -> None:
     parser.add_argument("--num-examples", type=int, default=3)
     args = parser.parse_args()
 
-    raw_rows = load_raw_videommlu(split=args.split)
-    flat_rows = flatten_videommlu(raw_rows)
+    raw_rows = load_raw_video_rows(split=args.split)
+    flat_rows = flatten_video_qa_rows(raw_rows)
 
     raw_video_ids = [row.get("video_id", "") for row in raw_rows]
     flat_video_ids = [row.get("video_id", "") for row in flat_rows]
@@ -44,7 +44,7 @@ def main() -> None:
         print(
             f"[flat {idx}] video_id={row.get('video_id')} "
             f"question_id={row.get('question_id')} "
-            f"subject={row.get('subject')} "
+            f"qa_type={row.get('qa_type')} "
             f"question={row.get('question')!r}"
         )
 

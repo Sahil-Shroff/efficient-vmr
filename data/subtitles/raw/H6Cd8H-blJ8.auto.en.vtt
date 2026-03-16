@@ -1,0 +1,304 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.280 --> 00:00:02.430 align:start position:0%
+ 
+let's<00:00:00.520><c> solve</c><00:00:00.799><c> a</c><00:00:01.040><c> challenging</c><00:00:01.680><c> derivative</c>
+
+00:00:02.430 --> 00:00:02.440 align:start position:0%
+let's solve a challenging derivative
+ 
+
+00:00:02.440 --> 00:00:05.190 align:start position:0%
+let's solve a challenging derivative
+problem<00:00:02.919><c> involving</c><00:00:03.520><c> inverse</c><00:00:04.240><c> trigonometric</c>
+
+00:00:05.190 --> 00:00:05.200 align:start position:0%
+problem involving inverse trigonometric
+ 
+
+00:00:05.200 --> 00:00:08.150 align:start position:0%
+problem involving inverse trigonometric
+functions<00:00:06.200><c> our</c><00:00:06.680><c> task</c><00:00:07.439><c> is</c><00:00:07.560><c> to</c><00:00:07.720><c> find</c><00:00:08.000><c> the</c>
+
+00:00:08.150 --> 00:00:08.160 align:start position:0%
+functions our task is to find the
+ 
+
+00:00:08.160 --> 00:00:12.270 align:start position:0%
+functions our task is to find the
+derivative<00:00:08.599><c> of</c><00:00:08.800><c> sin</c><00:00:09.280><c> inverse</c><00:00:09.920><c> of</c><00:00:10.200><c> 2x</c><00:00:10.880><c> *</c><00:00:11.519><c> the</c><00:00:12.160><c> &lt;</c>
+
+00:00:12.270 --> 00:00:12.280 align:start position:0%
+derivative of sin inverse of 2x * the &lt;
+ 
+
+00:00:12.280 --> 00:00:16.590 align:start position:0%
+derivative of sin inverse of 2x * the &lt;
+TK<00:00:12.920><c> of</c><00:00:13.240><c> 1</c><00:00:13.559><c> -</c><00:00:14.280><c> x^2</c><00:00:15.280><c> the</c><00:00:15.519><c> key</c><00:00:15.719><c> to</c><00:00:16.000><c> solving</c><00:00:16.320><c> this</c>
+
+00:00:16.590 --> 00:00:16.600 align:start position:0%
+TK of 1 - x^2 the key to solving this
+ 
+
+00:00:16.600 --> 00:00:18.710 align:start position:0%
+TK of 1 - x^2 the key to solving this
+problem<00:00:17.039><c> is</c><00:00:17.160><c> to</c><00:00:17.359><c> use</c><00:00:17.680><c> substitution</c><00:00:18.439><c> to</c>
+
+00:00:18.710 --> 00:00:18.720 align:start position:0%
+problem is to use substitution to
+ 
+
+00:00:18.720 --> 00:00:21.590 align:start position:0%
+problem is to use substitution to
+simplify<00:00:19.320><c> the</c><00:00:19.760><c> expression</c><00:00:20.760><c> let's</c><00:00:21.000><c> start</c><00:00:21.400><c> by</c>
+
+00:00:21.590 --> 00:00:21.600 align:start position:0%
+simplify the expression let's start by
+ 
+
+00:00:21.600 --> 00:00:26.630 align:start position:0%
+simplify the expression let's start by
+letting<00:00:22.039><c> y</c><00:00:22.359><c> equal</c><00:00:22.800><c> sin</c><00:00:23.119><c> inverse</c><00:00:23.840><c> of</c><00:00:24.160><c> 2x</c><00:00:24.920><c> *</c><00:00:25.920><c> &lt;</c><00:00:26.039><c> TK</c>
+
+00:00:26.630 --> 00:00:26.640 align:start position:0%
+letting y equal sin inverse of 2x * &lt; TK
+ 
+
+00:00:26.640 --> 00:00:31.630 align:start position:0%
+letting y equal sin inverse of 2x * &lt; TK
+1<00:00:26.920><c> -</c><00:00:27.760><c> x^2</c><00:00:28.960><c> now</c><00:00:30.000><c> comes</c><00:00:30.199><c> the</c><00:00:30.279><c> clever</c><00:00:30.720><c> part</c><00:00:31.400><c> we'll</c>
+
+00:00:31.630 --> 00:00:31.640 align:start position:0%
+1 - x^2 now comes the clever part we'll
+ 
+
+00:00:31.640 --> 00:00:32.510 align:start position:0%
+1 - x^2 now comes the clever part we'll
+make<00:00:31.759><c> a</c>
+
+00:00:32.510 --> 00:00:32.520 align:start position:0%
+make a
+ 
+
+00:00:32.520 --> 00:00:36.510 align:start position:0%
+make a
+substitution<00:00:33.520><c> let</c><00:00:33.840><c> X</c><00:00:34.399><c> =</c><00:00:35.000><c> sin</c><00:00:35.440><c> Theta</c><00:00:36.360><c> this</c>
+
+00:00:36.510 --> 00:00:36.520 align:start position:0%
+substitution let X = sin Theta this
+ 
+
+00:00:36.520 --> 00:00:40.229 align:start position:0%
+substitution let X = sin Theta this
+means<00:00:37.079><c> theta</c><00:00:37.559><c> equals</c><00:00:38.079><c> sin</c><00:00:38.600><c> inverse</c><00:00:39.040><c> of</c><00:00:39.239><c> X</c>
+
+00:00:40.229 --> 00:00:40.239 align:start position:0%
+means theta equals sin inverse of X
+ 
+
+00:00:40.239 --> 00:00:42.310 align:start position:0%
+means theta equals sin inverse of X
+let's<00:00:40.600><c> substitute</c><00:00:41.320><c> this</c><00:00:41.600><c> into</c><00:00:41.920><c> our</c>
+
+00:00:42.310 --> 00:00:42.320 align:start position:0%
+let's substitute this into our
+ 
+
+00:00:42.320 --> 00:00:45.189 align:start position:0%
+let's substitute this into our
+expression<00:00:43.320><c> when</c><00:00:43.480><c> we</c><00:00:43.719><c> replace</c><00:00:44.239><c> x</c><00:00:44.520><c> with</c><00:00:44.800><c> sin</c>
+
+00:00:45.189 --> 00:00:45.199 align:start position:0%
+expression when we replace x with sin
+ 
+
+00:00:45.199 --> 00:00:49.350 align:start position:0%
+expression when we replace x with sin
+Theta<00:00:46.199><c> we</c><00:00:46.399><c> get</c><00:00:46.640><c> sin</c><00:00:46.960><c> inverse</c><00:00:47.399><c> of</c><00:00:47.640><c> 2</c><00:00:48.079><c> sin</c><00:00:48.480><c> thet</c><00:00:48.879><c> *</c>
+
+00:00:49.350 --> 00:00:49.360 align:start position:0%
+Theta we get sin inverse of 2 sin thet *
+ 
+
+00:00:49.360 --> 00:00:55.910 align:start position:0%
+Theta we get sin inverse of 2 sin thet *
+the<00:00:49.960><c> &lt;</c><00:00:50.079><c> TK</c><00:00:50.760><c> of</c><00:00:50.960><c> 1</c><00:00:51.199><c> -</c><00:00:51.600><c> sin^2</c><00:00:52.359><c> th</c><00:00:53.280><c> Now</c><00:00:54.160><c> 1</c><00:00:54.399><c> -</c><00:00:54.920><c> sin^2</c>
+
+00:00:55.910 --> 00:00:55.920 align:start position:0%
+the &lt; TK of 1 - sin^2 th Now 1 - sin^2
+ 
+
+00:00:55.920 --> 00:01:00.349 align:start position:0%
+the &lt; TK of 1 - sin^2 th Now 1 - sin^2
+is<00:00:56.239><c> equal</c><00:00:56.559><c> to</c><00:00:56.840><c> cine</c><00:00:57.840><c> 2</c><00:00:58.840><c> this</c><00:00:59.160><c> is</c><00:00:59.280><c> a</c><00:00:59.519><c> fund</c><00:01:00.199><c> Al</c>
+
+00:01:00.349 --> 00:01:00.359 align:start position:0%
+is equal to cine 2 this is a fund Al
+ 
+
+00:01:00.359 --> 00:01:03.509 align:start position:0%
+is equal to cine 2 this is a fund Al
+trigonometric<00:01:01.320><c> identity</c><00:01:02.320><c> the</c><00:01:02.640><c> square</c><00:01:03.120><c> root</c>
+
+00:01:03.509 --> 00:01:03.519 align:start position:0%
+trigonometric identity the square root
+ 
+
+00:01:03.519 --> 00:01:07.270 align:start position:0%
+trigonometric identity the square root
+of<00:01:03.840><c> cosine</c><00:01:04.280><c> 2</c><00:01:04.720><c> thet</c><00:01:05.119><c> is</c><00:01:05.280><c> simply</c><00:01:05.760><c> cosine</c><00:01:06.280><c> Theta</c>
+
+00:01:07.270 --> 00:01:07.280 align:start position:0%
+of cosine 2 thet is simply cosine Theta
+ 
+
+00:01:07.280 --> 00:01:09.550 align:start position:0%
+of cosine 2 thet is simply cosine Theta
+so<00:01:07.600><c> our</c><00:01:07.920><c> expression</c><00:01:08.439><c> simplifies</c><00:01:09.040><c> to</c><00:01:09.240><c> sin</c>
+
+00:01:09.550 --> 00:01:09.560 align:start position:0%
+so our expression simplifies to sin
+ 
+
+00:01:09.560 --> 00:01:13.510 align:start position:0%
+so our expression simplifies to sin
+inverse<00:01:10.320><c> of</c><00:01:10.560><c> 2</c><00:01:11.040><c> sin</c><00:01:11.439><c> Theta</c><00:01:11.920><c> cine</c><00:01:12.439><c> Theta</c><00:01:13.280><c> here's</c>
+
+00:01:13.510 --> 00:01:13.520 align:start position:0%
+inverse of 2 sin Theta cine Theta here's
+ 
+
+00:01:13.520 --> 00:01:16.469 align:start position:0%
+inverse of 2 sin Theta cine Theta here's
+where<00:01:13.759><c> another</c><00:01:14.080><c> key</c><00:01:14.360><c> identity</c><00:01:14.840><c> comes</c><00:01:15.119><c> in</c><00:01:16.040><c> 2</c>
+
+00:01:16.469 --> 00:01:16.479 align:start position:0%
+where another key identity comes in 2
+ 
+
+00:01:16.479 --> 00:01:20.950 align:start position:0%
+where another key identity comes in 2
+sin<00:01:16.840><c> Theta</c><00:01:17.400><c> cine</c><00:01:18.000><c> Theta</c><00:01:18.439><c> =</c><00:01:18.960><c> sin</c><00:01:19.280><c> of</c><00:01:19.640><c> 2</c><00:01:20.000><c> thet</c>
+
+00:01:20.950 --> 00:01:20.960 align:start position:0%
+sin Theta cine Theta = sin of 2 thet
+ 
+
+00:01:20.960 --> 00:01:24.030 align:start position:0%
+sin Theta cine Theta = sin of 2 thet
+this<00:01:21.320><c> is</c><00:01:21.520><c> the</c><00:01:21.759><c> double</c><00:01:22.040><c> angle</c><00:01:22.439><c> formula</c><00:01:22.880><c> for</c><00:01:23.119><c> S</c>
+
+00:01:24.030 --> 00:01:24.040 align:start position:0%
+this is the double angle formula for S
+ 
+
+00:01:24.040 --> 00:01:25.950 align:start position:0%
+this is the double angle formula for S
+when<00:01:24.200><c> we</c><00:01:24.400><c> have</c><00:01:24.640><c> sin</c><00:01:24.920><c> inverse</c><00:01:25.320><c> of</c><00:01:25.520><c> s</c><00:01:25.720><c> of</c>
+
+00:01:25.950 --> 00:01:25.960 align:start position:0%
+when we have sin inverse of s of
+ 
+
+00:01:25.960 --> 00:01:28.590 align:start position:0%
+when we have sin inverse of s of
+something<00:01:26.960><c> they</c><00:01:27.200><c> cancel</c><00:01:27.560><c> out</c><00:01:27.880><c> leaving</c><00:01:28.280><c> us</c>
+
+00:01:28.590 --> 00:01:28.600 align:start position:0%
+something they cancel out leaving us
+ 
+
+00:01:28.600 --> 00:01:30.630 align:start position:0%
+something they cancel out leaving us
+with<00:01:28.880><c> Just</c><00:01:29.159><c> 2</c><00:01:29.560><c> Theta</c>
+
+00:01:30.630 --> 00:01:30.640 align:start position:0%
+with Just 2 Theta
+ 
+
+00:01:30.640 --> 00:01:33.789 align:start position:0%
+with Just 2 Theta
+remember<00:01:31.079><c> thata</c><00:01:31.759><c> is</c><00:01:31.960><c> sin</c><00:01:32.200><c> inverse</c><00:01:32.600><c> of</c><00:01:32.759><c> X</c><00:01:33.439><c> so</c>
+
+00:01:33.789 --> 00:01:33.799 align:start position:0%
+remember thata is sin inverse of X so
+ 
+
+00:01:33.799 --> 00:01:37.670 align:start position:0%
+remember thata is sin inverse of X so
+our<00:01:34.200><c> final</c><00:01:34.600><c> expression</c><00:01:35.119><c> for</c><00:01:35.520><c> y</c><00:01:36.360><c> is</c><00:01:36.600><c> 2</c><00:01:37.000><c> *</c><00:01:37.439><c> sin</c>
+
+00:01:37.670 --> 00:01:37.680 align:start position:0%
+our final expression for y is 2 * sin
+ 
+
+00:01:37.680 --> 00:01:40.310 align:start position:0%
+our final expression for y is 2 * sin
+inverse<00:01:38.079><c> of</c><00:01:38.280><c> X</c><00:01:39.200><c> now</c><00:01:39.399><c> we</c><00:01:39.520><c> can</c><00:01:39.799><c> find</c><00:01:40.079><c> the</c>
+
+00:01:40.310 --> 00:01:40.320 align:start position:0%
+inverse of X now we can find the
+ 
+
+00:01:40.320 --> 00:01:42.990 align:start position:0%
+inverse of X now we can find the
+derivative<00:01:41.320><c> the</c><00:01:41.520><c> derivative</c><00:01:42.159><c> of</c><00:01:42.399><c> y</c><00:01:42.759><c> with</c>
+
+00:01:42.990 --> 00:01:43.000 align:start position:0%
+derivative the derivative of y with
+ 
+
+00:01:43.000 --> 00:01:46.230 align:start position:0%
+derivative the derivative of y with
+respect<00:01:43.399><c> to</c><00:01:43.720><c> x</c><00:01:44.159><c> equals</c><00:01:44.640><c> the</c><00:01:44.799><c> derivative</c><00:01:45.399><c> of</c><00:01:45.880><c> 2</c>
+
+00:01:46.230 --> 00:01:46.240 align:start position:0%
+respect to x equals the derivative of 2
+ 
+
+00:01:46.240 --> 00:01:50.310 align:start position:0%
+respect to x equals the derivative of 2
+sin<00:01:46.759><c> inverse</c><00:01:47.280><c> of</c><00:01:47.479><c> X</c><00:01:48.439><c> using</c><00:01:48.759><c> the</c><00:01:48.880><c> chain</c><00:01:49.320><c> rule</c>
+
+00:01:50.310 --> 00:01:50.320 align:start position:0%
+sin inverse of X using the chain rule
+ 
+
+00:01:50.320 --> 00:01:53.149 align:start position:0%
+sin inverse of X using the chain rule
+this<00:01:50.560><c> equals</c><00:01:51.119><c> 2</c><00:01:51.479><c> *</c><00:01:52.040><c> the</c><00:01:52.240><c> derivative</c><00:01:52.680><c> of</c><00:01:52.920><c> sin</c>
+
+00:01:53.149 --> 00:01:53.159 align:start position:0%
+this equals 2 * the derivative of sin
+ 
+
+00:01:53.159 --> 00:01:56.870 align:start position:0%
+this equals 2 * the derivative of sin
+inverse<00:01:53.479><c> of</c><00:01:53.640><c> X</c><00:01:54.280><c> which</c><00:01:54.600><c> equal</c><00:01:55.079><c> 2</c><00:01:55.520><c> /</c><00:01:56.159><c> the</c><00:01:56.360><c> sare</c><00:01:56.759><c> &lt;</c>
+
+00:01:56.870 --> 00:01:56.880 align:start position:0%
+inverse of X which equal 2 / the sare &lt;
+ 
+
+00:01:56.880 --> 00:02:01.830 align:start position:0%
+inverse of X which equal 2 / the sare &lt;
+TK<00:01:57.640><c> of</c><00:01:58.000><c> 1</c><00:01:58.360><c> -</c><00:01:58.840><c> x^2</c><00:02:00.159><c> therefore</c><00:02:01.159><c> the</c><00:02:01.360><c> derivative</c>
+
+00:02:01.830 --> 00:02:01.840 align:start position:0%
+TK of 1 - x^2 therefore the derivative
+ 
+
+00:02:01.840 --> 00:02:06.749 align:start position:0%
+TK of 1 - x^2 therefore the derivative
+of<00:02:02.039><c> sin</c><00:02:02.520><c> inverse</c><00:02:02.960><c> of</c><00:02:03.240><c> 2x</c><00:02:03.960><c> *</c><00:02:04.560><c> the</c><00:02:05.159><c> &lt;</c><00:02:05.280><c> TK</c><00:02:05.680><c> of</c><00:02:06.000><c> 1</c><00:02:06.280><c> -</c>
+
+00:02:06.749 --> 00:02:06.759 align:start position:0%
+of sin inverse of 2x * the &lt; TK of 1 -
+ 
+
+00:02:06.759 --> 00:02:14.640 align:start position:0%
+of sin inverse of 2x * the &lt; TK of 1 -
+x^2<00:02:07.719><c> =</c><00:02:08.160><c> 2</c><00:02:08.520><c> /</c><00:02:09.160><c> the</c><00:02:09.759><c> &lt;</c><00:02:09.879><c> TK</c><00:02:10.640><c> of</c><00:02:10.920><c> 1</c><00:02:11.200><c> -</c><00:02:11.640><c> x^2</c>
+

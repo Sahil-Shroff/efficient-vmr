@@ -1,0 +1,248 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.320 --> 00:00:03.310 align:start position:0%
+ 
+let's<00:00:00.640><c> solve</c><00:00:01.040><c> this</c><00:00:01.280><c> derivative</c><00:00:01.880><c> step</c><00:00:02.240><c> by</c><00:00:02.560><c> step</c>
+
+00:00:03.310 --> 00:00:03.320 align:start position:0%
+let's solve this derivative step by step
+ 
+
+00:00:03.320 --> 00:00:05.910 align:start position:0%
+let's solve this derivative step by step
+we'll<00:00:03.600><c> start</c><00:00:03.879><c> with</c><00:00:04.040><c> the</c><00:00:04.200><c> original</c><00:00:04.920><c> expression</c>
+
+00:00:05.910 --> 00:00:05.920 align:start position:0%
+we'll start with the original expression
+ 
+
+00:00:05.920 --> 00:00:08.509 align:start position:0%
+we'll start with the original expression
+and<00:00:06.200><c> simplify</c><00:00:06.879><c> it</c><00:00:07.120><c> before</c><00:00:07.560><c> taking</c><00:00:08.000><c> the</c>
+
+00:00:08.509 --> 00:00:08.519 align:start position:0%
+and simplify it before taking the
+ 
+
+00:00:08.519 --> 00:00:11.549 align:start position:0%
+and simplify it before taking the
+derivative<00:00:09.519><c> first</c><00:00:10.360><c> let's</c><00:00:10.679><c> recall</c><00:00:11.040><c> the</c><00:00:11.240><c> double</c>
+
+00:00:11.549 --> 00:00:11.559 align:start position:0%
+derivative first let's recall the double
+ 
+
+00:00:11.559 --> 00:00:16.950 align:start position:0%
+derivative first let's recall the double
+angle<00:00:11.960><c> formula</c><00:00:12.440><c> for</c><00:00:12.960><c> cosine</c><00:00:13.960><c> cine</c><00:00:14.599><c> of</c><00:00:14.960><c> 2x</c><00:00:15.839><c> =</c><00:00:16.440><c> c^</c>
+
+00:00:16.950 --> 00:00:16.960 align:start position:0%
+angle formula for cosine cine of 2x = c^
+ 
+
+00:00:16.960 --> 00:00:21.790 align:start position:0%
+angle formula for cosine cine of 2x = c^
+2<00:00:17.520><c> x</c><00:00:18.039><c> -</c><00:00:18.520><c> sin^2</c><00:00:19.320><c> x</c><00:00:20.119><c> we'll</c><00:00:20.480><c> substitute</c><00:00:21.199><c> this</c><00:00:21.519><c> into</c>
+
+00:00:21.790 --> 00:00:21.800 align:start position:0%
+2 x - sin^2 x we'll substitute this into
+ 
+
+00:00:21.800 --> 00:00:25.269 align:start position:0%
+2 x - sin^2 x we'll substitute this into
+our<00:00:22.359><c> expression</c><00:00:23.359><c> now</c><00:00:24.160><c> let's</c><00:00:24.480><c> distribute</c><00:00:25.039><c> the</c>
+
+00:00:25.269 --> 00:00:25.279 align:start position:0%
+our expression now let's distribute the
+ 
+
+00:00:25.279 --> 00:00:27.750 align:start position:0%
+our expression now let's distribute the
+negative<00:00:25.720><c> sign</c><00:00:26.000><c> in</c><00:00:26.119><c> the</c><00:00:26.519><c> numerator</c><00:00:27.519><c> this</c>
+
+00:00:27.750 --> 00:00:27.760 align:start position:0%
+negative sign in the numerator this
+ 
+
+00:00:27.760 --> 00:00:33.150 align:start position:0%
+negative sign in the numerator this
+gives<00:00:27.960><c> us</c><00:00:28.279><c> cosine</c><00:00:28.760><c> x</c><00:00:29.240><c> -</c><00:00:29.640><c> cos</c><00:00:30.000><c> sin^2</c><00:00:30.880><c> x</c><00:00:31.199><c> +</c><00:00:31.560><c> s^</c><00:00:32.439><c> 2</c>
+
+00:00:33.150 --> 00:00:33.160 align:start position:0%
+gives us cosine x - cos sin^2 x + s^ 2
+ 
+
+00:00:33.160 --> 00:00:37.950 align:start position:0%
+gives us cosine x - cos sin^2 x + s^ 2
+x/<00:00:34.160><c> 1</c><00:00:34.520><c> -</c><00:00:35.000><c> cosine</c><00:00:35.440><c> X</c><00:00:36.399><c> here's</c><00:00:36.800><c> where</c><00:00:37.000><c> we</c><00:00:37.120><c> can</c><00:00:37.320><c> use</c>
+
+00:00:37.950 --> 00:00:37.960 align:start position:0%
+x/ 1 - cosine X here's where we can use
+ 
+
+00:00:37.960 --> 00:00:41.709 align:start position:0%
+x/ 1 - cosine X here's where we can use
+another<00:00:38.600><c> important</c><00:00:39.600><c> trigonometric</c><00:00:40.719><c> identity</c>
+
+00:00:41.709 --> 00:00:41.719 align:start position:0%
+another important trigonometric identity
+ 
+
+00:00:41.719 --> 00:00:48.110 align:start position:0%
+another important trigonometric identity
+remember<00:00:42.520><c> that</c><00:00:42.800><c> sin^2</c><00:00:43.719><c> X+</c><00:00:44.719><c> cine</c><00:00:45.239><c> 2</c><00:00:46.039><c> x</c><00:00:46.360><c> =</c><00:00:46.800><c> 1</c><00:00:47.760><c> so</c>
+
+00:00:48.110 --> 00:00:48.120 align:start position:0%
+remember that sin^2 X+ cine 2 x = 1 so
+ 
+
+00:00:48.120 --> 00:00:53.349 align:start position:0%
+remember that sin^2 X+ cine 2 x = 1 so
+sin^2<00:00:48.879><c> x</c><00:00:49.320><c> =</c><00:00:50.079><c> 1</c><00:00:50.640><c> -</c><00:00:51.160><c> cosine</c><00:00:51.640><c> 2</c><00:00:52.079><c> x</c><00:00:53.000><c> let's</c>
+
+00:00:53.349 --> 00:00:53.359 align:start position:0%
+sin^2 x = 1 - cosine 2 x let's
+ 
+
+00:00:53.359 --> 00:00:56.630 align:start position:0%
+sin^2 x = 1 - cosine 2 x let's
+substitute<00:00:54.160><c> this</c><00:00:54.559><c> into</c><00:00:54.840><c> our</c><00:00:55.399><c> expression</c><00:00:56.399><c> now</c>
+
+00:00:56.630 --> 00:00:56.640 align:start position:0%
+substitute this into our expression now
+ 
+
+00:00:56.640 --> 00:01:03.430 align:start position:0%
+substitute this into our expression now
+we<00:00:56.800><c> have</c><00:00:57.120><c> cine</c><00:00:57.640><c> x</c><00:00:58.120><c> -</c><00:00:58.719><c> c^</c><00:00:59.199><c> 2</c><00:00:59.719><c> X</c><00:01:00.000><c> x</c><00:01:00.199><c> +</c><00:01:00.760><c> 1</c><00:01:01.039><c> -</c><00:01:01.519><c> c^</c><00:01:02.000><c> 2</c><00:01:02.600><c> X</c>
+
+00:01:03.430 --> 00:01:03.440 align:start position:0%
+we have cine x - c^ 2 X x + 1 - c^ 2 X
+ 
+
+00:01:03.440 --> 00:01:07.429 align:start position:0%
+we have cine x - c^ 2 X x + 1 - c^ 2 X
+all<00:01:03.800><c> over</c><00:01:04.199><c> 1</c><00:01:04.479><c> -</c><00:01:04.960><c> cine</c><00:01:05.360><c> X</c><00:01:06.240><c> let's</c><00:01:06.520><c> group</c><00:01:06.880><c> terms</c><00:01:07.280><c> in</c>
+
+00:01:07.429 --> 00:01:07.439 align:start position:0%
+all over 1 - cine X let's group terms in
+ 
+
+00:01:07.439 --> 00:01:11.070 align:start position:0%
+all over 1 - cine X let's group terms in
+the<00:01:07.920><c> numerator</c><00:01:08.920><c> first</c><00:01:09.600><c> we</c><00:01:09.720><c> can</c><00:01:10.000><c> factor</c><00:01:10.360><c> out</c><00:01:10.759><c> 1</c>
+
+00:01:11.070 --> 00:01:11.080 align:start position:0%
+the numerator first we can factor out 1
+ 
+
+00:01:11.080 --> 00:01:14.789 align:start position:0%
+the numerator first we can factor out 1
+-<00:01:11.600><c> cosine</c><00:01:12.000><c> X</c><00:01:12.320><c> from</c><00:01:12.520><c> the</c><00:01:12.680><c> first</c><00:01:12.960><c> two</c><00:01:13.479><c> terms</c><00:01:14.479><c> then</c>
+
+00:01:14.789 --> 00:01:14.799 align:start position:0%
+- cosine X from the first two terms then
+ 
+
+00:01:14.799 --> 00:01:17.469 align:start position:0%
+- cosine X from the first two terms then
+we<00:01:14.920><c> can</c><00:01:15.200><c> Factor</c><00:01:15.520><c> the</c><00:01:15.759><c> remaining</c><00:01:16.159><c> terms</c><00:01:16.680><c> with</c><00:01:16.920><c> 1</c>
+
+00:01:17.469 --> 00:01:17.479 align:start position:0%
+we can Factor the remaining terms with 1
+ 
+
+00:01:17.479 --> 00:01:23.350 align:start position:0%
+we can Factor the remaining terms with 1
+-<00:01:18.000><c> cine</c><00:01:18.600><c> x</c><00:01:19.119><c> *</c><00:01:20.119><c> 1</c><00:01:20.520><c> +</c><00:01:20.960><c> cine</c><00:01:21.400><c> X</c><00:01:22.320><c> now</c><00:01:22.560><c> we</c><00:01:22.680><c> can</c><00:01:22.960><c> cancel</c>
+
+00:01:23.350 --> 00:01:23.360 align:start position:0%
+- cine x * 1 + cine X now we can cancel
+ 
+
+00:01:23.360 --> 00:01:26.950 align:start position:0%
+- cine x * 1 + cine X now we can cancel
+the<00:01:23.600><c> 1</c><00:01:24.159><c> -</c><00:01:24.680><c> cine</c><00:01:25.240><c> X</c><00:01:25.560><c> terms</c><00:01:25.920><c> in</c><00:01:26.040><c> the</c><00:01:26.240><c> numerator</c>
+
+00:01:26.950 --> 00:01:26.960 align:start position:0%
+the 1 - cine X terms in the numerator
+ 
+
+00:01:26.960 --> 00:01:29.910 align:start position:0%
+the 1 - cine X terms in the numerator
+and<00:01:27.600><c> denominator</c><00:01:28.600><c> this</c><00:01:28.960><c> simplifies</c><00:01:29.479><c> our</c><00:01:29.640><c> EXP</c>
+
+00:01:29.910 --> 00:01:29.920 align:start position:0%
+and denominator this simplifies our EXP
+ 
+
+00:01:29.920 --> 00:01:34.109 align:start position:0%
+and denominator this simplifies our EXP
+expression<00:01:30.320><c> to</c><00:01:30.640><c> 2</c><00:01:31.159><c> cine</c><00:01:31.680><c> x</c><00:01:32.000><c> +</c><00:01:32.360><c> 1</c><00:01:33.360><c> now</c><00:01:33.640><c> that</c><00:01:33.880><c> we</c>
+
+00:01:34.109 --> 00:01:34.119 align:start position:0%
+expression to 2 cine x + 1 now that we
+ 
+
+00:01:34.119 --> 00:01:36.749 align:start position:0%
+expression to 2 cine x + 1 now that we
+have<00:01:34.600><c> simplified</c><00:01:35.200><c> our</c><00:01:35.479><c> expression</c><00:01:36.280><c> we</c><00:01:36.399><c> can</c>
+
+00:01:36.749 --> 00:01:36.759 align:start position:0%
+have simplified our expression we can
+ 
+
+00:01:36.759 --> 00:01:39.109 align:start position:0%
+have simplified our expression we can
+easily<00:01:37.320><c> take</c><00:01:37.680><c> the</c><00:01:37.960><c> derivative</c><00:01:38.960><c> the</c>
+
+00:01:39.109 --> 00:01:39.119 align:start position:0%
+easily take the derivative the
+ 
+
+00:01:39.119 --> 00:01:43.109 align:start position:0%
+easily take the derivative the
+derivative<00:01:39.600><c> of</c><00:01:39.880><c> cine</c><00:01:40.320><c> X</c><00:01:40.720><c> is</c><00:01:41.720><c> sinx</c><00:01:42.720><c> and</c><00:01:42.960><c> the</c>
+
+00:01:43.109 --> 00:01:43.119 align:start position:0%
+derivative of cine X is sinx and the
+ 
+
+00:01:43.119 --> 00:01:46.429 align:start position:0%
+derivative of cine X is sinx and the
+derivative<00:01:43.600><c> of</c><00:01:43.680><c> a</c><00:01:43.920><c> constant</c><00:01:44.799><c> is</c><00:01:45.320><c> zero</c>
+
+00:01:46.429 --> 00:01:46.439 align:start position:0%
+derivative of a constant is zero
+ 
+
+00:01:46.439 --> 00:01:51.389 align:start position:0%
+derivative of a constant is zero
+therefore<00:01:47.439><c> our</c><00:01:47.880><c> final</c><00:01:48.320><c> answer</c><00:01:48.759><c> is</c><00:01:49.439><c> -2</c><00:01:50.399><c> sinx</c>
+
+00:01:51.389 --> 00:01:51.399 align:start position:0%
+therefore our final answer is -2 sinx
+ 
+
+00:01:51.399 --> 00:01:54.510 align:start position:0%
+therefore our final answer is -2 sinx
+this<00:01:51.719><c> completes</c><00:01:52.200><c> our</c><00:01:52.520><c> solution</c><00:01:53.520><c> to</c><00:01:53.880><c> visualize</c>
+
+00:01:54.510 --> 00:01:54.520 align:start position:0%
+this completes our solution to visualize
+ 
+
+00:01:54.520 --> 00:01:57.109 align:start position:0%
+this completes our solution to visualize
+this<00:01:55.119><c> here's</c><00:01:55.360><c> what</c><00:01:55.520><c> the</c><00:01:55.680><c> original</c><00:01:56.200><c> function</c>
+
+00:01:57.109 --> 00:01:57.119 align:start position:0%
+this here's what the original function
+ 
+
+00:01:57.119 --> 00:02:01.840 align:start position:0%
+this here's what the original function
+and<00:01:57.320><c> its</c><00:01:57.600><c> derivative</c><00:01:58.200><c> look</c><00:01:58.560><c> like</c><00:01:59.159><c> graphically</c>
+

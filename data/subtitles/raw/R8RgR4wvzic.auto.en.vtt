@@ -1,0 +1,240 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:01.850 align:start position:0%
+ 
+start<00:00:00.420><c> with</c><00:00:00.599><c> a</c><00:00:00.780><c> cube</c><00:00:01.020><c> with</c><00:00:01.199><c> side</c><00:00:01.380><c> length</c><00:00:01.740><c> one</c>
+
+00:00:01.850 --> 00:00:01.860 align:start position:0%
+start with a cube with side length one
+ 
+
+00:00:01.860 --> 00:00:03.770 align:start position:0%
+start with a cube with side length one
+over<00:00:01.979><c> square</c><00:00:02.220><c> root</c><00:00:02.520><c> 1.</c><00:00:02.879><c> on</c><00:00:03.179><c> top</c><00:00:03.300><c> of</c><00:00:03.419><c> that</c><00:00:03.540><c> place</c>
+
+00:00:03.770 --> 00:00:03.780 align:start position:0%
+over square root 1. on top of that place
+ 
+
+00:00:03.780 --> 00:00:05.150 align:start position:0%
+over square root 1. on top of that place
+a<00:00:03.959><c> cube</c><00:00:04.200><c> with</c><00:00:04.319><c> side</c><00:00:04.440><c> length</c><00:00:04.680><c> one</c><00:00:04.799><c> over</c><00:00:04.980><c> square</c>
+
+00:00:05.150 --> 00:00:05.160 align:start position:0%
+a cube with side length one over square
+ 
+
+00:00:05.160 --> 00:00:07.010 align:start position:0%
+a cube with side length one over square
+root<00:00:05.400><c> of</c><00:00:05.460><c> two</c><00:00:05.580><c> on</c><00:00:06.060><c> top</c><00:00:06.180><c> of</c><00:00:06.240><c> that</c><00:00:06.359><c> place</c><00:00:06.600><c> a</c><00:00:06.839><c> cube</c>
+
+00:00:07.010 --> 00:00:07.020 align:start position:0%
+root of two on top of that place a cube
+ 
+
+00:00:07.020 --> 00:00:08.270 align:start position:0%
+root of two on top of that place a cube
+with<00:00:07.140><c> the</c><00:00:07.259><c> side</c><00:00:07.379><c> length</c><00:00:07.680><c> of</c><00:00:07.740><c> 1</c><00:00:07.919><c> over</c><00:00:08.099><c> the</c>
+
+00:00:08.270 --> 00:00:08.280 align:start position:0%
+with the side length of 1 over the
+ 
+
+00:00:08.280 --> 00:00:09.770 align:start position:0%
+with the side length of 1 over the
+square<00:00:08.340><c> root</c><00:00:08.580><c> of</c><00:00:08.639><c> three</c><00:00:08.820><c> and</c><00:00:09.240><c> continue</c><00:00:09.420><c> this</c>
+
+00:00:09.770 --> 00:00:09.780 align:start position:0%
+square root of three and continue this
+ 
+
+00:00:09.780 --> 00:00:11.570 align:start position:0%
+square root of three and continue this
+process<00:00:10.080><c> indefinitely</c><00:00:10.740><c> the</c><00:00:11.219><c> resulting</c>
+
+00:00:11.570 --> 00:00:11.580 align:start position:0%
+process indefinitely the resulting
+ 
+
+00:00:11.580 --> 00:00:13.249 align:start position:0%
+process indefinitely the resulting
+structure<00:00:12.000><c> sometimes</c><00:00:12.480><c> called</c><00:00:12.660><c> the</c><00:00:12.900><c> infinite</c>
+
+00:00:13.249 --> 00:00:13.259 align:start position:0%
+structure sometimes called the infinite
+ 
+
+00:00:13.259 --> 00:00:15.530 align:start position:0%
+structure sometimes called the infinite
+GIF<00:00:13.559><c> consists</c><00:00:14.099><c> of</c><00:00:14.280><c> an</c><00:00:14.580><c> infinite</c><00:00:15.000><c> stack</c><00:00:15.360><c> of</c>
+
+00:00:15.530 --> 00:00:15.540 align:start position:0%
+GIF consists of an infinite stack of
+ 
+
+00:00:15.540 --> 00:00:17.450 align:start position:0%
+GIF consists of an infinite stack of
+Cubes<00:00:16.020><c> each</c><00:00:16.260><c> with</c><00:00:16.440><c> a</c><00:00:16.619><c> side</c><00:00:16.680><c> length</c><00:00:17.039><c> of</c><00:00:17.100><c> 1</c><00:00:17.279><c> over</c>
+
+00:00:17.450 --> 00:00:17.460 align:start position:0%
+Cubes each with a side length of 1 over
+ 
+
+00:00:17.460 --> 00:00:19.550 align:start position:0%
+Cubes each with a side length of 1 over
+the<00:00:17.580><c> square</c><00:00:17.699><c> root</c><00:00:17.940><c> of</c><00:00:18.000><c> n</c><00:00:18.180><c> each</c><00:00:18.900><c> Cube</c><00:00:19.199><c> has</c><00:00:19.380><c> a</c>
+
+00:00:19.550 --> 00:00:19.560 align:start position:0%
+the square root of n each Cube has a
+ 
+
+00:00:19.560 --> 00:00:21.470 align:start position:0%
+the square root of n each Cube has a
+side<00:00:19.740><c> with</c><00:00:20.039><c> area</c><00:00:20.279><c> given</c><00:00:20.760><c> by</c><00:00:20.880><c> the</c><00:00:21.060><c> square</c><00:00:21.180><c> root</c>
+
+00:00:21.470 --> 00:00:21.480 align:start position:0%
+side with area given by the square root
+ 
+
+00:00:21.480 --> 00:00:23.510 align:start position:0%
+side with area given by the square root
+of<00:00:21.539><c> one</c><00:00:21.660><c> over</c><00:00:21.900><c> N</c><00:00:22.080><c> squared</c><00:00:22.619><c> so</c><00:00:22.920><c> the</c><00:00:23.220><c> total</c>
+
+00:00:23.510 --> 00:00:23.520 align:start position:0%
+of one over N squared so the total
+ 
+
+00:00:23.520 --> 00:00:25.429 align:start position:0%
+of one over N squared so the total
+surface<00:00:23.880><c> area</c><00:00:24.060><c> of</c><00:00:24.420><c> this</c><00:00:24.600><c> structure</c><00:00:25.080><c> is</c>
+
+00:00:25.429 --> 00:00:25.439 align:start position:0%
+surface area of this structure is
+ 
+
+00:00:25.439 --> 00:00:27.230 align:start position:0%
+surface area of this structure is
+greater<00:00:25.680><c> than</c><00:00:25.800><c> or</c><00:00:25.920><c> equal</c><00:00:26.100><c> to</c><00:00:26.279><c> four</c><00:00:26.640><c> times</c><00:00:27.000><c> the</c>
+
+00:00:27.230 --> 00:00:27.240 align:start position:0%
+greater than or equal to four times the
+ 
+
+00:00:27.240 --> 00:00:29.330 align:start position:0%
+greater than or equal to four times the
+infinite<00:00:27.660><c> sum</c><00:00:27.900><c> where</c><00:00:28.199><c> n</c><00:00:28.439><c> ranges</c><00:00:28.800><c> from</c><00:00:28.920><c> 1</c><00:00:29.160><c> to</c>
+
+00:00:29.330 --> 00:00:29.340 align:start position:0%
+infinite sum where n ranges from 1 to
+ 
+
+00:00:29.340 --> 00:00:32.510 align:start position:0%
+infinite sum where n ranges from 1 to
+Infinity<00:00:29.519><c> of</c><00:00:30.119><c> 1</c><00:00:30.300><c> over</c><00:00:30.480><c> root</c><00:00:30.900><c> N</c><00:00:31.199><c> squared</c><00:00:31.859><c> on</c><00:00:32.399><c> the</c>
+
+00:00:32.510 --> 00:00:32.520 align:start position:0%
+Infinity of 1 over root N squared on the
+ 
+
+00:00:32.520 --> 00:00:34.910 align:start position:0%
+Infinity of 1 over root N squared on the
+other<00:00:32.640><c> hand</c><00:00:32.880><c> the</c><00:00:33.540><c> volume</c><00:00:33.719><c> of</c><00:00:34.020><c> each</c><00:00:34.260><c> cube</c><00:00:34.680><c> is</c>
+
+00:00:34.910 --> 00:00:34.920 align:start position:0%
+other hand the volume of each cube is
+ 
+
+00:00:34.920 --> 00:00:36.650 align:start position:0%
+other hand the volume of each cube is
+given<00:00:35.160><c> by</c><00:00:35.280><c> the</c><00:00:35.460><c> quantity</c><00:00:35.760><c> one</c><00:00:36.120><c> over</c><00:00:36.420><c> the</c>
+
+00:00:36.650 --> 00:00:36.660 align:start position:0%
+given by the quantity one over the
+ 
+
+00:00:36.660 --> 00:00:38.750 align:start position:0%
+given by the quantity one over the
+square<00:00:36.780><c> root</c><00:00:37.020><c> of</c><00:00:37.079><c> n</c><00:00:37.320><c> cubed</c><00:00:37.800><c> so</c><00:00:38.040><c> the</c><00:00:38.280><c> volume</c><00:00:38.460><c> of</c>
+
+00:00:38.750 --> 00:00:38.760 align:start position:0%
+square root of n cubed so the volume of
+ 
+
+00:00:38.760 --> 00:00:40.729 align:start position:0%
+square root of n cubed so the volume of
+this<00:00:38.940><c> structure</c><00:00:39.300><c> is</c><00:00:39.660><c> the</c><00:00:39.899><c> infinite</c><00:00:40.260><c> sum</c><00:00:40.500><c> where</c>
+
+00:00:40.729 --> 00:00:40.739 align:start position:0%
+this structure is the infinite sum where
+ 
+
+00:00:40.739 --> 00:00:42.709 align:start position:0%
+this structure is the infinite sum where
+n<00:00:40.920><c> ranges</c><00:00:41.340><c> from</c><00:00:41.520><c> 1</c><00:00:41.760><c> to</c><00:00:42.000><c> Infinity</c><00:00:42.120><c> of</c><00:00:42.600><c> the</c>
+
+00:00:42.709 --> 00:00:42.719 align:start position:0%
+n ranges from 1 to Infinity of the
+ 
+
+00:00:42.719 --> 00:00:45.470 align:start position:0%
+n ranges from 1 to Infinity of the
+quantity<00:00:43.079><c> one</c><00:00:43.320><c> over</c><00:00:43.559><c> root</c><00:00:44.040><c> n</c><00:00:44.280><c> cubed</c><00:00:44.760><c> it</c><00:00:45.239><c> turns</c>
+
+00:00:45.470 --> 00:00:45.480 align:start position:0%
+quantity one over root n cubed it turns
+ 
+
+00:00:45.480 --> 00:00:47.810 align:start position:0%
+quantity one over root n cubed it turns
+out<00:00:45.600><c> that</c><00:00:45.899><c> the</c><00:00:46.200><c> area</c><00:00:46.440><c> series</c><00:00:46.860><c> diverges</c>
+
+00:00:47.810 --> 00:00:47.820 align:start position:0%
+out that the area series diverges
+ 
+
+00:00:47.820 --> 00:00:49.490 align:start position:0%
+out that the area series diverges
+because<00:00:48.059><c> it's</c><00:00:48.300><c> the</c><00:00:48.480><c> harmonic</c><00:00:48.960><c> series</c><00:00:49.140><c> times</c>
+
+00:00:49.490 --> 00:00:49.500 align:start position:0%
+because it's the harmonic series times
+ 
+
+00:00:49.500 --> 00:00:51.590 align:start position:0%
+because it's the harmonic series times
+four<00:00:49.800><c> and</c><00:00:50.340><c> the</c><00:00:50.640><c> volume</c><00:00:50.760><c> infinite</c><00:00:51.420><c> series</c>
+
+00:00:51.590 --> 00:00:51.600 align:start position:0%
+four and the volume infinite series
+ 
+
+00:00:51.600 --> 00:00:53.330 align:start position:0%
+four and the volume infinite series
+converges<00:00:52.440><c> to</c><00:00:52.739><c> a</c><00:00:52.860><c> value</c><00:00:53.039><c> that's</c>
+
+00:00:53.330 --> 00:00:53.340 align:start position:0%
+converges to a value that's
+ 
+
+00:00:53.340 --> 00:00:56.630 align:start position:0%
+converges to a value that's
+approximately<00:00:54.140><c> 2.61</c><00:00:55.140><c> this</c><00:00:55.980><c> structure</c><00:00:56.280><c> is</c><00:00:56.460><c> a</c>
+
+00:00:56.630 --> 00:00:56.640 align:start position:0%
+approximately 2.61 this structure is a
+ 
+
+00:00:56.640 --> 00:00:58.189 align:start position:0%
+approximately 2.61 this structure is a
+discrete<00:00:57.000><c> version</c><00:00:57.120><c> of</c><00:00:57.360><c> Gabriel's</c><00:00:57.840><c> horn</c><00:00:57.960><c> and</c>
+
+00:00:58.189 --> 00:00:58.199 align:start position:0%
+discrete version of Gabriel's horn and
+ 
+
+00:00:58.199 --> 00:01:01.760 align:start position:0%
+discrete version of Gabriel's horn and
+can<00:00:58.379><c> be</c><00:00:58.500><c> used</c><00:00:58.620><c> for</c><00:00:58.800><c> the</c><00:00:58.920><c> painter's</c><00:00:59.340><c> paradox</c>
+

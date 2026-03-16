@@ -1,50 +1,92 @@
-# Video-MMLU Baselines on GCP
+# Video-MMLU Subtitle-Based VMR Baselines
 
-A lightweight starter repo for running **baseline experiments** on a GCP VM for your Independent Study.
+This repo is organized around **Video Moment Retrieval (VMR)** / **timestamp localization**, not general video QA.
 
-This scaffold is intentionally simple and focused on the first experiments your advisor asked for:
+Primary task:
 
-1. **Inspect the dataset**
-2. **Run a transcript-only retrieval baseline**
-3. **Measure accuracy and basic latency**
-4. **Prepare a clean path for adding keyframes/OCR later**
+- given a question and its source `video_id`
+- retrieve the most relevant subtitle window
+- predict a timestamp span `(start_time, end_time)`
 
-## What is included
+The current baseline is deliberately simple:
 
-- `scripts/setup_vm.sh` — apt + Python environment setup for an Ubuntu GCP VM
-- `scripts/run_transcript_baseline.sh` — one-command baseline runner
-- `src/inspect_dataset.py` — dataset characterization
-- `src/eval_transcript_bm25.py` — transcript-only BM25 baseline for MCQ QA
-- `src/load_videommlu.py` — flexible local/HuggingFace dataset loading helpers
-- `src/utils.py` — shared helpers
-- `requirements.txt` — minimal Python dependencies
-- `config/example.env` — environment variables template
+- download YouTube subtitles for each dataset video
+- parse them into timestamped subtitle segments
+- build fixed temporal windows
+- run BM25 over subtitle-window text
+- use the top retrieved window as the predicted span
 
-## Expected dataset format
+Legacy QA-oriented transcript answering remains in the repo, but it is isolated under [`src/legacy`](./src/legacy) and is no longer the main path.
 
-The code supports either:
+## Project Focus
 
-### Option A: local JSON / JSONL
-A file where each row/object looks roughly like:
+- **Primary**: subtitle-first temporal retrieval for VMR
+- **Near-term extensions**: OCR, keyframes, multimodal reranking, routing
+- **Secondary / optional**: QA-style answer generation experiments
 
-```json
-{
-  "video_id": "Y8KMa8tJw-o",
-  "question_id": "...",
-  "question": "...",
-  "choices": ["A", "B", "C", "D"],
-  "answer": 1,
-  "subject": "physics",
-  "transcript": "...",
-  "start_time": 12.5,
-  "end_time": 31.0
-}
+## Directory Structure
+
+```text
+config/
+  example.env
+data/
+  video_ids.txt
+  subtitles/
+    raw/
+    parsed/
+    windows/
+    subtitle_manifest.jsonl
+scripts/
+  setup_vm.sh
+  run_vmr_baseline.sh
+  run_transcript_baseline.sh
+src/
+  data/
+    videommlu.py
+    extract_video_ids.py
+  subtitles/
+    downloader.py
+    parsing.py
+    windows.py
+  retrieval/
+    bm25.py
+  eval/
+    moment_retrieval.py
+  legacy/
+    eval_transcript_qa.py
+  utils/
 ```
 
-### Option B: Hugging Face dataset
-If you already know the dataset repo name, set it in `.env`.
+## Dataset Assumptions
 
-## Quick start on GCP
+The current dataset loader supports the Hugging Face dataset `Enxin/Video-MMLU`.
+
+Raw rows are video-level and include fields such as:
+
+- `video_id`
+- `caption`
+- `reasoning_qa`
+- `captions_qa`
+
+Flattened examples are question-level and include:
+
+- `video_id`
+- `question_id`
+- `question`
+- `answer`
+- `qa_type`
+- `transcript`
+- optional `start_time`, `end_time`
+
+Important current limitation:
+
+- the released flattened data does **not** include gold timestamp spans for VMR
+- the VMR evaluation code is structured for IoU / Recall once spans exist
+- until then, the baseline still produces timestamp predictions, but gold-span metrics remain `null`
+
+## Setup
+
+On a fresh Ubuntu GCP VM:
 
 ```bash
 sudo apt update
@@ -55,100 +97,227 @@ bash scripts/setup_vm.sh
 cp config/example.env .env
 ```
 
-Edit `.env` and set either:
+The setup script installs:
 
-- `VIDEOMMLU_LOCAL_PATH=/path/to/train.jsonl`
-- or `VIDEOMMLU_HF_DATASET=your_dataset_name`
+- Python + virtualenv
+- `ffmpeg`
+- Node.js 20 via NodeSource, which helps `yt-dlp` handle YouTube JS challenges more reliably
 
-### Inspect the dataset
-
-```bash
-source .venv/bin/activate
-python -m src.inspect_dataset --split train
-```
-
-### Check raw vs flattened dataset views
-
-For Hugging Face Video-MMLU, use the dataset split name directly:
+Activate the environment:
 
 ```bash
 source .venv/bin/activate
-python -m src.check_dataset_views --split Video_MMLU
 ```
 
-This prints:
+Set the dataset source in `.env`:
 
-- the number of raw video rows
-- the number of flattened QA rows
-- unique `video_id` counts in both views
-- the average number of QA rows per video
-- a few sample raw and flattened examples
+```bash
+VIDEOMMLU_HF_DATASET=Enxin/Video-MMLU
+VIDEOMMLU_SPLIT=Video_MMLU
+```
 
-For `Enxin/Video-MMLU`, a healthy result is that the flattened QA row count is much larger than the raw video row count, and the average QA rows per video is roughly in the 20-30 range.
+## End-to-End Pipeline
 
-### Characterize the dataset
-
-To compute basic statistics from the original video-level rows:
+### 1. Extract unique video IDs
 
 ```bash
 source .venv/bin/activate
-python -m src.characterize_dataset --split Video_MMLU
+VIDEOMMLU_HF_DATASET=Enxin/Video-MMLU \
+python -m src.data.extract_video_ids \
+  --split Video_MMLU \
+  --output data/video_ids.txt
 ```
 
-This prints:
+### 2. Download English subtitles
 
-- average transcript length in tokens
-- average questions per video
-- the `qa_type` distribution across `reasoning_qa` and `captions_qa`
+This downloader:
 
-### Run transcript-only baseline
+- prefers human subtitles
+- falls back to auto-generated English subtitles
+- skips already downloaded videos unless `--force`
+- supports resumability via the manifest
+- can retry failed/unavailable entries with `--retry-failed`
+
+```bash
+source .venv/bin/activate
+VIDEOMMLU_HF_DATASET=Enxin/Video-MMLU \
+python -m src.subtitles.downloader \
+  --split Video_MMLU \
+  --video-ids-path data/video_ids.txt \
+  --raw-dir data/subtitles/raw \
+  --manifest-path data/subtitles/subtitle_manifest.jsonl \
+  --retries 3 \
+  --sleep-seconds 1.0 \
+  --request-sleep-seconds 0.5
+```
+
+Manifest rows look like:
+
+```json
+{
+  "video_id": "Y8KMa8tJw-o",
+  "status": "success_auto",
+  "subtitle_path": "data/subtitles/raw/Y8KMa8tJw-o.auto.en.vtt",
+  "subtitle_type": "auto",
+  "error_message": null
+}
+```
+
+Supported statuses:
+
+- `success_human`
+- `success_auto`
+- `unavailable`
+- `failed`
+
+### 3. Parse VTT subtitles into timestamped segments
+
+```bash
+source .venv/bin/activate
+python -m src.subtitles.parsing \
+  --manifest-path data/subtitles/subtitle_manifest.jsonl \
+  --output-dir data/subtitles/parsed
+```
+
+Parsed segment format:
+
+```json
+{
+  "video_id": "Y8KMa8tJw-o",
+  "segment_id": "Y8KMa8tJw-o:00000",
+  "start_time": 12.34,
+  "end_time": 16.78,
+  "text": "normalized subtitle text"
+}
+```
+
+Current parsing heuristics:
+
+- strip VTT / HTML markup
+- normalize whitespace
+- drop empty cues
+- merge consecutive cues whose normalized text is identical by extending the previous end time
+
+### 4. Build temporal retrieval windows
+
+```bash
+source .venv/bin/activate
+python -m src.subtitles.windows \
+  --parsed-dir data/subtitles/parsed \
+  --output-dir data/subtitles/windows \
+  --window-size-sec 12 \
+  --stride-sec 6
+```
+
+Window format:
+
+```json
+{
+  "video_id": "Y8KMa8tJw-o",
+  "window_id": "Y8KMa8tJw-o:000012000:000024000",
+  "start_time": 12.0,
+  "end_time": 24.0,
+  "text": "concatenated subtitle text for this time window"
+}
+```
+
+### 5. Run the VMR baseline
+
+Using the shell helper:
+
+```bash
+source .venv/bin/activate
+bash scripts/run_vmr_baseline.sh
+```
+
+Or directly:
+
+```bash
+source .venv/bin/activate
+VIDEOMMLU_HF_DATASET=Enxin/Video-MMLU \
+python -m src.eval.moment_retrieval \
+  --split Video_MMLU \
+  --windows-dir data/subtitles/windows \
+  --top-k 3 \
+  --output-dir outputs/vmr
+```
+
+The VMR baseline:
+
+- uses the known `video_id` for each question
+- retrieves top-k subtitle windows within that video
+- predicts the top-1 window timestamps as the moment
+
+If gold spans are present, the evaluator reports:
+
+- IoU
+- Recall@1 / Recall@3 at IoU `>= 0.3`
+- Recall@1 / Recall@3 at IoU `>= 0.5`
+- mean start error
+- mean end error
+
+If gold spans are absent, the retrieval pipeline still runs and writes timestamp predictions, but those gold-span metrics remain `null`.
+
+## Legacy QA Path
+
+The older transcript-answering baseline is preserved as a legacy experiment:
 
 ```bash
 source .venv/bin/activate
 bash scripts/run_transcript_baseline.sh
 ```
 
-For `Enxin/Video-MMLU`, this runs a transcript-only BM25 baseline over flattened QA rows and reports:
+Implementation:
 
-- `retrieval_recall_at_k`: whether the gold answer string appears in the top-`k` retrieved transcript windows
-- `answer_contains_accuracy`: whether the predicted answer sentence from the top retrieved window contains the gold answer string
-- per-query timing fields in the predictions file:
-  `retrieval_time_ms`, `llm_time_ms`, `total_latency_ms`
+- [`src/legacy/eval_transcript_qa.py`](./src/legacy/eval_transcript_qa.py)
 
-This dataset is free-form QA rather than multiple choice, so the baseline currently reports retrieval and extractive answer metrics instead of MCQ accuracy.
+Compatibility wrapper:
 
-## Baseline logic
+- [`src/eval_transcript_bm25.py`](./src/eval_transcript_bm25.py)
 
-The baseline is deliberately cheap:
+## Useful Inspection Commands
 
-- Split transcript into fixed windows
-- Build BM25 index over windows per example/video
-- Use the question + answer choices as the retrieval query
-- Retrieve top-k windows
-- Score each answer choice by lexical overlap with retrieved evidence
-- Predict the best answer
+Inspect flattened examples:
 
-This is not fancy, but it is exactly the kind of **first baseline** you want before adding OCR, CLIP, reranking, or routing.
+```bash
+source .venv/bin/activate
+VIDEOMMLU_HF_DATASET=Enxin/Video-MMLU \
+python -m src.inspect_dataset --split Video_MMLU
+```
 
-## Output
+Check raw vs flattened dataset views:
 
-Results go to `outputs/`:
+```bash
+source .venv/bin/activate
+VIDEOMMLU_HF_DATASET=Enxin/Video-MMLU \
+python -m src.check_dataset_views --split Video_MMLU
+```
 
-- summary JSON
-- per-example predictions JSONL
+Characterize the raw video-level dataset:
 
-## Suggested next experiments
+```bash
+source .venv/bin/activate
+VIDEOMMLU_HF_DATASET=Enxin/Video-MMLU \
+python -m src.characterize_dataset --split Video_MMLU
+```
 
-After this baseline works:
+## Outputs
 
-1. Add transcript segmentation ablations: 10s / 20s / 30s windows
-2. Compare BM25 vs dense retrieval
-3. Add keyframe candidates from slide-change detection
-4. Add OCR only for low-confidence cases
-5. Measure latency / cost deltas
+- video IDs: [`data/video_ids.txt`](./data/video_ids.txt)
+- subtitle manifest: [`data/subtitles/subtitle_manifest.jsonl`](./data/subtitles/subtitle_manifest.jsonl)
+- raw subtitles: [`data/subtitles/raw`](./data/subtitles/raw)
+- parsed subtitle segments: [`data/subtitles/parsed`](./data/subtitles/parsed)
+- temporal windows: [`data/subtitles/windows`](./data/subtitles/windows)
+- VMR predictions / summaries: [`outputs/vmr`](./outputs/vmr)
+- legacy QA predictions / summaries: [`outputs/legacy_qa`](./outputs/legacy_qa)
 
-## Notes
+## Notes and Limitations
 
-- This scaffold is CPU-friendly for early experiments.
-- It avoids hard-coding a specific Video-MMLU schema beyond common fields.
-- If your dataset schema differs, edit `src/load_videommlu.py` in one place instead of patching everything like a gremlin.
+- YouTube subtitle availability is incomplete; some videos are unavailable, blocked, or missing captions.
+- `yt-dlp` may still warn about impersonation support on some systems. The downloader is designed to continue and log failures cleanly.
+- The current VMR baseline is CPU-friendly and intentionally simple.
+- The code structure is meant to leave clean room for:
+  - OCR
+  - keyframe extraction
+  - multimodal reranking
+  - confidence-based routing

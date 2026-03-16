@@ -1,0 +1,584 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:02.350 --> 00:00:06.789 align:start position:0%
+ 
+[Music]
+
+00:00:06.789 --> 00:00:06.799 align:start position:0%
+[Music]
+ 
+
+00:00:06.799 --> 00:00:09.830 align:start position:0%
+[Music]
+let's<00:00:07.799><c> let</c><00:00:08.099><c> H</c><00:00:08.280><c> sub</c><00:00:08.519><c> K</c><00:00:08.760><c> represent</c><00:00:09.179><c> the</c><00:00:09.360><c> harmonic</c>
+
+00:00:09.830 --> 00:00:09.840 align:start position:0%
+let's let H sub K represent the harmonic
+ 
+
+00:00:09.840 --> 00:00:12.169 align:start position:0%
+let's let H sub K represent the harmonic
+sum<00:00:10.139><c> 1</c><00:00:10.500><c> plus</c><00:00:10.679><c> a</c><00:00:10.860><c> half</c><00:00:11.040><c> plus</c><00:00:11.219><c> a</c><00:00:11.400><c> third</c><00:00:11.580><c> up</c><00:00:11.940><c> to</c><00:00:12.059><c> one</c>
+
+00:00:12.169 --> 00:00:12.179 align:start position:0%
+sum 1 plus a half plus a third up to one
+ 
+
+00:00:12.179 --> 00:00:14.390 align:start position:0%
+sum 1 plus a half plus a third up to one
+over<00:00:12.360><c> k</c>
+
+00:00:14.390 --> 00:00:14.400 align:start position:0%
+over k
+ 
+
+00:00:14.400 --> 00:00:17.210 align:start position:0%
+over k
+now<00:00:15.000><c> consider</c><00:00:15.420><c> a</c><00:00:15.719><c> triangular</c><00:00:16.139><c> array</c><00:00:16.619><c> with</c><00:00:17.039><c> n</c>
+
+00:00:17.210 --> 00:00:17.220 align:start position:0%
+now consider a triangular array with n
+ 
+
+00:00:17.220 --> 00:00:20.090 align:start position:0%
+now consider a triangular array with n
+minus<00:00:17.580><c> one</c><00:00:17.699><c> rows</c><00:00:18.119><c> in</c><00:00:18.840><c> the</c><00:00:19.020><c> first</c><00:00:19.199><c> row</c><00:00:19.680><c> place</c>
+
+00:00:20.090 --> 00:00:20.100 align:start position:0%
+minus one rows in the first row place
+ 
+
+00:00:20.100 --> 00:00:22.490 align:start position:0%
+minus one rows in the first row place
+the<00:00:20.279><c> harmonics</c><00:00:20.699><c> on</c><00:00:20.880><c> H1</c><00:00:21.359><c> in</c><00:00:21.900><c> the</c><00:00:22.020><c> second</c><00:00:22.140><c> row</c>
+
+00:00:22.490 --> 00:00:22.500 align:start position:0%
+the harmonics on H1 in the second row
+ 
+
+00:00:22.500 --> 00:00:25.730 align:start position:0%
+the harmonics on H1 in the second row
+place<00:00:22.740><c> the</c><00:00:22.920><c> harmonic</c><00:00:23.340><c> sum</c><00:00:23.520><c> H2</c><00:00:24.060><c> and</c><00:00:24.900><c> so</c><00:00:25.019><c> on</c><00:00:25.260><c> so</c>
+
+00:00:25.730 --> 00:00:25.740 align:start position:0%
+place the harmonic sum H2 and so on so
+ 
+
+00:00:25.740 --> 00:00:29.450 align:start position:0%
+place the harmonic sum H2 and so on so
+that<00:00:25.859><c> the</c><00:00:26.100><c> entry</c><00:00:26.400><c> in</c><00:00:26.820><c> row</c><00:00:27.300><c> I</c><00:00:27.660><c> and</c><00:00:28.140><c> column</c><00:00:28.560><c> J</c><00:00:28.800><c> is</c>
+
+00:00:29.450 --> 00:00:29.460 align:start position:0%
+that the entry in row I and column J is
+ 
+
+00:00:29.460 --> 00:00:32.870 align:start position:0%
+that the entry in row I and column J is
+the<00:00:29.640><c> fraction</c><00:00:29.939><c> one</c><00:00:30.359><c> over</c><00:00:30.539><c> J</c>
+
+00:00:32.870 --> 00:00:32.880 align:start position:0%
+ 
+ 
+
+00:00:32.880 --> 00:00:35.810 align:start position:0%
+ 
+now<00:00:33.540><c> consider</c><00:00:34.079><c> a</c><00:00:34.260><c> triangular</c><00:00:34.739><c> array</c><00:00:35.280><c> of</c><00:00:35.399><c> boxes</c>
+
+00:00:35.810 --> 00:00:35.820 align:start position:0%
+now consider a triangular array of boxes
+ 
+
+00:00:35.820 --> 00:00:38.930 align:start position:0%
+now consider a triangular array of boxes
+with<00:00:36.180><c> n</c><00:00:36.420><c> rows</c><00:00:36.899><c> take</c><00:00:37.559><c> the</c><00:00:37.739><c> number</c><00:00:37.920><c> n</c><00:00:38.280><c> and</c><00:00:38.700><c> split</c>
+
+00:00:38.930 --> 00:00:38.940 align:start position:0%
+with n rows take the number n and split
+ 
+
+00:00:38.940 --> 00:00:41.569 align:start position:0%
+with n rows take the number n and split
+it<00:00:39.059><c> into</c><00:00:39.239><c> n</c><00:00:39.540><c> copies</c><00:00:39.960><c> of</c><00:00:40.140><c> one</c><00:00:40.320><c> then</c><00:00:41.100><c> equally</c>
+
+00:00:41.569 --> 00:00:41.579 align:start position:0%
+it into n copies of one then equally
+ 
+
+00:00:41.579 --> 00:00:44.270 align:start position:0%
+it into n copies of one then equally
+distribute<00:00:42.180><c> 1</c><00:00:42.480><c> into</c><00:00:42.899><c> each</c><00:00:43.260><c> column</c><00:00:43.739><c> using</c>
+
+00:00:44.270 --> 00:00:44.280 align:start position:0%
+distribute 1 into each column using
+ 
+
+00:00:44.280 --> 00:00:47.569 align:start position:0%
+distribute 1 into each column using
+fractions<00:00:44.940><c> so</c><00:00:45.360><c> that</c><00:00:45.540><c> column</c><00:00:46.020><c> J</c><00:00:46.320><c> contains</c><00:00:47.219><c> all</c>
+
+00:00:47.569 --> 00:00:47.579 align:start position:0%
+fractions so that column J contains all
+ 
+
+00:00:47.579 --> 00:00:49.610 align:start position:0%
+fractions so that column J contains all
+entries<00:00:47.879><c> of</c><00:00:48.180><c> fractions</c><00:00:48.660><c> one</c><00:00:48.780><c> over</c><00:00:49.020><c> J</c><00:00:49.260><c> as</c>
+
+00:00:49.610 --> 00:00:49.620 align:start position:0%
+entries of fractions one over J as
+ 
+
+00:00:49.620 --> 00:00:51.049 align:start position:0%
+entries of fractions one over J as
+pictured
+
+00:00:51.049 --> 00:00:51.059 align:start position:0%
+pictured
+ 
+
+00:00:51.059 --> 00:00:53.990 align:start position:0%
+pictured
+now<00:00:51.480><c> for</c><00:00:51.719><c> the</c><00:00:51.840><c> trick</c><00:00:52.200><c> we</c><00:00:53.039><c> can</c><00:00:53.219><c> combine</c><00:00:53.640><c> these</c>
+
+00:00:53.990 --> 00:00:54.000 align:start position:0%
+now for the trick we can combine these
+ 
+
+00:00:54.000 --> 00:00:57.170 align:start position:0%
+now for the trick we can combine these
+two<00:00:54.180><c> triangular</c><00:00:54.780><c> arrays</c><00:00:55.379><c> to</c><00:00:55.980><c> make</c><00:00:56.100><c> an</c><00:00:56.399><c> N</c><00:00:56.640><c> by</c><00:00:56.879><c> n</c>
+
+00:00:57.170 --> 00:00:57.180 align:start position:0%
+two triangular arrays to make an N by n
+ 
+
+00:00:57.180 --> 00:00:58.369 align:start position:0%
+two triangular arrays to make an N by n
+Square
+
+00:00:58.369 --> 00:00:58.379 align:start position:0%
+Square
+ 
+
+00:00:58.379 --> 00:01:01.270 align:start position:0%
+Square
+however<00:00:59.100><c> if</c><00:00:59.640><c> we</c><00:00:59.879><c> now</c><00:01:00.059><c> look</c><00:01:00.360><c> at</c><00:01:00.600><c> this</c><00:01:00.960><c> Square</c>
+
+00:01:01.270 --> 00:01:01.280 align:start position:0%
+however if we now look at this Square
+ 
+
+00:01:01.280 --> 00:01:05.270 align:start position:0%
+however if we now look at this Square
+row<00:01:02.280><c> by</c><00:01:02.399><c> row</c><00:01:02.820><c> we</c><00:01:03.420><c> see</c><00:01:03.600><c> that</c><00:01:03.899><c> each</c><00:01:04.260><c> row</c><00:01:04.619><c> sums</c><00:01:05.159><c> up</c>
+
+00:01:05.270 --> 00:01:05.280 align:start position:0%
+row by row we see that each row sums up
+ 
+
+00:01:05.280 --> 00:01:08.330 align:start position:0%
+row by row we see that each row sums up
+to<00:01:05.460><c> the</c><00:01:05.580><c> same</c><00:01:05.760><c> value</c><00:01:06.060><c> Row</c><00:01:06.720><c> 1</c><00:01:06.840><c> is</c><00:01:07.080><c> hn</c><00:01:07.500><c> Row</c><00:01:08.040><c> 2</c><00:01:08.100><c> is</c>
+
+00:01:08.330 --> 00:01:08.340 align:start position:0%
+to the same value Row 1 is hn Row 2 is
+ 
+
+00:01:08.340 --> 00:01:11.870 align:start position:0%
+to the same value Row 1 is hn Row 2 is
+hn<00:01:08.820><c> and</c><00:01:09.420><c> so</c><00:01:09.540><c> on</c><00:01:09.780><c> each</c><00:01:10.680><c> row</c><00:01:11.100><c> sums</c><00:01:11.520><c> to</c><00:01:11.640><c> the</c><00:01:11.760><c> value</c>
+
+00:01:11.870 --> 00:01:11.880 align:start position:0%
+hn and so on each row sums to the value
+ 
+
+00:01:11.880 --> 00:01:13.429 align:start position:0%
+hn and so on each row sums to the value
+H<00:01:12.240><c> sub</c><00:01:12.479><c> n</c>
+
+00:01:13.429 --> 00:01:13.439 align:start position:0%
+H sub n
+ 
+
+00:01:13.439 --> 00:01:16.190 align:start position:0%
+H sub n
+but<00:01:13.979><c> in</c><00:01:14.100><c> this</c><00:01:14.280><c> case</c><00:01:14.400><c> there</c><00:01:14.760><c> are</c><00:01:14.939><c> n</c><00:01:15.240><c> total</c><00:01:15.780><c> rows</c>
+
+00:01:16.190 --> 00:01:16.200 align:start position:0%
+but in this case there are n total rows
+ 
+
+00:01:16.200 --> 00:01:18.350 align:start position:0%
+but in this case there are n total rows
+and<00:01:16.920><c> therefore</c><00:01:17.159><c> the</c><00:01:17.460><c> sum</c><00:01:17.580><c> of</c><00:01:17.760><c> all</c><00:01:18.000><c> the</c><00:01:18.119><c> entries</c>
+
+00:01:18.350 --> 00:01:18.360 align:start position:0%
+and therefore the sum of all the entries
+ 
+
+00:01:18.360 --> 00:01:22.429 align:start position:0%
+and therefore the sum of all the entries
+is<00:01:18.659><c> given</c><00:01:18.960><c> by</c><00:01:19.200><c> n</c><00:01:19.560><c> times</c><00:01:20.220><c> H</c><00:01:21.119><c> sub</c><00:01:21.420><c> n</c>
+
+00:01:22.429 --> 00:01:22.439 align:start position:0%
+is given by n times H sub n
+ 
+
+00:01:22.439 --> 00:01:24.289 align:start position:0%
+is given by n times H sub n
+but<00:01:22.860><c> now</c><00:01:23.040><c> we</c><00:01:23.220><c> have</c><00:01:23.340><c> an</c><00:01:23.520><c> interesting</c><00:01:23.820><c> identity</c>
+
+00:01:24.289 --> 00:01:24.299 align:start position:0%
+but now we have an interesting identity
+ 
+
+00:01:24.299 --> 00:01:26.810 align:start position:0%
+but now we have an interesting identity
+we<00:01:25.080><c> see</c><00:01:25.200><c> that</c><00:01:25.380><c> if</c><00:01:25.560><c> we</c><00:01:25.740><c> sum</c><00:01:26.040><c> up</c><00:01:26.159><c> the</c><00:01:26.400><c> harmonic</c>
+
+00:01:26.810 --> 00:01:26.820 align:start position:0%
+we see that if we sum up the harmonic
+ 
+
+00:01:26.820 --> 00:01:28.969 align:start position:0%
+we see that if we sum up the harmonic
+sums<00:01:27.180><c> where</c><00:01:27.360><c> K</c><00:01:27.540><c> ranges</c><00:01:27.960><c> from</c><00:01:28.020><c> 1</c><00:01:28.200><c> to</c><00:01:28.320><c> n</c><00:01:28.500><c> minus</c><00:01:28.799><c> 1</c>
+
+00:01:28.969 --> 00:01:28.979 align:start position:0%
+sums where K ranges from 1 to n minus 1
+ 
+
+00:01:28.979 --> 00:01:33.050 align:start position:0%
+sums where K ranges from 1 to n minus 1
+we<00:01:29.759><c> have</c><00:01:29.880><c> n</c><00:01:30.119><c> times</c><00:01:30.420><c> H</c><00:01:30.720><c> sub</c><00:01:30.960><c> n</c><00:01:31.200><c> minus</c><00:01:31.920><c> n</c>
+
+00:01:33.050 --> 00:01:33.060 align:start position:0%
+we have n times H sub n minus n
+ 
+
+00:01:33.060 --> 00:01:34.969 align:start position:0%
+we have n times H sub n minus n
+this<00:01:33.479><c> is</c><00:01:33.600><c> a</c><00:01:33.780><c> formula</c><00:01:34.140><c> for</c><00:01:34.439><c> the</c><00:01:34.619><c> sum</c><00:01:34.799><c> of</c>
+
+00:01:34.969 --> 00:01:34.979 align:start position:0%
+this is a formula for the sum of
+ 
+
+00:01:34.979 --> 00:01:38.030 align:start position:0%
+this is a formula for the sum of
+harmonic<00:01:35.520><c> sums</c><00:01:36.360><c> but</c><00:01:36.900><c> wait</c><00:01:37.140><c> there's</c><00:01:37.619><c> more</c><00:01:37.860><c> that</c>
+
+00:01:38.030 --> 00:01:38.040 align:start position:0%
+harmonic sums but wait there's more that
+ 
+
+00:01:38.040 --> 00:01:40.429 align:start position:0%
+harmonic sums but wait there's more that
+we<00:01:38.159><c> can</c><00:01:38.280><c> do</c><00:01:38.400><c> with</c><00:01:38.579><c> this</c><00:01:38.700><c> identity</c>
+
+00:01:40.429 --> 00:01:40.439 align:start position:0%
+we can do with this identity
+ 
+
+00:01:40.439 --> 00:01:42.469 align:start position:0%
+we can do with this identity
+we<00:01:41.040><c> just</c><00:01:41.220><c> proved</c><00:01:41.520><c> visually</c><00:01:41.759><c> that</c><00:01:42.000><c> the</c><00:01:42.240><c> sum</c><00:01:42.360><c> of</c>
+
+00:01:42.469 --> 00:01:42.479 align:start position:0%
+we just proved visually that the sum of
+ 
+
+00:01:42.479 --> 00:01:44.450 align:start position:0%
+we just proved visually that the sum of
+harmonic<00:01:42.960><c> sums</c><00:01:43.200><c> where</c><00:01:43.380><c> K</c><00:01:43.500><c> ranges</c><00:01:43.920><c> from</c><00:01:44.040><c> 1</c><00:01:44.159><c> to</c><00:01:44.280><c> n</c>
+
+00:01:44.450 --> 00:01:44.460 align:start position:0%
+harmonic sums where K ranges from 1 to n
+ 
+
+00:01:44.460 --> 00:01:46.850 align:start position:0%
+harmonic sums where K ranges from 1 to n
+minus<00:01:44.759><c> 1</c><00:01:44.880><c> is</c><00:01:45.240><c> equal</c><00:01:45.420><c> to</c><00:01:45.600><c> n</c><00:01:45.900><c> times</c><00:01:46.140><c> H</c><00:01:46.439><c> sub</c><00:01:46.619><c> n</c>
+
+00:01:46.850 --> 00:01:46.860 align:start position:0%
+minus 1 is equal to n times H sub n
+ 
+
+00:01:46.860 --> 00:01:48.109 align:start position:0%
+minus 1 is equal to n times H sub n
+minus<00:01:47.220><c> n</c>
+
+00:01:48.109 --> 00:01:48.119 align:start position:0%
+minus n
+ 
+
+00:01:48.119 --> 00:01:50.210 align:start position:0%
+minus n
+we<00:01:48.659><c> can</c><00:01:48.780><c> get</c><00:01:48.960><c> an</c><00:01:49.079><c> equivalent</c><00:01:49.500><c> identity</c><00:01:49.920><c> by</c>
+
+00:01:50.210 --> 00:01:50.220 align:start position:0%
+we can get an equivalent identity by
+ 
+
+00:01:50.220 --> 00:01:53.450 align:start position:0%
+we can get an equivalent identity by
+adding<00:01:50.579><c> H</c><00:01:50.759><c> sub</c><00:01:51.000><c> n</c><00:01:51.180><c> to</c><00:01:51.420><c> both</c><00:01:51.659><c> sides</c>
+
+00:01:53.450 --> 00:01:53.460 align:start position:0%
+adding H sub n to both sides
+ 
+
+00:01:53.460 --> 00:01:56.030 align:start position:0%
+adding H sub n to both sides
+a<00:01:54.000><c> theorem</c><00:01:54.240><c> due</c><00:01:54.420><c> to</c><00:01:54.720><c> Ernesto</c><00:01:55.079><c> Cesaro</c><00:01:55.680><c> says</c>
+
+00:01:56.030 --> 00:01:56.040 align:start position:0%
+a theorem due to Ernesto Cesaro says
+ 
+
+00:01:56.040 --> 00:01:58.010 align:start position:0%
+a theorem due to Ernesto Cesaro says
+that<00:01:56.100><c> if</c><00:01:56.280><c> we</c><00:01:56.399><c> have</c><00:01:56.520><c> an</c><00:01:56.700><c> infinite</c><00:01:57.119><c> series</c><00:01:57.360><c> that</c>
+
+00:01:58.010 --> 00:01:58.020 align:start position:0%
+that if we have an infinite series that
+ 
+
+00:01:58.020 --> 00:02:00.109 align:start position:0%
+that if we have an infinite series that
+converges<00:01:58.439><c> with</c><00:01:58.680><c> some</c><00:01:58.860><c> s</c><00:01:59.159><c> and</c><00:01:59.700><c> we</c><00:01:59.820><c> consider</c>
+
+00:02:00.109 --> 00:02:00.119 align:start position:0%
+converges with some s and we consider
+ 
+
+00:02:00.119 --> 00:02:02.090 align:start position:0%
+converges with some s and we consider
+the<00:02:00.299><c> sequence</c><00:02:00.600><c> of</c><00:02:00.780><c> partial</c><00:02:01.079><c> sums</c><00:02:01.500><c> given</c><00:02:01.740><c> by</c><00:02:01.920><c> S</c>
+
+00:02:02.090 --> 00:02:02.100 align:start position:0%
+the sequence of partial sums given by S
+ 
+
+00:02:02.100 --> 00:02:04.429 align:start position:0%
+the sequence of partial sums given by S
+Sub<00:02:02.340><c> n</c><00:02:02.579><c> then</c><00:02:03.299><c> the</c><00:02:03.479><c> sequence</c><00:02:03.840><c> of</c><00:02:04.079><c> average</c>
+
+00:02:04.429 --> 00:02:04.439 align:start position:0%
+Sub n then the sequence of average
+ 
+
+00:02:04.439 --> 00:02:07.490 align:start position:0%
+Sub n then the sequence of average
+partial<00:02:04.920><c> sums</c><00:02:05.340><c> shown</c><00:02:05.880><c> here</c><00:02:06.180><c> also</c><00:02:07.020><c> converges</c>
+
+00:02:07.490 --> 00:02:07.500 align:start position:0%
+partial sums shown here also converges
+ 
+
+00:02:07.500 --> 00:02:09.830 align:start position:0%
+partial sums shown here also converges
+to<00:02:07.740><c> the</c><00:02:07.979><c> same</c><00:02:08.160><c> sum</c><00:02:08.459><c> s</c>
+
+00:02:09.830 --> 00:02:09.840 align:start position:0%
+to the same sum s
+ 
+
+00:02:09.840 --> 00:02:12.410 align:start position:0%
+to the same sum s
+let's<00:02:10.319><c> combine</c><00:02:10.739><c> these</c><00:02:11.039><c> two</c><00:02:11.160><c> facts</c><00:02:11.640><c> to</c><00:02:12.120><c> prove</c>
+
+00:02:12.410 --> 00:02:12.420 align:start position:0%
+let's combine these two facts to prove
+ 
+
+00:02:12.420 --> 00:02:13.790 align:start position:0%
+let's combine these two facts to prove
+something<00:02:12.540><c> interesting</c><00:02:12.959><c> about</c><00:02:13.140><c> the</c><00:02:13.379><c> harmonic</c>
+
+00:02:13.790 --> 00:02:13.800 align:start position:0%
+something interesting about the harmonic
+ 
+
+00:02:13.800 --> 00:02:16.010 align:start position:0%
+something interesting about the harmonic
+series<00:02:13.980><c> let's</c><00:02:14.819><c> assume</c><00:02:15.300><c> that</c><00:02:15.420><c> the</c><00:02:15.599><c> harmonic</c>
+
+00:02:16.010 --> 00:02:16.020 align:start position:0%
+series let's assume that the harmonic
+ 
+
+00:02:16.020 --> 00:02:18.050 align:start position:0%
+series let's assume that the harmonic
+series<00:02:16.200><c> which</c><00:02:16.680><c> is</c><00:02:16.800><c> the</c><00:02:17.040><c> sum</c><00:02:17.160><c> where</c><00:02:17.459><c> K</c><00:02:17.640><c> ranges</c>
+
+00:02:18.050 --> 00:02:18.060 align:start position:0%
+series which is the sum where K ranges
+ 
+
+00:02:18.060 --> 00:02:19.670 align:start position:0%
+series which is the sum where K ranges
+from<00:02:18.180><c> 1</c><00:02:18.300><c> to</c><00:02:18.480><c> Infinity</c><00:02:18.660><c> of</c><00:02:19.020><c> the</c><00:02:19.140><c> fractions</c><00:02:19.500><c> 1</c>
+
+00:02:19.670 --> 00:02:19.680 align:start position:0%
+from 1 to Infinity of the fractions 1
+ 
+
+00:02:19.680 --> 00:02:22.010 align:start position:0%
+from 1 to Infinity of the fractions 1
+over<00:02:19.800><c> K</c><00:02:20.040><c> converges</c><00:02:20.879><c> so</c><00:02:21.120><c> that</c><00:02:21.239><c> it</c><00:02:21.360><c> has</c><00:02:21.480><c> a</c><00:02:21.599><c> sum</c><00:02:21.780><c> s</c>
+
+00:02:22.010 --> 00:02:22.020 align:start position:0%
+over K converges so that it has a sum s
+ 
+
+00:02:22.020 --> 00:02:23.990 align:start position:0%
+over K converges so that it has a sum s
+this<00:02:22.620><c> means</c><00:02:22.920><c> that</c><00:02:23.220><c> the</c><00:02:23.400><c> limit</c><00:02:23.520><c> as</c><00:02:23.819><c> n</c>
+
+00:02:23.990 --> 00:02:24.000 align:start position:0%
+this means that the limit as n
+ 
+
+00:02:24.000 --> 00:02:25.790 align:start position:0%
+this means that the limit as n
+approaches<00:02:24.420><c> Infinity</c><00:02:24.599><c> of</c><00:02:24.900><c> H</c><00:02:25.020><c> sub</c><00:02:25.200><c> n</c><00:02:25.379><c> is</c><00:02:25.620><c> equal</c>
+
+00:02:25.790 --> 00:02:25.800 align:start position:0%
+approaches Infinity of H sub n is equal
+ 
+
+00:02:25.800 --> 00:02:26.750 align:start position:0%
+approaches Infinity of H sub n is equal
+to<00:02:25.980><c> s</c>
+
+00:02:26.750 --> 00:02:26.760 align:start position:0%
+to s
+ 
+
+00:02:26.760 --> 00:02:28.610 align:start position:0%
+to s
+then<00:02:27.300><c> according</c><00:02:27.660><c> to</c><00:02:27.780><c> the</c><00:02:27.900><c> theorem</c><00:02:28.260><c> we</c><00:02:28.500><c> have</c>
+
+00:02:28.610 --> 00:02:28.620 align:start position:0%
+then according to the theorem we have
+ 
+
+00:02:28.620 --> 00:02:30.290 align:start position:0%
+then according to the theorem we have
+that<00:02:28.800><c> s</c><00:02:28.980><c> is</c><00:02:29.220><c> equal</c><00:02:29.400><c> to</c><00:02:29.580><c> the</c><00:02:29.760><c> Limit</c><00:02:29.879><c> as</c><00:02:30.120><c> n</c>
+
+00:02:30.290 --> 00:02:30.300 align:start position:0%
+that s is equal to the Limit as n
+ 
+
+00:02:30.300 --> 00:02:31.550 align:start position:0%
+that s is equal to the Limit as n
+approaches<00:02:30.660><c> Infinity</c><00:02:30.840><c> of</c><00:02:31.260><c> the</c><00:02:31.379><c> average</c>
+
+00:02:31.550 --> 00:02:31.560 align:start position:0%
+approaches Infinity of the average
+ 
+
+00:02:31.560 --> 00:02:33.770 align:start position:0%
+approaches Infinity of the average
+partial<00:02:31.980><c> sums</c><00:02:32.459><c> but</c><00:02:33.000><c> according</c><00:02:33.360><c> to</c><00:02:33.540><c> our</c>
+
+00:02:33.770 --> 00:02:33.780 align:start position:0%
+partial sums but according to our
+ 
+
+00:02:33.780 --> 00:02:36.350 align:start position:0%
+partial sums but according to our
+formula<00:02:34.200><c> this</c><00:02:35.099><c> limit</c><00:02:35.280><c> can</c><00:02:35.700><c> be</c><00:02:35.819><c> replaced</c><00:02:36.239><c> by</c>
+
+00:02:36.350 --> 00:02:36.360 align:start position:0%
+formula this limit can be replaced by
+ 
+
+00:02:36.360 --> 00:02:38.809 align:start position:0%
+formula this limit can be replaced by
+the<00:02:36.540><c> limit</c><00:02:36.660><c> as</c><00:02:37.080><c> n</c><00:02:37.260><c> approaches</c><00:02:37.739><c> Infinity</c><00:02:37.980><c> of</c><00:02:38.640><c> H</c>
+
+00:02:38.809 --> 00:02:38.819 align:start position:0%
+the limit as n approaches Infinity of H
+ 
+
+00:02:38.819 --> 00:02:42.110 align:start position:0%
+the limit as n approaches Infinity of H
+sub<00:02:39.060><c> n</c><00:02:39.239><c> minus</c><00:02:39.599><c> 1</c><00:02:39.780><c> plus</c><00:02:40.140><c> h</c><00:02:40.440><c> sub</c><00:02:40.620><c> n</c><00:02:40.860><c> over</c><00:02:41.040><c> n</c><00:02:41.340><c> and</c>
+
+00:02:42.110 --> 00:02:42.120 align:start position:0%
+sub n minus 1 plus h sub n over n and
+ 
+
+00:02:42.120 --> 00:02:44.449 align:start position:0%
+sub n minus 1 plus h sub n over n and
+this<00:02:42.300><c> limit</c><00:02:42.540><c> is</c><00:02:42.780><c> equal</c><00:02:42.959><c> to</c><00:02:43.140><c> S</c><00:02:43.319><c> minus</c><00:02:43.739><c> 1</c><00:02:43.920><c> because</c>
+
+00:02:44.449 --> 00:02:44.459 align:start position:0%
+this limit is equal to S minus 1 because
+ 
+
+00:02:44.459 --> 00:02:47.390 align:start position:0%
+this limit is equal to S minus 1 because
+H<00:02:44.760><c> sub</c><00:02:45.000><c> n</c><00:02:45.180><c> approaches</c><00:02:45.599><c> s</c><00:02:45.900><c> 1</c><00:02:46.379><c> approaches</c><00:02:46.860><c> 1</c><00:02:47.099><c> and</c>
+
+00:02:47.390 --> 00:02:47.400 align:start position:0%
+H sub n approaches s 1 approaches 1 and
+ 
+
+00:02:47.400 --> 00:02:49.250 align:start position:0%
+H sub n approaches s 1 approaches 1 and
+N<00:02:47.580><c> grows</c><00:02:47.940><c> without</c><00:02:48.060><c> bound</c>
+
+00:02:49.250 --> 00:02:49.260 align:start position:0%
+N grows without bound
+ 
+
+00:02:49.260 --> 00:02:51.890 align:start position:0%
+N grows without bound
+therefore<00:02:49.860><c> we've</c><00:02:50.280><c> proved</c><00:02:50.640><c> that</c><00:02:50.940><c> s</c><00:02:51.239><c> equals</c><00:02:51.720><c> s</c>
+
+00:02:51.890 --> 00:02:51.900 align:start position:0%
+therefore we've proved that s equals s
+ 
+
+00:02:51.900 --> 00:02:53.270 align:start position:0%
+therefore we've proved that s equals s
+minus<00:02:52.319><c> 1.</c>
+
+00:02:53.270 --> 00:02:53.280 align:start position:0%
+minus 1.
+ 
+
+00:02:53.280 --> 00:02:55.610 align:start position:0%
+minus 1.
+but<00:02:53.760><c> this</c><00:02:53.940><c> is</c><00:02:54.120><c> a</c><00:02:54.300><c> contradiction</c><00:02:54.780><c> and</c><00:02:55.440><c> that</c>
+
+00:02:55.610 --> 00:02:55.620 align:start position:0%
+but this is a contradiction and that
+ 
+
+00:02:55.620 --> 00:02:57.050 align:start position:0%
+but this is a contradiction and that
+means<00:02:55.800><c> that</c><00:02:55.860><c> our</c><00:02:56.040><c> assumption</c><00:02:56.400><c> was</c><00:02:56.580><c> incorrect</c>
+
+00:02:57.050 --> 00:02:57.060 align:start position:0%
+means that our assumption was incorrect
+ 
+
+00:02:57.060 --> 00:02:59.330 align:start position:0%
+means that our assumption was incorrect
+so<00:02:57.720><c> that</c><00:02:57.900><c> in</c><00:02:58.140><c> fact</c><00:02:58.260><c> the</c><00:02:58.560><c> harmonic</c><00:02:59.160><c> series</c>
+
+00:02:59.330 --> 00:02:59.340 align:start position:0%
+so that in fact the harmonic series
+ 
+
+00:02:59.340 --> 00:03:02.120 align:start position:0%
+so that in fact the harmonic series
+diverges
+

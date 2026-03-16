@@ -1,0 +1,288 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.320 --> 00:00:02.629 align:start position:0%
+ 
+let's<00:00:00.599><c> solve</c><00:00:01.000><c> this</c><00:00:01.240><c> differentiation</c><00:00:02.240><c> problem</c>
+
+00:00:02.629 --> 00:00:02.639 align:start position:0%
+let's solve this differentiation problem
+ 
+
+00:00:02.639 --> 00:00:05.470 align:start position:0%
+let's solve this differentiation problem
+step<00:00:03.280><c> by</c><00:00:03.639><c> step</c><00:00:04.440><c> we</c><00:00:04.600><c> need</c><00:00:04.799><c> to</c><00:00:05.000><c> find</c><00:00:05.319><c> the</c>
+
+00:00:05.470 --> 00:00:05.480 align:start position:0%
+step by step we need to find the
+ 
+
+00:00:05.480 --> 00:00:08.310 align:start position:0%
+step by step we need to find the
+derivative<00:00:06.040><c> of</c><00:00:06.200><c> the</c><00:00:06.399><c> product</c><00:00:06.799><c> of</c><00:00:07.040><c> log</c><00:00:07.439><c> base</c><00:00:07.839><c> a</c>
+
+00:00:08.310 --> 00:00:08.320 align:start position:0%
+derivative of the product of log base a
+ 
+
+00:00:08.320 --> 00:00:12.910 align:start position:0%
+derivative of the product of log base a
+of<00:00:08.840><c> X</c><00:00:09.840><c> and</c><00:00:10.400><c> natural</c><00:00:10.800><c> log</c><00:00:11.080><c> of</c><00:00:11.280><c> x</c><00:00:12.280><c> first</c><00:00:12.679><c> let's</c>
+
+00:00:12.910 --> 00:00:12.920 align:start position:0%
+of X and natural log of x first let's
+ 
+
+00:00:12.920 --> 00:00:15.430 align:start position:0%
+of X and natural log of x first let's
+recall<00:00:13.280><c> the</c><00:00:13.480><c> product</c><00:00:13.839><c> rule</c><00:00:14.679><c> the</c><00:00:14.879><c> derivative</c>
+
+00:00:15.430 --> 00:00:15.440 align:start position:0%
+recall the product rule the derivative
+ 
+
+00:00:15.440 --> 00:00:19.189 align:start position:0%
+recall the product rule the derivative
+of<00:00:15.559><c> a</c><00:00:15.759><c> product</c><00:00:16.119><c> of</c><00:00:16.359><c> functions</c><00:00:17.199><c> U</c><00:00:17.439><c> *</c><00:00:17.840><c> v</c><00:00:18.160><c> =</c><00:00:18.560><c> u</c><00:00:18.800><c> *</c>
+
+00:00:19.189 --> 00:00:19.199 align:start position:0%
+of a product of functions U * v = u *
+ 
+
+00:00:19.199 --> 00:00:23.150 align:start position:0%
+of a product of functions U * v = u *
+the<00:00:19.359><c> derivative</c><00:00:20.320><c> of</c><00:00:20.519><c> V</c><00:00:21.320><c> +</c><00:00:21.680><c> V</c><00:00:21.960><c> *</c><00:00:22.519><c> the</c><00:00:22.720><c> derivative</c>
+
+00:00:23.150 --> 00:00:23.160 align:start position:0%
+the derivative of V + V * the derivative
+ 
+
+00:00:23.160 --> 00:00:26.589 align:start position:0%
+the derivative of V + V * the derivative
+of<00:00:23.320><c> U</c><00:00:24.080><c> in</c><00:00:24.199><c> our</c><00:00:24.439><c> case</c><00:00:24.680><c> you</c><00:00:24.880><c> is</c><00:00:25.119><c> log</c><00:00:25.439><c> base</c><00:00:25.720><c> of</c><00:00:25.920><c> X</c>
+
+00:00:26.589 --> 00:00:26.599 align:start position:0%
+of U in our case you is log base of X
+ 
+
+00:00:26.599 --> 00:00:30.109 align:start position:0%
+of U in our case you is log base of X
+and<00:00:26.800><c> V</c><00:00:27.279><c> is</c><00:00:27.480><c> the</c><00:00:27.720><c> natural</c><00:00:28.080><c> log</c><00:00:28.320><c> of</c><00:00:28.480><c> x</c><00:00:29.439><c> now</c><00:00:29.720><c> let's</c>
+
+00:00:30.109 --> 00:00:30.119 align:start position:0%
+and V is the natural log of x now let's
+ 
+
+00:00:30.119 --> 00:00:32.709 align:start position:0%
+and V is the natural log of x now let's
+apply<00:00:30.560><c> the</c><00:00:30.759><c> product</c><00:00:31.119><c> rule</c><00:00:31.840><c> we'll</c><00:00:32.119><c> have</c><00:00:32.360><c> log</c>
+
+00:00:32.709 --> 00:00:32.719 align:start position:0%
+apply the product rule we'll have log
+ 
+
+00:00:32.719 --> 00:00:36.549 align:start position:0%
+apply the product rule we'll have log
+base<00:00:33.480><c> uh</c><00:00:33.680><c> of</c><00:00:33.960><c> x</c><00:00:34.640><c> *</c><00:00:35.120><c> the</c><00:00:35.280><c> derivative</c><00:00:35.879><c> of</c><00:00:36.160><c> natural</c>
+
+00:00:36.549 --> 00:00:36.559 align:start position:0%
+base uh of x * the derivative of natural
+ 
+
+00:00:36.559 --> 00:00:40.750 align:start position:0%
+base uh of x * the derivative of natural
+log<00:00:36.760><c> of</c><00:00:36.960><c> x</c><00:00:37.960><c> plus</c><00:00:38.360><c> natural</c><00:00:38.760><c> log</c><00:00:39.040><c> of</c><00:00:39.280><c> x</c><00:00:40.079><c> times</c><00:00:40.559><c> the</c>
+
+00:00:40.750 --> 00:00:40.760 align:start position:0%
+log of x plus natural log of x times the
+ 
+
+00:00:40.760 --> 00:00:43.990 align:start position:0%
+log of x plus natural log of x times the
+derivative<00:00:41.239><c> of</c><00:00:41.480><c> log</c><00:00:41.800><c> base</c><00:00:42.200><c> a</c><00:00:42.399><c> of</c><00:00:42.680><c> X</c><00:00:43.640><c> let's</c>
+
+00:00:43.990 --> 00:00:44.000 align:start position:0%
+derivative of log base a of X let's
+ 
+
+00:00:44.000 --> 00:00:46.670 align:start position:0%
+derivative of log base a of X let's
+recall<00:00:44.719><c> that</c><00:00:44.879><c> the</c><00:00:45.039><c> derivative</c><00:00:46.000><c> of</c><00:00:46.280><c> natural</c>
+
+00:00:46.670 --> 00:00:46.680 align:start position:0%
+recall that the derivative of natural
+ 
+
+00:00:46.680 --> 00:00:50.709 align:start position:0%
+recall that the derivative of natural
+log<00:00:46.920><c> of</c><00:00:47.079><c> x</c><00:00:47.840><c> is</c><00:00:48.079><c> 1</c><00:00:48.680><c> /x</c><00:00:49.680><c> and</c><00:00:49.879><c> the</c><00:00:50.039><c> derivative</c><00:00:50.520><c> of</c>
+
+00:00:50.709 --> 00:00:50.719 align:start position:0%
+log of x is 1 /x and the derivative of
+ 
+
+00:00:50.719 --> 00:00:54.150 align:start position:0%
+log of x is 1 /x and the derivative of
+log<00:00:51.079><c> base</c><00:00:51.719><c> uh</c><00:00:51.920><c> of</c><00:00:52.160><c> X</c><00:00:52.559><c> can</c><00:00:52.719><c> be</c><00:00:52.920><c> written</c><00:00:53.440><c> as</c><00:00:53.640><c> log</c>
+
+00:00:54.150 --> 00:00:54.160 align:start position:0%
+log base uh of X can be written as log
+ 
+
+00:00:54.160 --> 00:00:58.750 align:start position:0%
+log base uh of X can be written as log
+base<00:00:54.960><c> uh</c><00:00:55.199><c> of</c><00:00:55.480><c> e</c><00:00:55.800><c> *</c><00:00:56.280><c> 1</c><00:00:56.760><c> /x</c><00:00:57.760><c> substituting</c><00:00:58.480><c> these</c>
+
+00:00:58.750 --> 00:00:58.760 align:start position:0%
+base uh of e * 1 /x substituting these
+ 
+
+00:00:58.760 --> 00:01:01.869 align:start position:0%
+base uh of e * 1 /x substituting these
+derivatives<00:00:59.399><c> into</c><00:00:59.640><c> our</c><00:01:00.120><c> equation</c><00:01:01.120><c> we</c><00:01:01.320><c> get</c><00:01:01.559><c> log</c>
+
+00:01:01.869 --> 00:01:01.879 align:start position:0%
+derivatives into our equation we get log
+ 
+
+00:01:01.879 --> 00:01:07.710 align:start position:0%
+derivatives into our equation we get log
+base<00:01:02.760><c> of</c><00:01:03.039><c> x</c><00:01:03.359><c> *</c><00:01:04.000><c> 1</c><00:01:04.560><c> /x</c><00:01:05.560><c> plus</c><00:01:05.960><c> natural</c><00:01:06.360><c> log</c><00:01:06.640><c> of</c><00:01:06.920><c> x</c><00:01:07.240><c> *</c>
+
+00:01:07.710 --> 00:01:07.720 align:start position:0%
+base of x * 1 /x plus natural log of x *
+ 
+
+00:01:07.720 --> 00:01:13.510 align:start position:0%
+base of x * 1 /x plus natural log of x *
+log<00:01:08.159><c> base</c><00:01:09.119><c> a</c><00:01:10.080><c> of</c><00:01:10.320><c> e</c><00:01:10.600><c> *</c><00:01:11.400><c> 1X</c><00:01:12.400><c> now</c><00:01:12.600><c> we</c><00:01:12.720><c> can</c><00:01:13.000><c> factor</c>
+
+00:01:13.510 --> 00:01:13.520 align:start position:0%
+log base a of e * 1X now we can factor
+ 
+
+00:01:13.520 --> 00:01:17.310 align:start position:0%
+log base a of e * 1X now we can factor
+out<00:01:13.840><c> 1</c><00:01:14.040><c> /x</c><00:01:14.720><c> from</c><00:01:15.080><c> both</c><00:01:15.479><c> terms</c><00:01:16.479><c> this</c><00:01:16.640><c> gives</c><00:01:16.880><c> us</c><00:01:17.119><c> 1</c>
+
+00:01:17.310 --> 00:01:17.320 align:start position:0%
+out 1 /x from both terms this gives us 1
+ 
+
+00:01:17.320 --> 00:01:21.149 align:start position:0%
+out 1 /x from both terms this gives us 1
+/x<00:01:18.000><c> *</c><00:01:18.439><c> the</c><00:01:18.560><c> quantity</c><00:01:19.000><c> log</c><00:01:19.320><c> base</c><00:01:19.799><c> a</c><00:01:20.040><c> of</c><00:01:20.320><c> x</c><00:01:20.640><c> +</c>
+
+00:01:21.149 --> 00:01:21.159 align:start position:0%
+/x * the quantity log base a of x +
+ 
+
+00:01:21.159 --> 00:01:25.870 align:start position:0%
+/x * the quantity log base a of x +
+natural<00:01:21.600><c> log</c><00:01:21.880><c> of</c><00:01:22.159><c> x</c><00:01:22.439><c> *</c><00:01:22.960><c> log</c><00:01:23.320><c> base</c><00:01:23.720><c> a</c><00:01:24.479><c> of</c><00:01:24.799><c> e</c><00:01:25.560><c> let's</c>
+
+00:01:25.870 --> 00:01:25.880 align:start position:0%
+natural log of x * log base a of e let's
+ 
+
+00:01:25.880 --> 00:01:28.950 align:start position:0%
+natural log of x * log base a of e let's
+verify<00:01:26.479><c> this</c><00:01:26.720><c> makes</c><00:01:27.079><c> sense</c><00:01:28.040><c> both</c><00:01:28.360><c> terms</c><00:01:28.840><c> have</c>
+
+00:01:28.950 --> 00:01:28.960 align:start position:0%
+verify this makes sense both terms have
+ 
+
+00:01:28.960 --> 00:01:31.870 align:start position:0%
+verify this makes sense both terms have
+a<00:01:29.280><c> factor</c><00:01:30.119><c> of</c><00:01:30.320><c> 1</c><00:01:30.479><c> /x</c><00:01:31.200><c> which</c><00:01:31.320><c> is</c><00:01:31.520><c> what</c><00:01:31.680><c> we</c>
+
+00:01:31.870 --> 00:01:31.880 align:start position:0%
+a factor of 1 /x which is what we
+ 
+
+00:01:31.880 --> 00:01:34.310 align:start position:0%
+a factor of 1 /x which is what we
+typically<00:01:32.320><c> see</c><00:01:33.200><c> when</c><00:01:33.520><c> differentiating</c>
+
+00:01:34.310 --> 00:01:34.320 align:start position:0%
+typically see when differentiating
+ 
+
+00:01:34.320 --> 00:01:36.830 align:start position:0%
+typically see when differentiating
+logarithmic<00:01:35.159><c> functions</c><00:01:36.159><c> the</c><00:01:36.479><c> remaining</c>
+
+00:01:36.830 --> 00:01:36.840 align:start position:0%
+logarithmic functions the remaining
+ 
+
+00:01:36.840 --> 00:01:39.870 align:start position:0%
+logarithmic functions the remaining
+terms<00:01:37.399><c> combine</c><00:01:38.399><c> the</c><00:01:38.600><c> original</c><00:01:39.159><c> logarithmic</c>
+
+00:01:39.870 --> 00:01:39.880 align:start position:0%
+terms combine the original logarithmic
+ 
+
+00:01:39.880 --> 00:01:42.429 align:start position:0%
+terms combine the original logarithmic
+expressions<00:01:40.479><c> in</c><00:01:40.600><c> a</c><00:01:40.840><c> way</c><00:01:41.680><c> that</c><00:01:41.920><c> preserves</c>
+
+00:01:42.429 --> 00:01:42.439 align:start position:0%
+expressions in a way that preserves
+ 
+
+00:01:42.439 --> 00:01:44.469 align:start position:0%
+expressions in a way that preserves
+their<00:01:42.680><c> relationship</c><00:01:43.680><c> through</c><00:01:43.920><c> the</c><00:01:44.079><c> chain</c>
+
+00:01:44.469 --> 00:01:44.479 align:start position:0%
+their relationship through the chain
+ 
+
+00:01:44.479 --> 00:01:48.149 align:start position:0%
+their relationship through the chain
+Rule<00:01:45.479><c> and</c><00:01:45.719><c> that</c><00:01:46.040><c> completes</c><00:01:46.560><c> our</c><00:01:47.040><c> solution</c>
+
+00:01:48.149 --> 00:01:48.159 align:start position:0%
+Rule and that completes our solution
+ 
+
+00:01:48.159 --> 00:01:50.630 align:start position:0%
+Rule and that completes our solution
+remember<00:01:49.159><c> when</c><00:01:49.479><c> differentiating</c><00:01:50.280><c> products</c>
+
+00:01:50.630 --> 00:01:50.640 align:start position:0%
+remember when differentiating products
+ 
+
+00:01:50.640 --> 00:01:53.190 align:start position:0%
+remember when differentiating products
+of<00:01:51.280><c> logarithms</c><00:01:52.280><c> always</c><00:01:52.600><c> start</c><00:01:52.880><c> with</c><00:01:53.000><c> the</c>
+
+00:01:53.190 --> 00:01:53.200 align:start position:0%
+of logarithms always start with the
+ 
+
+00:01:53.200 --> 00:01:55.510 align:start position:0%
+of logarithms always start with the
+product<00:01:53.520><c> rule</c><00:01:54.439><c> then</c><00:01:54.680><c> use</c><00:01:54.960><c> the</c><00:01:55.119><c> standard</c>
+
+00:01:55.510 --> 00:01:55.520 align:start position:0%
+product rule then use the standard
+ 
+
+00:01:55.520 --> 00:01:58.670 align:start position:0%
+product rule then use the standard
+derivatives<00:01:56.079><c> of</c><00:01:56.360><c> logarithmic</c><00:01:57.360><c> functions</c><00:01:58.360><c> and</c>
+
+00:01:58.670 --> 00:01:58.680 align:start position:0%
+derivatives of logarithmic functions and
+ 
+
+00:01:58.680 --> 00:02:03.000 align:start position:0%
+derivatives of logarithmic functions and
+finally<00:01:59.119><c> combine</c><00:01:59.600><c> like</c><00:02:00.000><c> terms</c>
+

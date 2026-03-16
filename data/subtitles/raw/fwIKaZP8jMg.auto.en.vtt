@@ -1,0 +1,208 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.240 --> 00:00:02.629 align:start position:0%
+ 
+imagine<00:00:00.719><c> you're</c><00:00:00.880><c> at</c><00:00:01.000><c> a</c><00:00:01.199><c> restaurant</c><00:00:02.159><c> you</c><00:00:02.320><c> order</c>
+
+00:00:02.629 --> 00:00:02.639 align:start position:0%
+imagine you're at a restaurant you order
+ 
+
+00:00:02.639 --> 00:00:04.829 align:start position:0%
+imagine you're at a restaurant you order
+your<00:00:02.840><c> favorite</c><00:00:03.199><c> dish</c><00:00:03.679><c> and</c><00:00:03.840><c> in</c><00:00:04.160><c> return</c><00:00:04.640><c> you're</c>
+
+00:00:04.829 --> 00:00:04.839 align:start position:0%
+your favorite dish and in return you're
+ 
+
+00:00:04.839 --> 00:00:06.550 align:start position:0%
+your favorite dish and in return you're
+given<00:00:05.080><c> a</c><00:00:05.200><c> buzzer</c><00:00:05.600><c> that</c><00:00:05.720><c> will</c><00:00:05.879><c> ring</c><00:00:06.279><c> when</c><00:00:06.399><c> your</c>
+
+00:00:06.550 --> 00:00:06.560 align:start position:0%
+given a buzzer that will ring when your
+ 
+
+00:00:06.560 --> 00:00:08.669 align:start position:0%
+given a buzzer that will ring when your
+order<00:00:06.839><c> is</c><00:00:07.040><c> ready</c><00:00:07.759><c> this</c><00:00:08.000><c> buzzer</c><00:00:08.280><c> is</c><00:00:08.400><c> like</c><00:00:08.519><c> a</c>
+
+00:00:08.669 --> 00:00:08.679 align:start position:0%
+order is ready this buzzer is like a
+ 
+
+00:00:08.679 --> 00:00:10.669 align:start position:0%
+order is ready this buzzer is like a
+JavaScript<00:00:09.320><c> promise</c><00:00:09.960><c> it</c><00:00:10.080><c> represents</c><00:00:10.519><c> a</c>
+
+00:00:10.669 --> 00:00:10.679 align:start position:0%
+JavaScript promise it represents a
+ 
+
+00:00:10.679 --> 00:00:12.950 align:start position:0%
+JavaScript promise it represents a
+future<00:00:11.040><c> value</c><00:00:11.639><c> in</c><00:00:11.799><c> this</c><00:00:12.000><c> case</c><00:00:12.280><c> your</c><00:00:12.480><c> delicious</c>
+
+00:00:12.950 --> 00:00:12.960 align:start position:0%
+future value in this case your delicious
+ 
+
+00:00:12.960 --> 00:00:15.110 align:start position:0%
+future value in this case your delicious
+dish<00:00:13.799><c> just</c><00:00:13.960><c> like</c><00:00:14.160><c> the</c><00:00:14.280><c> buzzer</c><00:00:14.679><c> can</c><00:00:14.879><c> either</c>
+
+00:00:15.110 --> 00:00:15.120 align:start position:0%
+dish just like the buzzer can either
+ 
+
+00:00:15.120 --> 00:00:16.790 align:start position:0%
+dish just like the buzzer can either
+alert<00:00:15.440><c> you</c><00:00:15.639><c> that</c><00:00:15.759><c> your</c><00:00:16.000><c> meal</c><00:00:16.199><c> is</c><00:00:16.359><c> ready</c><00:00:16.640><c> or</c>
+
+00:00:16.790 --> 00:00:16.800 align:start position:0%
+alert you that your meal is ready or
+ 
+
+00:00:16.800 --> 00:00:18.710 align:start position:0%
+alert you that your meal is ready or
+something<00:00:17.080><c> went</c><00:00:17.320><c> wrong</c><00:00:18.119><c> maybe</c><00:00:18.359><c> they're</c><00:00:18.560><c> out</c>
+
+00:00:18.710 --> 00:00:18.720 align:start position:0%
+something went wrong maybe they're out
+ 
+
+00:00:18.720 --> 00:00:20.830 align:start position:0%
+something went wrong maybe they're out
+of<00:00:18.840><c> your</c><00:00:19.039><c> favorite</c><00:00:19.400><c> dish</c><00:00:20.119><c> a</c><00:00:20.320><c> promise</c><00:00:20.640><c> in</c>
+
+00:00:20.830 --> 00:00:20.840 align:start position:0%
+of your favorite dish a promise in
+ 
+
+00:00:20.840 --> 00:00:22.950 align:start position:0%
+of your favorite dish a promise in
+JavaScript<00:00:21.480><c> can</c><00:00:21.680><c> either</c><00:00:21.880><c> be</c><00:00:22.039><c> fulfilled</c><00:00:22.680><c> or</c>
+
+00:00:22.950 --> 00:00:22.960 align:start position:0%
+JavaScript can either be fulfilled or
+ 
+
+00:00:22.960 --> 00:00:25.950 align:start position:0%
+JavaScript can either be fulfilled or
+rejected<00:00:23.880><c> what's</c><00:00:24.119><c> a</c><00:00:24.279><c> promise</c><00:00:25.000><c> A</c><00:00:25.279><c> promise</c><00:00:25.840><c> is</c>
+
+00:00:25.950 --> 00:00:25.960 align:start position:0%
+rejected what's a promise A promise is
+ 
+
+00:00:25.960 --> 00:00:27.630 align:start position:0%
+rejected what's a promise A promise is
+an<00:00:26.199><c> object</c><00:00:26.519><c> representing</c><00:00:27.080><c> the</c><00:00:27.240><c> eventual</c>
+
+00:00:27.630 --> 00:00:27.640 align:start position:0%
+an object representing the eventual
+ 
+
+00:00:27.640 --> 00:00:29.669 align:start position:0%
+an object representing the eventual
+completion<00:00:28.119><c> or</c><00:00:28.279><c> failure</c><00:00:28.760><c> of</c><00:00:28.840><c> an</c><00:00:29.080><c> asynchronous</c>
+
+00:00:29.669 --> 00:00:29.679 align:start position:0%
+completion or failure of an asynchronous
+ 
+
+00:00:29.679 --> 00:00:32.229 align:start position:0%
+completion or failure of an asynchronous
+oper<00:00:30.119><c> operation</c><00:00:31.119><c> it's</c><00:00:31.279><c> a</c><00:00:31.480><c> way</c><00:00:31.640><c> to</c><00:00:31.840><c> handle</c>
+
+00:00:32.229 --> 00:00:32.239 align:start position:0%
+oper operation it's a way to handle
+ 
+
+00:00:32.239 --> 00:00:34.830 align:start position:0%
+oper operation it's a way to handle
+asynchronous<00:00:32.960><c> operations</c><00:00:33.520><c> in</c><00:00:33.840><c> JavaScript</c>
+
+00:00:34.830 --> 00:00:34.840 align:start position:0%
+asynchronous operations in JavaScript
+ 
+
+00:00:34.840 --> 00:00:36.510 align:start position:0%
+asynchronous operations in JavaScript
+allowing<00:00:35.160><c> you</c><00:00:35.280><c> to</c><00:00:35.440><c> write</c><00:00:35.680><c> cleaner</c><00:00:36.320><c> more</c>
+
+00:00:36.510 --> 00:00:36.520 align:start position:0%
+allowing you to write cleaner more
+ 
+
+00:00:36.520 --> 00:00:40.110 align:start position:0%
+allowing you to write cleaner more
+readable<00:00:37.040><c> code</c><00:00:38.000><c> a</c><00:00:38.200><c> promise</c><00:00:38.600><c> has</c><00:00:38.840><c> three</c><00:00:39.120><c> states</c>
+
+00:00:40.110 --> 00:00:40.120 align:start position:0%
+readable code a promise has three states
+ 
+
+00:00:40.120 --> 00:00:43.229 align:start position:0%
+readable code a promise has three states
+pending<00:00:40.960><c> the</c><00:00:41.160><c> initial</c><00:00:41.640><c> State</c><00:00:42.559><c> the</c><00:00:42.760><c> operation</c>
+
+00:00:43.229 --> 00:00:43.239 align:start position:0%
+pending the initial State the operation
+ 
+
+00:00:43.239 --> 00:00:46.430 align:start position:0%
+pending the initial State the operation
+is<00:00:43.480><c> still</c><00:00:43.840><c> ongoing</c><00:00:44.800><c> fulfilled</c><00:00:45.680><c> the</c><00:00:45.920><c> operation</c>
+
+00:00:46.430 --> 00:00:46.440 align:start position:0%
+is still ongoing fulfilled the operation
+ 
+
+00:00:46.440 --> 00:00:48.510 align:start position:0%
+is still ongoing fulfilled the operation
+completed<00:00:47.000><c> successfully</c><00:00:47.760><c> and</c><00:00:47.920><c> the</c><00:00:48.079><c> promise</c>
+
+00:00:48.510 --> 00:00:48.520 align:start position:0%
+completed successfully and the promise
+ 
+
+00:00:48.520 --> 00:00:51.950 align:start position:0%
+completed successfully and the promise
+now<00:00:48.760><c> has</c><00:00:48.879><c> a</c><00:00:49.079><c> resolved</c><00:00:49.879><c> value</c><00:00:50.879><c> rejected</c><00:00:51.760><c> the</c>
+
+00:00:51.950 --> 00:00:51.960 align:start position:0%
+now has a resolved value rejected the
+ 
+
+00:00:51.960 --> 00:00:54.270 align:start position:0%
+now has a resolved value rejected the
+operation<00:00:52.520><c> failed</c><00:00:53.280><c> and</c><00:00:53.399><c> the</c><00:00:53.559><c> promise</c><00:00:53.960><c> has</c><00:00:54.079><c> a</c>
+
+00:00:54.270 --> 00:00:54.280 align:start position:0%
+operation failed and the promise has a
+ 
+
+00:00:54.280 --> 00:00:56.750 align:start position:0%
+operation failed and the promise has a
+reason<00:00:54.840><c> for</c><00:00:55.079><c> the</c><00:00:55.239><c> failure</c><00:00:55.960><c> if</c><00:00:56.079><c> you</c><00:00:56.239><c> found</c><00:00:56.559><c> this</c>
+
+00:00:56.750 --> 00:00:56.760 align:start position:0%
+reason for the failure if you found this
+ 
+
+00:00:56.760 --> 00:00:58.549 align:start position:0%
+reason for the failure if you found this
+content<00:00:57.160><c> helpful</c><00:00:57.840><c> don't</c><00:00:58.079><c> forget</c><00:00:58.359><c> to</c>
+
+00:00:58.549 --> 00:00:58.559 align:start position:0%
+content helpful don't forget to
+ 
+
+00:00:58.559 --> 00:01:01.879 align:start position:0%
+content helpful don't forget to
+subscribe<00:00:59.000><c> to</c><00:00:59.160><c> my</c><00:00:59.359><c> channel</c>
+

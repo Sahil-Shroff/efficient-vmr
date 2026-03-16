@@ -1,0 +1,312 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.320 --> 00:00:03.429 align:start position:0%
+ 
+let's<00:00:00.640><c> solve</c><00:00:01.120><c> this</c><00:00:01.719><c> complex</c><00:00:02.440><c> differentiation</c>
+
+00:00:03.429 --> 00:00:03.439 align:start position:0%
+let's solve this complex differentiation
+ 
+
+00:00:03.439 --> 00:00:06.349 align:start position:0%
+let's solve this complex differentiation
+problem<00:00:03.879><c> step</c><00:00:04.319><c> by</c><00:00:04.640><c> step</c><00:00:05.480><c> we</c><00:00:05.680><c> start</c><00:00:06.000><c> with</c><00:00:06.160><c> the</c>
+
+00:00:06.349 --> 00:00:06.359 align:start position:0%
+problem step by step we start with the
+ 
+
+00:00:06.359 --> 00:00:10.190 align:start position:0%
+problem step by step we start with the
+expression<00:00:07.000><c> cosine</c><00:00:07.720><c> of</c><00:00:08.080><c> natural</c><00:00:08.480><c> log</c><00:00:08.880><c> X</c><00:00:09.639><c> Plus</c>
+
+00:00:10.190 --> 00:00:10.200 align:start position:0%
+expression cosine of natural log X Plus
+ 
+
+00:00:10.200 --> 00:00:12.709 align:start position:0%
+expression cosine of natural log X Plus
+natural<00:00:10.639><c> log</c><00:00:10.920><c> of</c><00:00:11.200><c> tangent</c><00:00:11.679><c> X</c><00:00:12.480><c> to</c>
+
+00:00:12.709 --> 00:00:12.719 align:start position:0%
+natural log of tangent X to
+ 
+
+00:00:12.719 --> 00:00:14.549 align:start position:0%
+natural log of tangent X to
+differentiate<00:00:13.440><c> this</c><00:00:13.599><c> we'll</c><00:00:13.799><c> use</c><00:00:14.040><c> the</c><00:00:14.160><c> chain</c>
+
+00:00:14.549 --> 00:00:14.559 align:start position:0%
+differentiate this we'll use the chain
+ 
+
+00:00:14.559 --> 00:00:17.470 align:start position:0%
+differentiate this we'll use the chain
+Rule<00:00:15.160><c> and</c><00:00:15.440><c> split</c><00:00:15.719><c> it</c><00:00:15.839><c> into</c><00:00:16.160><c> two</c><00:00:16.400><c> parts</c><00:00:17.279><c> the</c>
+
+00:00:17.470 --> 00:00:17.480 align:start position:0%
+Rule and split it into two parts the
+ 
+
+00:00:17.480 --> 00:00:20.029 align:start position:0%
+Rule and split it into two parts the
+derivative<00:00:18.000><c> of</c><00:00:18.119><c> the</c><00:00:18.279><c> first</c><00:00:18.640><c> part</c><00:00:19.320><c> cosine</c><00:00:19.760><c> of</c>
+
+00:00:20.029 --> 00:00:20.039 align:start position:0%
+derivative of the first part cosine of
+ 
+
+00:00:20.039 --> 00:00:23.070 align:start position:0%
+derivative of the first part cosine of
+natural<00:00:20.439><c> log</c><00:00:20.800><c> X</c><00:00:21.800><c> plus</c><00:00:22.119><c> the</c><00:00:22.279><c> derivative</c><00:00:22.760><c> of</c><00:00:22.920><c> the</c>
+
+00:00:23.070 --> 00:00:23.080 align:start position:0%
+natural log X plus the derivative of the
+ 
+
+00:00:23.080 --> 00:00:26.589 align:start position:0%
+natural log X plus the derivative of the
+second<00:00:23.439><c> part</c><00:00:24.320><c> natural</c><00:00:24.760><c> log</c><00:00:25.039><c> of</c><00:00:25.279><c> tangent</c><00:00:25.720><c> X</c>
+
+00:00:26.589 --> 00:00:26.599 align:start position:0%
+second part natural log of tangent X
+ 
+
+00:00:26.599 --> 00:00:29.269 align:start position:0%
+second part natural log of tangent X
+let's<00:00:26.920><c> handle</c><00:00:27.400><c> each</c><00:00:27.720><c> part</c><00:00:28.119><c> separately</c><00:00:29.119><c> for</c>
+
+00:00:29.269 --> 00:00:29.279 align:start position:0%
+let's handle each part separately for
+ 
+
+00:00:29.279 --> 00:00:30.589 align:start position:0%
+let's handle each part separately for
+the<00:00:29.439><c> first</c><00:00:29.720><c> part</c>
+
+00:00:30.589 --> 00:00:30.599 align:start position:0%
+the first part
+ 
+
+00:00:30.599 --> 00:00:33.350 align:start position:0%
+the first part
+using<00:00:30.920><c> the</c><00:00:31.080><c> chain</c><00:00:31.439><c> rule</c><00:00:32.079><c> we</c><00:00:32.279><c> get</c><00:00:32.599><c> Negative</c><00:00:33.079><c> s</c>
+
+00:00:33.350 --> 00:00:33.360 align:start position:0%
+using the chain rule we get Negative s
+ 
+
+00:00:33.360 --> 00:00:36.590 align:start position:0%
+using the chain rule we get Negative s
+of<00:00:33.640><c> natural</c><00:00:34.040><c> log</c><00:00:34.360><c> X</c><00:00:34.879><c> time</c><00:00:35.280><c> the</c><00:00:35.480><c> derivative</c><00:00:36.320><c> of</c>
+
+00:00:36.590 --> 00:00:36.600 align:start position:0%
+of natural log X time the derivative of
+ 
+
+00:00:36.600 --> 00:00:39.950 align:start position:0%
+of natural log X time the derivative of
+natural<00:00:37.000><c> log</c><00:00:37.239><c> X</c><00:00:37.800><c> which</c><00:00:38.040><c> is</c><00:00:38.200><c> 1</c><00:00:38.559><c> /x</c><00:00:39.559><c> for</c><00:00:39.760><c> the</c>
+
+00:00:39.950 --> 00:00:39.960 align:start position:0%
+natural log X which is 1 /x for the
+ 
+
+00:00:39.960 --> 00:00:42.830 align:start position:0%
+natural log X which is 1 /x for the
+second<00:00:40.320><c> part</c><00:00:40.600><c> we</c><00:00:40.760><c> use</c><00:00:41.079><c> the</c><00:00:41.239><c> chain</c><00:00:41.600><c> rule</c><00:00:42.000><c> again</c>
+
+00:00:42.830 --> 00:00:42.840 align:start position:0%
+second part we use the chain rule again
+ 
+
+00:00:42.840 --> 00:00:45.670 align:start position:0%
+second part we use the chain rule again
+the<00:00:43.039><c> derivative</c><00:00:43.760><c> of</c><00:00:44.039><c> natural</c><00:00:44.480><c> log</c><00:00:44.800><c> of</c><00:00:45.079><c> tangent</c>
+
+00:00:45.670 --> 00:00:45.680 align:start position:0%
+the derivative of natural log of tangent
+ 
+
+00:00:45.680 --> 00:00:49.790 align:start position:0%
+the derivative of natural log of tangent
+x<00:00:46.199><c> =</c><00:00:47.120><c> 1</c><00:00:47.320><c> /</c><00:00:47.680><c> tangent</c><00:00:48.160><c> x</c><00:00:48.520><c> *</c><00:00:48.960><c> the</c><00:00:49.120><c> derivative</c><00:00:49.600><c> of</c>
+
+00:00:49.790 --> 00:00:49.800 align:start position:0%
+x = 1 / tangent x * the derivative of
+ 
+
+00:00:49.800 --> 00:00:53.349 align:start position:0%
+x = 1 / tangent x * the derivative of
+tangent<00:00:50.239><c> X</c><00:00:50.760><c> which</c><00:00:50.879><c> is</c><00:00:51.079><c> secant</c><00:00:51.640><c> 2</c><00:00:52.079><c> x</c><00:00:52.960><c> now</c><00:00:53.160><c> we</c>
+
+00:00:53.349 --> 00:00:53.359 align:start position:0%
+tangent X which is secant 2 x now we
+ 
+
+00:00:53.359 --> 00:00:56.430 align:start position:0%
+tangent X which is secant 2 x now we
+combine<00:00:53.800><c> these</c><00:00:54.160><c> parts</c><00:00:55.079><c> we</c><00:00:55.280><c> have</c><00:00:55.640><c> negative</c><00:00:56.120><c> s</c>
+
+00:00:56.430 --> 00:00:56.440 align:start position:0%
+combine these parts we have negative s
+ 
+
+00:00:56.440 --> 00:01:02.270 align:start position:0%
+combine these parts we have negative s
+of<00:00:56.760><c> natural</c><00:00:57.160><c> log</c><00:00:57.440><c> x/</c><00:00:58.280><c> X</c><00:00:58.600><c> +</c><00:00:59.079><c> 1</c><00:00:59.280><c> /</c><00:00:59.600><c> Tang</c><00:01:00.199><c> x</c><00:01:00.519><c> *</c><00:01:01.359><c> sec^2</c>
+
+00:01:02.270 --> 00:01:02.280 align:start position:0%
+of natural log x/ X + 1 / Tang x * sec^2
+ 
+
+00:01:02.280 --> 00:01:05.509 align:start position:0%
+of natural log x/ X + 1 / Tang x * sec^2
+X<00:01:03.280><c> let's</c><00:01:03.519><c> simplify</c><00:01:04.119><c> the</c><00:01:04.280><c> second</c><00:01:04.640><c> term</c>
+
+00:01:05.509 --> 00:01:05.519 align:start position:0%
+X let's simplify the second term
+ 
+
+00:01:05.519 --> 00:01:08.870 align:start position:0%
+X let's simplify the second term
+remember<00:01:06.040><c> that</c><00:01:06.600><c> tangent</c><00:01:07.080><c> X</c><00:01:07.479><c> =</c><00:01:07.960><c> sin</c><00:01:08.280><c> x</c><00:01:08.560><c> over</c>
+
+00:01:08.870 --> 00:01:08.880 align:start position:0%
+remember that tangent X = sin x over
+ 
+
+00:01:08.880 --> 00:01:15.270 align:start position:0%
+remember that tangent X = sin x over
+cosine<00:01:09.320><c> X</c><00:01:10.320><c> and</c><00:01:10.560><c> secant</c><00:01:11.200><c> 2</c><00:01:11.840><c> x</c><00:01:12.280><c> =</c><00:01:12.759><c> 1</c><00:01:13.400><c> cosine</c><00:01:13.880><c> 2</c><00:01:14.320><c> x</c>
+
+00:01:15.270 --> 00:01:15.280 align:start position:0%
+cosine X and secant 2 x = 1 cosine 2 x
+ 
+
+00:01:15.280 --> 00:01:18.350 align:start position:0%
+cosine X and secant 2 x = 1 cosine 2 x
+substituting<00:01:15.960><c> these</c><00:01:16.200><c> in</c><00:01:17.080><c> we</c><00:01:17.280><c> get</c><00:01:17.640><c> Negative</c><00:01:18.119><c> s</c>
+
+00:01:18.350 --> 00:01:18.360 align:start position:0%
+substituting these in we get Negative s
+ 
+
+00:01:18.360 --> 00:01:23.510 align:start position:0%
+substituting these in we get Negative s
+of<00:01:18.600><c> natural</c><00:01:19.000><c> log</c><00:01:19.320><c> x/</c><00:01:20.159><c> X</c><00:01:20.439><c> +</c><00:01:20.880><c> cosine</c><00:01:21.320><c> x/</c><00:01:22.040><c> sin</c><00:01:22.759><c> x</c><00:01:23.040><c> *</c>
+
+00:01:23.510 --> 00:01:23.520 align:start position:0%
+of natural log x/ X + cosine x/ sin x *
+ 
+
+00:01:23.520 --> 00:01:27.670 align:start position:0%
+of natural log x/ X + cosine x/ sin x *
+1<00:01:24.159><c> cosine</c><00:01:24.640><c> 2</c><00:01:25.040><c> x</c><00:01:26.040><c> this</c><00:01:26.280><c> simplifies</c><00:01:26.920><c> to</c><00:01:27.200><c> negative</c>
+
+00:01:27.670 --> 00:01:27.680 align:start position:0%
+1 cosine 2 x this simplifies to negative
+ 
+
+00:01:27.680 --> 00:01:33.990 align:start position:0%
+1 cosine 2 x this simplifies to negative
+s<00:01:28.000><c> of</c><00:01:28.360><c> natural</c><00:01:28.759><c> log</c><00:01:29.079><c> x/</c><00:01:29.960><c> x</c><00:01:30.280><c> +</c><00:01:31.040><c> 1</c><00:01:31.280><c> /</c><00:01:31.640><c> sin</c><00:01:32.320><c> x</c><00:01:32.920><c> *</c><00:01:33.439><c> 1</c><00:01:33.640><c> /</c>
+
+00:01:33.990 --> 00:01:34.000 align:start position:0%
+s of natural log x/ x + 1 / sin x * 1 /
+ 
+
+00:01:34.000 --> 00:01:36.389 align:start position:0%
+s of natural log x/ x + 1 / sin x * 1 /
+cosine<00:01:34.399><c> X</c><00:01:35.240><c> the</c><00:01:35.479><c> second</c><00:01:35.799><c> term</c><00:01:36.119><c> can</c><00:01:36.240><c> be</c>
+
+00:01:36.389 --> 00:01:36.399 align:start position:0%
+cosine X the second term can be
+ 
+
+00:01:36.399 --> 00:01:40.030 align:start position:0%
+cosine X the second term can be
+Rewritten<00:01:37.079><c> as</c><00:01:37.240><c> 2/</c><00:01:38.000><c> 2</c><00:01:38.360><c> sinx</c><00:01:39.000><c> cosine</c><00:01:39.399><c> X</c><00:01:39.840><c> which</c>
+
+00:01:40.030 --> 00:01:40.040 align:start position:0%
+Rewritten as 2/ 2 sinx cosine X which
+ 
+
+00:01:40.040 --> 00:01:43.749 align:start position:0%
+Rewritten as 2/ 2 sinx cosine X which
+equal<00:01:40.439><c> 2</c><00:01:40.840><c> over</c><00:01:41.159><c> sin</c><00:01:41.520><c> of</c><00:01:41.960><c> 2x</c><00:01:42.960><c> using</c><00:01:43.280><c> the</c><00:01:43.479><c> double</c>
+
+00:01:43.749 --> 00:01:43.759 align:start position:0%
+equal 2 over sin of 2x using the double
+ 
+
+00:01:43.759 --> 00:01:47.230 align:start position:0%
+equal 2 over sin of 2x using the double
+angle<00:01:44.439><c> formula</c><00:01:45.439><c> finally</c><00:01:46.079><c> we</c><00:01:46.200><c> can</c><00:01:46.439><c> write</c><00:01:46.799><c> this</c>
+
+00:01:47.230 --> 00:01:47.240 align:start position:0%
+angle formula finally we can write this
+ 
+
+00:01:47.240 --> 00:01:53.709 align:start position:0%
+angle formula finally we can write this
+as<00:01:47.479><c> 2</c><00:01:48.280><c> cose</c><00:01:49.640><c> 2x</c><00:01:50.640><c> -</c><00:01:51.240><c> 1</c><00:01:51.560><c> /x</c><00:01:52.240><c> *</c><00:01:52.680><c> sin</c><00:01:52.880><c> of</c><00:01:53.079><c> natural</c><00:01:53.479><c> log</c>
+
+00:01:53.709 --> 00:01:53.719 align:start position:0%
+as 2 cose 2x - 1 /x * sin of natural log
+ 
+
+00:01:53.719 --> 00:01:57.109 align:start position:0%
+as 2 cose 2x - 1 /x * sin of natural log
+X<00:01:54.119><c> which</c><00:01:54.240><c> is</c><00:01:54.399><c> our</c><00:01:54.799><c> final</c><00:01:55.280><c> answer</c><00:01:56.280><c> this</c><00:01:56.680><c> problem</c>
+
+00:01:57.109 --> 00:01:57.119 align:start position:0%
+X which is our final answer this problem
+ 
+
+00:01:57.119 --> 00:01:59.469 align:start position:0%
+X which is our final answer this problem
+demonstrated<00:01:57.759><c> the</c><00:01:57.920><c> use</c><00:01:58.119><c> of</c><00:01:58.360><c> chain</c><00:01:58.719><c> rule</c>
+
+00:01:59.469 --> 00:01:59.479 align:start position:0%
+demonstrated the use of chain rule
+ 
+
+00:01:59.479 --> 00:02:01.950 align:start position:0%
+demonstrated the use of chain rule
+product<00:02:00.039><c> Rule</c><00:02:00.960><c> and</c><00:02:01.240><c> trigonometric</c>
+
+00:02:01.950 --> 00:02:01.960 align:start position:0%
+product Rule and trigonometric
+ 
+
+00:02:01.960 --> 00:02:04.709 align:start position:0%
+product Rule and trigonometric
+identities<00:02:02.439><c> and</c><00:02:02.920><c> calculus</c><00:02:03.920><c> remember</c><00:02:04.439><c> to</c>
+
+00:02:04.709 --> 00:02:04.719 align:start position:0%
+identities and calculus remember to
+ 
+
+00:02:04.719 --> 00:02:07.430 align:start position:0%
+identities and calculus remember to
+break<00:02:05.119><c> down</c><00:02:05.520><c> complex</c><00:02:06.119><c> problems</c><00:02:06.680><c> into</c><00:02:07.000><c> simpler</c>
+
+00:02:07.430 --> 00:02:07.440 align:start position:0%
+break down complex problems into simpler
+ 
+
+00:02:07.440 --> 00:02:09.990 align:start position:0%
+break down complex problems into simpler
+steps<00:02:08.440><c> and</c><00:02:08.679><c> use</c><00:02:08.920><c> your</c><00:02:09.160><c> knowledge</c><00:02:09.800><c> of</c>
+
+00:02:09.990 --> 00:02:10.000 align:start position:0%
+steps and use your knowledge of
+ 
+
+00:02:10.000 --> 00:02:13.759 align:start position:0%
+steps and use your knowledge of
+trigonometric<00:02:10.759><c> relationships</c>
+

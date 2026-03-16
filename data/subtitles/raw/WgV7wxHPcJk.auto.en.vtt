@@ -1,0 +1,240 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.280 --> 00:00:02.550 align:start position:0%
+ 
+let's<00:00:00.599><c> solve</c><00:00:00.960><c> this</c><00:00:01.199><c> differentiation</c><00:00:02.120><c> problem</c>
+
+00:00:02.550 --> 00:00:02.560 align:start position:0%
+let's solve this differentiation problem
+ 
+
+00:00:02.560 --> 00:00:05.030 align:start position:0%
+let's solve this differentiation problem
+step<00:00:02.840><c> by</c><00:00:03.120><c> step</c><00:00:03.919><c> we</c><00:00:04.080><c> need</c><00:00:04.279><c> to</c><00:00:04.480><c> find</c><00:00:04.799><c> the</c>
+
+00:00:05.030 --> 00:00:05.040 align:start position:0%
+step by step we need to find the
+ 
+
+00:00:05.040 --> 00:00:09.230 align:start position:0%
+step by step we need to find the
+derivative<00:00:06.040><c> of</c><00:00:06.319><c> e</c><00:00:06.680><c> to</c><00:00:06.879><c> the</c><00:00:07.040><c> x</c><00:00:07.399><c> *</c><00:00:08.040><c> tangent</c><00:00:08.639><c> s</c><00:00:09.080><c> of</c>
+
+00:00:09.230 --> 00:00:09.240 align:start position:0%
+derivative of e to the x * tangent s of
+ 
+
+00:00:09.240 --> 00:00:12.110 align:start position:0%
+derivative of e to the x * tangent s of
+X<00:00:10.200><c> first</c><00:00:10.920><c> let's</c><00:00:11.240><c> identify</c><00:00:11.799><c> what</c><00:00:11.920><c> we're</c>
+
+00:00:12.110 --> 00:00:12.120 align:start position:0%
+X first let's identify what we're
+ 
+
+00:00:12.120 --> 00:00:15.189 align:start position:0%
+X first let's identify what we're
+dealing<00:00:12.559><c> with</c><00:00:13.400><c> this</c><00:00:13.599><c> is</c><00:00:13.719><c> a</c><00:00:14.000><c> product</c><00:00:14.360><c> of</c><00:00:14.639><c> two</c>
+
+00:00:15.189 --> 00:00:15.199 align:start position:0%
+dealing with this is a product of two
+ 
+
+00:00:15.199 --> 00:00:19.870 align:start position:0%
+dealing with this is a product of two
+functions<00:00:16.199><c> e</c><00:00:16.440><c> to</c><00:00:16.760><c> X</c><00:00:17.640><c> and</c><00:00:17.880><c> tangent</c><00:00:18.320><c> s</c><00:00:18.720><c> of</c><00:00:18.880><c> X</c><00:00:19.680><c> when</c>
+
+00:00:19.870 --> 00:00:19.880 align:start position:0%
+functions e to X and tangent s of X when
+ 
+
+00:00:19.880 --> 00:00:21.870 align:start position:0%
+functions e to X and tangent s of X when
+we<00:00:20.039><c> have</c><00:00:20.160><c> a</c><00:00:20.359><c> product</c><00:00:20.800><c> we</c><00:00:20.960><c> need</c><00:00:21.160><c> to</c><00:00:21.400><c> use</c><00:00:21.680><c> the</c>
+
+00:00:21.870 --> 00:00:21.880 align:start position:0%
+we have a product we need to use the
+ 
+
+00:00:21.880 --> 00:00:24.230 align:start position:0%
+we have a product we need to use the
+product<00:00:22.240><c> rule</c><00:00:23.080><c> let's</c><00:00:23.359><c> apply</c><00:00:23.680><c> the</c><00:00:23.800><c> product</c>
+
+00:00:24.230 --> 00:00:24.240 align:start position:0%
+product rule let's apply the product
+ 
+
+00:00:24.240 --> 00:00:27.990 align:start position:0%
+product rule let's apply the product
+rule<00:00:25.039><c> the</c><00:00:25.199><c> first</c><00:00:25.480><c> term</c><00:00:25.800><c> will</c><00:00:26.000><c> be</c><00:00:26.320><c> e</c><00:00:26.640><c> to</c><00:00:26.960><c> x</c><00:00:27.359><c> *</c><00:00:27.840><c> the</c>
+
+00:00:27.990 --> 00:00:28.000 align:start position:0%
+rule the first term will be e to x * the
+ 
+
+00:00:28.000 --> 00:00:30.630 align:start position:0%
+rule the first term will be e to x * the
+derivative<00:00:28.519><c> of</c><00:00:28.760><c> tangent</c><00:00:29.240><c> 2</c><00:00:29.679><c> x</c>
+
+00:00:30.630 --> 00:00:30.640 align:start position:0%
+derivative of tangent 2 x
+ 
+
+00:00:30.640 --> 00:00:35.830 align:start position:0%
+derivative of tangent 2 x
+plus<00:00:30.960><c> t^</c><00:00:31.439><c> 2</c><00:00:32.000><c> x</c><00:00:32.360><c> *</c><00:00:32.880><c> the</c><00:00:33.040><c> derivative</c><00:00:33.920><c> of</c><00:00:34.120><c> e</c><00:00:34.399><c> to</c><00:00:34.840><c> X</c>
+
+00:00:35.830 --> 00:00:35.840 align:start position:0%
+plus t^ 2 x * the derivative of e to X
+ 
+
+00:00:35.840 --> 00:00:38.709 align:start position:0%
+plus t^ 2 x * the derivative of e to X
+now<00:00:36.120><c> let's</c><00:00:36.399><c> handle</c><00:00:36.840><c> each</c><00:00:37.160><c> term</c><00:00:37.719><c> separately</c>
+
+00:00:38.709 --> 00:00:38.719 align:start position:0%
+now let's handle each term separately
+ 
+
+00:00:38.719 --> 00:00:41.470 align:start position:0%
+now let's handle each term separately
+for<00:00:38.920><c> the</c><00:00:39.079><c> first</c><00:00:39.559><c> term</c><00:00:40.559><c> we</c><00:00:40.680><c> need</c><00:00:40.879><c> to</c><00:00:41.079><c> use</c><00:00:41.320><c> the</c>
+
+00:00:41.470 --> 00:00:41.480 align:start position:0%
+for the first term we need to use the
+ 
+
+00:00:41.480 --> 00:00:44.950 align:start position:0%
+for the first term we need to use the
+chain<00:00:41.840><c> rule</c><00:00:42.160><c> on</c><00:00:42.480><c> tangent</c><00:00:42.960><c> 2</c><00:00:43.399><c> x</c><00:00:44.320><c> this</c><00:00:44.520><c> gives</c><00:00:44.719><c> us</c>
+
+00:00:44.950 --> 00:00:44.960 align:start position:0%
+chain rule on tangent 2 x this gives us
+ 
+
+00:00:44.960 --> 00:00:48.310 align:start position:0%
+chain rule on tangent 2 x this gives us
+2<00:00:45.239><c> *</c><00:00:45.719><c> tangent</c><00:00:46.399><c> x</c><00:00:47.039><c> times</c><00:00:47.480><c> the</c><00:00:47.640><c> derivative</c><00:00:48.120><c> of</c>
+
+00:00:48.310 --> 00:00:48.320 align:start position:0%
+2 * tangent x times the derivative of
+ 
+
+00:00:48.320 --> 00:00:51.750 align:start position:0%
+2 * tangent x times the derivative of
+tangent<00:00:48.800><c> X</c><00:00:49.600><c> for</c><00:00:49.800><c> the</c><00:00:50.000><c> second</c><00:00:50.360><c> term</c><00:00:51.280><c> we</c><00:00:51.399><c> know</c>
+
+00:00:51.750 --> 00:00:51.760 align:start position:0%
+tangent X for the second term we know
+ 
+
+00:00:51.760 --> 00:00:55.830 align:start position:0%
+tangent X for the second term we know
+the<00:00:51.960><c> derivative</c><00:00:52.960><c> of</c><00:00:53.199><c> e</c><00:00:53.480><c> to</c><00:00:53.640><c> the</c><00:00:53.800><c> x</c><00:00:54.680><c> is</c><00:00:54.920><c> a</c><00:00:55.239><c> Time</c><00:00:55.640><c> e</c>
+
+00:00:55.830 --> 00:00:55.840 align:start position:0%
+the derivative of e to the x is a Time e
+ 
+
+00:00:55.840 --> 00:00:59.229 align:start position:0%
+the derivative of e to the x is a Time e
+to<00:00:56.160><c> X</c><00:00:57.079><c> let's</c><00:00:57.359><c> continue</c><00:00:58.079><c> simplifying</c><00:00:59.079><c> the</c>
+
+00:00:59.229 --> 00:00:59.239 align:start position:0%
+to X let's continue simplifying the
+ 
+
+00:00:59.239 --> 00:01:02.950 align:start position:0%
+to X let's continue simplifying the
+derivative<00:00:59.640><c> of</c><00:01:00.039><c> tangent</c><00:01:00.399><c> X</c><00:01:00.840><c> is</c><00:01:01.000><c> secant</c><00:01:01.559><c> 2</c><00:01:02.000><c> x</c>
+
+00:01:02.950 --> 00:01:02.960 align:start position:0%
+derivative of tangent X is secant 2 x
+ 
+
+00:01:02.960 --> 00:01:06.750 align:start position:0%
+derivative of tangent X is secant 2 x
+and<00:01:03.079><c> the</c><00:01:03.239><c> derivative</c><00:01:03.680><c> of</c><00:01:03.879><c> x</c><00:01:04.640><c> is</c><00:01:04.920><c> simply</c><00:01:05.479><c> a</c><00:01:06.479><c> now</c>
+
+00:01:06.750 --> 00:01:06.760 align:start position:0%
+and the derivative of x is simply a now
+ 
+
+00:01:06.760 --> 00:01:09.550 align:start position:0%
+and the derivative of x is simply a now
+let's<00:01:07.000><c> combine</c><00:01:07.479><c> like</c><00:01:07.840><c> terms</c><00:01:08.840><c> we</c><00:01:08.960><c> can</c><00:01:09.240><c> factor</c>
+
+00:01:09.550 --> 00:01:09.560 align:start position:0%
+let's combine like terms we can factor
+ 
+
+00:01:09.560 --> 00:01:13.030 align:start position:0%
+let's combine like terms we can factor
+out<00:01:09.799><c> e</c><00:01:10.040><c> to</c><00:01:10.320><c> X</c><00:01:10.720><c> from</c><00:01:11.040><c> both</c><00:01:11.479><c> terms</c><00:01:12.479><c> then</c><00:01:12.640><c> we</c><00:01:12.759><c> can</c>
+
+00:01:13.030 --> 00:01:13.040 align:start position:0%
+out e to X from both terms then we can
+ 
+
+00:01:13.040 --> 00:01:16.310 align:start position:0%
+out e to X from both terms then we can
+factor<00:01:13.320><c> out</c><00:01:13.600><c> tangent</c><00:01:14.080><c> X</c><00:01:14.479><c> from</c><00:01:14.759><c> what</c><00:01:15.320><c> remains</c>
+
+00:01:16.310 --> 00:01:16.320 align:start position:0%
+factor out tangent X from what remains
+ 
+
+00:01:16.320 --> 00:01:19.109 align:start position:0%
+factor out tangent X from what remains
+and<00:01:16.479><c> there</c><00:01:16.640><c> we</c><00:01:16.840><c> have</c><00:01:17.040><c> our</c><00:01:17.439><c> final</c><00:01:17.880><c> answer</c><00:01:18.799><c> the</c>
+
+00:01:19.109 --> 00:01:19.119 align:start position:0%
+and there we have our final answer the
+ 
+
+00:01:19.119 --> 00:01:24.109 align:start position:0%
+and there we have our final answer the
+derivative<00:01:20.119><c> of</c><00:01:20.360><c> e</c><00:01:20.640><c> to</c><00:01:21.000><c> x</c><00:01:21.320><c> *</c><00:01:21.840><c> tangent</c><00:01:22.479><c> 2</c><00:01:22.960><c> x</c><00:01:23.600><c> is</c><00:01:23.880><c> e</c>
+
+00:01:24.109 --> 00:01:24.119 align:start position:0%
+derivative of e to x * tangent 2 x is e
+ 
+
+00:01:24.119 --> 00:01:29.069 align:start position:0%
+derivative of e to x * tangent 2 x is e
+to<00:01:24.400><c> x</c><00:01:24.680><c> *</c><00:01:25.200><c> tangent</c><00:01:25.680><c> x</c><00:01:25.960><c> *</c><00:01:26.439><c> the</c><00:01:26.600><c> quantity</c><00:01:27.280><c> 2^</c><00:01:28.280><c> 2</c><00:01:28.759><c> X</c>
+
+00:01:29.069 --> 00:01:29.079 align:start position:0%
+to x * tangent x * the quantity 2^ 2 X
+ 
+
+00:01:29.079 --> 00:01:31.870 align:start position:0%
+to x * tangent x * the quantity 2^ 2 X
+plus<00:01:29.240><c> a</c><00:01:29.439><c> tangent</c><00:01:29.759><c> X</c><00:01:30.000><c> X</c><00:01:30.840><c> this</c><00:01:31.159><c> problem</c><00:01:31.520><c> showed</c>
+
+00:01:31.870 --> 00:01:31.880 align:start position:0%
+plus a tangent X X this problem showed
+ 
+
+00:01:31.880 --> 00:01:34.310 align:start position:0%
+plus a tangent X X this problem showed
+us<00:01:32.079><c> how</c><00:01:32.200><c> to</c><00:01:32.399><c> use</c><00:01:32.680><c> both</c><00:01:32.880><c> the</c><00:01:33.040><c> product</c><00:01:33.399><c> rule</c><00:01:34.079><c> and</c>
+
+00:01:34.310 --> 00:01:34.320 align:start position:0%
+us how to use both the product rule and
+ 
+
+00:01:34.320 --> 00:01:36.630 align:start position:0%
+us how to use both the product rule and
+chain<00:01:34.680><c> rule</c><00:01:35.119><c> together</c><00:01:35.439><c> to</c><00:01:35.680><c> handle</c><00:01:36.119><c> complex</c>
+
+00:01:36.630 --> 00:01:36.640 align:start position:0%
+chain rule together to handle complex
+ 
+
+00:01:36.640 --> 00:01:39.640 align:start position:0%
+chain rule together to handle complex
+derivatives
+

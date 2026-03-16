@@ -1,0 +1,368 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.400 --> 00:00:15.270 align:start position:0%
+ 
+[Music]
+
+00:00:15.270 --> 00:00:15.280 align:start position:0%
+[Music]
+ 
+
+00:00:15.280 --> 00:00:20.710 align:start position:0%
+[Music]
+start<00:00:15.519><c> with</c><00:00:15.679><c> a</c><00:00:15.679><c> semi-circle</c><00:00:16.320><c> of</c><00:00:16.400><c> radius</c><00:00:16.960><c> one</c>
+
+00:00:20.710 --> 00:00:20.720 align:start position:0%
+ 
+ 
+
+00:00:20.720 --> 00:00:23.349 align:start position:0%
+ 
+then<00:00:20.960><c> take</c><00:00:21.199><c> the</c><00:00:21.359><c> radius</c><00:00:22.320><c> and</c><00:00:22.480><c> rotate</c><00:00:22.960><c> it</c><00:00:23.199><c> a</c>
+
+00:00:23.349 --> 00:00:23.359 align:start position:0%
+then take the radius and rotate it a
+ 
+
+00:00:23.359 --> 00:00:25.189 align:start position:0%
+then take the radius and rotate it a
+fixed<00:00:23.840><c> angle</c>
+
+00:00:25.189 --> 00:00:25.199 align:start position:0%
+fixed angle
+ 
+
+00:00:25.199 --> 00:00:28.070 align:start position:0%
+fixed angle
+the<00:00:25.359><c> radius</c><00:00:26.160><c> has</c><00:00:26.400><c> length</c><00:00:26.800><c> one</c><00:00:27.599><c> and</c><00:00:27.760><c> let's</c><00:00:27.920><c> call</c>
+
+00:00:28.070 --> 00:00:28.080 align:start position:0%
+the radius has length one and let's call
+ 
+
+00:00:28.080 --> 00:00:31.029 align:start position:0%
+the radius has length one and let's call
+the<00:00:28.240><c> angle</c><00:00:28.480><c> created</c><00:00:28.960><c> t</c><00:00:30.080><c> drop</c><00:00:30.320><c> a</c><00:00:30.400><c> perpendicular</c>
+
+00:00:31.029 --> 00:00:31.039 align:start position:0%
+the angle created t drop a perpendicular
+ 
+
+00:00:31.039 --> 00:00:32.709 align:start position:0%
+the angle created t drop a perpendicular
+chord<00:00:31.279><c> from</c><00:00:31.439><c> the</c><00:00:31.599><c> endpoint</c><00:00:32.079><c> of</c><00:00:32.160><c> the</c><00:00:32.239><c> radius</c><00:00:32.640><c> on</c>
+
+00:00:32.709 --> 00:00:32.719 align:start position:0%
+chord from the endpoint of the radius on
+ 
+
+00:00:32.719 --> 00:00:33.990 align:start position:0%
+chord from the endpoint of the radius on
+the<00:00:32.800><c> circle</c><00:00:33.200><c> down</c><00:00:33.360><c> to</c><00:00:33.440><c> the</c><00:00:33.520><c> horizontal</c>
+
+00:00:33.990 --> 00:00:34.000 align:start position:0%
+the circle down to the horizontal
+ 
+
+00:00:34.000 --> 00:00:35.750 align:start position:0%
+the circle down to the horizontal
+diameter<00:00:34.640><c> the</c><00:00:34.800><c> length</c><00:00:35.040><c> of</c><00:00:35.120><c> this</c><00:00:35.280><c> chord</c><00:00:35.600><c> is</c><00:00:35.680><c> the</c>
+
+00:00:35.750 --> 00:00:35.760 align:start position:0%
+diameter the length of this chord is the
+ 
+
+00:00:35.760 --> 00:00:37.270 align:start position:0%
+diameter the length of this chord is the
+sine<00:00:36.079><c> of</c><00:00:36.160><c> t</c>
+
+00:00:37.270 --> 00:00:37.280 align:start position:0%
+sine of t
+ 
+
+00:00:37.280 --> 00:00:38.790 align:start position:0%
+sine of t
+the<00:00:37.440><c> third</c><00:00:37.680><c> leg</c><00:00:37.920><c> of</c><00:00:38.000><c> the</c><00:00:38.079><c> triangle</c><00:00:38.480><c> formed</c><00:00:38.719><c> by</c>
+
+00:00:38.790 --> 00:00:38.800 align:start position:0%
+the third leg of the triangle formed by
+ 
+
+00:00:38.800 --> 00:00:40.229 align:start position:0%
+the third leg of the triangle formed by
+the<00:00:38.879><c> radius</c><00:00:39.280><c> and</c><00:00:39.360><c> this</c><00:00:39.520><c> chord</c><00:00:39.760><c> has</c><00:00:39.920><c> length</c>
+
+00:00:40.229 --> 00:00:40.239 align:start position:0%
+the radius and this chord has length
+ 
+
+00:00:40.239 --> 00:00:42.549 align:start position:0%
+the radius and this chord has length
+cosine<00:00:40.719><c> of</c><00:00:40.879><c> t</c><00:00:41.360><c> so</c><00:00:41.520><c> that</c><00:00:41.680><c> the</c><00:00:41.840><c> remainder</c><00:00:42.320><c> of</c><00:00:42.399><c> the</c>
+
+00:00:42.549 --> 00:00:42.559 align:start position:0%
+cosine of t so that the remainder of the
+ 
+
+00:00:42.559 --> 00:00:45.110 align:start position:0%
+cosine of t so that the remainder of the
+horizontal<00:00:43.120><c> radius</c><00:00:43.520><c> has</c><00:00:43.680><c> length</c><00:00:44.079><c> one</c><00:00:44.719><c> minus</c>
+
+00:00:45.110 --> 00:00:45.120 align:start position:0%
+horizontal radius has length one minus
+ 
+
+00:00:45.120 --> 00:00:47.310 align:start position:0%
+horizontal radius has length one minus
+the<00:00:45.280><c> cosine</c><00:00:45.760><c> of</c><00:00:45.840><c> t</c>
+
+00:00:47.310 --> 00:00:47.320 align:start position:0%
+the cosine of t
+ 
+
+00:00:47.320 --> 00:00:49.270 align:start position:0%
+the cosine of t
+[Music]
+
+00:00:49.270 --> 00:00:49.280 align:start position:0%
+[Music]
+ 
+
+00:00:49.280 --> 00:00:51.189 align:start position:0%
+[Music]
+the<00:00:49.520><c> line</c><00:00:50.000><c> connecting</c><00:00:50.399><c> the</c><00:00:50.559><c> other</c><00:00:50.800><c> end</c><00:00:51.039><c> of</c><00:00:51.120><c> the</c>
+
+00:00:51.189 --> 00:00:51.199 align:start position:0%
+the line connecting the other end of the
+ 
+
+00:00:51.199 --> 00:00:52.630 align:start position:0%
+the line connecting the other end of the
+horizontal<00:00:51.600><c> diameter</c><00:00:52.000><c> to</c><00:00:52.160><c> the</c><00:00:52.239><c> endpoint</c><00:00:52.559><c> of</c>
+
+00:00:52.630 --> 00:00:52.640 align:start position:0%
+horizontal diameter to the endpoint of
+ 
+
+00:00:52.640 --> 00:00:55.270 align:start position:0%
+horizontal diameter to the endpoint of
+the<00:00:52.719><c> radius</c><00:00:53.440><c> creates</c><00:00:54.000><c> this</c><00:00:54.480><c> triangle</c><00:00:55.039><c> which</c>
+
+00:00:55.270 --> 00:00:55.280 align:start position:0%
+the radius creates this triangle which
+ 
+
+00:00:55.280 --> 00:00:56.790 align:start position:0%
+the radius creates this triangle which
+is<00:00:55.440><c> isosceles</c><00:00:56.160><c> because</c><00:00:56.320><c> it</c><00:00:56.399><c> has</c><00:00:56.559><c> two</c>
+
+00:00:56.790 --> 00:00:56.800 align:start position:0%
+is isosceles because it has two
+ 
+
+00:00:56.800 --> 00:00:58.389 align:start position:0%
+is isosceles because it has two
+congruent<00:00:57.360><c> sides</c>
+
+00:00:58.389 --> 00:00:58.399 align:start position:0%
+congruent sides
+ 
+
+00:00:58.399 --> 00:01:00.630 align:start position:0%
+congruent sides
+the<00:00:58.559><c> supplementary</c><00:00:59.199><c> angle</c><00:00:59.440><c> to</c><00:00:59.680><c> t</c><00:00:59.920><c> is</c><00:01:00.000><c> 180</c>
+
+00:01:00.630 --> 00:01:00.640 align:start position:0%
+the supplementary angle to t is 180
+ 
+
+00:01:00.640 --> 00:01:02.709 align:start position:0%
+the supplementary angle to t is 180
+minus<00:01:01.039><c> t</c><00:01:01.440><c> and</c><00:01:01.600><c> because</c><00:01:01.920><c> the</c><00:01:02.000><c> other</c><00:01:02.239><c> two</c><00:01:02.399><c> angles</c>
+
+00:01:02.709 --> 00:01:02.719 align:start position:0%
+minus t and because the other two angles
+ 
+
+00:01:02.719 --> 00:01:04.710 align:start position:0%
+minus t and because the other two angles
+must<00:01:02.879><c> be</c><00:01:03.039><c> equal</c><00:01:03.520><c> they</c><00:01:03.680><c> must</c><00:01:04.000><c> be</c>
+
+00:01:04.710 --> 00:01:04.720 align:start position:0%
+must be equal they must be
+ 
+
+00:01:04.720 --> 00:01:07.990 align:start position:0%
+must be equal they must be
+both<00:01:05.119><c> t</c><00:01:05.360><c> over</c><00:01:05.600><c> two</c>
+
+00:01:07.990 --> 00:01:08.000 align:start position:0%
+ 
+ 
+
+00:01:08.000 --> 00:01:09.670 align:start position:0%
+ 
+but<00:01:08.240><c> then</c>
+
+00:01:09.670 --> 00:01:09.680 align:start position:0%
+but then
+ 
+
+00:01:09.680 --> 00:01:12.390 align:start position:0%
+but then
+t<00:01:09.840><c> over</c><00:01:10.159><c> two</c><00:01:10.479><c> is</c><00:01:10.640><c> an</c><00:01:10.880><c> angle</c><00:01:11.520><c> inside</c>
+
+00:01:12.390 --> 00:01:12.400 align:start position:0%
+t over two is an angle inside
+ 
+
+00:01:12.400 --> 00:01:16.149 align:start position:0%
+t over two is an angle inside
+of<00:01:12.560><c> this</c><00:01:12.960><c> highlighted</c><00:01:13.680><c> right</c><00:01:14.000><c> triangle</c>
+
+00:01:16.149 --> 00:01:16.159 align:start position:0%
+of this highlighted right triangle
+ 
+
+00:01:16.159 --> 00:01:19.270 align:start position:0%
+of this highlighted right triangle
+so<00:01:16.320><c> that</c><00:01:16.479><c> the</c><00:01:16.720><c> tangent</c><00:01:17.360><c> of</c><00:01:17.520><c> t</c><00:01:17.759><c> over</c><00:01:18.080><c> 2</c>
+
+00:01:19.270 --> 00:01:19.280 align:start position:0%
+so that the tangent of t over 2
+ 
+
+00:01:19.280 --> 00:01:20.469 align:start position:0%
+so that the tangent of t over 2
+is<00:01:19.439><c> equal</c>
+
+00:01:20.469 --> 00:01:20.479 align:start position:0%
+is equal
+ 
+
+00:01:20.479 --> 00:01:22.789 align:start position:0%
+is equal
+to<00:01:20.640><c> the</c><00:01:20.880><c> sine</c><00:01:21.200><c> of</c><00:01:21.439><c> t</c>
+
+00:01:22.789 --> 00:01:22.799 align:start position:0%
+to the sine of t
+ 
+
+00:01:22.799 --> 00:01:26.230 align:start position:0%
+to the sine of t
+over<00:01:23.200><c> 1</c><00:01:23.520><c> plus</c><00:01:23.759><c> the</c><00:01:23.840><c> cosine</c><00:01:24.320><c> of</c><00:01:24.400><c> t</c>
+
+00:01:26.230 --> 00:01:26.240 align:start position:0%
+over 1 plus the cosine of t
+ 
+
+00:01:26.240 --> 00:01:28.310 align:start position:0%
+over 1 plus the cosine of t
+furthermore<00:01:27.119><c> if</c><00:01:27.280><c> we</c><00:01:27.439><c> create</c><00:01:27.759><c> this</c><00:01:28.000><c> line</c>
+
+00:01:28.310 --> 00:01:28.320 align:start position:0%
+furthermore if we create this line
+ 
+
+00:01:28.320 --> 00:01:30.230 align:start position:0%
+furthermore if we create this line
+segment<00:01:28.960><c> we</c><00:01:29.119><c> have</c><00:01:29.200><c> built</c><00:01:29.520><c> a</c><00:01:29.600><c> large</c><00:01:30.000><c> right</c>
+
+00:01:30.230 --> 00:01:30.240 align:start position:0%
+segment we have built a large right
+ 
+
+00:01:30.240 --> 00:01:31.830 align:start position:0%
+segment we have built a large right
+angle<00:01:30.479><c> triangle</c><00:01:30.880><c> by</c><00:01:31.040><c> thaley's</c><00:01:31.439><c> triangle</c>
+
+00:01:31.830 --> 00:01:31.840 align:start position:0%
+angle triangle by thaley's triangle
+ 
+
+00:01:31.840 --> 00:01:33.749 align:start position:0%
+angle triangle by thaley's triangle
+theorem<00:01:32.479><c> and</c><00:01:32.640><c> consequently</c><00:01:33.200><c> the</c><00:01:33.439><c> two</c>
+
+00:01:33.749 --> 00:01:33.759 align:start position:0%
+theorem and consequently the two
+ 
+
+00:01:33.759 --> 00:01:37.350 align:start position:0%
+theorem and consequently the two
+highlighted<00:01:34.240><c> subtriangles</c><00:01:35.280><c> must</c><00:01:35.520><c> be</c><00:01:35.759><c> similar</c>
+
+00:01:37.350 --> 00:01:37.360 align:start position:0%
+highlighted subtriangles must be similar
+ 
+
+00:01:37.360 --> 00:01:39.350 align:start position:0%
+highlighted subtriangles must be similar
+equating<00:01:37.759><c> the</c><00:01:37.920><c> leg</c><00:01:38.159><c> ratios</c><00:01:38.720><c> then</c><00:01:38.880><c> tells</c><00:01:39.200><c> us</c>
+
+00:01:39.350 --> 00:01:39.360 align:start position:0%
+equating the leg ratios then tells us
+ 
+
+00:01:39.360 --> 00:01:41.350 align:start position:0%
+equating the leg ratios then tells us
+that<00:01:39.520><c> the</c><00:01:39.680><c> sine</c><00:01:39.920><c> of</c><00:01:40.079><c> t</c><00:01:40.560><c> over</c><00:01:40.799><c> one</c><00:01:41.040><c> plus</c><00:01:41.280><c> the</c>
+
+00:01:41.350 --> 00:01:41.360 align:start position:0%
+that the sine of t over one plus the
+ 
+
+00:01:41.360 --> 00:01:42.710 align:start position:0%
+that the sine of t over one plus the
+cosine<00:01:41.840><c> of</c><00:01:41.920><c> t</c>
+
+00:01:42.710 --> 00:01:42.720 align:start position:0%
+cosine of t
+ 
+
+00:01:42.720 --> 00:01:45.270 align:start position:0%
+cosine of t
+is<00:01:42.960><c> equal</c><00:01:43.360><c> to</c><00:01:43.520><c> one</c><00:01:43.759><c> minus</c><00:01:44.079><c> the</c><00:01:44.159><c> cosine</c><00:01:44.560><c> of</c><00:01:44.640><c> t</c>
+
+00:01:45.270 --> 00:01:45.280 align:start position:0%
+is equal to one minus the cosine of t
+ 
+
+00:01:45.280 --> 00:01:47.910 align:start position:0%
+is equal to one minus the cosine of t
+over<00:01:45.520><c> the</c><00:01:45.680><c> sine</c><00:01:45.920><c> of</c><00:01:46.079><c> t</c>
+
+00:01:47.910 --> 00:01:47.920 align:start position:0%
+over the sine of t
+ 
+
+00:01:47.920 --> 00:01:50.310 align:start position:0%
+over the sine of t
+the<00:01:48.159><c> semicircle</c><00:01:48.799><c> has</c><00:01:48.960><c> given</c><00:01:49.280><c> us</c><00:01:49.439><c> two</c><00:01:49.680><c> formulas</c>
+
+00:01:50.310 --> 00:01:50.320 align:start position:0%
+the semicircle has given us two formulas
+ 
+
+00:01:50.320 --> 00:01:54.130 align:start position:0%
+the semicircle has given us two formulas
+for<00:01:50.479><c> the</c><00:01:50.640><c> tangent</c><00:01:51.280><c> of</c><00:01:51.439><c> half</c><00:01:51.759><c> an</c><00:01:51.920><c> angle</c>
+
+00:01:54.130 --> 00:01:54.140 align:start position:0%
+for the tangent of half an angle
+ 
+
+00:01:54.140 --> 00:02:09.990 align:start position:0%
+for the tangent of half an angle
+[Music]
+
+00:02:09.990 --> 00:02:10.000 align:start position:0%
+ 
+ 
+
+00:02:10.000 --> 00:02:12.080 align:start position:0%
+ 
+you
+

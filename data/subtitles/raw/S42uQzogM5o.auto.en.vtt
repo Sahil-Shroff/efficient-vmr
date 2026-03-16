@@ -1,0 +1,200 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.450 align:start position:0%
+ 
+start<00:00:00.539><c> with</c><00:00:00.719><c> a</c><00:00:00.960><c> circle</c><00:00:01.199><c> where</c><00:00:01.860><c> the</c><00:00:01.979><c> radius</c><00:00:02.280><c> is</c>
+
+00:00:02.450 --> 00:00:02.460 align:start position:0%
+start with a circle where the radius is
+ 
+
+00:00:02.460 --> 00:00:04.789 align:start position:0%
+start with a circle where the radius is
+length<00:00:02.879><c> R</c><00:00:03.060><c> here's</c><00:00:03.959><c> an</c><00:00:04.080><c> interesting</c><00:00:04.440><c> question</c>
+
+00:00:04.789 --> 00:00:04.799 align:start position:0%
+length R here's an interesting question
+ 
+
+00:00:04.799 --> 00:00:07.190 align:start position:0%
+length R here's an interesting question
+how<00:00:05.580><c> many</c><00:00:05.700><c> arcs</c><00:00:06.120><c> of</c><00:00:06.240><c> length</c><00:00:06.480><c> R</c><00:00:06.660><c> can</c><00:00:06.899><c> we</c><00:00:07.080><c> fit</c>
+
+00:00:07.190 --> 00:00:07.200 align:start position:0%
+how many arcs of length R can we fit
+ 
+
+00:00:07.200 --> 00:00:08.930 align:start position:0%
+how many arcs of length R can we fit
+around<00:00:07.379><c> the</c><00:00:07.620><c> circle</c>
+
+00:00:08.930 --> 00:00:08.940 align:start position:0%
+around the circle
+ 
+
+00:00:08.940 --> 00:00:11.390 align:start position:0%
+around the circle
+certainly<00:00:09.599><c> one</c><00:00:09.900><c> is</c><00:00:10.139><c> not</c><00:00:10.320><c> enough</c><00:00:10.500><c> and</c><00:00:11.160><c> we</c><00:00:11.280><c> can</c>
+
+00:00:11.390 --> 00:00:11.400 align:start position:0%
+certainly one is not enough and we can
+ 
+
+00:00:11.400 --> 00:00:13.730 align:start position:0%
+certainly one is not enough and we can
+see<00:00:11.580><c> pretty</c><00:00:11.760><c> quickly</c><00:00:12.059><c> that</c><00:00:12.420><c> two</c><00:00:12.900><c> Arc</c><00:00:13.380><c> lengths</c>
+
+00:00:13.730 --> 00:00:13.740 align:start position:0%
+see pretty quickly that two Arc lengths
+ 
+
+00:00:13.740 --> 00:00:15.950 align:start position:0%
+see pretty quickly that two Arc lengths
+with<00:00:13.980><c> a</c><00:00:14.160><c> length</c><00:00:14.400><c> of</c><00:00:14.460><c> R</c><00:00:14.639><c> is</c><00:00:14.880><c> not</c><00:00:15.059><c> enough</c><00:00:15.240><c> how</c>
+
+00:00:15.950 --> 00:00:15.960 align:start position:0%
+with a length of R is not enough how
+ 
+
+00:00:15.960 --> 00:00:17.870 align:start position:0%
+with a length of R is not enough how
+about<00:00:16.080><c> three</c><00:00:16.560><c> that</c><00:00:17.220><c> looks</c><00:00:17.460><c> like</c><00:00:17.520><c> it</c><00:00:17.699><c> could</c>
+
+00:00:17.870 --> 00:00:17.880 align:start position:0%
+about three that looks like it could
+ 
+
+00:00:17.880 --> 00:00:20.390 align:start position:0%
+about three that looks like it could
+almost<00:00:18.119><c> cover</c><00:00:18.480><c> half</c>
+
+00:00:20.390 --> 00:00:20.400 align:start position:0%
+almost cover half
+ 
+
+00:00:20.400 --> 00:00:23.390 align:start position:0%
+almost cover half
+we<00:00:20.820><c> can</c><00:00:20.939><c> check</c><00:00:21.119><c> that</c><00:00:21.420><c> 4</c><00:00:21.720><c> won't</c><00:00:22.080><c> do</c><00:00:22.260><c> the</c><00:00:22.500><c> job</c>
+
+00:00:23.390 --> 00:00:23.400 align:start position:0%
+we can check that 4 won't do the job
+ 
+
+00:00:23.400 --> 00:00:25.790 align:start position:0%
+we can check that 4 won't do the job
+and<00:00:23.760><c> that</c><00:00:23.939><c> 5</c><00:00:24.240><c> won't</c><00:00:24.600><c> do</c><00:00:24.779><c> the</c><00:00:24.960><c> job</c><00:00:25.140><c> either</c><00:00:25.439><c> as</c>
+
+00:00:25.790 --> 00:00:25.800 align:start position:0%
+and that 5 won't do the job either as
+ 
+
+00:00:25.800 --> 00:00:27.650 align:start position:0%
+and that 5 won't do the job either as
+there's<00:00:26.100><c> still</c><00:00:26.400><c> plenty</c><00:00:26.820><c> of</c><00:00:26.939><c> circle</c><00:00:27.119><c> left</c><00:00:27.480><c> over</c>
+
+00:00:27.650 --> 00:00:27.660 align:start position:0%
+there's still plenty of circle left over
+ 
+
+00:00:27.660 --> 00:00:29.630 align:start position:0%
+there's still plenty of circle left over
+however<00:00:28.260><c> when</c><00:00:28.500><c> we</c><00:00:28.680><c> try</c><00:00:28.859><c> to</c><00:00:29.039><c> cover</c><00:00:29.160><c> this</c><00:00:29.460><c> circle</c>
+
+00:00:29.630 --> 00:00:29.640 align:start position:0%
+however when we try to cover this circle
+ 
+
+00:00:29.640 --> 00:00:32.749 align:start position:0%
+however when we try to cover this circle
+with<00:00:30.240><c> six</c><00:00:30.779><c> arcs</c><00:00:31.439><c> of</c><00:00:31.500><c> length</c><00:00:31.859><c> R</c><00:00:32.040><c> That</c><00:00:32.579><c> Just</c>
+
+00:00:32.749 --> 00:00:32.759 align:start position:0%
+with six arcs of length R That Just
+ 
+
+00:00:32.759 --> 00:00:34.310 align:start position:0%
+with six arcs of length R That Just
+About<00:00:32.880><c> Does</c><00:00:33.180><c> it</c><00:00:33.360><c> and</c><00:00:33.540><c> only</c><00:00:33.780><c> leaves</c><00:00:34.079><c> a</c><00:00:34.200><c> little</c>
+
+00:00:34.310 --> 00:00:34.320 align:start position:0%
+About Does it and only leaves a little
+ 
+
+00:00:34.320 --> 00:00:36.889 align:start position:0%
+About Does it and only leaves a little
+bit<00:00:34.500><c> if</c><00:00:35.160><c> we</c><00:00:35.340><c> try</c><00:00:35.520><c> with</c><00:00:35.880><c> seven</c><00:00:36.180><c> different</c><00:00:36.480><c> arcs</c>
+
+00:00:36.889 --> 00:00:36.899 align:start position:0%
+bit if we try with seven different arcs
+ 
+
+00:00:36.899 --> 00:00:38.630 align:start position:0%
+bit if we try with seven different arcs
+of<00:00:36.960><c> radius</c><00:00:37.260><c> R</c><00:00:37.440><c> it</c><00:00:37.800><c> covers</c><00:00:38.040><c> the</c><00:00:38.160><c> entire</c><00:00:38.399><c> circle</c>
+
+00:00:38.630 --> 00:00:38.640 align:start position:0%
+of radius R it covers the entire circle
+ 
+
+00:00:38.640 --> 00:00:41.389 align:start position:0%
+of radius R it covers the entire circle
+and<00:00:39.000><c> there's</c><00:00:39.180><c> overlap</c><00:00:39.719><c> so</c><00:00:40.260><c> we</c><00:00:40.440><c> can</c><00:00:40.620><c> fit</c><00:00:40.980><c> six</c>
+
+00:00:41.389 --> 00:00:41.399 align:start position:0%
+and there's overlap so we can fit six
+ 
+
+00:00:41.399 --> 00:00:44.510 align:start position:0%
+and there's overlap so we can fit six
+arcs<00:00:42.000><c> of</c><00:00:42.180><c> length</c><00:00:42.540><c> R</c><00:00:42.780><c> around</c><00:00:43.260><c> the</c><00:00:43.559><c> circle</c><00:00:43.800><c> each</c>
+
+00:00:44.510 --> 00:00:44.520 align:start position:0%
+arcs of length R around the circle each
+ 
+
+00:00:44.520 --> 00:00:47.090 align:start position:0%
+arcs of length R around the circle each
+such<00:00:44.760><c> Arc</c><00:00:45.239><c> of</c><00:00:45.420><c> length</c><00:00:45.719><c> R</c><00:00:45.899><c> subtends</c><00:00:46.680><c> an</c><00:00:46.800><c> angle</c>
+
+00:00:47.090 --> 00:00:47.100 align:start position:0%
+such Arc of length R subtends an angle
+ 
+
+00:00:47.100 --> 00:00:49.190 align:start position:0%
+such Arc of length R subtends an angle
+of<00:00:47.219><c> one</c><00:00:47.399><c> radian</c><00:00:47.940><c> so</c><00:00:48.420><c> this</c><00:00:48.600><c> means</c><00:00:48.840><c> that</c><00:00:48.899><c> we</c><00:00:49.079><c> can</c>
+
+00:00:49.190 --> 00:00:49.200 align:start position:0%
+of one radian so this means that we can
+ 
+
+00:00:49.200 --> 00:00:52.430 align:start position:0%
+of one radian so this means that we can
+fit<00:00:49.440><c> more</c><00:00:50.039><c> than</c><00:00:50.219><c> six</c><00:00:50.700><c> radians</c><00:00:51.360><c> in</c><00:00:51.480><c> a</c><00:00:51.600><c> circle</c><00:00:51.719><c> in</c>
+
+00:00:52.430 --> 00:00:52.440 align:start position:0%
+fit more than six radians in a circle in
+ 
+
+00:00:52.440 --> 00:00:54.410 align:start position:0%
+fit more than six radians in a circle in
+fact<00:00:52.559><c> the</c><00:00:52.860><c> total</c><00:00:53.100><c> number</c><00:00:53.280><c> two</c><00:00:53.640><c> Pi</c><00:00:53.940><c> of</c><00:00:54.059><c> radians</c>
+
+00:00:54.410 --> 00:00:54.420 align:start position:0%
+fact the total number two Pi of radians
+ 
+
+00:00:54.420 --> 00:00:55.910 align:start position:0%
+fact the total number two Pi of radians
+it<00:00:54.539><c> fits</c><00:00:54.780><c> in</c><00:00:54.899><c> a</c><00:00:55.020><c> circle</c><00:00:55.140><c> is</c><00:00:55.440><c> approximately</c>
+
+00:00:55.910 --> 00:00:55.920 align:start position:0%
+it fits in a circle is approximately
+ 
+
+00:00:55.920 --> 00:00:58.920 align:start position:0%
+it fits in a circle is approximately
+6.28
+

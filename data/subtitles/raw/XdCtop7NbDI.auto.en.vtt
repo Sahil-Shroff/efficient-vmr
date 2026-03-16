@@ -1,0 +1,496 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.040 --> 00:00:01.510 align:start position:0%
+ 
+hey<00:00:00.160><c> guys</c><00:00:00.280><c> we</c><00:00:00.359><c> have</c><00:00:00.440><c> a</c><00:00:00.560><c> calculus</c><00:00:01.040><c> problem</c><00:00:01.280><c> here</c>
+
+00:00:01.510 --> 00:00:01.520 align:start position:0%
+hey guys we have a calculus problem here
+ 
+
+00:00:01.520 --> 00:00:04.829 align:start position:0%
+hey guys we have a calculus problem here
+the<00:00:01.680><c> integral</c><00:00:02.200><c> of</c><00:00:02.399><c> x^2</c><00:00:03.000><c> Ln</c><00:00:03.360><c> X</c><00:00:03.760><c> DX</c><00:00:04.600><c> we're</c><00:00:04.720><c> going</c>
+
+00:00:04.829 --> 00:00:04.839 align:start position:0%
+the integral of x^2 Ln X DX we're going
+ 
+
+00:00:04.839 --> 00:00:07.110 align:start position:0%
+the integral of x^2 Ln X DX we're going
+to<00:00:04.960><c> solve</c><00:00:05.240><c> this</c><00:00:05.400><c> using</c><00:00:05.680><c> integration</c><00:00:06.240><c> by</c><00:00:06.480><c> parts</c>
+
+00:00:07.110 --> 00:00:07.120 align:start position:0%
+to solve this using integration by parts
+ 
+
+00:00:07.120 --> 00:00:09.830 align:start position:0%
+to solve this using integration by parts
+so<00:00:07.279><c> it's</c><00:00:07.399><c> saying</c><00:00:07.640><c> the</c><00:00:07.799><c> integral</c><00:00:08.320><c> of</c><00:00:08.519><c> U</c><00:00:08.880><c> DV</c><00:00:09.679><c> is</c>
+
+00:00:09.830 --> 00:00:09.840 align:start position:0%
+so it's saying the integral of U DV is
+ 
+
+00:00:09.840 --> 00:00:13.470 align:start position:0%
+so it's saying the integral of U DV is
+equal<00:00:10.120><c> to</c><00:00:10.639><c> UV</c><00:00:11.360><c> minus</c><00:00:11.719><c> the</c><00:00:11.840><c> integral</c><00:00:12.400><c> of</c><00:00:12.559><c> V</c><00:00:12.799><c> duu</c>
+
+00:00:13.470 --> 00:00:13.480 align:start position:0%
+equal to UV minus the integral of V duu
+ 
+
+00:00:13.480 --> 00:00:17.310 align:start position:0%
+equal to UV minus the integral of V duu
+so<00:00:13.599><c> we</c><00:00:13.679><c> need</c><00:00:13.839><c> to</c><00:00:14.000><c> find</c><00:00:14.280><c> u</c><00:00:14.759><c> duu</c><00:00:15.480><c> v</c><00:00:15.839><c> and</c><00:00:16.119><c> DV</c><00:00:17.080><c> this</c>
+
+00:00:17.310 --> 00:00:17.320 align:start position:0%
+so we need to find u duu v and DV this
+ 
+
+00:00:17.320 --> 00:00:19.750 align:start position:0%
+so we need to find u duu v and DV this
+stuff<00:00:17.600><c> on</c><00:00:17.720><c> the</c><00:00:17.960><c> left</c><00:00:18.279><c> side</c><00:00:18.560><c> of</c><00:00:18.720><c> the</c><00:00:18.920><c> equal</c><00:00:19.320><c> sign</c>
+
+00:00:19.750 --> 00:00:19.760 align:start position:0%
+stuff on the left side of the equal sign
+ 
+
+00:00:19.760 --> 00:00:22.070 align:start position:0%
+stuff on the left side of the equal sign
+is<00:00:19.960><c> our</c><00:00:20.279><c> original</c><00:00:20.920><c> integral</c><00:00:21.600><c> so</c><00:00:21.760><c> we</c><00:00:21.840><c> need</c><00:00:21.960><c> to</c>
+
+00:00:22.070 --> 00:00:22.080 align:start position:0%
+is our original integral so we need to
+ 
+
+00:00:22.080 --> 00:00:24.950 align:start position:0%
+is our original integral so we need to
+find<00:00:22.240><c> a</c><00:00:22.439><c> u</c><00:00:22.760><c> and</c><00:00:22.880><c> a</c><00:00:23.039><c> DV</c><00:00:23.640><c> somewhere</c><00:00:24.160><c> inside</c><00:00:24.599><c> here</c>
+
+00:00:24.950 --> 00:00:24.960 align:start position:0%
+find a u and a DV somewhere inside here
+ 
+
+00:00:24.960 --> 00:00:27.310 align:start position:0%
+find a u and a DV somewhere inside here
+so<00:00:25.119><c> for</c><00:00:25.279><c> the</c><00:00:25.400><c> U</c><00:00:25.640><c> we're</c><00:00:25.760><c> going</c><00:00:25.880><c> to</c><00:00:25.960><c> do</c><00:00:26.199><c> lnx</c><00:00:27.199><c> and</c>
+
+00:00:27.310 --> 00:00:27.320 align:start position:0%
+so for the U we're going to do lnx and
+ 
+
+00:00:27.320 --> 00:00:30.589 align:start position:0%
+so for the U we're going to do lnx and
+for<00:00:27.439><c> the</c><00:00:27.560><c> DV</c><00:00:28.000><c> we're</c><00:00:28.119><c> going</c><00:00:28.240><c> to</c><00:00:28.320><c> do</c><00:00:28.519><c> x^2</c><00:00:29.279><c> DX</c>
+
+00:00:30.589 --> 00:00:30.599 align:start position:0%
+for the DV we're going to do x^2 DX
+ 
+
+00:00:30.599 --> 00:00:32.109 align:start position:0%
+for the DV we're going to do x^2 DX
+and<00:00:30.720><c> now</c><00:00:30.840><c> we've</c><00:00:31.039><c> built</c><00:00:31.240><c> out</c><00:00:31.400><c> our</c><00:00:31.599><c> left</c><00:00:31.880><c> hand</c>
+
+00:00:32.109 --> 00:00:32.119 align:start position:0%
+and now we've built out our left hand
+ 
+
+00:00:32.119 --> 00:00:35.150 align:start position:0%
+and now we've built out our left hand
+side<00:00:32.719><c> this</c><00:00:32.920><c> integral</c><00:00:33.360><c> of</c><00:00:33.480><c> UV</c><00:00:34.320><c> is</c><00:00:34.520><c> the</c><00:00:34.680><c> integral</c>
+
+00:00:35.150 --> 00:00:35.160 align:start position:0%
+side this integral of UV is the integral
+ 
+
+00:00:35.160 --> 00:00:37.950 align:start position:0%
+side this integral of UV is the integral
+x^2<00:00:35.719><c> Ln</c><00:00:36.040><c> X</c><00:00:36.440><c> DX</c><00:00:37.239><c> and</c><00:00:37.320><c> then</c><00:00:37.399><c> to</c><00:00:37.520><c> fill</c><00:00:37.680><c> out</c><00:00:37.840><c> the</c>
+
+00:00:37.950 --> 00:00:37.960 align:start position:0%
+x^2 Ln X DX and then to fill out the
+ 
+
+00:00:37.960 --> 00:00:40.350 align:start position:0%
+x^2 Ln X DX and then to fill out the
+rest<00:00:38.120><c> of</c><00:00:38.239><c> this</c><00:00:38.360><c> we</c><00:00:38.440><c> need</c><00:00:38.559><c> to</c><00:00:38.680><c> find</c><00:00:38.960><c> V</c><00:00:39.280><c> and</c><00:00:39.480><c> du</c><00:00:40.160><c> so</c>
+
+00:00:40.350 --> 00:00:40.360 align:start position:0%
+rest of this we need to find V and du so
+ 
+
+00:00:40.360 --> 00:00:42.069 align:start position:0%
+rest of this we need to find V and du so
+du<00:00:40.719><c> is</c><00:00:40.800><c> the</c><00:00:40.960><c> derivative</c><00:00:41.399><c> of</c><00:00:41.559><c> U</c><00:00:41.879><c> and</c><00:00:41.960><c> the</c>
+
+00:00:42.069 --> 00:00:42.079 align:start position:0%
+du is the derivative of U and the
+ 
+
+00:00:42.079 --> 00:00:45.630 align:start position:0%
+du is the derivative of U and the
+derivative<00:00:42.480><c> of</c><00:00:42.600><c> Ln</c><00:00:42.920><c> of</c><00:00:43.079><c> X</c><00:00:43.399><c> is</c><00:00:43.640><c> 1x</c><00:00:44.559><c> DX</c><00:00:45.440><c> and</c><00:00:45.520><c> then</c>
+
+00:00:45.630 --> 00:00:45.640 align:start position:0%
+derivative of Ln of X is 1x DX and then
+ 
+
+00:00:45.640 --> 00:00:47.869 align:start position:0%
+derivative of Ln of X is 1x DX and then
+to<00:00:45.800><c> find</c><00:00:46.160><c> V</c><00:00:46.520><c> we</c><00:00:46.600><c> need</c><00:00:46.760><c> to</c><00:00:46.879><c> take</c><00:00:47.079><c> the</c>
+
+00:00:47.869 --> 00:00:47.879 align:start position:0%
+to find V we need to take the
+ 
+
+00:00:47.879 --> 00:00:49.630 align:start position:0%
+to find V we need to take the
+anti-derivative<00:00:48.879><c> that's</c><00:00:49.000><c> going</c><00:00:49.120><c> to</c><00:00:49.199><c> be</c><00:00:49.399><c> power</c>
+
+00:00:49.630 --> 00:00:49.640 align:start position:0%
+anti-derivative that's going to be power
+ 
+
+00:00:49.640 --> 00:00:51.069 align:start position:0%
+anti-derivative that's going to be power
+rule<00:00:49.920><c> so</c><00:00:50.039><c> we're</c><00:00:50.160><c> going</c><00:00:50.280><c> to</c><00:00:50.399><c> add</c><00:00:50.600><c> one</c><00:00:50.760><c> to</c><00:00:50.960><c> the</c>
+
+00:00:51.069 --> 00:00:51.079 align:start position:0%
+rule so we're going to add one to the
+ 
+
+00:00:51.079 --> 00:00:53.229 align:start position:0%
+rule so we're going to add one to the
+two<00:00:51.399><c> and</c><00:00:51.520><c> then</c><00:00:51.680><c> divide</c><00:00:52.039><c> by</c><00:00:52.199><c> that</c><00:00:52.399><c> number</c><00:00:52.840><c> so</c><00:00:53.000><c> 2</c>
+
+00:00:53.229 --> 00:00:53.239 align:start position:0%
+two and then divide by that number so 2
+ 
+
+00:00:53.239 --> 00:00:55.110 align:start position:0%
+two and then divide by that number so 2
++<00:00:53.480><c> 1</c><00:00:53.680><c> is</c><00:00:53.879><c> 3</c><00:00:54.239><c> and</c><00:00:54.320><c> then</c><00:00:54.399><c> we're</c><00:00:54.520><c> going</c><00:00:54.600><c> to</c><00:00:54.760><c> divide</c>
+
+00:00:55.110 --> 00:00:55.120 align:start position:0%
++ 1 is 3 and then we're going to divide
+ 
+
+00:00:55.120 --> 00:00:56.549 align:start position:0%
++ 1 is 3 and then we're going to divide
+by<00:00:55.280><c> three</c><00:00:55.640><c> and</c><00:00:55.760><c> now</c><00:00:55.879><c> we</c><00:00:56.000><c> have</c><00:00:56.199><c> everything</c><00:00:56.440><c> we</c>
+
+00:00:56.549 --> 00:00:56.559 align:start position:0%
+by three and now we have everything we
+ 
+
+00:00:56.559 --> 00:00:58.830 align:start position:0%
+by three and now we have everything we
+need<00:00:56.719><c> to</c><00:00:56.879><c> go</c><00:00:57.000><c> to</c><00:00:57.120><c> our</c><00:00:57.359><c> next</c><00:00:57.640><c> step</c><00:00:58.199><c> to</c><00:00:58.399><c> fill</c><00:00:58.680><c> this</c>
+
+00:00:58.830 --> 00:00:58.840 align:start position:0%
+need to go to our next step to fill this
+ 
+
+00:00:58.840 --> 00:01:01.990 align:start position:0%
+need to go to our next step to fill this
+out<00:00:59.239><c> so</c><00:00:59.399><c> the</c><00:00:59.559><c> U</c><00:01:00.000><c> is</c><00:01:00.120><c> going</c><00:01:00.199><c> to</c><00:01:00.320><c> be</c><00:01:00.600><c> lnx</c><00:01:01.600><c> V</c><00:01:01.879><c> is</c>
+
+00:01:01.990 --> 00:01:02.000 align:start position:0%
+out so the U is going to be lnx V is
+ 
+
+00:01:02.000 --> 00:01:04.270 align:start position:0%
+out so the U is going to be lnx V is
+going<00:01:02.120><c> to</c><00:01:02.280><c> be</c><00:01:02.519><c> X</c><00:01:02.840><c> Cub</c><00:01:03.160><c> over</c><00:01:03.399><c> 3</c><00:01:03.960><c> now</c><00:01:04.080><c> let's</c>
+
+00:01:04.270 --> 00:01:04.280 align:start position:0%
+going to be X Cub over 3 now let's
+ 
+
+00:01:04.280 --> 00:01:05.670 align:start position:0%
+going to be X Cub over 3 now let's
+change<00:01:04.559><c> the</c><00:01:04.720><c> order</c><00:01:05.199><c> and</c><00:01:05.280><c> then</c><00:01:05.360><c> we're</c><00:01:05.479><c> going</c><00:01:05.560><c> to</c>
+
+00:01:05.670 --> 00:01:05.680 align:start position:0%
+change the order and then we're going to
+ 
+
+00:01:05.680 --> 00:01:08.190 align:start position:0%
+change the order and then we're going to
+subtract<00:01:06.080><c> the</c><00:01:06.200><c> integral</c><00:01:06.720><c> of</c><00:01:06.960><c> V</c><00:01:07.560><c> which</c><00:01:07.680><c> is</c><00:01:07.920><c> X</c>
+
+00:01:08.190 --> 00:01:08.200 align:start position:0%
+subtract the integral of V which is X
+ 
+
+00:01:08.200 --> 00:01:13.510 align:start position:0%
+subtract the integral of V which is X
+Cub<00:01:08.520><c> over</c><00:01:08.880><c> 3</c><00:01:09.880><c> *</c><00:01:10.360><c> du</c><00:01:11.000><c> which</c><00:01:11.119><c> is</c><00:01:11.280><c> 1x</c><00:01:12.320><c> DX</c><00:01:13.320><c> and</c><00:01:13.400><c> then</c>
+
+00:01:13.510 --> 00:01:13.520 align:start position:0%
+Cub over 3 * du which is 1x DX and then
+ 
+
+00:01:13.520 --> 00:01:14.990 align:start position:0%
+Cub over 3 * du which is 1x DX and then
+we<00:01:13.600><c> can</c><00:01:13.720><c> clean</c><00:01:14.000><c> things</c><00:01:14.200><c> up</c><00:01:14.320><c> a</c><00:01:14.439><c> little</c><00:01:14.600><c> bit</c><00:01:14.880><c> all</c>
+
+00:01:14.990 --> 00:01:15.000 align:start position:0%
+we can clean things up a little bit all
+ 
+
+00:01:15.000 --> 00:01:16.870 align:start position:0%
+we can clean things up a little bit all
+of<00:01:15.159><c> this</c><00:01:15.320><c> can</c><00:01:15.439><c> be</c><00:01:15.560><c> put</c><00:01:15.759><c> over</c><00:01:16.040><c> three</c><00:01:16.720><c> and</c><00:01:16.799><c> then</c>
+
+00:01:16.870 --> 00:01:16.880 align:start position:0%
+of this can be put over three and then
+ 
+
+00:01:16.880 --> 00:01:18.390 align:start position:0%
+of this can be put over three and then
+we<00:01:17.000><c> can</c><00:01:17.159><c> subtract</c><00:01:17.560><c> the</c><00:01:17.680><c> integral</c><00:01:18.119><c> where</c><00:01:18.280><c> we</c>
+
+00:01:18.390 --> 00:01:18.400 align:start position:0%
+we can subtract the integral where we
+ 
+
+00:01:18.400 --> 00:01:21.310 align:start position:0%
+we can subtract the integral where we
+have<00:01:18.640><c> X</c><00:01:18.920><c> Cub</c><00:01:19.280><c> overx</c><00:01:19.880><c> which</c><00:01:20.000><c> is</c><00:01:20.200><c> x^2</c><00:01:21.040><c> and</c><00:01:21.159><c> this</c>
+
+00:01:21.310 --> 00:01:21.320 align:start position:0%
+have X Cub overx which is x^2 and this
+ 
+
+00:01:21.320 --> 00:01:23.190 align:start position:0%
+have X Cub overx which is x^2 and this
+1/3<00:01:21.840><c> can</c><00:01:21.920><c> be</c><00:01:22.040><c> brought</c><00:01:22.280><c> in</c><00:01:22.439><c> front</c><00:01:22.759><c> and</c><00:01:22.880><c> we</c><00:01:23.000><c> still</c>
+
+00:01:23.190 --> 00:01:23.200 align:start position:0%
+1/3 can be brought in front and we still
+ 
+
+00:01:23.200 --> 00:01:25.230 align:start position:0%
+1/3 can be brought in front and we still
+have<00:01:23.360><c> the</c><00:01:23.520><c> DX</c><00:01:24.400><c> and</c><00:01:24.479><c> now</c><00:01:24.600><c> for</c><00:01:24.759><c> the</c><00:01:24.880><c> next</c><00:01:25.040><c> step</c>
+
+00:01:25.230 --> 00:01:25.240 align:start position:0%
+have the DX and now for the next step
+ 
+
+00:01:25.240 --> 00:01:26.749 align:start position:0%
+have the DX and now for the next step
+there's<00:01:25.439><c> nothing</c><00:01:25.680><c> we</c><00:01:25.799><c> can</c><00:01:25.960><c> really</c><00:01:26.159><c> do</c><00:01:26.439><c> here</c>
+
+00:01:26.749 --> 00:01:26.759 align:start position:0%
+there's nothing we can really do here
+ 
+
+00:01:26.759 --> 00:01:27.950 align:start position:0%
+there's nothing we can really do here
+and<00:01:26.920><c> same</c><00:01:27.119><c> thing</c><00:01:27.240><c> we</c><00:01:27.360><c> can</c><00:01:27.479><c> bring</c><00:01:27.640><c> down</c><00:01:27.799><c> the</c>
+
+00:01:27.950 --> 00:01:27.960 align:start position:0%
+and same thing we can bring down the
+ 
+
+00:01:27.960 --> 00:01:29.429 align:start position:0%
+and same thing we can bring down the
+constant<00:01:28.360><c> multiple</c><00:01:29.079><c> and</c><00:01:29.159><c> then</c><00:01:29.240><c> we're</c><00:01:29.360><c> going</c>
+
+00:01:29.429 --> 00:01:29.439 align:start position:0%
+constant multiple and then we're going
+ 
+
+00:01:29.439 --> 00:01:31.670 align:start position:0%
+constant multiple and then we're going
+to<00:01:29.560><c> take</c><00:01:29.680><c> the</c><00:01:30.000><c> integral</c><00:01:30.720><c> ultimately</c><00:01:31.240><c> we</c><00:01:31.400><c> added</c>
+
+00:01:31.670 --> 00:01:31.680 align:start position:0%
+to take the integral ultimately we added
+ 
+
+00:01:31.680 --> 00:01:33.550 align:start position:0%
+to take the integral ultimately we added
+one<00:01:31.840><c> to</c><00:01:32.000><c> the</c><00:01:32.119><c> two</c><00:01:32.399><c> and</c><00:01:32.479><c> then</c><00:01:32.640><c> divided</c><00:01:33.040><c> by</c><00:01:33.280><c> that</c>
+
+00:01:33.550 --> 00:01:33.560 align:start position:0%
+one to the two and then divided by that
+ 
+
+00:01:33.560 --> 00:01:34.630 align:start position:0%
+one to the two and then divided by that
+and<00:01:33.640><c> then</c><00:01:33.720><c> we</c><00:01:33.840><c> don't</c><00:01:33.960><c> want</c><00:01:34.040><c> to</c><00:01:34.159><c> forget</c><00:01:34.439><c> the</c>
+
+00:01:34.630 --> 00:01:34.640 align:start position:0%
+and then we don't want to forget the
+ 
+
+00:01:34.640 --> 00:01:37.550 align:start position:0%
+and then we don't want to forget the
+plus<00:01:34.880><c> C</c><00:01:35.640><c> in</c><00:01:35.759><c> the</c><00:01:35.880><c> denominator</c><00:01:36.479><c> this</c><00:01:36.640><c> 3</c><00:01:36.840><c> *</c><00:01:37.200><c> 3</c><00:01:37.439><c> can</c>
+
+00:01:37.550 --> 00:01:37.560 align:start position:0%
+plus C in the denominator this 3 * 3 can
+ 
+
+00:01:37.560 --> 00:01:39.550 align:start position:0%
+plus C in the denominator this 3 * 3 can
+become<00:01:37.920><c> nine</c><00:01:38.439><c> and</c><00:01:38.600><c> we</c><00:01:38.680><c> can</c><00:01:38.799><c> put</c><00:01:38.920><c> a</c><00:01:39.079><c> box</c><00:01:39.320><c> around</c>
+
+00:01:39.550 --> 00:01:39.560 align:start position:0%
+become nine and we can put a box around
+ 
+
+00:01:39.560 --> 00:01:41.630 align:start position:0%
+become nine and we can put a box around
+it<00:01:40.240><c> this</c><00:01:40.360><c> is</c><00:01:40.439><c> a</c><00:01:40.600><c> great</c><00:01:40.880><c> answer</c><00:01:41.240><c> but</c><00:01:41.360><c> let's</c><00:01:41.520><c> say</c>
+
+00:01:41.630 --> 00:01:41.640 align:start position:0%
+it this is a great answer but let's say
+ 
+
+00:01:41.640 --> 00:01:43.590 align:start position:0%
+it this is a great answer but let's say
+it's<00:01:41.759><c> a</c><00:01:41.880><c> multiple</c><00:01:42.360><c> choice</c><00:01:42.720><c> test</c><00:01:43.079><c> and</c><00:01:43.240><c> this</c><00:01:43.360><c> was</c>
+
+00:01:43.590 --> 00:01:43.600 align:start position:0%
+it's a multiple choice test and this was
+ 
+
+00:01:43.600 --> 00:01:45.670 align:start position:0%
+it's a multiple choice test and this was
+not<00:01:43.840><c> one</c><00:01:43.960><c> of</c><00:01:44.079><c> the</c><00:01:44.280><c> answers</c><00:01:45.000><c> we</c><00:01:45.079><c> can</c><00:01:45.240><c> simplify</c>
+
+00:01:45.670 --> 00:01:45.680 align:start position:0%
+not one of the answers we can simplify
+ 
+
+00:01:45.680 --> 00:01:47.429 align:start position:0%
+not one of the answers we can simplify
+this<00:01:45.880><c> a</c><00:01:46.000><c> little</c><00:01:46.200><c> bit</c><00:01:46.399><c> further</c><00:01:46.759><c> to</c><00:01:46.960><c> match</c><00:01:47.240><c> what</c>
+
+00:01:47.429 --> 00:01:47.439 align:start position:0%
+this a little bit further to match what
+ 
+
+00:01:47.439 --> 00:01:49.270 align:start position:0%
+this a little bit further to match what
+might<00:01:47.560><c> be</c><00:01:47.680><c> on</c><00:01:47.799><c> a</c><00:01:47.920><c> multiple</c><00:01:48.320><c> choice</c><00:01:48.680><c> test</c><00:01:49.200><c> we</c>
+
+00:01:49.270 --> 00:01:49.280 align:start position:0%
+might be on a multiple choice test we
+ 
+
+00:01:49.280 --> 00:01:51.149 align:start position:0%
+might be on a multiple choice test we
+can<00:01:49.439><c> give</c><00:01:49.640><c> this</c><00:01:49.840><c> the</c><00:01:50.000><c> same</c><00:01:50.280><c> denominator</c><00:01:50.920><c> as</c>
+
+00:01:51.149 --> 00:01:51.159 align:start position:0%
+can give this the same denominator as
+ 
+
+00:01:51.159 --> 00:01:53.149 align:start position:0%
+can give this the same denominator as
+this<00:01:51.640><c> so</c><00:01:51.799><c> we'll</c><00:01:51.960><c> multiply</c><00:01:52.399><c> top</c><00:01:52.560><c> and</c><00:01:52.719><c> bottom</c><00:01:53.000><c> by</c>
+
+00:01:53.149 --> 00:01:53.159 align:start position:0%
+this so we'll multiply top and bottom by
+ 
+
+00:01:53.159 --> 00:01:55.709 align:start position:0%
+this so we'll multiply top and bottom by
+three<00:01:53.680><c> this</c><00:01:53.920><c> 3</c><00:01:54.040><c> *</c><00:01:54.360><c> 3</c><00:01:54.600><c> will</c><00:01:54.719><c> give</c><00:01:54.880><c> us</c><00:01:55.040><c> 9</c><00:01:55.439><c> and</c><00:01:55.560><c> this</c>
+
+00:01:55.709 --> 00:01:55.719 align:start position:0%
+three this 3 * 3 will give us 9 and this
+ 
+
+00:01:55.719 --> 00:01:57.590 align:start position:0%
+three this 3 * 3 will give us 9 and this
+three<00:01:55.960><c> can</c><00:01:56.079><c> be</c><00:01:56.240><c> brought</c><00:01:56.520><c> over</c><00:01:57.000><c> and</c><00:01:57.159><c> now</c><00:01:57.320><c> we</c><00:01:57.439><c> can</c>
+
+00:01:57.590 --> 00:01:57.600 align:start position:0%
+three can be brought over and now we can
+ 
+
+00:01:57.600 --> 00:02:00.630 align:start position:0%
+three can be brought over and now we can
+pull<00:01:57.799><c> out</c><00:01:58.039><c> a</c><00:01:58.399><c> GCF</c><00:01:59.399><c> both</c><00:01:59.560><c> of</c><00:01:59.680><c> these</c><00:02:00.079><c> have</c><00:02:00.200><c> an</c><00:02:00.360><c> X</c>
+
+00:02:00.630 --> 00:02:00.640 align:start position:0%
+pull out a GCF both of these have an X
+ 
+
+00:02:00.640 --> 00:02:02.709 align:start position:0%
+pull out a GCF both of these have an X
+cubed<00:02:00.960><c> in</c><00:02:01.039><c> the</c><00:02:01.200><c> numerator</c><00:02:01.920><c> and</c><00:02:02.000><c> a</c><00:02:02.159><c> 9</c><00:02:02.439><c> in</c><00:02:02.560><c> the</c>
+
+00:02:02.709 --> 00:02:02.719 align:start position:0%
+cubed in the numerator and a 9 in the
+ 
+
+00:02:02.719 --> 00:02:04.630 align:start position:0%
+cubed in the numerator and a 9 in the
+denominator<00:02:03.600><c> so</c><00:02:03.759><c> after</c><00:02:03.960><c> we</c><00:02:04.119><c> Factor</c><00:02:04.479><c> those</c>
+
+00:02:04.630 --> 00:02:04.640 align:start position:0%
+denominator so after we Factor those
+ 
+
+00:02:04.640 --> 00:02:07.029 align:start position:0%
+denominator so after we Factor those
+things<00:02:04.840><c> out</c><00:02:05.000><c> we're</c><00:02:05.200><c> left</c><00:02:05.399><c> with</c><00:02:05.560><c> a</c><00:02:05.719><c> 3</c><00:02:06.039><c> Ln</c><00:02:06.439><c> X</c><00:02:06.920><c> and</c>
+
+00:02:07.029 --> 00:02:07.039 align:start position:0%
+things out we're left with a 3 Ln X and
+ 
+
+00:02:07.039 --> 00:02:08.510 align:start position:0%
+things out we're left with a 3 Ln X and
+then<00:02:07.200><c> after</c><00:02:07.360><c> we</c><00:02:07.520><c> factored</c><00:02:07.960><c> out</c><00:02:08.039><c> of</c><00:02:08.200><c> this</c><00:02:08.319><c> other</c>
+
+00:02:08.510 --> 00:02:08.520 align:start position:0%
+then after we factored out of this other
+ 
+
+00:02:08.520 --> 00:02:10.029 align:start position:0%
+then after we factored out of this other
+term<00:02:08.720><c> we</c><00:02:08.879><c> just</c><00:02:09.000><c> have</c><00:02:09.119><c> a</c><00:02:09.280><c> one</c><00:02:09.759><c> and</c><00:02:09.879><c> then</c><00:02:09.959><c> we</c>
+
+00:02:10.029 --> 00:02:10.039 align:start position:0%
+term we just have a one and then we
+ 
+
+00:02:10.039 --> 00:02:11.470 align:start position:0%
+term we just have a one and then we
+don't<00:02:10.160><c> want</c><00:02:10.239><c> to</c><00:02:10.360><c> forget</c><00:02:10.599><c> the</c><00:02:10.800><c> plus</c><00:02:11.000><c> C</c><00:02:11.360><c> and</c>
+
+00:02:11.470 --> 00:02:11.480 align:start position:0%
+don't want to forget the plus C and
+ 
+
+00:02:11.480 --> 00:02:13.309 align:start position:0%
+don't want to forget the plus C and
+here's<00:02:11.720><c> another</c><00:02:12.040><c> valid</c><00:02:12.360><c> way</c><00:02:12.480><c> to</c><00:02:12.680><c> answer</c><00:02:12.959><c> it</c>
+
+00:02:13.309 --> 00:02:13.319 align:start position:0%
+here's another valid way to answer it
+ 
+
+00:02:13.319 --> 00:02:14.990 align:start position:0%
+here's another valid way to answer it
+and<00:02:13.440><c> this</c><00:02:13.520><c> is</c><00:02:13.640><c> a</c><00:02:13.879><c> classic</c><00:02:14.319><c> example</c><00:02:14.760><c> for</c>
+
+00:02:14.990 --> 00:02:15.000 align:start position:0%
+and this is a classic example for
+ 
+
+00:02:15.000 --> 00:02:19.720 align:start position:0%
+and this is a classic example for
+integration<00:02:15.480><c> by</c><00:02:15.680><c> parts</c><00:02:16.400><c> how</c><00:02:16.879><c> exciting</c>
+

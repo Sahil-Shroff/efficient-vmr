@@ -1,0 +1,256 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.280 --> 00:00:02.669 align:start position:0%
+ 
+let's<00:00:00.599><c> solve</c><00:00:01.000><c> this</c><00:00:01.240><c> differentiation</c><00:00:02.240><c> problem</c>
+
+00:00:02.669 --> 00:00:02.679 align:start position:0%
+let's solve this differentiation problem
+ 
+
+00:00:02.679 --> 00:00:05.230 align:start position:0%
+let's solve this differentiation problem
+step<00:00:03.000><c> by</c><00:00:03.320><c> step</c><00:00:04.040><c> we'll</c><00:00:04.240><c> use</c><00:00:04.520><c> a</c><00:00:04.759><c> clever</c>
+
+00:00:05.230 --> 00:00:05.240 align:start position:0%
+step by step we'll use a clever
+ 
+
+00:00:05.240 --> 00:00:09.110 align:start position:0%
+step by step we'll use a clever
+substitution<00:00:06.200><c> to</c><00:00:06.440><c> simplify</c><00:00:07.120><c> our</c><00:00:07.440><c> work</c><00:00:08.440><c> first</c>
+
+00:00:09.110 --> 00:00:09.120 align:start position:0%
+substitution to simplify our work first
+ 
+
+00:00:09.120 --> 00:00:11.870 align:start position:0%
+substitution to simplify our work first
+let's<00:00:09.400><c> look</c><00:00:09.599><c> at</c><00:00:09.800><c> the</c><00:00:10.000><c> substitution</c><00:00:10.719><c> we'll</c><00:00:10.960><c> use</c>
+
+00:00:11.870 --> 00:00:11.880 align:start position:0%
+let's look at the substitution we'll use
+ 
+
+00:00:11.880 --> 00:00:15.190 align:start position:0%
+let's look at the substitution we'll use
+we'll<00:00:12.160><c> let</c><00:00:12.400><c> x</c><00:00:12.920><c> equal</c><00:00:13.360><c> tangent</c><00:00:13.799><c> of</c><00:00:14.040><c> t</c><00:00:15.000><c> which</c>
+
+00:00:15.190 --> 00:00:15.200 align:start position:0%
+we'll let x equal tangent of t which
+ 
+
+00:00:15.200 --> 00:00:18.750 align:start position:0%
+we'll let x equal tangent of t which
+means<00:00:15.559><c> T</c><00:00:16.000><c> equals</c><00:00:16.520><c> inverse</c><00:00:17.119><c> tangent</c><00:00:17.600><c> of</c><00:00:17.800><c> X</c>
+
+00:00:18.750 --> 00:00:18.760 align:start position:0%
+means T equals inverse tangent of X
+ 
+
+00:00:18.760 --> 00:00:20.910 align:start position:0%
+means T equals inverse tangent of X
+let's<00:00:18.960><c> see</c><00:00:19.199><c> what</c><00:00:19.400><c> happens</c><00:00:19.800><c> when</c><00:00:20.039><c> we</c><00:00:20.320><c> make</c><00:00:20.680><c> this</c>
+
+00:00:20.910 --> 00:00:20.920 align:start position:0%
+let's see what happens when we make this
+ 
+
+00:00:20.920 --> 00:00:23.710 align:start position:0%
+let's see what happens when we make this
+substitution<00:00:21.760><c> in</c><00:00:21.920><c> our</c><00:00:22.160><c> original</c><00:00:22.720><c> expression</c>
+
+00:00:23.710 --> 00:00:23.720 align:start position:0%
+substitution in our original expression
+ 
+
+00:00:23.720 --> 00:00:26.509 align:start position:0%
+substitution in our original expression
+we<00:00:24.000><c> replace</c><00:00:24.560><c> x</c><00:00:25.039><c> with</c><00:00:25.320><c> Tangent</c><00:00:25.800><c> T</c><00:00:26.199><c> in</c><00:00:26.359><c> the</c>
+
+00:00:26.509 --> 00:00:26.519 align:start position:0%
+we replace x with Tangent T in the
+ 
+
+00:00:26.519 --> 00:00:31.630 align:start position:0%
+we replace x with Tangent T in the
+fraction<00:00:27.199><c> 2x</c><00:00:28.199><c> over</c><00:00:28.880><c> 1</c><00:00:29.240><c> +</c><00:00:29.599><c> x</c><00:00:30.039><c> s</c><00:00:31.039><c> now</c><00:00:31.359><c> here's</c>
+
+00:00:31.630 --> 00:00:31.640 align:start position:0%
+fraction 2x over 1 + x s now here's
+ 
+
+00:00:31.640 --> 00:00:33.830 align:start position:0%
+fraction 2x over 1 + x s now here's
+where<00:00:31.840><c> we</c><00:00:32.000><c> use</c><00:00:32.200><c> a</c><00:00:32.559><c> key</c><00:00:33.000><c> trigonometric</c>
+
+00:00:33.830 --> 00:00:33.840 align:start position:0%
+where we use a key trigonometric
+ 
+
+00:00:33.840 --> 00:00:37.030 align:start position:0%
+where we use a key trigonometric
+identity<00:00:34.840><c> the</c><00:00:35.040><c> expression</c><00:00:35.520><c> to</c><00:00:35.960><c> tangent</c><00:00:36.399><c> T</c>
+
+00:00:37.030 --> 00:00:37.040 align:start position:0%
+identity the expression to tangent T
+ 
+
+00:00:37.040 --> 00:00:40.670 align:start position:0%
+identity the expression to tangent T
+over<00:00:37.440><c> 1</c><00:00:37.719><c> +</c><00:00:38.160><c> tangent</c><00:00:38.559><c> s</c><00:00:38.920><c> t</c><00:00:39.399><c> is</c><00:00:39.879><c> actually</c><00:00:40.320><c> equal</c>
+
+00:00:40.670 --> 00:00:40.680 align:start position:0%
+over 1 + tangent s t is actually equal
+ 
+
+00:00:40.680 --> 00:00:44.830 align:start position:0%
+over 1 + tangent s t is actually equal
+to<00:00:41.000><c> sin</c><00:00:41.600><c> of</c><00:00:42.320><c> 2T</c><00:00:43.320><c> this</c><00:00:43.480><c> is</c><00:00:43.640><c> a</c><00:00:43.920><c> double</c><00:00:44.280><c> angle</c>
+
+00:00:44.830 --> 00:00:44.840 align:start position:0%
+to sin of 2T this is a double angle
+ 
+
+00:00:44.840 --> 00:00:48.470 align:start position:0%
+to sin of 2T this is a double angle
+formula<00:00:46.079><c> therefore</c><00:00:47.079><c> our</c><00:00:47.440><c> expression</c><00:00:48.000><c> becomes</c>
+
+00:00:48.470 --> 00:00:48.480 align:start position:0%
+formula therefore our expression becomes
+ 
+
+00:00:48.480 --> 00:00:51.990 align:start position:0%
+formula therefore our expression becomes
+sin<00:00:48.760><c> inverse</c><00:00:49.160><c> of</c><00:00:49.399><c> sin</c><00:00:49.960><c> 2T</c><00:00:50.960><c> since</c><00:00:51.280><c> sin</c><00:00:51.559><c> inverse</c>
+
+00:00:51.990 --> 00:00:52.000 align:start position:0%
+sin inverse of sin 2T since sin inverse
+ 
+
+00:00:52.000 --> 00:00:54.910 align:start position:0%
+sin inverse of sin 2T since sin inverse
+and<00:00:52.239><c> S</c><00:00:52.600><c> are</c><00:00:52.879><c> inverse</c><00:00:53.359><c> functions</c><00:00:54.239><c> they</c><00:00:54.520><c> cancel</c>
+
+00:00:54.910 --> 00:00:54.920 align:start position:0%
+and S are inverse functions they cancel
+ 
+
+00:00:54.920 --> 00:00:58.990 align:start position:0%
+and S are inverse functions they cancel
+out<00:00:55.680><c> leaving</c><00:00:56.079><c> us</c><00:00:56.440><c> with</c><00:00:56.719><c> Just</c><00:00:57.000><c> 2</c><00:00:57.440><c> T</c><00:00:58.440><c> now</c><00:00:58.640><c> we</c><00:00:58.760><c> can</c>
+
+00:00:58.990 --> 00:00:59.000 align:start position:0%
+out leaving us with Just 2 T now we can
+ 
+
+00:00:59.000 --> 00:01:02.869 align:start position:0%
+out leaving us with Just 2 T now we can
+substitute<00:00:59.559><c> back</c><00:00:59.719><c> for</c><00:01:00.079><c> T</c><00:01:01.079><c> remember</c><00:01:01.960><c> that</c><00:01:02.519><c> t</c>
+
+00:01:02.869 --> 00:01:02.879 align:start position:0%
+substitute back for T remember that t
+ 
+
+00:01:02.879 --> 00:01:05.789 align:start position:0%
+substitute back for T remember that t
+equals<00:01:03.320><c> inverse</c><00:01:03.840><c> tangent</c><00:01:04.239><c> of</c><00:01:04.400><c> X</c><00:01:05.119><c> so</c><00:01:05.479><c> our</c>
+
+00:01:05.789 --> 00:01:05.799 align:start position:0%
+equals inverse tangent of X so our
+ 
+
+00:01:05.799 --> 00:01:08.749 align:start position:0%
+equals inverse tangent of X so our
+expression<00:01:06.360><c> becomes</c><00:01:06.880><c> 2</c><00:01:07.360><c> *</c><00:01:07.799><c> inverse</c><00:01:08.360><c> tangent</c>
+
+00:01:08.749 --> 00:01:08.759 align:start position:0%
+expression becomes 2 * inverse tangent
+ 
+
+00:01:08.759 --> 00:01:12.550 align:start position:0%
+expression becomes 2 * inverse tangent
+of<00:01:08.960><c> X</c><00:01:09.960><c> finally</c><00:01:10.680><c> we</c><00:01:10.840><c> can</c><00:01:11.240><c> differentiate</c><00:01:12.240><c> this</c>
+
+00:01:12.550 --> 00:01:12.560 align:start position:0%
+of X finally we can differentiate this
+ 
+
+00:01:12.560 --> 00:01:14.950 align:start position:0%
+of X finally we can differentiate this
+expression<00:01:13.560><c> the</c><00:01:13.759><c> derivative</c><00:01:14.240><c> of</c><00:01:14.479><c> inverse</c>
+
+00:01:14.950 --> 00:01:14.960 align:start position:0%
+expression the derivative of inverse
+ 
+
+00:01:14.960 --> 00:01:19.070 align:start position:0%
+expression the derivative of inverse
+tangent<00:01:15.560><c> is</c><00:01:15.720><c> 1</c><00:01:16.040><c> over</c><00:01:16.360><c> 1</c><00:01:16.880><c> +</c><00:01:17.640><c> x^2</c><00:01:18.640><c> and</c><00:01:18.840><c> we</c>
+
+00:01:19.070 --> 00:01:19.080 align:start position:0%
+tangent is 1 over 1 + x^2 and we
+ 
+
+00:01:19.080 --> 00:01:21.990 align:start position:0%
+tangent is 1 over 1 + x^2 and we
+multiply<00:01:19.720><c> this</c><00:01:20.000><c> by</c><00:01:20.200><c> two</c><00:01:21.079><c> let's</c><00:01:21.320><c> summarize</c><00:01:21.840><c> the</c>
+
+00:01:21.990 --> 00:01:22.000 align:start position:0%
+multiply this by two let's summarize the
+ 
+
+00:01:22.000 --> 00:01:25.510 align:start position:0%
+multiply this by two let's summarize the
+key<00:01:22.439><c> steps</c><00:01:23.439><c> first</c><00:01:24.200><c> we</c><00:01:24.320><c> made</c><00:01:24.520><c> a</c><00:01:24.759><c> substitution</c>
+
+00:01:25.510 --> 00:01:25.520 align:start position:0%
+key steps first we made a substitution
+ 
+
+00:01:25.520 --> 00:01:29.670 align:start position:0%
+key steps first we made a substitution
+xal<00:01:26.479><c> tangent</c><00:01:26.920><c> T</c><00:01:27.920><c> then</c><00:01:28.520><c> we</c><00:01:28.720><c> used</c><00:01:29.159><c> the</c><00:01:29.360><c> double</c>
+
+00:01:29.670 --> 00:01:29.680 align:start position:0%
+xal tangent T then we used the double
+ 
+
+00:01:29.680 --> 00:01:32.030 align:start position:0%
+xal tangent T then we used the double
+angle<00:01:29.920><c> angle</c><00:01:30.200><c> formula</c><00:01:30.680><c> to</c><00:01:30.960><c> simplify</c><00:01:31.600><c> the</c>
+
+00:01:32.030 --> 00:01:32.040 align:start position:0%
+angle angle formula to simplify the
+ 
+
+00:01:32.040 --> 00:01:34.990 align:start position:0%
+angle angle formula to simplify the
+expression<00:01:33.040><c> next</c><00:01:33.399><c> we</c><00:01:33.680><c> recognized</c><00:01:34.439><c> that</c><00:01:34.680><c> sin</c>
+
+00:01:34.990 --> 00:01:35.000 align:start position:0%
+expression next we recognized that sin
+ 
+
+00:01:35.000 --> 00:01:39.030 align:start position:0%
+expression next we recognized that sin
+inverse<00:01:35.840><c> and</c><00:01:36.040><c> S</c><00:01:36.439><c> cancel</c><00:01:36.799><c> out</c><00:01:37.759><c> finally</c><00:01:38.759><c> we</c>
+
+00:01:39.030 --> 00:01:39.040 align:start position:0%
+inverse and S cancel out finally we
+ 
+
+00:01:39.040 --> 00:01:41.149 align:start position:0%
+inverse and S cancel out finally we
+substituted<00:01:39.799><c> back</c><00:01:40.040><c> and</c><00:01:40.280><c> differentiated</c><00:01:41.000><c> to</c>
+
+00:01:41.149 --> 00:01:41.159 align:start position:0%
+substituted back and differentiated to
+ 
+
+00:01:41.159 --> 00:01:47.320 align:start position:0%
+substituted back and differentiated to
+get<00:01:41.320><c> our</c><00:01:41.520><c> answer</c><00:01:42.439><c> 2</c><00:01:43.040><c> over</c><00:01:43.560><c> 1</c><00:01:43.960><c> +</c><00:01:44.320><c> x^2</c>
+

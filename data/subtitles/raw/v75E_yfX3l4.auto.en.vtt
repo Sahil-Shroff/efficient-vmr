@@ -1,0 +1,184 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.080 --> 00:00:02.070 align:start position:0%
+ 
+start<00:00:00.359><c> with</c><00:00:00.520><c> this</c><00:00:00.680><c> 2x2</c><00:00:01.240><c> matrix</c><00:00:01.640><c> a</c><00:00:01.959><c> and</c>
+
+00:00:02.070 --> 00:00:02.080 align:start position:0%
+start with this 2x2 matrix a and
+ 
+
+00:00:02.080 --> 00:00:03.189 align:start position:0%
+start with this 2x2 matrix a and
+consider<00:00:02.399><c> the</c><00:00:02.520><c> apine</c><00:00:02.879><c> linear</c>
+
+00:00:03.189 --> 00:00:03.199 align:start position:0%
+consider the apine linear
+ 
+
+00:00:03.199 --> 00:00:06.430 align:start position:0%
+consider the apine linear
+Transformations<00:00:03.879><c> ax</c><00:00:04.359><c> and</c><00:00:04.560><c> ax</c><00:00:05.000><c> +</c><00:00:05.279><c> 1</c><00:00:05.560><c> Z</c><00:00:06.279><c> these</c>
+
+00:00:06.430 --> 00:00:06.440 align:start position:0%
+Transformations ax and ax + 1 Z these
+ 
+
+00:00:06.440 --> 00:00:08.070 align:start position:0%
+Transformations ax and ax + 1 Z these
+two<00:00:06.640><c> Transformations</c><00:00:07.240><c> are</c><00:00:07.399><c> shown</c><00:00:07.720><c> here</c>
+
+00:00:08.070 --> 00:00:08.080 align:start position:0%
+two Transformations are shown here
+ 
+
+00:00:08.080 --> 00:00:10.589 align:start position:0%
+two Transformations are shown here
+applied<00:00:08.400><c> to</c><00:00:08.519><c> the</c><00:00:08.679><c> plane</c><00:00:09.679><c> now</c><00:00:09.840><c> start</c><00:00:10.120><c> with</c><00:00:10.320><c> any</c>
+
+00:00:10.589 --> 00:00:10.599 align:start position:0%
+applied to the plane now start with any
+ 
+
+00:00:10.599 --> 00:00:12.589 align:start position:0%
+applied to the plane now start with any
+point<00:00:10.880><c> in</c><00:00:11.000><c> the</c><00:00:11.200><c> plane</c><00:00:11.719><c> and</c><00:00:11.920><c> apply</c><00:00:12.320><c> both</c>
+
+00:00:12.589 --> 00:00:12.599 align:start position:0%
+point in the plane and apply both
+ 
+
+00:00:12.599 --> 00:00:14.669 align:start position:0%
+point in the plane and apply both
+Transformations<00:00:13.599><c> then</c><00:00:13.719><c> choose</c><00:00:14.080><c> one</c><00:00:14.280><c> point</c><00:00:14.480><c> at</c>
+
+00:00:14.669 --> 00:00:14.679 align:start position:0%
+Transformations then choose one point at
+ 
+
+00:00:14.679 --> 00:00:16.630 align:start position:0%
+Transformations then choose one point at
+random<00:00:15.120><c> and</c><00:00:15.280><c> apply</c><00:00:15.599><c> both</c><00:00:15.799><c> Transformations</c>
+
+00:00:16.630 --> 00:00:16.640 align:start position:0%
+random and apply both Transformations
+ 
+
+00:00:16.640 --> 00:00:19.349 align:start position:0%
+random and apply both Transformations
+again<00:00:17.400><c> repeat</c><00:00:17.760><c> this</c><00:00:18.000><c> process</c><00:00:18.359><c> over</c><00:00:18.600><c> and</c><00:00:18.800><c> over</c>
+
+00:00:19.349 --> 00:00:19.359 align:start position:0%
+again repeat this process over and over
+ 
+
+00:00:19.359 --> 00:00:21.189 align:start position:0%
+again repeat this process over and over
+selecting<00:00:19.880><c> one</c><00:00:20.080><c> of</c><00:00:20.199><c> the</c><00:00:20.320><c> outputs</c><00:00:20.680><c> at</c><00:00:20.840><c> random</c>
+
+00:00:21.189 --> 00:00:21.199 align:start position:0%
+selecting one of the outputs at random
+ 
+
+00:00:21.199 --> 00:00:22.990 align:start position:0%
+selecting one of the outputs at random
+and<00:00:21.320><c> applying</c><00:00:21.840><c> both</c><00:00:22.240><c> apine</c><00:00:22.640><c> linear</c>
+
+00:00:22.990 --> 00:00:23.000 align:start position:0%
+and applying both apine linear
+ 
+
+00:00:23.000 --> 00:00:24.830 align:start position:0%
+and applying both apine linear
+Transformations<00:00:24.000><c> let's</c><00:00:24.240><c> repeat</c><00:00:24.640><c> this</c>
+
+00:00:24.830 --> 00:00:24.840 align:start position:0%
+Transformations let's repeat this
+ 
+
+00:00:24.840 --> 00:00:28.429 align:start position:0%
+Transformations let's repeat this
+process<00:00:25.199><c> 25,000</c><00:00:26.080><c> times</c><00:00:26.400><c> to</c><00:00:26.519><c> see</c><00:00:26.800><c> what</c><00:00:27.439><c> happens</c>
+
+00:00:28.429 --> 00:00:28.439 align:start position:0%
+process 25,000 times to see what happens
+ 
+
+00:00:28.439 --> 00:00:30.470 align:start position:0%
+process 25,000 times to see what happens
+each<00:00:28.720><c> point</c><00:00:28.960><c> is</c><00:00:29.119><c> colorcoded</c><00:00:29.679><c> yellow</c><00:00:30.039><c> or</c><00:00:30.160><c> blue</c>
+
+00:00:30.470 --> 00:00:30.480 align:start position:0%
+each point is colorcoded yellow or blue
+ 
+
+00:00:30.480 --> 00:00:31.669 align:start position:0%
+each point is colorcoded yellow or blue
+depending<00:00:30.800><c> on</c><00:00:30.920><c> the</c><00:00:31.039><c> apine</c><00:00:31.400><c> linear</c>
+
+00:00:31.669 --> 00:00:31.679 align:start position:0%
+depending on the apine linear
+ 
+
+00:00:31.679 --> 00:00:34.150 align:start position:0%
+depending on the apine linear
+transformation<00:00:32.320><c> that</c><00:00:32.439><c> outputs</c><00:00:33.000><c> that</c><00:00:33.160><c> point</c>
+
+00:00:34.150 --> 00:00:34.160 align:start position:0%
+transformation that outputs that point
+ 
+
+00:00:34.160 --> 00:00:36.389 align:start position:0%
+transformation that outputs that point
+as<00:00:34.280><c> we</c><00:00:34.480><c> iterate</c><00:00:34.920><c> this</c><00:00:35.120><c> procedure</c><00:00:35.920><c> the</c><00:00:36.079><c> points</c>
+
+00:00:36.389 --> 00:00:36.399 align:start position:0%
+as we iterate this procedure the points
+ 
+
+00:00:36.399 --> 00:00:38.790 align:start position:0%
+as we iterate this procedure the points
+stay<00:00:36.719><c> within</c><00:00:37.000><c> this</c><00:00:37.160><c> enclosed</c><00:00:37.719><c> region</c><00:00:38.640><c> this</c>
+
+00:00:38.790 --> 00:00:38.800 align:start position:0%
+stay within this enclosed region this
+ 
+
+00:00:38.800 --> 00:00:40.790 align:start position:0%
+stay within this enclosed region this
+fractal<00:00:39.280><c> shape</c><00:00:39.760><c> is</c><00:00:39.920><c> known</c><00:00:40.160><c> as</c><00:00:40.280><c> the</c><00:00:40.440><c> Twin</c>
+
+00:00:40.790 --> 00:00:40.800 align:start position:0%
+fractal shape is known as the Twin
+ 
+
+00:00:40.800 --> 00:00:42.830 align:start position:0%
+fractal shape is known as the Twin
+Dragon<00:00:41.520><c> and</c><00:00:41.640><c> it's</c><00:00:41.840><c> the</c><00:00:42.000><c> limiting</c><00:00:42.399><c> shape</c><00:00:42.680><c> or</c>
+
+00:00:42.830 --> 00:00:42.840 align:start position:0%
+Dragon and it's the limiting shape or
+ 
+
+00:00:42.840 --> 00:00:45.029 align:start position:0%
+Dragon and it's the limiting shape or
+the<00:00:43.000><c> attractor</c><00:00:43.800><c> of</c><00:00:44.000><c> this</c><00:00:44.200><c> iterated</c><00:00:44.680><c> function</c>
+
+00:00:45.029 --> 00:00:45.039 align:start position:0%
+the attractor of this iterated function
+ 
+
+00:00:45.039 --> 00:00:46.830 align:start position:0%
+the attractor of this iterated function
+system<00:00:45.399><c> produced</c><00:00:45.840><c> by</c><00:00:46.079><c> these</c><00:00:46.239><c> two</c><00:00:46.520><c> apine</c>
+
+00:00:46.830 --> 00:00:46.840 align:start position:0%
+system produced by these two apine
+ 
+
+00:00:46.840 --> 00:00:50.160 align:start position:0%
+system produced by these two apine
+linear<00:00:47.160><c> transformations</c>
+

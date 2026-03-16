@@ -1,0 +1,768 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.040 --> 00:00:01.390 align:start position:0%
+ 
+hey<00:00:00.160><c> guys</c><00:00:00.320><c> this</c><00:00:00.399><c> looks</c><00:00:00.560><c> like</c><00:00:00.680><c> a</c><00:00:00.799><c> fun</c><00:00:01.000><c> one</c><00:00:01.319><c> it</c>
+
+00:00:01.390 --> 00:00:01.400 align:start position:0%
+hey guys this looks like a fun one it
+ 
+
+00:00:01.400 --> 00:00:04.390 align:start position:0%
+hey guys this looks like a fun one it
+says<00:00:01.680><c> solve</c><00:00:02.040><c> for</c><00:00:02.280><c> x</c><00:00:02.679><c> and</c><00:00:02.800><c> it's</c><00:00:03.000><c> giving</c><00:00:03.320><c> us</c><00:00:04.000><c> this</c>
+
+00:00:04.390 --> 00:00:04.400 align:start position:0%
+says solve for x and it's giving us this
+ 
+
+00:00:04.400 --> 00:00:07.070 align:start position:0%
+says solve for x and it's giving us this
+shape<00:00:04.880><c> right</c><00:00:05.080><c> here</c><00:00:05.520><c> we</c><00:00:05.640><c> have</c><00:00:05.720><c> a</c><00:00:05.879><c> 75°</c><00:00:06.720><c> angle</c>
+
+00:00:07.070 --> 00:00:07.080 align:start position:0%
+shape right here we have a 75° angle
+ 
+
+00:00:07.080 --> 00:00:08.589 align:start position:0%
+shape right here we have a 75° angle
+here<00:00:07.359><c> we</c><00:00:07.480><c> have</c><00:00:07.680><c> this</c><00:00:07.839><c> segment</c><00:00:08.240><c> the</c><00:00:08.400><c> same</c>
+
+00:00:08.589 --> 00:00:08.599 align:start position:0%
+here we have this segment the same
+ 
+
+00:00:08.599 --> 00:00:10.310 align:start position:0%
+here we have this segment the same
+length<00:00:08.880><c> as</c><00:00:09.080><c> this</c><00:00:09.280><c> segment</c><00:00:09.679><c> the</c><00:00:09.760><c> same</c><00:00:10.000><c> length</c>
+
+00:00:10.310 --> 00:00:10.320 align:start position:0%
+length as this segment the same length
+ 
+
+00:00:10.320 --> 00:00:12.030 align:start position:0%
+length as this segment the same length
+as<00:00:10.559><c> this</c><00:00:10.759><c> segment</c><00:00:11.440><c> and</c><00:00:11.559><c> there's</c><00:00:11.679><c> a</c><00:00:11.840><c> right</c>
+
+00:00:12.030 --> 00:00:12.040 align:start position:0%
+as this segment and there's a right
+ 
+
+00:00:12.040 --> 00:00:13.669 align:start position:0%
+as this segment and there's a right
+angle<00:00:12.400><c> right</c><00:00:12.559><c> here</c><00:00:12.840><c> and</c><00:00:12.920><c> it</c><00:00:13.040><c> wants</c><00:00:13.200><c> us</c><00:00:13.320><c> to</c><00:00:13.480><c> find</c>
+
+00:00:13.669 --> 00:00:13.679 align:start position:0%
+angle right here and it wants us to find
+ 
+
+00:00:13.679 --> 00:00:15.549 align:start position:0%
+angle right here and it wants us to find
+the<00:00:13.880><c> value</c><00:00:14.160><c> of</c><00:00:14.360><c> x</c><00:00:14.879><c> if</c><00:00:14.960><c> you</c><00:00:15.040><c> want</c><00:00:15.160><c> to</c><00:00:15.240><c> try</c><00:00:15.360><c> it</c><00:00:15.440><c> on</c>
+
+00:00:15.549 --> 00:00:15.559 align:start position:0%
+the value of x if you want to try it on
+ 
+
+00:00:15.559 --> 00:00:17.230 align:start position:0%
+the value of x if you want to try it on
+your<00:00:15.639><c> own</c><00:00:15.839><c> posit</c><00:00:16.440><c> right</c><00:00:16.600><c> now</c><00:00:16.960><c> because</c><00:00:17.119><c> I'm</c>
+
+00:00:17.230 --> 00:00:17.240 align:start position:0%
+your own posit right now because I'm
+ 
+
+00:00:17.240 --> 00:00:21.070 align:start position:0%
+your own posit right now because I'm
+going<00:00:17.320><c> to</c><00:00:17.439><c> solve</c><00:00:17.720><c> it</c><00:00:17.840><c> in</c><00:00:18.119><c> 3</c><00:00:18.840><c> 2</c><00:00:19.720><c> 1</c><00:00:20.600><c> first</c><00:00:20.840><c> let's</c>
+
+00:00:21.070 --> 00:00:21.080 align:start position:0%
+going to solve it in 3 2 1 first let's
+ 
+
+00:00:21.080 --> 00:00:23.310 align:start position:0%
+going to solve it in 3 2 1 first let's
+focus<00:00:21.359><c> on</c><00:00:21.680><c> this</c><00:00:22.000><c> right</c><00:00:22.279><c> triangle</c><00:00:23.080><c> any</c>
+
+00:00:23.310 --> 00:00:23.320 align:start position:0%
+focus on this right triangle any
+ 
+
+00:00:23.320 --> 00:00:25.470 align:start position:0%
+focus on this right triangle any
+triangle<00:00:23.720><c> can</c><00:00:23.840><c> be</c><00:00:24.080><c> inscribed</c><00:00:24.560><c> in</c><00:00:24.680><c> a</c><00:00:24.840><c> circle</c><00:00:25.279><c> so</c>
+
+00:00:25.470 --> 00:00:25.480 align:start position:0%
+triangle can be inscribed in a circle so
+ 
+
+00:00:25.480 --> 00:00:27.870 align:start position:0%
+triangle can be inscribed in a circle so
+let's<00:00:25.760><c> inscribe</c><00:00:26.199><c> it</c><00:00:26.400><c> in</c><00:00:26.519><c> a</c><00:00:26.760><c> circle</c><00:00:27.480><c> and</c><00:00:27.599><c> for</c>
+
+00:00:27.870 --> 00:00:27.880 align:start position:0%
+let's inscribe it in a circle and for
+ 
+
+00:00:27.880 --> 00:00:29.550 align:start position:0%
+let's inscribe it in a circle and for
+every<00:00:28.160><c> inscribed</c><00:00:28.760><c> right</c><00:00:28.960><c> triangle</c><00:00:29.400><c> the</c>
+
+00:00:29.550 --> 00:00:29.560 align:start position:0%
+every inscribed right triangle the
+ 
+
+00:00:29.560 --> 00:00:32.350 align:start position:0%
+every inscribed right triangle the
+hypoten<00:00:30.320><c> is</c><00:00:30.480><c> the</c><00:00:30.640><c> diameter</c><00:00:31.119><c> of</c><00:00:31.279><c> the</c><00:00:31.439><c> circle</c><00:00:32.200><c> so</c>
+
+00:00:32.350 --> 00:00:32.360 align:start position:0%
+hypoten is the diameter of the circle so
+ 
+
+00:00:32.360 --> 00:00:33.990 align:start position:0%
+hypoten is the diameter of the circle so
+we<00:00:32.480><c> know</c><00:00:32.680><c> that</c><00:00:32.800><c> the</c><00:00:33.000><c> center</c><00:00:33.280><c> is</c><00:00:33.440><c> going</c><00:00:33.520><c> to</c><00:00:33.719><c> lie</c>
+
+00:00:33.990 --> 00:00:34.000 align:start position:0%
+we know that the center is going to lie
+ 
+
+00:00:34.000 --> 00:00:36.110 align:start position:0%
+we know that the center is going to lie
+on<00:00:34.200><c> this</c><00:00:34.440><c> hypotenuse</c><00:00:35.280><c> and</c><00:00:35.399><c> since</c><00:00:35.600><c> we</c><00:00:35.760><c> know</c>
+
+00:00:36.110 --> 00:00:36.120 align:start position:0%
+on this hypotenuse and since we know
+ 
+
+00:00:36.120 --> 00:00:38.110 align:start position:0%
+on this hypotenuse and since we know
+this<00:00:36.360><c> is</c><00:00:36.559><c> congruent</c><00:00:37.000><c> to</c><00:00:37.280><c> this</c><00:00:37.640><c> we</c><00:00:37.800><c> know</c><00:00:38.000><c> the</c>
+
+00:00:38.110 --> 00:00:38.120 align:start position:0%
+this is congruent to this we know the
+ 
+
+00:00:38.120 --> 00:00:39.830 align:start position:0%
+this is congruent to this we know the
+center<00:00:38.320><c> is</c><00:00:38.440><c> going</c><00:00:38.520><c> to</c><00:00:38.640><c> be</c><00:00:38.879><c> right</c><00:00:39.120><c> there</c><00:00:39.680><c> and</c>
+
+00:00:39.830 --> 00:00:39.840 align:start position:0%
+center is going to be right there and
+ 
+
+00:00:39.840 --> 00:00:42.270 align:start position:0%
+center is going to be right there and
+each<00:00:39.960><c> of</c><00:00:40.160><c> these</c><00:00:40.320><c> are</c><00:00:40.719><c> radius</c><00:00:41.160><c> of</c><00:00:41.360><c> the</c><00:00:41.559><c> circle</c>
+
+00:00:42.270 --> 00:00:42.280 align:start position:0%
+each of these are radius of the circle
+ 
+
+00:00:42.280 --> 00:00:43.790 align:start position:0%
+each of these are radius of the circle
+and<00:00:42.399><c> we</c><00:00:42.480><c> can</c><00:00:42.600><c> draw</c><00:00:42.840><c> another</c><00:00:43.160><c> radius</c><00:00:43.520><c> from</c><00:00:43.680><c> the</c>
+
+00:00:43.790 --> 00:00:43.800 align:start position:0%
+and we can draw another radius from the
+ 
+
+00:00:43.800 --> 00:00:45.389 align:start position:0%
+and we can draw another radius from the
+center<00:00:44.039><c> of</c><00:00:44.160><c> the</c><00:00:44.239><c> circle</c><00:00:44.520><c> to</c><00:00:44.680><c> the</c><00:00:44.840><c> vertex</c><00:00:45.239><c> of</c>
+
+00:00:45.389 --> 00:00:45.399 align:start position:0%
+center of the circle to the vertex of
+ 
+
+00:00:45.399 --> 00:00:47.389 align:start position:0%
+center of the circle to the vertex of
+the<00:00:45.559><c> right</c><00:00:45.719><c> angle</c><00:00:46.600><c> now</c><00:00:46.760><c> I</c><00:00:46.879><c> think</c><00:00:47.079><c> this</c><00:00:47.199><c> is</c>
+
+00:00:47.389 --> 00:00:47.399 align:start position:0%
+the right angle now I think this is
+ 
+
+00:00:47.399 --> 00:00:48.990 align:start position:0%
+the right angle now I think this is
+everything<00:00:47.680><c> we</c><00:00:47.840><c> need</c><00:00:48.039><c> to</c><00:00:48.199><c> solve</c><00:00:48.480><c> the</c><00:00:48.680><c> problem</c>
+
+00:00:48.990 --> 00:00:49.000 align:start position:0%
+everything we need to solve the problem
+ 
+
+00:00:49.000 --> 00:00:50.830 align:start position:0%
+everything we need to solve the problem
+if<00:00:49.120><c> you</c><00:00:49.199><c> want</c><00:00:49.280><c> to</c><00:00:49.440><c> pause</c><00:00:49.680><c> it</c><00:00:49.960><c> now</c><00:00:50.600><c> cuz</c><00:00:50.719><c> I'm</c>
+
+00:00:50.830 --> 00:00:50.840 align:start position:0%
+if you want to pause it now cuz I'm
+ 
+
+00:00:50.840 --> 00:00:53.150 align:start position:0%
+if you want to pause it now cuz I'm
+going<00:00:50.920><c> to</c><00:00:51.160><c> actually</c><00:00:51.440><c> solve</c><00:00:51.680><c> it</c><00:00:51.800><c> in</c><00:00:52.000><c> 3</c><00:00:52.280><c> 2</c><00:00:52.640><c> 1</c><00:00:53.039><c> for</c>
+
+00:00:53.150 --> 00:00:53.160 align:start position:0%
+going to actually solve it in 3 2 1 for
+ 
+
+00:00:53.160 --> 00:00:55.430 align:start position:0%
+going to actually solve it in 3 2 1 for
+the<00:00:53.320><c> next</c><00:00:53.520><c> step</c><00:00:53.760><c> if</c><00:00:54.039><c> this</c><00:00:54.199><c> angle</c><00:00:54.520><c> is</c><00:00:54.760><c> X</c><00:00:55.280><c> this</c>
+
+00:00:55.430 --> 00:00:55.440 align:start position:0%
+the next step if this angle is X this
+ 
+
+00:00:55.440 --> 00:00:57.270 align:start position:0%
+the next step if this angle is X this
+angle<00:00:55.760><c> right</c><00:00:55.879><c> here</c><00:00:56.039><c> will</c><00:00:56.239><c> also</c><00:00:56.520><c> be</c><00:00:56.719><c> X</c><00:00:57.160><c> and</c>
+
+00:00:57.270 --> 00:00:57.280 align:start position:0%
+angle right here will also be X and
+ 
+
+00:00:57.280 --> 00:00:59.389 align:start position:0%
+angle right here will also be X and
+these<00:00:57.399><c> are</c><00:00:57.640><c> called</c><00:00:58.039><c> vertical</c><00:00:58.559><c> angles</c><00:00:59.280><c> and</c>
+
+00:00:59.389 --> 00:00:59.399 align:start position:0%
+these are called vertical angles and
+ 
+
+00:00:59.399 --> 00:01:00.830 align:start position:0%
+these are called vertical angles and
+then<00:00:59.480><c> we</c><00:00:59.559><c> don't</c><00:00:59.680><c> know</c><00:00:59.760><c> how</c><00:01:00.120><c> big</c><00:01:00.320><c> this</c><00:01:00.440><c> angle</c><00:01:00.719><c> is</c>
+
+00:01:00.830 --> 00:01:00.840 align:start position:0%
+then we don't know how big this angle is
+ 
+
+00:01:00.840 --> 00:01:03.470 align:start position:0%
+then we don't know how big this angle is
+so<00:01:01.039><c> let's</c><00:01:01.239><c> call</c><00:01:01.399><c> it</c><00:01:01.719><c> y</c><00:01:02.359><c> so</c><00:01:02.519><c> now</c><00:01:02.640><c> if</c><00:01:02.719><c> we</c><00:01:02.879><c> focus</c><00:01:03.199><c> on</c>
+
+00:01:03.470 --> 00:01:03.480 align:start position:0%
+so let's call it y so now if we focus on
+ 
+
+00:01:03.480 --> 00:01:05.390 align:start position:0%
+so let's call it y so now if we focus on
+this<00:01:03.680><c> angle</c><00:01:04.080><c> right</c><00:01:04.239><c> here</c><00:01:04.519><c> if</c><00:01:04.640><c> the</c><00:01:04.799><c> inscribed</c>
+
+00:01:05.390 --> 00:01:05.400 align:start position:0%
+this angle right here if the inscribed
+ 
+
+00:01:05.400 --> 00:01:07.950 align:start position:0%
+this angle right here if the inscribed
+angle<00:01:05.720><c> is</c><00:01:06.000><c> y</c><00:01:06.439><c> The</c><00:01:06.640><c> Arc</c><00:01:06.960><c> that</c><00:01:07.080><c> it</c><00:01:07.240><c> subtends</c><00:01:07.799><c> is</c>
+
+00:01:07.950 --> 00:01:07.960 align:start position:0%
+angle is y The Arc that it subtends is
+ 
+
+00:01:07.960 --> 00:01:10.190 align:start position:0%
+angle is y The Arc that it subtends is
+always<00:01:08.240><c> double</c><00:01:08.640><c> the</c><00:01:08.799><c> inscribed</c><00:01:09.360><c> angle</c><00:01:09.960><c> so</c>
+
+00:01:10.190 --> 00:01:10.200 align:start position:0%
+always double the inscribed angle so
+ 
+
+00:01:10.200 --> 00:01:13.390 align:start position:0%
+always double the inscribed angle so
+this<00:01:10.360><c> Arc</c><00:01:10.720><c> from</c><00:01:10.920><c> here</c><00:01:11.080><c> to</c><00:01:11.280><c> here</c><00:01:11.520><c> is</c><00:01:11.720><c> 2</c><00:01:12.080><c> y</c><00:01:12.400><c> de</c><00:01:13.280><c> and</c>
+
+00:01:13.390 --> 00:01:13.400 align:start position:0%
+this Arc from here to here is 2 y de and
+ 
+
+00:01:13.400 --> 00:01:15.670 align:start position:0%
+this Arc from here to here is 2 y de and
+then<00:01:13.520><c> if</c><00:01:13.640><c> we</c><00:01:13.799><c> focus</c><00:01:14.159><c> on</c><00:01:14.600><c> this</c><00:01:14.920><c> angle</c><00:01:15.560><c> the</c>
+
+00:01:15.670 --> 00:01:15.680 align:start position:0%
+then if we focus on this angle the
+ 
+
+00:01:15.680 --> 00:01:17.590 align:start position:0%
+then if we focus on this angle the
+central<00:01:16.119><c> angle</c><00:01:16.439><c> is</c><00:01:16.600><c> always</c><00:01:16.880><c> congruent</c><00:01:17.320><c> to</c><00:01:17.479><c> the</c>
+
+00:01:17.590 --> 00:01:17.600 align:start position:0%
+central angle is always congruent to the
+ 
+
+00:01:17.600 --> 00:01:20.590 align:start position:0%
+central angle is always congruent to the
+measure<00:01:17.880><c> of</c><00:01:18.040><c> the</c><00:01:18.159><c> arc</c><00:01:18.799><c> so</c><00:01:19.000><c> if</c><00:01:19.200><c> this</c><00:01:19.439><c> Arc</c><00:01:19.799><c> is</c><00:01:20.000><c> 2</c><00:01:20.360><c> y</c>
+
+00:01:20.590 --> 00:01:20.600 align:start position:0%
+measure of the arc so if this Arc is 2 y
+ 
+
+00:01:20.600 --> 00:01:24.149 align:start position:0%
+measure of the arc so if this Arc is 2 y
+de<00:01:21.320><c> this</c><00:01:21.520><c> angle</c><00:01:21.880><c> will</c><00:01:22.040><c> be</c><00:01:22.240><c> 2</c><00:01:22.520><c> y</c><00:01:22.759><c> de</c><00:01:23.640><c> next</c><00:01:23.960><c> we</c><00:01:24.040><c> can</c>
+
+00:01:24.149 --> 00:01:24.159 align:start position:0%
+de this angle will be 2 y de next we can
+ 
+
+00:01:24.159 --> 00:01:27.069 align:start position:0%
+de this angle will be 2 y de next we can
+label<00:01:24.640><c> this</c><00:01:24.840><c> angle</c><00:01:25.200><c> right</c><00:01:25.320><c> here</c><00:01:25.720><c> Z</c><00:01:26.119><c> degre</c><00:01:26.960><c> and</c>
+
+00:01:27.069 --> 00:01:27.079 align:start position:0%
+label this angle right here Z degre and
+ 
+
+00:01:27.079 --> 00:01:30.109 align:start position:0%
+label this angle right here Z degre and
+if<00:01:27.159><c> we</c><00:01:27.320><c> focus</c><00:01:27.680><c> on</c><00:01:28.040><c> this</c><00:01:28.479><c> isoceles</c><00:01:29.320><c> triangle</c><00:01:30.000><c> in</c>
+
+00:01:30.109 --> 00:01:30.119 align:start position:0%
+if we focus on this isoceles triangle in
+ 
+
+00:01:30.119 --> 00:01:32.030 align:start position:0%
+if we focus on this isoceles triangle in
+an<00:01:30.280><c> isoceles</c><00:01:30.840><c> triangle</c><00:01:31.159><c> you</c><00:01:31.280><c> have</c><00:01:31.439><c> two</c><00:01:31.720><c> sides</c>
+
+00:01:32.030 --> 00:01:32.040 align:start position:0%
+an isoceles triangle you have two sides
+ 
+
+00:01:32.040 --> 00:01:33.630 align:start position:0%
+an isoceles triangle you have two sides
+congruent<00:01:32.520><c> and</c><00:01:32.600><c> you</c><00:01:32.759><c> also</c><00:01:32.960><c> have</c><00:01:33.079><c> the</c><00:01:33.240><c> base</c>
+
+00:01:33.630 --> 00:01:33.640 align:start position:0%
+congruent and you also have the base
+ 
+
+00:01:33.640 --> 00:01:35.590 align:start position:0%
+congruent and you also have the base
+angles<00:01:34.079><c> congruent</c><00:01:34.840><c> so</c><00:01:35.040><c> this</c><00:01:35.159><c> angle</c><00:01:35.479><c> right</c>
+
+00:01:35.590 --> 00:01:35.600 align:start position:0%
+angles congruent so this angle right
+ 
+
+00:01:35.600 --> 00:01:38.069 align:start position:0%
+angles congruent so this angle right
+here<00:01:35.720><c> will</c><00:01:35.920><c> also</c><00:01:36.119><c> be</c><00:01:36.240><c> equal</c><00:01:36.479><c> to</c><00:01:36.640><c> Z</c><00:01:36.960><c> de</c><00:01:37.720><c> so</c><00:01:37.960><c> now</c>
+
+00:01:38.069 --> 00:01:38.079 align:start position:0%
+here will also be equal to Z de so now
+ 
+
+00:01:38.079 --> 00:01:40.109 align:start position:0%
+here will also be equal to Z de so now
+we're<00:01:38.240><c> ready</c><00:01:38.439><c> to</c><00:01:38.600><c> do</c><00:01:38.759><c> some</c><00:01:39.000><c> algebra</c><00:01:39.840><c> we</c><00:01:39.960><c> can</c>
+
+00:01:40.109 --> 00:01:40.119 align:start position:0%
+we're ready to do some algebra we can
+ 
+
+00:01:40.119 --> 00:01:42.310 align:start position:0%
+we're ready to do some algebra we can
+focus<00:01:40.439><c> on</c><00:01:40.720><c> these</c><00:01:41.000><c> three</c><00:01:41.240><c> angles</c><00:01:41.720><c> right</c><00:01:41.920><c> here</c>
+
+00:01:42.310 --> 00:01:42.320 align:start position:0%
+focus on these three angles right here
+ 
+
+00:01:42.320 --> 00:01:46.590 align:start position:0%
+focus on these three angles right here
+we<00:01:42.439><c> have</c><00:01:42.600><c> 2</c><00:01:42.920><c> y</c><00:01:43.200><c> +</c><00:01:43.520><c> z</c><00:01:43.880><c> +</c><00:01:44.159><c> 75</c><00:01:44.799><c> is</c><00:01:44.920><c> equal</c><00:01:45.159><c> to</c><00:01:45.479><c> 180</c><00:01:46.479><c> and</c>
+
+00:01:46.590 --> 00:01:46.600 align:start position:0%
+we have 2 y + z + 75 is equal to 180 and
+ 
+
+00:01:46.600 --> 00:01:48.670 align:start position:0%
+we have 2 y + z + 75 is equal to 180 and
+then<00:01:46.759><c> next</c><00:01:46.960><c> we</c><00:01:47.079><c> can</c><00:01:47.280><c> focus</c><00:01:47.560><c> on</c><00:01:47.840><c> this</c><00:01:48.119><c> triangle</c>
+
+00:01:48.670 --> 00:01:48.680 align:start position:0%
+then next we can focus on this triangle
+ 
+
+00:01:48.680 --> 00:01:50.310 align:start position:0%
+then next we can focus on this triangle
+right<00:01:48.880><c> here</c><00:01:49.320><c> the</c><00:01:49.479><c> sum</c><00:01:49.680><c> of</c><00:01:49.799><c> the</c><00:01:49.920><c> interior</c>
+
+00:01:50.310 --> 00:01:50.320 align:start position:0%
+right here the sum of the interior
+ 
+
+00:01:50.320 --> 00:01:53.510 align:start position:0%
+right here the sum of the interior
+angles<00:01:50.640><c> of</c><00:01:50.840><c> any</c><00:01:51.119><c> triangle</c><00:01:51.560><c> is</c><00:01:52.240><c> 180°</c><00:01:53.240><c> we</c><00:01:53.360><c> know</c>
+
+00:01:53.510 --> 00:01:53.520 align:start position:0%
+angles of any triangle is 180° we know
+ 
+
+00:01:53.520 --> 00:01:57.270 align:start position:0%
+angles of any triangle is 180° we know
+that<00:01:53.680><c> x</c><00:01:54.000><c> +</c><00:01:54.320><c> y</c><00:01:54.520><c> +</c><00:01:54.799><c> 75</c><00:01:55.439><c> is</c><00:01:55.560><c> equal</c><00:01:55.799><c> to</c><00:01:56.000><c> 180</c><00:01:56.880><c> and</c><00:01:57.079><c> last</c>
+
+00:01:57.270 --> 00:01:57.280 align:start position:0%
+that x + y + 75 is equal to 180 and last
+ 
+
+00:01:57.280 --> 00:01:59.510 align:start position:0%
+that x + y + 75 is equal to 180 and last
+let's<00:01:57.520><c> focus</c><00:01:57.840><c> on</c><00:01:58.159><c> this</c><00:01:58.479><c> right</c><00:01:58.719><c> triangle</c><00:01:59.399><c> we</c>
+
+00:01:59.510 --> 00:01:59.520 align:start position:0%
+let's focus on this right triangle we
+ 
+
+00:01:59.520 --> 00:02:03.149 align:start position:0%
+let's focus on this right triangle we
+know<00:01:59.640><c> that</c><00:01:59.960><c> x</c><00:02:00.200><c> +</c><00:02:00.520><c> z</c><00:02:00.799><c> +</c><00:02:01.079><c> 90</c><00:02:01.520><c> will</c><00:02:01.719><c> equal</c><00:02:02.039><c> 180</c><00:02:03.000><c> now</c>
+
+00:02:03.149 --> 00:02:03.159 align:start position:0%
+know that x + z + 90 will equal 180 now
+ 
+
+00:02:03.159 --> 00:02:04.630 align:start position:0%
+know that x + z + 90 will equal 180 now
+let's<00:02:03.360><c> clean</c><00:02:03.600><c> these</c><00:02:03.759><c> up</c><00:02:03.920><c> a</c><00:02:04.039><c> little</c><00:02:04.240><c> bit</c><00:02:04.479><c> for</c>
+
+00:02:04.630 --> 00:02:04.640 align:start position:0%
+let's clean these up a little bit for
+ 
+
+00:02:04.640 --> 00:02:06.550 align:start position:0%
+let's clean these up a little bit for
+the<00:02:04.719><c> first</c><00:02:04.920><c> one</c><00:02:05.079><c> we</c><00:02:05.159><c> can</c><00:02:05.320><c> subtract</c><00:02:05.799><c> 75</c><00:02:06.399><c> from</c>
+
+00:02:06.550 --> 00:02:06.560 align:start position:0%
+the first one we can subtract 75 from
+ 
+
+00:02:06.560 --> 00:02:07.990 align:start position:0%
+the first one we can subtract 75 from
+both<00:02:06.759><c> sides</c><00:02:07.079><c> and</c><00:02:07.159><c> we</c><00:02:07.240><c> can</c><00:02:07.360><c> do</c><00:02:07.479><c> the</c><00:02:07.560><c> same</c><00:02:07.759><c> thing</c>
+
+00:02:07.990 --> 00:02:08.000 align:start position:0%
+both sides and we can do the same thing
+ 
+
+00:02:08.000 --> 00:02:09.669 align:start position:0%
+both sides and we can do the same thing
+for<00:02:08.160><c> the</c><00:02:08.360><c> second</c><00:02:08.640><c> one</c><00:02:09.200><c> and</c><00:02:09.280><c> then</c><00:02:09.399><c> for</c><00:02:09.520><c> the</c>
+
+00:02:09.669 --> 00:02:09.679 align:start position:0%
+for the second one and then for the
+ 
+
+00:02:09.679 --> 00:02:11.510 align:start position:0%
+for the second one and then for the
+third<00:02:09.879><c> one</c><00:02:10.039><c> we</c><00:02:10.160><c> can</c><00:02:10.280><c> subtract</c><00:02:10.679><c> 90</c><00:02:11.039><c> from</c><00:02:11.280><c> both</c>
+
+00:02:11.510 --> 00:02:11.520 align:start position:0%
+third one we can subtract 90 from both
+ 
+
+00:02:11.520 --> 00:02:17.390 align:start position:0%
+third one we can subtract 90 from both
+sides<00:02:12.239><c> 75</c><00:02:12.800><c> -</c><00:02:13.120><c> 75</c><00:02:13.599><c> is</c><00:02:13.760><c> 0</c><00:02:14.480><c> 75</c><00:02:14.920><c> -</c><00:02:15.200><c> 75</c><00:02:15.640><c> is</c><00:02:15.800><c> 0</c><00:02:16.599><c> and</c><00:02:16.760><c> 90</c><00:02:17.080><c> -</c>
+
+00:02:17.390 --> 00:02:17.400 align:start position:0%
+sides 75 - 75 is 0 75 - 75 is 0 and 90 -
+ 
+
+00:02:17.400 --> 00:02:22.110 align:start position:0%
+sides 75 - 75 is 0 75 - 75 is 0 and 90 -
+90<00:02:17.760><c> is</c><00:02:17.959><c> 0</c><00:02:18.680><c> and</c><00:02:18.800><c> then</c><00:02:18.959><c> 180</c><00:02:19.360><c> -</c><00:02:19.640><c> 75</c><00:02:20.120><c> is</c><00:02:20.360><c> 105</c><00:02:21.360><c> 180</c><00:02:21.800><c> -</c>
+
+00:02:22.110 --> 00:02:22.120 align:start position:0%
+90 is 0 and then 180 - 75 is 105 180 -
+ 
+
+00:02:22.120 --> 00:02:26.350 align:start position:0%
+90 is 0 and then 180 - 75 is 105 180 -
+75<00:02:22.599><c> is</c><00:02:22.879><c> 105</c><00:02:23.879><c> and</c><00:02:24.000><c> 180</c><00:02:24.440><c> -</c><00:02:24.720><c> 90</c><00:02:25.080><c> is</c><00:02:25.239><c> 90</c><00:02:26.080><c> right</c><00:02:26.239><c> now</c>
+
+00:02:26.350 --> 00:02:26.360 align:start position:0%
+75 is 105 and 180 - 90 is 90 right now
+ 
+
+00:02:26.360 --> 00:02:28.670 align:start position:0%
+75 is 105 and 180 - 90 is 90 right now
+we<00:02:26.480><c> have</c><00:02:26.599><c> an</c><00:02:26.760><c> x</c><00:02:27.120><c> a</c><00:02:27.319><c> y</c><00:02:27.519><c> and</c><00:02:27.640><c> a</c><00:02:27.800><c> z</c><00:02:28.120><c> and</c><00:02:28.239><c> we</c><00:02:28.360><c> want</c><00:02:28.480><c> to</c>
+
+00:02:28.670 --> 00:02:28.680 align:start position:0%
+we have an x a y and a z and we want to
+ 
+
+00:02:28.680 --> 00:02:31.110 align:start position:0%
+we have an x a y and a z and we want to
+solve<00:02:29.000><c> for</c><00:02:29.360><c> x</c><00:02:30.239><c> we're</c><00:02:30.400><c> going</c><00:02:30.480><c> to</c><00:02:30.599><c> do</c><00:02:30.760><c> this</c><00:02:30.920><c> with</c>
+
+00:02:31.110 --> 00:02:31.120 align:start position:0%
+solve for x we're going to do this with
+ 
+
+00:02:31.120 --> 00:02:33.229 align:start position:0%
+solve for x we're going to do this with
+elimination<00:02:32.120><c> now</c><00:02:32.280><c> let's</c><00:02:32.440><c> rearrange</c><00:02:32.959><c> things</c><00:02:33.120><c> a</c>
+
+00:02:33.229 --> 00:02:33.239 align:start position:0%
+elimination now let's rearrange things a
+ 
+
+00:02:33.239 --> 00:02:35.030 align:start position:0%
+elimination now let's rearrange things a
+little<00:02:33.440><c> bit</c><00:02:33.879><c> for</c><00:02:34.080><c> this</c><00:02:34.280><c> second</c><00:02:34.640><c> equation</c>
+
+00:02:35.030 --> 00:02:35.040 align:start position:0%
+little bit for this second equation
+ 
+
+00:02:35.040 --> 00:02:36.470 align:start position:0%
+little bit for this second equation
+let's<00:02:35.239><c> multiply</c><00:02:35.760><c> both</c><00:02:36.000><c> sides</c><00:02:36.239><c> of</c><00:02:36.319><c> the</c>
+
+00:02:36.470 --> 00:02:36.480 align:start position:0%
+let's multiply both sides of the
+ 
+
+00:02:36.480 --> 00:02:39.350 align:start position:0%
+let's multiply both sides of the
+equation<00:02:36.879><c> by</c><00:02:37.319><c> -2</c><00:02:38.120><c> this</c><00:02:38.480><c> -2</c><00:02:38.800><c> will</c><00:02:38.959><c> distribute</c>
+
+00:02:39.350 --> 00:02:39.360 align:start position:0%
+equation by -2 this -2 will distribute
+ 
+
+00:02:39.360 --> 00:02:43.110 align:start position:0%
+equation by -2 this -2 will distribute
+to<00:02:39.560><c> both</c><00:02:39.720><c> of</c><00:02:39.840><c> these</c><00:02:40.080><c> giving</c><00:02:40.319><c> us</c><00:02:40.800><c> -2X</c><00:02:41.560><c> and</c><00:02:42.000><c> -2</c><00:02:42.440><c> Y</c>
+
+00:02:43.110 --> 00:02:43.120 align:start position:0%
+to both of these giving us -2X and -2 Y
+ 
+
+00:02:43.120 --> 00:02:45.430 align:start position:0%
+to both of these giving us -2X and -2 Y
+and<00:02:43.200><c> then</c><00:02:43.319><c> on</c><00:02:43.440><c> the</c><00:02:43.560><c> right</c><00:02:43.760><c> hand</c><00:02:43.920><c> side</c><00:02:44.159><c> 105</c><00:02:44.680><c> *</c><00:02:45.159><c> -2</c>
+
+00:02:45.430 --> 00:02:45.440 align:start position:0%
+and then on the right hand side 105 * -2
+ 
+
+00:02:45.440 --> 00:02:48.990 align:start position:0%
+and then on the right hand side 105 * -2
+is<00:02:46.080><c> -210</c><00:02:47.080><c> and</c><00:02:47.239><c> let's</c><00:02:47.400><c> shift</c><00:02:47.800><c> that</c><00:02:47.959><c> up</c><00:02:48.159><c> here</c><00:02:48.840><c> now</c>
+
+00:02:48.990 --> 00:02:49.000 align:start position:0%
+is -210 and let's shift that up here now
+ 
+
+00:02:49.000 --> 00:02:51.229 align:start position:0%
+is -210 and let's shift that up here now
+we<00:02:49.120><c> can</c><00:02:49.319><c> add</c><00:02:49.519><c> these</c><00:02:49.680><c> two</c><00:02:49.920><c> equations</c><00:02:50.599><c> together</c>
+
+00:02:51.229 --> 00:02:51.239 align:start position:0%
+we can add these two equations together
+ 
+
+00:02:51.239 --> 00:02:54.710 align:start position:0%
+we can add these two equations together
+we<00:02:51.360><c> can</c><00:02:51.480><c> bring</c><00:02:51.720><c> down</c><00:02:51.879><c> the</c><00:02:52.280><c> -2X</c><00:02:53.280><c> pos2</c><00:02:53.800><c> y</c><00:02:54.239><c> -2</c><00:02:54.560><c> y</c>
+
+00:02:54.710 --> 00:02:54.720 align:start position:0%
+we can bring down the -2X pos2 y -2 y
+ 
+
+00:02:54.720 --> 00:02:56.630 align:start position:0%
+we can bring down the -2X pos2 y -2 y
+will<00:02:54.920><c> go</c><00:02:55.120><c> away</c><00:02:55.720><c> and</c><00:02:55.800><c> we</c><00:02:55.920><c> can</c><00:02:56.040><c> bring</c><00:02:56.239><c> down</c><00:02:56.400><c> the</c>
+
+00:02:56.630 --> 00:02:56.640 align:start position:0%
+will go away and we can bring down the
+ 
+
+00:02:56.640 --> 00:02:59.350 align:start position:0%
+will go away and we can bring down the
+positive<00:02:57.000><c> Z</c><00:02:57.720><c> and</c><00:02:57.800><c> then</c><00:02:57.920><c> on</c><00:02:58.080><c> this</c><00:02:58.200><c> side</c><00:02:58.440><c> 105</c><00:02:59.040><c> -</c>
+
+00:02:59.350 --> 00:02:59.360 align:start position:0%
+positive Z and then on this side 105 -
+ 
+
+00:02:59.360 --> 00:03:01.350 align:start position:0%
+positive Z and then on this side 105 -
+210<00:03:00.000><c> is</c>
+
+00:03:01.350 --> 00:03:01.360 align:start position:0%
+210 is
+ 
+
+00:03:01.360 --> 00:03:04.589 align:start position:0%
+210 is
+105<00:03:02.360><c> and</c><00:03:02.519><c> now</c><00:03:02.640><c> we're</c><00:03:02.879><c> down</c><00:03:03.040><c> to</c><00:03:03.280><c> x</c><00:03:03.519><c> and</c><00:03:03.799><c> z</c><00:03:04.319><c> so</c><00:03:04.480><c> we</c>
+
+00:03:04.589 --> 00:03:04.599 align:start position:0%
+105 and now we're down to x and z so we
+ 
+
+00:03:04.599 --> 00:03:06.509 align:start position:0%
+105 and now we're down to x and z so we
+just<00:03:04.720><c> got</c><00:03:04.799><c> to</c><00:03:04.959><c> eliminate</c><00:03:05.480><c> the</c><00:03:05.640><c> Z</c><00:03:06.280><c> we're</c><00:03:06.400><c> going</c>
+
+00:03:06.509 --> 00:03:06.519 align:start position:0%
+just got to eliminate the Z we're going
+ 
+
+00:03:06.519 --> 00:03:08.070 align:start position:0%
+just got to eliminate the Z we're going
+to<00:03:06.599><c> multiply</c><00:03:07.080><c> both</c><00:03:07.280><c> sides</c><00:03:07.480><c> of</c><00:03:07.599><c> this</c><00:03:07.799><c> bottom</c>
+
+00:03:08.070 --> 00:03:08.080 align:start position:0%
+to multiply both sides of this bottom
+ 
+
+00:03:08.080 --> 00:03:10.470 align:start position:0%
+to multiply both sides of this bottom
+equation<00:03:08.720><c> by1</c><00:03:09.720><c> the</c><00:03:09.879><c> negative</c><00:03:10.159><c> 1</c><00:03:10.319><c> will</c>
+
+00:03:10.470 --> 00:03:10.480 align:start position:0%
+equation by1 the negative 1 will
+ 
+
+00:03:10.480 --> 00:03:13.309 align:start position:0%
+equation by1 the negative 1 will
+distribute<00:03:10.879><c> to</c><00:03:11.040><c> give</c><00:03:11.159><c> USX</c><00:03:12.080><c> and</c><00:03:12.319><c> negative</c><00:03:12.680><c> Z</c>
+
+00:03:13.309 --> 00:03:13.319 align:start position:0%
+distribute to give USX and negative Z
+ 
+
+00:03:13.319 --> 00:03:15.910 align:start position:0%
+distribute to give USX and negative Z
+and<00:03:13.440><c> on</c><00:03:13.560><c> the</c><00:03:13.680><c> right</c><00:03:13.879><c> hand</c><00:03:14.040><c> side</c><00:03:14.200><c> it</c><00:03:14.239><c> will</c><00:03:14.400><c> be</c><00:03:14.920><c> 90</c>
+
+00:03:15.910 --> 00:03:15.920 align:start position:0%
+and on the right hand side it will be 90
+ 
+
+00:03:15.920 --> 00:03:17.309 align:start position:0%
+and on the right hand side it will be 90
+and<00:03:16.000><c> then</c><00:03:16.120><c> we</c><00:03:16.200><c> can</c><00:03:16.319><c> bring</c><00:03:16.560><c> that</c><00:03:16.680><c> up</c><00:03:16.879><c> here</c><00:03:17.120><c> and</c>
+
+00:03:17.309 --> 00:03:17.319 align:start position:0%
+and then we can bring that up here and
+ 
+
+00:03:17.319 --> 00:03:21.270 align:start position:0%
+and then we can bring that up here and
+add<00:03:17.519><c> the</c><00:03:17.640><c> two</c><00:03:17.879><c> equations</c><00:03:18.560><c> together</c><00:03:19.560><c> -2X</c><00:03:20.319><c> -</c><00:03:20.760><c> 1X</c>
+
+00:03:21.270 --> 00:03:21.280 align:start position:0%
+add the two equations together -2X - 1X
+ 
+
+00:03:21.280 --> 00:03:26.470 align:start position:0%
+add the two equations together -2X - 1X
+will<00:03:21.440><c> be</c><00:03:22.120><c> -3x</c><00:03:23.560><c> and5</c><00:03:24.560><c> -</c><00:03:24.920><c> 90</c><00:03:25.360><c> is-</c>
+
+00:03:26.470 --> 00:03:26.480 align:start position:0%
+will be -3x and5 - 90 is-
+ 
+
+00:03:26.480 --> 00:03:28.910 align:start position:0%
+will be -3x and5 - 90 is-
+1995<00:03:27.480><c> now</c><00:03:27.599><c> to</c><00:03:27.760><c> solve</c><00:03:28.000><c> for</c><00:03:28.159><c> x</c><00:03:28.400><c> let's</c><00:03:28.640><c> divide</c>
+
+00:03:28.910 --> 00:03:28.920 align:start position:0%
+1995 now to solve for x let's divide
+ 
+
+00:03:28.920 --> 00:03:31.750 align:start position:0%
+1995 now to solve for x let's divide
+both<00:03:29.120><c> sides</c><00:03:29.360><c> by</c><00:03:30.040><c> 3</c><00:03:30.760><c> on</c><00:03:30.879><c> the</c><00:03:31.000><c> left</c><00:03:31.239><c> hand</c><00:03:31.439><c> side</c><00:03:31.640><c> we</c>
+
+00:03:31.750 --> 00:03:31.760 align:start position:0%
+both sides by 3 on the left hand side we
+ 
+
+00:03:31.760 --> 00:03:35.030 align:start position:0%
+both sides by 3 on the left hand side we
+have<00:03:32.000><c> X</c><00:03:32.400><c> and</c><00:03:32.480><c> on</c><00:03:32.599><c> the</c><00:03:32.720><c> right</c><00:03:32.920><c> hand</c><00:03:33.080><c> side</c><00:03:33.560><c> -195</c><00:03:34.360><c> /</c>
+
+00:03:35.030 --> 00:03:35.040 align:start position:0%
+have X and on the right hand side -195 /
+ 
+
+00:03:35.040 --> 00:03:38.710 align:start position:0%
+have X and on the right hand side -195 /
+-3<00:03:35.560><c> is</c><00:03:35.879><c> POS</c><00:03:36.480><c> 65</c><00:03:37.480><c> so</c><00:03:37.680><c> now</c><00:03:37.879><c> we</c><00:03:38.080><c> found</c><00:03:38.439><c> this</c>
+
+00:03:38.710 --> 00:03:38.720 align:start position:0%
+-3 is POS 65 so now we found this
+ 
+
+00:03:38.720 --> 00:03:41.910 align:start position:0%
+-3 is POS 65 so now we found this
+unknown<00:03:39.239><c> angle</c><00:03:39.760><c> X</c><00:03:40.040><c> is</c><00:03:40.200><c> equal</c><00:03:40.480><c> to</c><00:03:40.720><c> 65</c><00:03:41.720><c> and</c><00:03:41.840><c> this</c>
+
+00:03:41.910 --> 00:03:41.920 align:start position:0%
+unknown angle X is equal to 65 and this
+ 
+
+00:03:41.920 --> 00:03:43.509 align:start position:0%
+unknown angle X is equal to 65 and this
+is<00:03:42.040><c> the</c><00:03:42.159><c> answer</c><00:03:42.400><c> to</c><00:03:42.560><c> our</c><00:03:42.799><c> question</c><00:03:43.200><c> let's</c><00:03:43.360><c> put</c>
+
+00:03:43.509 --> 00:03:43.519 align:start position:0%
+is the answer to our question let's put
+ 
+
+00:03:43.519 --> 00:03:46.149 align:start position:0%
+is the answer to our question let's put
+a<00:03:43.680><c> box</c><00:03:43.920><c> around</c><00:03:44.200><c> it</c><00:03:44.720><c> how</c><00:03:45.080><c> exciting</c><00:03:45.840><c> here's</c><00:03:46.040><c> the</c>
+
+00:03:46.149 --> 00:03:46.159 align:start position:0%
+a box around it how exciting here's the
+ 
+
+00:03:46.159 --> 00:03:47.589 align:start position:0%
+a box around it how exciting here's the
+next<00:03:46.400><c> problem</c><00:03:46.599><c> I</c><00:03:46.720><c> plan</c><00:03:46.879><c> on</c><00:03:47.000><c> working</c><00:03:47.239><c> on</c><00:03:47.400><c> if</c><00:03:47.519><c> you</c>
+
+00:03:47.589 --> 00:03:47.599 align:start position:0%
+next problem I plan on working on if you
+ 
+
+00:03:47.599 --> 00:03:49.270 align:start position:0%
+next problem I plan on working on if you
+guys<00:03:47.760><c> want</c><00:03:47.840><c> to</c><00:03:48.000><c> try</c><00:03:48.159><c> it</c><00:03:48.280><c> out</c><00:03:48.720><c> I'll</c><00:03:48.879><c> post</c><00:03:49.080><c> the</c>
+
+00:03:49.270 --> 00:03:49.280 align:start position:0%
+guys want to try it out I'll post the
+ 
+
+00:03:49.280 --> 00:03:51.429 align:start position:0%
+guys want to try it out I'll post the
+solution<00:03:49.680><c> as</c><00:03:49.760><c> soon</c><00:03:49.920><c> as</c><00:03:50.080><c> I</c><00:03:50.200><c> solve</c><00:03:50.519><c> it</c><00:03:51.080><c> how</c>
+
+00:03:51.429 --> 00:03:51.439 align:start position:0%
+solution as soon as I solve it how
+ 
+
+00:03:51.439 --> 00:03:54.439 align:start position:0%
+solution as soon as I solve it how
+exciting
+

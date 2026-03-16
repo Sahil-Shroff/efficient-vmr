@@ -4,7 +4,7 @@ import argparse
 import statistics
 from collections import Counter
 
-from .load_videommlu import load_raw_videommlu
+from .data import load_raw_video_rows
 from .utils import simple_tokenize
 
 
@@ -13,7 +13,7 @@ def main() -> None:
     parser.add_argument("--split", default="train")
     args = parser.parse_args()
 
-    raw_rows = load_raw_videommlu(split=args.split)
+    raw_rows = load_raw_video_rows(split=args.split)
     if not raw_rows:
         print("No records found.")
         return

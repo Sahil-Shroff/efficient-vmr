@@ -1,0 +1,272 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.280 --> 00:00:03.230 align:start position:0%
+ 
+let's<00:00:00.599><c> solve</c><00:00:01.079><c> this</c><00:00:01.400><c> complex</c><00:00:02.320><c> trigonometric</c>
+
+00:00:03.230 --> 00:00:03.240 align:start position:0%
+let's solve this complex trigonometric
+ 
+
+00:00:03.240 --> 00:00:06.829 align:start position:0%
+let's solve this complex trigonometric
+derivative<00:00:03.840><c> step</c><00:00:04.319><c> by</c><00:00:04.680><c> step</c><00:00:05.480><c> we'll</c><00:00:05.799><c> start</c><00:00:06.240><c> by</c>
+
+00:00:06.829 --> 00:00:06.839 align:start position:0%
+derivative step by step we'll start by
+ 
+
+00:00:06.839 --> 00:00:08.390 align:start position:0%
+derivative step by step we'll start by
+understanding<00:00:07.160><c> what</c><00:00:07.279><c> we're</c><00:00:07.480><c> trying</c><00:00:07.759><c> to</c>
+
+00:00:08.390 --> 00:00:08.400 align:start position:0%
+understanding what we're trying to
+ 
+
+00:00:08.400 --> 00:00:10.870 align:start position:0%
+understanding what we're trying to
+differentiate<00:00:09.400><c> our</c><00:00:09.760><c> problem</c><00:00:10.120><c> is</c><00:00:10.240><c> to</c><00:00:10.440><c> find</c><00:00:10.719><c> the</c>
+
+00:00:10.870 --> 00:00:10.880 align:start position:0%
+differentiate our problem is to find the
+ 
+
+00:00:10.880 --> 00:00:13.150 align:start position:0%
+differentiate our problem is to find the
+derivative<00:00:11.360><c> of</c><00:00:11.519><c> secant</c><00:00:12.480><c> inverse</c><00:00:12.880><c> of</c><00:00:13.000><c> the</c>
+
+00:00:13.150 --> 00:00:13.160 align:start position:0%
+derivative of secant inverse of the
+ 
+
+00:00:13.160 --> 00:00:18.189 align:start position:0%
+derivative of secant inverse of the
+quantity<00:00:13.759><c> 1</c><00:00:14.080><c> +</c><00:00:14.719><c> x^2</c><00:00:15.719><c> over</c><00:00:16.320><c> 1</c><00:00:16.680><c> -</c><00:00:17.199><c> x^2</c><00:00:17.960><c> with</c>
+
+00:00:18.189 --> 00:00:18.199 align:start position:0%
+quantity 1 + x^2 over 1 - x^2 with
+ 
+
+00:00:18.199 --> 00:00:21.630 align:start position:0%
+quantity 1 + x^2 over 1 - x^2 with
+respect<00:00:18.520><c> to</c><00:00:18.840><c> X</c><00:00:19.720><c> to</c><00:00:20.039><c> solve</c><00:00:20.480><c> this</c><00:00:21.000><c> we'll</c><00:00:21.199><c> use</c><00:00:21.359><c> a</c>
+
+00:00:21.630 --> 00:00:21.640 align:start position:0%
+respect to X to solve this we'll use a
+ 
+
+00:00:21.640 --> 00:00:24.830 align:start position:0%
+respect to X to solve this we'll use a
+clever<00:00:22.400><c> substitution</c><00:00:23.400><c> let's</c><00:00:23.640><c> let</c><00:00:24.000><c> xal</c>
+
+00:00:24.830 --> 00:00:24.840 align:start position:0%
+clever substitution let's let xal
+ 
+
+00:00:24.840 --> 00:00:28.669 align:start position:0%
+clever substitution let's let xal
+tangent<00:00:25.320><c> of</c><00:00:25.519><c> t</c><00:00:26.480><c> this</c><00:00:26.640><c> means</c><00:00:27.000><c> tal</c><00:00:28.000><c> inverse</c>
+
+00:00:28.669 --> 00:00:28.679 align:start position:0%
+tangent of t this means tal inverse
+ 
+
+00:00:28.679 --> 00:00:31.630 align:start position:0%
+tangent of t this means tal inverse
+tangent<00:00:29.119><c> of</c><00:00:29.279><c> x</c><00:00:30.119><c> our</c><00:00:30.439><c> first</c><00:00:30.759><c> step</c><00:00:31.080><c> is</c><00:00:31.199><c> to</c><00:00:31.400><c> use</c>
+
+00:00:31.630 --> 00:00:31.640 align:start position:0%
+tangent of x our first step is to use
+ 
+
+00:00:31.640 --> 00:00:34.510 align:start position:0%
+tangent of x our first step is to use
+the<00:00:31.800><c> relationship</c><00:00:32.480><c> between</c><00:00:32.960><c> secant</c><00:00:33.800><c> inverse</c>
+
+00:00:34.510 --> 00:00:34.520 align:start position:0%
+the relationship between secant inverse
+ 
+
+00:00:34.520 --> 00:00:37.990 align:start position:0%
+the relationship between secant inverse
+and<00:00:34.800><c> cosine</c><00:00:35.480><c> inverse</c><00:00:36.480><c> remember</c><00:00:36.960><c> that</c><00:00:37.200><c> secant</c>
+
+00:00:37.990 --> 00:00:38.000 align:start position:0%
+and cosine inverse remember that secant
+ 
+
+00:00:38.000 --> 00:00:42.670 align:start position:0%
+and cosine inverse remember that secant
+inverse<00:00:38.520><c> of</c><00:00:38.760><c> Y</c><00:00:39.120><c> =</c><00:00:39.640><c> cosine</c><00:00:40.079><c> inverse</c><00:00:40.920><c> of</c><00:00:41.079><c> 1</c><00:00:41.320><c> /</c><00:00:41.680><c> y</c>
+
+00:00:42.670 --> 00:00:42.680 align:start position:0%
+inverse of Y = cosine inverse of 1 / y
+ 
+
+00:00:42.680 --> 00:00:46.750 align:start position:0%
+inverse of Y = cosine inverse of 1 / y
+now<00:00:43.239><c> let's</c><00:00:43.559><c> substitute</c><00:00:44.280><c> X</c><00:00:44.680><c> =</c><00:00:45.239><c> tangent</c><00:00:45.960><c> T</c><00:00:46.440><c> into</c>
+
+00:00:46.750 --> 00:00:46.760 align:start position:0%
+now let's substitute X = tangent T into
+ 
+
+00:00:46.760 --> 00:00:49.750 align:start position:0%
+now let's substitute X = tangent T into
+our<00:00:47.239><c> expression</c><00:00:48.239><c> this</c><00:00:48.480><c> gives</c><00:00:48.719><c> us</c><00:00:49.039><c> cosine</c>
+
+00:00:49.750 --> 00:00:49.760 align:start position:0%
+our expression this gives us cosine
+ 
+
+00:00:49.760 --> 00:00:54.229 align:start position:0%
+our expression this gives us cosine
+inverse<00:00:50.399><c> of</c><00:00:50.640><c> 1</c><00:00:50.960><c> -</c><00:00:51.399><c> tangent</c><00:00:51.879><c> 2</c><00:00:52.280><c> T</c><00:00:52.920><c> over</c><00:00:53.440><c> 1</c><00:00:53.800><c> +</c>
+
+00:00:54.229 --> 00:00:54.239 align:start position:0%
+inverse of 1 - tangent 2 T over 1 +
+ 
+
+00:00:54.239 --> 00:00:56.990 align:start position:0%
+inverse of 1 - tangent 2 T over 1 +
+tangent<00:00:54.680><c> 2</c><00:00:55.120><c> T</c><00:00:56.079><c> here's</c><00:00:56.359><c> where</c><00:00:56.520><c> we</c><00:00:56.640><c> need</c><00:00:56.800><c> to</c>
+
+00:00:56.990 --> 00:00:57.000 align:start position:0%
+tangent 2 T here's where we need to
+ 
+
+00:00:57.000 --> 00:01:00.229 align:start position:0%
+tangent 2 T here's where we need to
+recall<00:00:57.559><c> a</c><00:00:57.840><c> key</c><00:00:58.160><c> trigonometric</c><00:00:58.920><c> identity</c><00:01:00.039><c> the</c>
+
+00:01:00.229 --> 00:01:00.239 align:start position:0%
+recall a key trigonometric identity the
+ 
+
+00:01:00.239 --> 00:01:05.429 align:start position:0%
+recall a key trigonometric identity the
+expression<00:01:01.000><c> 1</c><00:01:01.280><c> -</c><00:01:01.760><c> Tang</c><00:01:02.239><c> 2</c><00:01:02.800><c> T</c><00:01:03.480><c> over</c><00:01:03.960><c> 1</c><00:01:04.280><c> +</c><00:01:05.040><c> tangent</c>
+
+00:01:05.429 --> 00:01:05.439 align:start position:0%
+expression 1 - Tang 2 T over 1 + tangent
+ 
+
+00:01:05.439 --> 00:01:09.190 align:start position:0%
+expression 1 - Tang 2 T over 1 + tangent
+2<00:01:05.760><c> T</c><00:01:06.119><c> is</c><00:01:06.360><c> equal</c><00:01:06.680><c> to</c><00:01:06.960><c> cosine</c><00:01:07.360><c> of</c><00:01:07.960><c> 2T</c><00:01:08.960><c> this</c>
+
+00:01:09.190 --> 00:01:09.200 align:start position:0%
+2 T is equal to cosine of 2T this
+ 
+
+00:01:09.200 --> 00:01:11.310 align:start position:0%
+2 T is equal to cosine of 2T this
+simplifies<00:01:09.759><c> our</c><00:01:10.000><c> expression</c><00:01:10.520><c> to</c><00:01:10.920><c> cosine</c>
+
+00:01:11.310 --> 00:01:11.320 align:start position:0%
+simplifies our expression to cosine
+ 
+
+00:01:11.320 --> 00:01:16.070 align:start position:0%
+simplifies our expression to cosine
+inverse<00:01:11.720><c> of</c><00:01:12.040><c> cosine</c><00:01:12.520><c> 2T</c><00:01:13.520><c> which</c><00:01:13.840><c> equals</c><00:01:14.720><c> 2T</c><00:01:15.720><c> now</c>
+
+00:01:16.070 --> 00:01:16.080 align:start position:0%
+inverse of cosine 2T which equals 2T now
+ 
+
+00:01:16.080 --> 00:01:18.429 align:start position:0%
+inverse of cosine 2T which equals 2T now
+we<00:01:16.240><c> need</c><00:01:16.439><c> to</c><00:01:16.640><c> differentiate</c><00:01:17.280><c> 2</c><00:01:17.560><c> t</c><00:01:18.200><c> with</c>
+
+00:01:18.429 --> 00:01:18.439 align:start position:0%
+we need to differentiate 2 t with
+ 
+
+00:01:18.439 --> 00:01:21.910 align:start position:0%
+we need to differentiate 2 t with
+respect<00:01:18.759><c> to</c><00:01:19.079><c> X</c><00:01:20.079><c> remember</c><00:01:20.640><c> that</c><00:01:21.119><c> t</c><00:01:21.479><c> equals</c>
+
+00:01:21.910 --> 00:01:21.920 align:start position:0%
+respect to X remember that t equals
+ 
+
+00:01:21.920 --> 00:01:24.069 align:start position:0%
+respect to X remember that t equals
+inverse<00:01:22.400><c> tangent</c><00:01:22.799><c> of</c><00:01:22.960><c> X</c><00:01:23.280><c> so</c><00:01:23.439><c> we'll</c><00:01:23.640><c> use</c><00:01:23.880><c> the</c>
+
+00:01:24.069 --> 00:01:24.079 align:start position:0%
+inverse tangent of X so we'll use the
+ 
+
+00:01:24.079 --> 00:01:26.870 align:start position:0%
+inverse tangent of X so we'll use the
+chain<00:01:24.439><c> rule</c><00:01:25.320><c> the</c><00:01:25.479><c> derivative</c><00:01:26.079><c> of</c><00:01:26.360><c> inverse</c>
+
+00:01:26.870 --> 00:01:26.880 align:start position:0%
+chain rule the derivative of inverse
+ 
+
+00:01:26.880 --> 00:01:33.830 align:start position:0%
+chain rule the derivative of inverse
+tangent<00:01:27.360><c> of</c><00:01:27.560><c> X</c><00:01:28.439><c> is</c><00:01:28.799><c> 1/</c><00:01:30.040><c> 1</c><00:01:30.400><c> +</c><00:01:31.280><c> x^2</c><00:01:32.439><c> therefore</c><00:01:33.439><c> our</c>
+
+00:01:33.830 --> 00:01:33.840 align:start position:0%
+tangent of X is 1/ 1 + x^2 therefore our
+ 
+
+00:01:33.840 --> 00:01:38.030 align:start position:0%
+tangent of X is 1/ 1 + x^2 therefore our
+final<00:01:34.280><c> answer</c><00:01:34.720><c> is</c><00:01:34.960><c> 2</c><00:01:35.439><c> over</c><00:01:35.759><c> 1</c><00:01:36.079><c> +</c><00:01:36.680><c> x^2</c><00:01:37.680><c> let's</c>
+
+00:01:38.030 --> 00:01:38.040 align:start position:0%
+final answer is 2 over 1 + x^2 let's
+ 
+
+00:01:38.040 --> 00:01:41.149 align:start position:0%
+final answer is 2 over 1 + x^2 let's
+verify<00:01:38.520><c> this</c><00:01:38.720><c> makes</c><00:01:39.119><c> sense</c><00:01:40.119><c> our</c><00:01:40.479><c> answer</c><00:01:40.799><c> is</c>
+
+00:01:41.149 --> 00:01:41.159 align:start position:0%
+verify this makes sense our answer is
+ 
+
+00:01:41.159 --> 00:01:44.950 align:start position:0%
+verify this makes sense our answer is
+always<00:01:41.560><c> defined</c><00:01:42.119><c> except</c><00:01:42.560><c> when</c><00:01:42.799><c> x</c><00:01:43.200><c> =</c><00:01:43.720><c> +</c><00:01:44.360><c> or</c>
+
+00:01:44.950 --> 00:01:44.960 align:start position:0%
+always defined except when x = + or
+ 
+
+00:01:44.960 --> 00:01:47.950 align:start position:0%
+always defined except when x = + or
+minus1<00:01:45.960><c> which</c><00:01:46.079><c> is</c><00:01:46.360><c> exactly</c><00:01:47.000><c> where</c><00:01:47.680><c> our</c>
+
+00:01:47.950 --> 00:01:47.960 align:start position:0%
+minus1 which is exactly where our
+ 
+
+00:01:47.960 --> 00:01:50.389 align:start position:0%
+minus1 which is exactly where our
+original<00:01:48.479><c> expression</c><00:01:48.960><c> would</c><00:01:49.119><c> be</c><00:01:49.399><c> undefined</c>
+
+00:01:50.389 --> 00:01:50.399 align:start position:0%
+original expression would be undefined
+ 
+
+00:01:50.399 --> 00:01:53.429 align:start position:0%
+original expression would be undefined
+due<00:01:50.600><c> to</c><00:01:50.799><c> division</c><00:01:51.320><c> by</c><00:01:51.560><c> 0o</c><00:01:52.079><c> in</c><00:01:52.240><c> the</c><00:01:52.439><c> denominator</c>
+
+00:01:53.429 --> 00:01:53.439 align:start position:0%
+due to division by 0o in the denominator
+ 
+
+00:01:53.439 --> 00:01:57.119 align:start position:0%
+due to division by 0o in the denominator
+1us<00:01:54.119><c> x^2</c>
+

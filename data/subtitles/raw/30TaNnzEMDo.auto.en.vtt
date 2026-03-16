@@ -1,0 +1,232 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.090 align:start position:0%
+ 
+here's<00:00:00.659><c> my</c><00:00:00.840><c> favorite</c><00:00:00.960><c> diagram</c><00:00:01.439><c> for</c><00:00:01.740><c> finding</c>
+
+00:00:02.090 --> 00:00:02.100 align:start position:0%
+here's my favorite diagram for finding
+ 
+
+00:00:02.100 --> 00:00:04.910 align:start position:0%
+here's my favorite diagram for finding
+the<00:00:02.220><c> sum</c><00:00:02.399><c> of</c><00:00:02.580><c> the</c><00:00:02.820><c> first</c><00:00:03.000><c> n</c><00:00:03.419><c> squares</c><00:00:04.020><c> imagine</c><00:00:04.560><c> a</c>
+
+00:00:04.910 --> 00:00:04.920 align:start position:0%
+the sum of the first n squares imagine a
+ 
+
+00:00:04.920 --> 00:00:07.010 align:start position:0%
+the sum of the first n squares imagine a
+stack<00:00:05.220><c> of</c><00:00:05.339><c> squares</c><00:00:05.759><c> is</c><00:00:05.940><c> pictured</c><00:00:06.359><c> here</c><00:00:06.540><c> we</c><00:00:06.899><c> see</c>
+
+00:00:07.010 --> 00:00:07.020 align:start position:0%
+stack of squares is pictured here we see
+ 
+
+00:00:07.020 --> 00:00:08.629 align:start position:0%
+stack of squares is pictured here we see
+one<00:00:07.259><c> squared</c><00:00:07.560><c> plus</c><00:00:07.680><c> 2</c><00:00:07.919><c> squared</c><00:00:08.280><c> plus</c><00:00:08.460><c> 3</c>
+
+00:00:08.629 --> 00:00:08.639 align:start position:0%
+one squared plus 2 squared plus 3
+ 
+
+00:00:08.639 --> 00:00:10.730 align:start position:0%
+one squared plus 2 squared plus 3
+squared<00:00:09.120><c> and</c><00:00:09.300><c> so</c><00:00:09.480><c> on</c><00:00:09.599><c> up</c><00:00:09.900><c> to</c><00:00:10.019><c> N</c><00:00:10.139><c> squared</c><00:00:10.559><c> where</c>
+
+00:00:10.730 --> 00:00:10.740 align:start position:0%
+squared and so on up to N squared where
+ 
+
+00:00:10.740 --> 00:00:12.770 align:start position:0%
+squared and so on up to N squared where
+in<00:00:10.920><c> this</c><00:00:11.040><c> case</c><00:00:11.160><c> we've</c><00:00:11.400><c> pictured</c><00:00:11.700><c> n</c><00:00:11.820><c> equals</c><00:00:12.179><c> 4.</c>
+
+00:00:12.770 --> 00:00:12.780 align:start position:0%
+in this case we've pictured n equals 4.
+ 
+
+00:00:12.780 --> 00:00:15.110 align:start position:0%
+in this case we've pictured n equals 4.
+now<00:00:12.960><c> we</c><00:00:13.200><c> create</c><00:00:13.380><c> a</c><00:00:13.860><c> tower</c><00:00:14.040><c> using</c><00:00:14.400><c> the</c><00:00:14.580><c> L-shaped</c>
+
+00:00:15.110 --> 00:00:15.120 align:start position:0%
+now we create a tower using the L-shaped
+ 
+
+00:00:15.120 --> 00:00:17.810 align:start position:0%
+now we create a tower using the L-shaped
+gnomons<00:00:15.599><c> we</c><00:00:16.080><c> have</c><00:00:16.199><c> one</c><00:00:16.619><c> row</c><00:00:16.980><c> with</c><00:00:17.160><c> two</c><00:00:17.279><c> n</c><00:00:17.460><c> minus</c>
+
+00:00:17.810 --> 00:00:17.820 align:start position:0%
+gnomons we have one row with two n minus
+ 
+
+00:00:17.820 --> 00:00:20.029 align:start position:0%
+gnomons we have one row with two n minus
+one<00:00:17.940><c> squares</c><00:00:18.420><c> two</c><00:00:18.900><c> rows</c><00:00:19.260><c> with</c><00:00:19.440><c> two</c><00:00:19.560><c> n</c><00:00:19.740><c> minus</c>
+
+00:00:20.029 --> 00:00:20.039 align:start position:0%
+one squares two rows with two n minus
+ 
+
+00:00:20.039 --> 00:00:22.070 align:start position:0%
+one squares two rows with two n minus
+three<00:00:20.160><c> squares</c><00:00:20.640><c> and</c><00:00:21.000><c> so</c><00:00:21.119><c> on</c><00:00:21.300><c> all</c><00:00:21.660><c> the</c><00:00:21.779><c> way</c><00:00:21.840><c> down</c>
+
+00:00:22.070 --> 00:00:22.080 align:start position:0%
+three squares and so on all the way down
+ 
+
+00:00:22.080 --> 00:00:24.529 align:start position:0%
+three squares and so on all the way down
+until<00:00:22.320><c> we</c><00:00:22.619><c> have</c><00:00:22.680><c> n</c><00:00:22.920><c> rows</c><00:00:23.279><c> of</c><00:00:23.400><c> one</c><00:00:23.640><c> square</c><00:00:23.939><c> then</c>
+
+00:00:24.529 --> 00:00:24.539 align:start position:0%
+until we have n rows of one square then
+ 
+
+00:00:24.539 --> 00:00:26.810 align:start position:0%
+until we have n rows of one square then
+we<00:00:24.779><c> can</c><00:00:24.900><c> use</c><00:00:25.140><c> one</c><00:00:25.619><c> stack</c><00:00:25.980><c> of</c><00:00:26.160><c> the</c><00:00:26.279><c> sum</c><00:00:26.460><c> of</c><00:00:26.640><c> the</c>
+
+00:00:26.810 --> 00:00:26.820 align:start position:0%
+we can use one stack of the sum of the
+ 
+
+00:00:26.820 --> 00:00:29.029 align:start position:0%
+we can use one stack of the sum of the
+first<00:00:26.939><c> n</c><00:00:27.240><c> squares</c><00:00:27.720><c> on</c><00:00:28.019><c> the</c><00:00:28.140><c> left</c><00:00:28.320><c> side</c><00:00:28.560><c> like</c>
+
+00:00:29.029 --> 00:00:29.039 align:start position:0%
+first n squares on the left side like
+ 
+
+00:00:29.039 --> 00:00:31.250 align:start position:0%
+first n squares on the left side like
+this<00:00:29.340><c> and</c><00:00:29.699><c> we</c><00:00:29.880><c> can</c><00:00:30.000><c> use</c><00:00:30.180><c> another</c><00:00:30.480><c> stack</c><00:00:30.900><c> of</c><00:00:31.140><c> the</c>
+
+00:00:31.250 --> 00:00:31.260 align:start position:0%
+this and we can use another stack of the
+ 
+
+00:00:31.260 --> 00:00:33.229 align:start position:0%
+this and we can use another stack of the
+sum<00:00:31.380><c> of</c><00:00:31.560><c> the</c><00:00:31.740><c> first</c><00:00:31.859><c> n</c><00:00:32.220><c> squares</c><00:00:32.700><c> on</c><00:00:33.000><c> the</c><00:00:33.120><c> right</c>
+
+00:00:33.229 --> 00:00:33.239 align:start position:0%
+sum of the first n squares on the right
+ 
+
+00:00:33.239 --> 00:00:35.330 align:start position:0%
+sum of the first n squares on the right
+side<00:00:33.420><c> of</c><00:00:33.600><c> the</c><00:00:33.780><c> tower</c><00:00:33.960><c> like</c><00:00:34.320><c> this</c><00:00:34.620><c> to</c><00:00:34.920><c> create</c><00:00:35.100><c> a</c>
+
+00:00:35.330 --> 00:00:35.340 align:start position:0%
+side of the tower like this to create a
+ 
+
+00:00:35.340 --> 00:00:37.430 align:start position:0%
+side of the tower like this to create a
+rectangular<00:00:35.820><c> diagram</c><00:00:36.300><c> we've</c><00:00:37.020><c> used</c><00:00:37.140><c> three</c>
+
+00:00:37.430 --> 00:00:37.440 align:start position:0%
+rectangular diagram we've used three
+ 
+
+00:00:37.440 --> 00:00:39.049 align:start position:0%
+rectangular diagram we've used three
+copies<00:00:37.800><c> of</c><00:00:37.980><c> the</c><00:00:38.100><c> sum</c><00:00:38.219><c> of</c><00:00:38.340><c> the</c><00:00:38.460><c> squares</c><00:00:38.820><c> to</c>
+
+00:00:39.049 --> 00:00:39.059 align:start position:0%
+copies of the sum of the squares to
+ 
+
+00:00:39.059 --> 00:00:40.970 align:start position:0%
+copies of the sum of the squares to
+create<00:00:39.180><c> this</c><00:00:39.540><c> rectangular</c><00:00:40.020><c> diagram</c><00:00:40.500><c> which</c>
+
+00:00:40.970 --> 00:00:40.980 align:start position:0%
+create this rectangular diagram which
+ 
+
+00:00:40.980 --> 00:00:42.889 align:start position:0%
+create this rectangular diagram which
+has<00:00:41.100><c> a</c><00:00:41.280><c> width</c><00:00:41.460><c> of</c><00:00:41.579><c> two</c><00:00:41.760><c> n</c><00:00:41.879><c> plus</c><00:00:42.120><c> one</c><00:00:42.300><c> and</c><00:00:42.780><c> a</c>
+
+00:00:42.889 --> 00:00:42.899 align:start position:0%
+has a width of two n plus one and a
+ 
+
+00:00:42.899 --> 00:00:44.330 align:start position:0%
+has a width of two n plus one and a
+length<00:00:43.200><c> of</c><00:00:43.320><c> the</c><00:00:43.440><c> sum</c><00:00:43.559><c> of</c><00:00:43.739><c> the</c><00:00:43.860><c> first</c><00:00:44.040><c> n</c>
+
+00:00:44.330 --> 00:00:44.340 align:start position:0%
+length of the sum of the first n
+ 
+
+00:00:44.340 --> 00:00:46.430 align:start position:0%
+length of the sum of the first n
+positive<00:00:44.760><c> integers</c><00:00:45.180><c> so</c><00:00:45.660><c> three</c><00:00:45.899><c> times</c><00:00:46.079><c> the</c><00:00:46.260><c> sum</c>
+
+00:00:46.430 --> 00:00:46.440 align:start position:0%
+positive integers so three times the sum
+ 
+
+00:00:46.440 --> 00:00:48.350 align:start position:0%
+positive integers so three times the sum
+of<00:00:46.559><c> the</c><00:00:46.739><c> first</c><00:00:46.860><c> n</c><00:00:47.100><c> positive</c><00:00:47.520><c> squares</c><00:00:47.940><c> is</c><00:00:48.180><c> equal</c>
+
+00:00:48.350 --> 00:00:48.360 align:start position:0%
+of the first n positive squares is equal
+ 
+
+00:00:48.360 --> 00:00:49.970 align:start position:0%
+of the first n positive squares is equal
+to<00:00:48.539><c> the</c><00:00:48.780><c> sum</c><00:00:48.960><c> of</c><00:00:49.140><c> the</c><00:00:49.260><c> first</c><00:00:49.379><c> n</c><00:00:49.620><c> positive</c>
+
+00:00:49.970 --> 00:00:49.980 align:start position:0%
+to the sum of the first n positive
+ 
+
+00:00:49.980 --> 00:00:52.010 align:start position:0%
+to the sum of the first n positive
+integers<00:00:50.399><c> times</c><00:00:50.579><c> two</c><00:00:50.760><c> n</c><00:00:50.940><c> plus</c><00:00:51.120><c> one</c><00:00:51.360><c> we</c><00:00:51.719><c> apply</c>
+
+00:00:52.010 --> 00:00:52.020 align:start position:0%
+integers times two n plus one we apply
+ 
+
+00:00:52.020 --> 00:00:53.510 align:start position:0%
+integers times two n plus one we apply
+the<00:00:52.140><c> formula</c><00:00:52.500><c> for</c><00:00:52.620><c> the</c><00:00:52.739><c> sum</c><00:00:52.860><c> of</c><00:00:52.980><c> the</c><00:00:53.100><c> first</c><00:00:53.280><c> n</c>
+
+00:00:53.510 --> 00:00:53.520 align:start position:0%
+the formula for the sum of the first n
+ 
+
+00:00:53.520 --> 00:00:55.189 align:start position:0%
+the formula for the sum of the first n
+positive<00:00:53.940><c> integers</c><00:00:54.300><c> to</c><00:00:54.539><c> see</c><00:00:54.600><c> that</c><00:00:54.780><c> the</c><00:00:54.899><c> sum</c><00:00:55.020><c> of</c>
+
+00:00:55.189 --> 00:00:55.199 align:start position:0%
+positive integers to see that the sum of
+ 
+
+00:00:55.199 --> 00:00:57.410 align:start position:0%
+positive integers to see that the sum of
+the<00:00:55.320><c> first</c><00:00:55.500><c> n</c><00:00:55.800><c> squares</c><00:00:56.219><c> is</c><00:00:56.460><c> n</c><00:00:56.640><c> times</c><00:00:56.820><c> n</c><00:00:57.059><c> plus</c><00:00:57.180><c> 1</c>
+
+00:00:57.410 --> 00:00:57.420 align:start position:0%
+the first n squares is n times n plus 1
+ 
+
+00:00:57.420 --> 00:01:01.219 align:start position:0%
+the first n squares is n times n plus 1
+times<00:00:57.600><c> 2N</c><00:00:57.960><c> plus</c><00:00:58.140><c> one</c><00:00:58.379><c> divided</c><00:00:58.860><c> by</c><00:00:58.980><c> six</c>
+

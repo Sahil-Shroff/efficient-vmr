@@ -1,0 +1,264 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.280 --> 00:00:02.830 align:start position:0%
+ 
+let's<00:00:00.599><c> find</c><00:00:00.880><c> the</c><00:00:01.079><c> derivative</c><00:00:01.800><c> of</c><00:00:02.040><c> the</c><00:00:02.320><c> natural</c>
+
+00:00:02.830 --> 00:00:02.840 align:start position:0%
+let's find the derivative of the natural
+ 
+
+00:00:02.840 --> 00:00:05.789 align:start position:0%
+let's find the derivative of the natural
+logarithm<00:00:03.439><c> of</c><00:00:03.600><c> the</c><00:00:03.840><c> square</c><00:00:04.240><c> &lt;</c><00:00:04.359><c> TK</c><00:00:04.520><c> of</c><00:00:04.720><c> X</c><00:00:05.600><c> we</c>
+
+00:00:05.789 --> 00:00:05.799 align:start position:0%
+logarithm of the square &lt; TK of X we
+ 
+
+00:00:05.799 --> 00:00:09.470 align:start position:0%
+logarithm of the square &lt; TK of X we
+start<00:00:06.200><c> with</c><00:00:06.480><c> Ln</c><00:00:07.120><c> of</c><00:00:07.439><c> square</c><00:00:07.799><c> &lt;</c><00:00:07.919><c> TK</c><00:00:08.120><c> of</c><00:00:08.320><c> x</c><00:00:09.200><c> to</c>
+
+00:00:09.470 --> 00:00:09.480 align:start position:0%
+start with Ln of square &lt; TK of x to
+ 
+
+00:00:09.480 --> 00:00:11.669 align:start position:0%
+start with Ln of square &lt; TK of x to
+solve<00:00:09.960><c> this</c><00:00:10.440><c> we'll</c><00:00:10.639><c> need</c><00:00:10.800><c> to</c><00:00:10.960><c> use</c><00:00:11.160><c> the</c><00:00:11.320><c> chain</c>
+
+00:00:11.669 --> 00:00:11.679 align:start position:0%
+solve this we'll need to use the chain
+ 
+
+00:00:11.679 --> 00:00:14.310 align:start position:0%
+solve this we'll need to use the chain
+rule<00:00:12.559><c> the</c><00:00:12.719><c> chain</c><00:00:13.080><c> rule</c><00:00:13.440><c> tells</c><00:00:13.719><c> us</c><00:00:13.960><c> that</c><00:00:14.160><c> when</c>
+
+00:00:14.310 --> 00:00:14.320 align:start position:0%
+rule the chain rule tells us that when
+ 
+
+00:00:14.320 --> 00:00:16.430 align:start position:0%
+rule the chain rule tells us that when
+we<00:00:14.480><c> have</c><00:00:14.599><c> a</c><00:00:14.839><c> composite</c><00:00:15.519><c> function</c><00:00:15.920><c> like</c><00:00:16.279><c> this</c>
+
+00:00:16.430 --> 00:00:16.440 align:start position:0%
+we have a composite function like this
+ 
+
+00:00:16.440 --> 00:00:19.390 align:start position:0%
+we have a composite function like this
+one<00:00:17.400><c> we</c><00:00:17.560><c> need</c><00:00:17.800><c> to</c><00:00:18.039><c> multiply</c><00:00:18.680><c> the</c><00:00:18.840><c> derivative</c>
+
+00:00:19.390 --> 00:00:19.400 align:start position:0%
+one we need to multiply the derivative
+ 
+
+00:00:19.400 --> 00:00:21.710 align:start position:0%
+one we need to multiply the derivative
+of<00:00:19.520><c> the</c><00:00:19.680><c> outer</c><00:00:20.039><c> function</c><00:00:20.519><c> by</c><00:00:20.720><c> the</c><00:00:20.920><c> derivative</c>
+
+00:00:21.710 --> 00:00:21.720 align:start position:0%
+of the outer function by the derivative
+ 
+
+00:00:21.720 --> 00:00:24.509 align:start position:0%
+of the outer function by the derivative
+of<00:00:21.840><c> the</c><00:00:21.960><c> inner</c><00:00:22.279><c> function</c><00:00:23.199><c> in</c><00:00:23.320><c> our</c><00:00:23.640><c> case</c><00:00:24.359><c> the</c>
+
+00:00:24.509 --> 00:00:24.519 align:start position:0%
+of the inner function in our case the
+ 
+
+00:00:24.519 --> 00:00:27.790 align:start position:0%
+of the inner function in our case the
+outer<00:00:24.920><c> function</c><00:00:25.519><c> is</c><00:00:25.720><c> the</c><00:00:26.000><c> natural</c><00:00:26.800><c> logarithm</c>
+
+00:00:27.790 --> 00:00:27.800 align:start position:0%
+outer function is the natural logarithm
+ 
+
+00:00:27.800 --> 00:00:29.990 align:start position:0%
+outer function is the natural logarithm
+and<00:00:28.000><c> the</c><00:00:28.119><c> inner</c><00:00:28.519><c> function</c><00:00:28.920><c> is</c><00:00:29.119><c> the</c><00:00:29.320><c> square</c>
+
+00:00:29.990 --> 00:00:30.000 align:start position:0%
+and the inner function is the square
+ 
+
+00:00:30.000 --> 00:00:34.310 align:start position:0%
+and the inner function is the square
+root<00:00:30.279><c> of</c><00:00:30.439><c> x</c><00:00:31.359><c> remember</c><00:00:32.320><c> the</c><00:00:32.480><c> derivative</c><00:00:32.960><c> of</c><00:00:33.320><c> Ln</c>
+
+00:00:34.310 --> 00:00:34.320 align:start position:0%
+root of x remember the derivative of Ln
+ 
+
+00:00:34.320 --> 00:00:37.950 align:start position:0%
+root of x remember the derivative of Ln
+X<00:00:34.680><c> is</c><00:00:34.920><c> 1</c><00:00:35.399><c> /x</c><00:00:36.399><c> let's</c><00:00:36.680><c> apply</c><00:00:37.000><c> the</c><00:00:37.120><c> chain</c><00:00:37.480><c> rule</c>
+
+00:00:37.950 --> 00:00:37.960 align:start position:0%
+X is 1 /x let's apply the chain rule
+ 
+
+00:00:37.960 --> 00:00:40.869 align:start position:0%
+X is 1 /x let's apply the chain rule
+step<00:00:38.280><c> by</c><00:00:38.559><c> step</c><00:00:39.480><c> first</c><00:00:39.800><c> we</c><00:00:40.000><c> write</c><00:00:40.280><c> one</c><00:00:40.520><c> over</c><00:00:40.760><c> the</c>
+
+00:00:40.869 --> 00:00:40.879 align:start position:0%
+step by step first we write one over the
+ 
+
+00:00:40.879 --> 00:00:44.549 align:start position:0%
+step by step first we write one over the
+inner<00:00:41.239><c> function</c><00:00:42.079><c> which</c><00:00:42.200><c> is</c><00:00:42.480><c> square</c><00:00:43.039><c> &lt;</c><00:00:43.200><c> TK</c><00:00:43.360><c> of</c><00:00:43.559><c> X</c>
+
+00:00:44.549 --> 00:00:44.559 align:start position:0%
+inner function which is square &lt; TK of X
+ 
+
+00:00:44.559 --> 00:00:47.430 align:start position:0%
+inner function which is square &lt; TK of X
+then<00:00:45.039><c> multiply</c><00:00:45.800><c> by</c><00:00:46.320><c> the</c><00:00:46.520><c> derivative</c><00:00:47.199><c> of</c><00:00:47.320><c> the</c>
+
+00:00:47.430 --> 00:00:47.440 align:start position:0%
+then multiply by the derivative of the
+ 
+
+00:00:47.440 --> 00:00:50.709 align:start position:0%
+then multiply by the derivative of the
+inner<00:00:47.960><c> function</c><00:00:48.960><c> now</c><00:00:49.600><c> we</c><00:00:49.760><c> need</c><00:00:49.960><c> to</c><00:00:50.199><c> find</c><00:00:50.520><c> the</c>
+
+00:00:50.709 --> 00:00:50.719 align:start position:0%
+inner function now we need to find the
+ 
+
+00:00:50.719 --> 00:00:53.430 align:start position:0%
+inner function now we need to find the
+derivative<00:00:51.160><c> of</c><00:00:51.399><c> square</c><00:00:51.719><c> otk</c><00:00:52.000><c> of</c><00:00:52.160><c> X</c><00:00:53.039><c> remember</c>
+
+00:00:53.430 --> 00:00:53.440 align:start position:0%
+derivative of square otk of X remember
+ 
+
+00:00:53.440 --> 00:00:56.229 align:start position:0%
+derivative of square otk of X remember
+that<00:00:53.680><c> square</c><00:00:54.120><c> &lt;</c><00:00:54.239><c> TK</c><00:00:54.359><c> of</c><00:00:54.480><c> X</c><00:00:54.920><c> is</c><00:00:55.120><c> the</c><00:00:55.280><c> same</c><00:00:55.640><c> as</c><00:00:55.920><c> x</c>
+
+00:00:56.229 --> 00:00:56.239 align:start position:0%
+that square &lt; TK of X is the same as x
+ 
+
+00:00:56.239 --> 00:00:59.310 align:start position:0%
+that square &lt; TK of X is the same as x
+to<00:00:56.399><c> the</c><00:00:56.559><c> 1/2</c><00:00:57.160><c> power</c><00:00:58.039><c> the</c><00:00:58.199><c> derivative</c><00:00:58.719><c> of</c><00:00:58.879><c> x</c><00:00:59.160><c> to</c>
+
+00:00:59.310 --> 00:00:59.320 align:start position:0%
+to the 1/2 power the derivative of x to
+ 
+
+00:00:59.320 --> 00:01:04.270 align:start position:0%
+to the 1/2 power the derivative of x to
+the<00:00:59.440><c> 1/2</c><00:01:00.120><c> is2</c><00:01:00.920><c> *</c><00:01:01.359><c> x^</c><00:01:02.239><c> -2</c><00:01:03.000><c> power</c><00:01:04.000><c> which</c>
+
+00:01:04.270 --> 00:01:04.280 align:start position:0%
+the 1/2 is2 * x^ -2 power which
+ 
+
+00:01:04.280 --> 00:01:07.630 align:start position:0%
+the 1/2 is2 * x^ -2 power which
+simplifies<00:01:04.879><c> to</c><00:01:05.080><c> 1</c><00:01:05.239><c> /</c><00:01:05.519><c> 2</c><00:01:06.080><c> &lt;</c><00:01:06.200><c> TK</c><00:01:06.479><c> X</c><00:01:07.360><c> let's</c>
+
+00:01:07.630 --> 00:01:07.640 align:start position:0%
+simplifies to 1 / 2 &lt; TK X let's
+ 
+
+00:01:07.640 --> 00:01:09.990 align:start position:0%
+simplifies to 1 / 2 &lt; TK X let's
+substitute<00:01:08.280><c> this</c><00:01:08.520><c> back</c><00:01:08.720><c> into</c><00:01:09.000><c> our</c><00:01:09.200><c> chain</c><00:01:09.560><c> rule</c>
+
+00:01:09.990 --> 00:01:10.000 align:start position:0%
+substitute this back into our chain rule
+ 
+
+00:01:10.000 --> 00:01:16.510 align:start position:0%
+substitute this back into our chain rule
+equation<00:01:11.000><c> we</c><00:01:11.159><c> get</c><00:01:11.439><c> 1</c><00:01:12.400><c> &lt;</c><00:01:12.520><c> TK</c><00:01:12.920><c> x</c><00:01:13.680><c> *</c><00:01:14.200><c> 1</c><00:01:14.400><c> /</c><00:01:14.680><c> 2</c><00:01:15.320><c> &lt;</c><00:01:15.439><c> TK</c><00:01:15.680><c> X</c>
+
+00:01:16.510 --> 00:01:16.520 align:start position:0%
+equation we get 1 &lt; TK x * 1 / 2 &lt; TK X
+ 
+
+00:01:16.520 --> 00:01:19.030 align:start position:0%
+equation we get 1 &lt; TK x * 1 / 2 &lt; TK X
+when<00:01:16.720><c> we</c><00:01:17.000><c> multiply</c><00:01:17.600><c> these</c><00:01:17.840><c> fractions</c><00:01:18.680><c> we</c><00:01:18.840><c> get</c>
+
+00:01:19.030 --> 00:01:19.040 align:start position:0%
+when we multiply these fractions we get
+ 
+
+00:01:19.040 --> 00:01:23.149 align:start position:0%
+when we multiply these fractions we get
+1/<00:01:19.840><c> 2X</c><00:01:20.840><c> and</c><00:01:21.079><c> that's</c><00:01:21.280><c> our</c><00:01:21.640><c> final</c><00:01:22.079><c> answer</c><00:01:22.960><c> the</c>
+
+00:01:23.149 --> 00:01:23.159 align:start position:0%
+1/ 2X and that's our final answer the
+ 
+
+00:01:23.159 --> 00:01:27.510 align:start position:0%
+1/ 2X and that's our final answer the
+derivative<00:01:23.680><c> of</c><00:01:23.960><c> Ln</c><00:01:24.520><c> of</c><00:01:24.759><c> squ</c><00:01:25.159><c> &lt;</c><00:01:25.280><c> TK</c><00:01:25.560><c> X</c><00:01:26.400><c> is</c><00:01:26.640><c> 1</c><00:01:26.920><c> over</c>
+
+00:01:27.510 --> 00:01:27.520 align:start position:0%
+derivative of Ln of squ &lt; TK X is 1 over
+ 
+
+00:01:27.520 --> 00:01:30.910 align:start position:0%
+derivative of Ln of squ &lt; TK X is 1 over
+2x<00:01:28.520><c> let's</c><00:01:28.759><c> review</c><00:01:29.119><c> what</c><00:01:29.280><c> we</c><00:01:29.439><c> did</c><00:01:30.360><c> we</c><00:01:30.520><c> use</c><00:01:30.759><c> the</c>
+
+00:01:30.910 --> 00:01:30.920 align:start position:0%
+2x let's review what we did we use the
+ 
+
+00:01:30.920 --> 00:01:33.510 align:start position:0%
+2x let's review what we did we use the
+chain<00:01:31.240><c> rule</c><00:01:31.520><c> to</c><00:01:31.680><c> break</c><00:01:32.000><c> down</c><00:01:32.200><c> the</c><00:01:32.520><c> derivative</c>
+
+00:01:33.510 --> 00:01:33.520 align:start position:0%
+chain rule to break down the derivative
+ 
+
+00:01:33.520 --> 00:01:35.550 align:start position:0%
+chain rule to break down the derivative
+then<00:01:33.840><c> found</c><00:01:34.240><c> the</c><00:01:34.399><c> derivative</c><00:01:35.000><c> of</c><00:01:35.119><c> the</c><00:01:35.240><c> inner</c>
+
+00:01:35.550 --> 00:01:35.560 align:start position:0%
+then found the derivative of the inner
+ 
+
+00:01:35.560 --> 00:01:38.190 align:start position:0%
+then found the derivative of the inner
+function<00:01:35.920><c> using</c><00:01:36.240><c> the</c><00:01:36.439><c> power</c><00:01:36.799><c> rule</c><00:01:37.799><c> and</c>
+
+00:01:38.190 --> 00:01:38.200 align:start position:0%
+function using the power rule and
+ 
+
+00:01:38.200 --> 00:01:40.149 align:start position:0%
+function using the power rule and
+finally<00:01:38.680><c> combined</c><00:01:39.159><c> our</c><00:01:39.399><c> fractions</c><00:01:39.880><c> to</c><00:01:40.040><c> get</c>
+
+00:01:40.149 --> 00:01:40.159 align:start position:0%
+finally combined our fractions to get
+ 
+
+00:01:40.159 --> 00:01:43.439 align:start position:0%
+finally combined our fractions to get
+our<00:01:40.439><c> answer</c>
+

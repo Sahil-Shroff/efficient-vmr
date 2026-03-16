@@ -1,0 +1,384 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:01.370 align:start position:0%
+ 
+have<00:00:00.359><c> you</c><00:00:00.480><c> guys</c><00:00:00.599><c> ever</c><00:00:00.719><c> heard</c><00:00:00.900><c> of</c><00:00:01.079><c> the</c><00:00:01.199><c> birthday</c>
+
+00:00:01.370 --> 00:00:01.380 align:start position:0%
+have you guys ever heard of the birthday
+ 
+
+00:00:01.380 --> 00:00:04.370 align:start position:0%
+have you guys ever heard of the birthday
+Paradox<00:00:02.100><c> imagine</c><00:00:02.580><c> a</c><00:00:02.940><c> group</c><00:00:03.060><c> of</c><00:00:03.300><c> 23</c><00:00:03.840><c> random</c>
+
+00:00:04.370 --> 00:00:04.380 align:start position:0%
+Paradox imagine a group of 23 random
+ 
+
+00:00:04.380 --> 00:00:06.230 align:start position:0%
+Paradox imagine a group of 23 random
+people<00:00:04.560><c> what</c><00:00:04.980><c> is</c><00:00:05.160><c> the</c><00:00:05.279><c> probability</c><00:00:05.640><c> that</c><00:00:06.000><c> at</c>
+
+00:00:06.230 --> 00:00:06.240 align:start position:0%
+people what is the probability that at
+ 
+
+00:00:06.240 --> 00:00:07.909 align:start position:0%
+people what is the probability that at
+least<00:00:06.359><c> two</c><00:00:06.660><c> people</c><00:00:06.899><c> have</c><00:00:07.200><c> the</c><00:00:07.440><c> same</c><00:00:07.620><c> birthday</c>
+
+00:00:07.909 --> 00:00:07.919 align:start position:0%
+least two people have the same birthday
+ 
+
+00:00:07.919 --> 00:00:09.890 align:start position:0%
+least two people have the same birthday
+and<00:00:08.400><c> these</c><00:00:08.639><c> are</c><00:00:08.760><c> random</c><00:00:09.059><c> people</c><00:00:09.179><c> so</c><00:00:09.420><c> no</c><00:00:09.660><c> Twins</c>
+
+00:00:09.890 --> 00:00:09.900 align:start position:0%
+and these are random people so no Twins
+ 
+
+00:00:09.900 --> 00:00:11.209 align:start position:0%
+and these are random people so no Twins
+or<00:00:10.139><c> anything</c><00:00:10.260><c> like</c><00:00:10.500><c> that</c><00:00:10.679><c> so</c><00:00:10.920><c> it's</c><00:00:11.099><c> going</c><00:00:11.219><c> to</c>
+
+00:00:11.209 --> 00:00:11.219 align:start position:0%
+or anything like that so it's going to
+ 
+
+00:00:11.219 --> 00:00:12.770 align:start position:0%
+or anything like that so it's going to
+be<00:00:11.400><c> easiest</c><00:00:11.760><c> to</c><00:00:12.059><c> calculate</c><00:00:12.300><c> the</c><00:00:12.480><c> probability</c>
+
+00:00:12.770 --> 00:00:12.780 align:start position:0%
+be easiest to calculate the probability
+ 
+
+00:00:12.780 --> 00:00:14.509 align:start position:0%
+be easiest to calculate the probability
+that<00:00:13.139><c> nobody</c><00:00:13.440><c> has</c><00:00:13.679><c> the</c><00:00:13.799><c> same</c><00:00:13.980><c> birthday</c><00:00:14.160><c> and</c>
+
+00:00:14.509 --> 00:00:14.519 align:start position:0%
+that nobody has the same birthday and
+ 
+
+00:00:14.519 --> 00:00:16.550 align:start position:0%
+that nobody has the same birthday and
+then<00:00:14.700><c> just</c><00:00:14.880><c> do</c><00:00:15.000><c> 100</c><00:00:15.179><c> minus</c><00:00:16.020><c> whatever</c><00:00:16.199><c> that</c>
+
+00:00:16.550 --> 00:00:16.560 align:start position:0%
+then just do 100 minus whatever that
+ 
+
+00:00:16.560 --> 00:00:18.470 align:start position:0%
+then just do 100 minus whatever that
+gives<00:00:16.740><c> us</c><00:00:16.980><c> first</c><00:00:17.400><c> let's</c><00:00:17.640><c> start</c><00:00:17.760><c> with</c><00:00:17.940><c> one</c><00:00:18.240><c> pair</c>
+
+00:00:18.470 --> 00:00:18.480 align:start position:0%
+gives us first let's start with one pair
+ 
+
+00:00:18.480 --> 00:00:20.029 align:start position:0%
+gives us first let's start with one pair
+of<00:00:18.600><c> people</c><00:00:18.779><c> so</c><00:00:19.140><c> the</c><00:00:19.320><c> first</c><00:00:19.440><c> person</c><00:00:19.619><c> has</c><00:00:19.859><c> a</c>
+
+00:00:20.029 --> 00:00:20.039 align:start position:0%
+of people so the first person has a
+ 
+
+00:00:20.039 --> 00:00:21.710 align:start position:0%
+of people so the first person has a
+birthday<00:00:20.160><c> whatever</c><00:00:20.520><c> that</c><00:00:20.880><c> is</c><00:00:21.060><c> then</c><00:00:21.359><c> what</c><00:00:21.600><c> is</c>
+
+00:00:21.710 --> 00:00:21.720 align:start position:0%
+birthday whatever that is then what is
+ 
+
+00:00:21.720 --> 00:00:23.090 align:start position:0%
+birthday whatever that is then what is
+the<00:00:21.840><c> probability</c><00:00:22.140><c> that</c><00:00:22.380><c> the</c><00:00:22.619><c> second</c><00:00:22.800><c> person</c>
+
+00:00:23.090 --> 00:00:23.100 align:start position:0%
+the probability that the second person
+ 
+
+00:00:23.100 --> 00:00:24.830 align:start position:0%
+the probability that the second person
+does<00:00:23.400><c> not</c><00:00:23.580><c> have</c><00:00:23.760><c> the</c><00:00:24.000><c> same</c><00:00:24.119><c> birthday</c><00:00:24.359><c> well</c>
+
+00:00:24.830 --> 00:00:24.840 align:start position:0%
+does not have the same birthday well
+ 
+
+00:00:24.840 --> 00:00:27.170 align:start position:0%
+does not have the same birthday well
+there<00:00:25.019><c> are</c><00:00:25.140><c> 364</c><00:00:25.920><c> possible</c><00:00:26.460><c> days</c><00:00:26.699><c> that</c><00:00:27.000><c> don't</c>
+
+00:00:27.170 --> 00:00:27.180 align:start position:0%
+there are 364 possible days that don't
+ 
+
+00:00:27.180 --> 00:00:29.689 align:start position:0%
+there are 364 possible days that don't
+match<00:00:27.359><c> out</c><00:00:27.720><c> of</c><00:00:27.920><c> 365.</c><00:00:28.920><c> so</c><00:00:29.160><c> their</c><00:00:29.400><c> probability</c>
+
+00:00:29.689 --> 00:00:29.699 align:start position:0%
+match out of 365. so their probability
+ 
+
+00:00:29.699 --> 00:00:32.749 align:start position:0%
+match out of 365. so their probability
+is<00:00:29.880><c> 364</c><00:00:30.599><c> over</c><00:00:30.840><c> 365.</c><00:00:31.800><c> now</c><00:00:32.099><c> let's</c><00:00:32.279><c> bring</c><00:00:32.460><c> in</c><00:00:32.579><c> a</c>
+
+00:00:32.749 --> 00:00:32.759 align:start position:0%
+is 364 over 365. now let's bring in a
+ 
+
+00:00:32.759 --> 00:00:34.069 align:start position:0%
+is 364 over 365. now let's bring in a
+third<00:00:32.880><c> person</c><00:00:33.059><c> what</c><00:00:33.420><c> is</c><00:00:33.600><c> the</c><00:00:33.719><c> probability</c>
+
+00:00:34.069 --> 00:00:34.079 align:start position:0%
+third person what is the probability
+ 
+
+00:00:34.079 --> 00:00:35.870 align:start position:0%
+third person what is the probability
+that<00:00:34.440><c> that</c><00:00:34.559><c> third</c><00:00:34.800><c> person</c><00:00:35.040><c> does</c><00:00:35.399><c> not</c><00:00:35.520><c> have</c><00:00:35.700><c> the</c>
+
+00:00:35.870 --> 00:00:35.880 align:start position:0%
+that that third person does not have the
+ 
+
+00:00:35.880 --> 00:00:37.310 align:start position:0%
+that that third person does not have the
+same<00:00:36.059><c> birthday</c><00:00:36.239><c> as</c><00:00:36.540><c> either</c><00:00:36.780><c> of</c><00:00:36.960><c> those</c><00:00:37.140><c> other</c>
+
+00:00:37.310 --> 00:00:37.320 align:start position:0%
+same birthday as either of those other
+ 
+
+00:00:37.320 --> 00:00:40.910 align:start position:0%
+same birthday as either of those other
+two<00:00:37.559><c> well</c><00:00:37.920><c> that</c><00:00:38.100><c> leaves</c><00:00:38.420><c> 363</c><00:00:39.420><c> out</c><00:00:39.719><c> of</c><00:00:39.840><c> 365</c><00:00:40.680><c> days</c>
+
+00:00:40.910 --> 00:00:40.920 align:start position:0%
+two well that leaves 363 out of 365 days
+ 
+
+00:00:40.920 --> 00:00:42.950 align:start position:0%
+two well that leaves 363 out of 365 days
+so<00:00:41.340><c> we</c><00:00:41.460><c> can</c><00:00:41.640><c> just</c><00:00:41.700><c> multiply</c><00:00:42.059><c> these</c><00:00:42.420><c> and</c><00:00:42.719><c> the</c>
+
+00:00:42.950 --> 00:00:42.960 align:start position:0%
+so we can just multiply these and the
+ 
+
+00:00:42.960 --> 00:00:44.510 align:start position:0%
+so we can just multiply these and the
+fourth<00:00:43.260><c> person</c><00:00:43.440><c> to</c><00:00:43.739><c> not</c><00:00:43.920><c> match</c><00:00:44.040><c> any</c><00:00:44.280><c> of</c><00:00:44.460><c> these</c>
+
+00:00:44.510 --> 00:00:44.520 align:start position:0%
+fourth person to not match any of these
+ 
+
+00:00:44.520 --> 00:00:47.209 align:start position:0%
+fourth person to not match any of these
+three<00:00:44.700><c> would</c><00:00:44.879><c> be</c><00:00:45.000><c> 362</c><00:00:45.660><c> over</c><00:00:45.899><c> 365.</c><00:00:46.800><c> and</c><00:00:47.040><c> this</c>
+
+00:00:47.209 --> 00:00:47.219 align:start position:0%
+three would be 362 over 365. and this
+ 
+
+00:00:47.219 --> 00:00:48.709 align:start position:0%
+three would be 362 over 365. and this
+pattern<00:00:47.520><c> continues</c><00:00:48.000><c> for</c><00:00:48.180><c> the</c><00:00:48.360><c> rest</c><00:00:48.480><c> of</c><00:00:48.660><c> the</c>
+
+00:00:48.709 --> 00:00:48.719 align:start position:0%
+pattern continues for the rest of the
+ 
+
+00:00:48.719 --> 00:00:50.389 align:start position:0%
+pattern continues for the rest of the
+people<00:00:48.899><c> in</c><00:00:49.140><c> the</c><00:00:49.260><c> group</c><00:00:49.440><c> after</c><00:00:49.800><c> we</c><00:00:50.039><c> multiply</c>
+
+00:00:50.389 --> 00:00:50.399 align:start position:0%
+people in the group after we multiply
+ 
+
+00:00:50.399 --> 00:00:51.950 align:start position:0%
+people in the group after we multiply
+all<00:00:50.760><c> of</c><00:00:50.879><c> these</c><00:00:51.059><c> probabilities</c><00:00:51.539><c> we</c><00:00:51.840><c> get</c>
+
+00:00:51.950 --> 00:00:51.960 align:start position:0%
+all of these probabilities we get
+ 
+
+00:00:51.960 --> 00:00:54.889 align:start position:0%
+all of these probabilities we get
+approximately<00:00:52.640><c> 49.27</c><00:00:53.640><c> so</c><00:00:54.420><c> the</c><00:00:54.539><c> probability</c>
+
+00:00:54.889 --> 00:00:54.899 align:start position:0%
+approximately 49.27 so the probability
+ 
+
+00:00:54.899 --> 00:00:57.950 align:start position:0%
+approximately 49.27 so the probability
+is<00:00:55.219><c> 49.27</c><00:00:56.219><c> that</c><00:00:57.000><c> no</c><00:00:57.180><c> one</c><00:00:57.360><c> shares</c><00:00:57.660><c> a</c><00:00:57.840><c> birthday</c>
+
+00:00:57.950 --> 00:00:57.960 align:start position:0%
+is 49.27 that no one shares a birthday
+ 
+
+00:00:57.960 --> 00:01:00.410 align:start position:0%
+is 49.27 that no one shares a birthday
+so<00:00:58.320><c> if</c><00:00:58.440><c> we</c><00:00:58.559><c> do</c><00:00:58.739><c> a</c><00:00:58.860><c> hundred</c><00:00:59.160><c> percent</c><00:00:59.340><c> minus</c><00:00:59.940><c> that</c>
+
+00:01:00.410 --> 00:01:00.420 align:start position:0%
+so if we do a hundred percent minus that
+ 
+
+00:01:00.420 --> 00:01:03.470 align:start position:0%
+so if we do a hundred percent minus that
+we<00:01:00.660><c> get</c><00:01:00.780><c> a</c><00:01:00.960><c> 50.73</c><00:01:01.739><c> probability</c><00:01:02.640><c> that</c><00:01:03.120><c> at</c><00:01:03.359><c> least</c>
+
+00:01:03.470 --> 00:01:03.480 align:start position:0%
+we get a 50.73 probability that at least
+ 
+
+00:01:03.480 --> 00:01:05.149 align:start position:0%
+we get a 50.73 probability that at least
+two<00:01:03.719><c> people</c><00:01:03.899><c> have</c><00:01:04.140><c> the</c><00:01:04.320><c> same</c><00:01:04.440><c> birthday</c><00:01:04.619><c> so</c><00:01:05.040><c> if</c>
+
+00:01:05.149 --> 00:01:05.159 align:start position:0%
+two people have the same birthday so if
+ 
+
+00:01:05.159 --> 00:01:07.789 align:start position:0%
+two people have the same birthday so if
+it<00:01:05.280><c> feels</c><00:01:05.580><c> weird</c><00:01:05.700><c> that</c><00:01:06.000><c> 23</c><00:01:06.479><c> people</c><00:01:06.720><c> out</c><00:01:07.020><c> of</c><00:01:07.200><c> 365</c>
+
+00:01:07.789 --> 00:01:07.799 align:start position:0%
+it feels weird that 23 people out of 365
+ 
+
+00:01:07.799 --> 00:01:09.230 align:start position:0%
+it feels weird that 23 people out of 365
+days<00:01:08.040><c> can</c><00:01:08.280><c> do</c><00:01:08.400><c> this</c><00:01:08.460><c> it</c><00:01:08.700><c> might</c><00:01:08.820><c> be</c><00:01:08.939><c> better</c><00:01:09.060><c> to</c>
+
+00:01:09.230 --> 00:01:09.240 align:start position:0%
+days can do this it might be better to
+ 
+
+00:01:09.240 --> 00:01:11.330 align:start position:0%
+days can do this it might be better to
+look<00:01:09.360><c> at</c><00:01:09.420><c> this</c><00:01:09.540><c> the</c><00:01:09.840><c> number</c><00:01:10.020><c> of</c><00:01:10.320><c> pairs</c><00:01:10.920><c> if</c><00:01:11.159><c> we</c>
+
+00:01:11.330 --> 00:01:11.340 align:start position:0%
+look at this the number of pairs if we
+ 
+
+00:01:11.340 --> 00:01:12.770 align:start position:0%
+look at this the number of pairs if we
+look<00:01:11.460><c> at</c><00:01:11.580><c> the</c><00:01:11.700><c> first</c><00:01:11.880><c> person</c><00:01:12.060><c> in</c><00:01:12.360><c> the</c><00:01:12.479><c> group</c><00:01:12.600><c> he</c>
+
+00:01:12.770 --> 00:01:12.780 align:start position:0%
+look at the first person in the group he
+ 
+
+00:01:12.780 --> 00:01:14.690 align:start position:0%
+look at the first person in the group he
+has<00:01:12.960><c> 22</c><00:01:13.320><c> pairs</c><00:01:13.680><c> you</c><00:01:13.799><c> can</c><00:01:13.920><c> match</c><00:01:14.100><c> with</c><00:01:14.280><c> then</c><00:01:14.520><c> the</c>
+
+00:01:14.690 --> 00:01:14.700 align:start position:0%
+has 22 pairs you can match with then the
+ 
+
+00:01:14.700 --> 00:01:16.370 align:start position:0%
+has 22 pairs you can match with then the
+next<00:01:14.820><c> person</c><00:01:15.000><c> has</c><00:01:15.240><c> 21</c><00:01:15.479><c> new</c><00:01:15.840><c> pairs</c><00:01:16.140><c> they</c><00:01:16.260><c> could</c>
+
+00:01:16.370 --> 00:01:16.380 align:start position:0%
+next person has 21 new pairs they could
+ 
+
+00:01:16.380 --> 00:01:17.870 align:start position:0%
+next person has 21 new pairs they could
+match<00:01:16.560><c> with</c><00:01:16.740><c> and</c><00:01:16.979><c> the</c><00:01:17.159><c> next</c><00:01:17.280><c> person</c><00:01:17.460><c> has</c><00:01:17.700><c> 20</c>
+
+00:01:17.870 --> 00:01:17.880 align:start position:0%
+match with and the next person has 20
+ 
+
+00:01:17.880 --> 00:01:19.130 align:start position:0%
+match with and the next person has 20
+new<00:01:18.119><c> pairs</c><00:01:18.360><c> of</c><00:01:18.420><c> people</c><00:01:18.540><c> they</c><00:01:18.720><c> can</c><00:01:18.840><c> match</c><00:01:18.960><c> with</c>
+
+00:01:19.130 --> 00:01:19.140 align:start position:0%
+new pairs of people they can match with
+ 
+
+00:01:19.140 --> 00:01:20.810 align:start position:0%
+new pairs of people they can match with
+and<00:01:19.320><c> this</c><00:01:19.500><c> pattern</c><00:01:19.740><c> is</c><00:01:19.860><c> going</c><00:01:19.979><c> to</c><00:01:20.100><c> continue</c><00:01:20.280><c> so</c>
+
+00:01:20.810 --> 00:01:20.820 align:start position:0%
+and this pattern is going to continue so
+ 
+
+00:01:20.820 --> 00:01:23.330 align:start position:0%
+and this pattern is going to continue so
+there<00:01:20.939><c> are</c><00:01:21.119><c> going</c><00:01:21.180><c> to</c><00:01:21.299><c> be</c><00:01:21.360><c> 253</c><00:01:22.320><c> pairs</c><00:01:23.040><c> we're</c>
+
+00:01:23.330 --> 00:01:23.340 align:start position:0%
+there are going to be 253 pairs we're
+ 
+
+00:01:23.340 --> 00:01:24.710 align:start position:0%
+there are going to be 253 pairs we're
+just<00:01:23.520><c> trying</c><00:01:23.640><c> to</c><00:01:23.759><c> get</c><00:01:23.880><c> at</c><00:01:24.000><c> least</c><00:01:24.180><c> one</c><00:01:24.420><c> of</c><00:01:24.540><c> these</c>
+
+00:01:24.710 --> 00:01:24.720 align:start position:0%
+just trying to get at least one of these
+ 
+
+00:01:24.720 --> 00:01:27.109 align:start position:0%
+just trying to get at least one of these
+253<00:01:25.500><c> pairs</c><00:01:25.979><c> to</c><00:01:26.159><c> match</c><00:01:26.340><c> and</c><00:01:26.700><c> if</c><00:01:26.820><c> you</c><00:01:26.880><c> think</c><00:01:27.000><c> of</c>
+
+00:01:27.109 --> 00:01:27.119 align:start position:0%
+253 pairs to match and if you think of
+ 
+
+00:01:27.119 --> 00:01:29.630 align:start position:0%
+253 pairs to match and if you think of
+it<00:01:27.240><c> that</c><00:01:27.360><c> way</c><00:01:27.479><c> the</c><00:01:27.720><c> 50.73</c><00:01:28.500><c> seems</c><00:01:29.220><c> much</c><00:01:29.460><c> more</c>
+
+00:01:29.630 --> 00:01:29.640 align:start position:0%
+it that way the 50.73 seems much more
+ 
+
+00:01:29.640 --> 00:01:32.210 align:start position:0%
+it that way the 50.73 seems much more
+realistic<00:01:30.180><c> every</c><00:01:30.659><c> one</c><00:01:30.900><c> of</c><00:01:30.960><c> these</c><00:01:31.140><c> 253</c><00:01:31.799><c> pairs</c>
+
+00:01:32.210 --> 00:01:32.220 align:start position:0%
+realistic every one of these 253 pairs
+ 
+
+00:01:32.220 --> 00:01:33.590 align:start position:0%
+realistic every one of these 253 pairs
+is<00:01:32.400><c> a</c><00:01:32.580><c> possible</c><00:01:32.820><c> chance</c><00:01:33.000><c> for</c><00:01:33.299><c> a</c><00:01:33.420><c> birthday</c>
+
+00:01:33.590 --> 00:01:33.600 align:start position:0%
+is a possible chance for a birthday
+ 
+
+00:01:33.600 --> 00:01:37.400 align:start position:0%
+is a possible chance for a birthday
+match<00:01:33.900><c> and</c><00:01:34.320><c> this</c><00:01:34.439><c> is</c><00:01:34.560><c> the</c><00:01:34.680><c> birthday</c><00:01:34.860><c> paradox</c>
+

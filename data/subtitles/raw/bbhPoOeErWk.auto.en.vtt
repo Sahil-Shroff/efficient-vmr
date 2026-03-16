@@ -1,0 +1,344 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.280 --> 00:00:01.630 align:start position:0%
+ 
+let's<00:00:00.560><c> work</c><00:00:00.840><c> through</c><00:00:01.120><c> finding</c><00:00:01.480><c> the</c>
+
+00:00:01.630 --> 00:00:01.640 align:start position:0%
+let's work through finding the
+ 
+
+00:00:01.640 --> 00:00:06.789 align:start position:0%
+let's work through finding the
+derivative<00:00:02.560><c> of</c><00:00:02.840><c> x^2</c><00:00:03.719><c> *</c><00:00:04.240><c> e</c><00:00:04.480><c> to</c><00:00:04.799><c> x</c><00:00:05.200><c> *</c><00:00:06.120><c> natural</c><00:00:06.560><c> log</c>
+
+00:00:06.789 --> 00:00:06.799 align:start position:0%
+derivative of x^2 * e to x * natural log
+ 
+
+00:00:06.799 --> 00:00:10.110 align:start position:0%
+derivative of x^2 * e to x * natural log
+of<00:00:06.960><c> x</c><00:00:07.839><c> this</c><00:00:08.240><c> is</c><00:00:08.360><c> a</c><00:00:08.719><c> complex</c><00:00:09.320><c> derivative</c><00:00:09.960><c> that</c>
+
+00:00:10.110 --> 00:00:10.120 align:start position:0%
+of x this is a complex derivative that
+ 
+
+00:00:10.120 --> 00:00:12.350 align:start position:0%
+of x this is a complex derivative that
+will<00:00:10.400><c> require</c><00:00:11.000><c> multiple</c><00:00:11.599><c> applications</c><00:00:12.200><c> of</c>
+
+00:00:12.350 --> 00:00:12.360 align:start position:0%
+will require multiple applications of
+ 
+
+00:00:12.360 --> 00:00:14.549 align:start position:0%
+will require multiple applications of
+the<00:00:12.559><c> product</c><00:00:12.880><c> rule</c><00:00:13.719><c> let's</c><00:00:14.000><c> recall</c><00:00:14.400><c> the</c>
+
+00:00:14.549 --> 00:00:14.559 align:start position:0%
+the product rule let's recall the
+ 
+
+00:00:14.559 --> 00:00:17.510 align:start position:0%
+the product rule let's recall the
+product<00:00:14.920><c> rule</c><00:00:15.280><c> first</c><00:00:16.160><c> the</c><00:00:16.320><c> derivative</c><00:00:16.760><c> of</c><00:00:16.880><c> U</c><00:00:17.119><c> *</c>
+
+00:00:17.510 --> 00:00:17.520 align:start position:0%
+product rule first the derivative of U *
+ 
+
+00:00:17.520 --> 00:00:21.550 align:start position:0%
+product rule first the derivative of U *
+V<00:00:17.880><c> equal</c><00:00:18.600><c> U</c><00:00:18.840><c> *</c><00:00:19.199><c> the</c><00:00:19.359><c> derivative</c><00:00:19.880><c> of</c><00:00:20.080><c> V</c><00:00:20.359><c> +</c><00:00:20.800><c> V</c><00:00:21.080><c> *</c>
+
+00:00:21.550 --> 00:00:21.560 align:start position:0%
+V equal U * the derivative of V + V *
+ 
+
+00:00:21.560 --> 00:00:25.349 align:start position:0%
+V equal U * the derivative of V + V *
+the<00:00:21.720><c> derivative</c><00:00:22.199><c> of</c><00:00:22.359><c> U</c><00:00:23.240><c> for</c><00:00:23.800><c> our</c><00:00:24.199><c> function</c><00:00:25.160><c> we</c>
+
+00:00:25.349 --> 00:00:25.359 align:start position:0%
+the derivative of U for our function we
+ 
+
+00:00:25.359 --> 00:00:27.589 align:start position:0%
+the derivative of U for our function we
+have<00:00:25.599><c> three</c><00:00:25.960><c> parts</c><00:00:26.320><c> being</c><00:00:26.760><c> multiplied</c>
+
+00:00:27.589 --> 00:00:27.599 align:start position:0%
+have three parts being multiplied
+ 
+
+00:00:27.599 --> 00:00:31.990 align:start position:0%
+have three parts being multiplied
+together<00:00:28.080><c> x^2</c><00:00:29.080><c> e</c><00:00:29.320><c> to</c><00:00:29.599><c> X</c><00:00:30.119><c> and</c><00:00:30.320><c> natural</c><00:00:30.759><c> log</c><00:00:30.960><c> of</c><00:00:31.119><c> x</c>
+
+00:00:31.990 --> 00:00:32.000 align:start position:0%
+together x^2 e to X and natural log of x
+ 
+
+00:00:32.000 --> 00:00:34.030 align:start position:0%
+together x^2 e to X and natural log of x
+let's<00:00:32.279><c> break</c><00:00:32.599><c> this</c><00:00:32.800><c> down</c><00:00:33.040><c> into</c><00:00:33.320><c> two</c><00:00:33.600><c> parts</c>
+
+00:00:34.030 --> 00:00:34.040 align:start position:0%
+let's break this down into two parts
+ 
+
+00:00:34.040 --> 00:00:37.030 align:start position:0%
+let's break this down into two parts
+first<00:00:34.960><c> using</c><00:00:35.320><c> the</c><00:00:35.520><c> product</c><00:00:35.840><c> rule</c><00:00:36.160><c> first</c><00:00:36.520><c> on</c>
+
+00:00:37.030 --> 00:00:37.040 align:start position:0%
+first using the product rule first on
+ 
+
+00:00:37.040 --> 00:00:40.869 align:start position:0%
+first using the product rule first on
+x^2<00:00:38.040><c> and</c><00:00:38.239><c> G</c><00:00:38.440><c> ofx</c><00:00:39.200><c> we</c><00:00:39.399><c> get</c><00:00:39.680><c> x^2</c><00:00:40.320><c> *</c><00:00:40.719><c> the</c>
+
+00:00:40.869 --> 00:00:40.879 align:start position:0%
+x^2 and G ofx we get x^2 * the
+ 
+
+00:00:40.879 --> 00:00:44.430 align:start position:0%
+x^2 and G ofx we get x^2 * the
+derivative<00:00:41.320><c> of</c><00:00:41.440><c> G</c><00:00:41.640><c> of</c><00:00:41.800><c> X</c><00:00:42.800><c> Plus</c><00:00:43.120><c> G</c><00:00:43.360><c> ofx</c><00:00:43.800><c> *</c><00:00:44.280><c> the</c>
+
+00:00:44.430 --> 00:00:44.440 align:start position:0%
+derivative of G of X Plus G ofx * the
+ 
+
+00:00:44.440 --> 00:00:47.709 align:start position:0%
+derivative of G of X Plus G ofx * the
+derivative<00:00:45.239><c> of</c><00:00:45.719><c> x^2</c><00:00:46.719><c> now</c><00:00:47.000><c> we</c><00:00:47.120><c> need</c><00:00:47.320><c> to</c><00:00:47.480><c> find</c>
+
+00:00:47.709 --> 00:00:47.719 align:start position:0%
+derivative of x^2 now we need to find
+ 
+
+00:00:47.719 --> 00:00:50.790 align:start position:0%
+derivative of x^2 now we need to find
+the<00:00:47.879><c> derivative</c><00:00:48.280><c> of</c><00:00:48.440><c> G</c><00:00:48.680><c> of</c><00:00:48.840><c> X</c><00:00:49.480><c> which</c><00:00:49.600><c> is</c><00:00:49.879><c> e</c><00:00:50.160><c> to</c><00:00:50.440><c> x</c>
+
+00:00:50.790 --> 00:00:50.800 align:start position:0%
+the derivative of G of X which is e to x
+ 
+
+00:00:50.800 --> 00:00:54.110 align:start position:0%
+the derivative of G of X which is e to x
+*<00:00:51.559><c> natural</c><00:00:52.000><c> log</c><00:00:52.199><c> of</c><00:00:52.359><c> x</c><00:00:53.239><c> using</c><00:00:53.600><c> the</c><00:00:53.760><c> product</c>
+
+00:00:54.110 --> 00:00:54.120 align:start position:0%
+* natural log of x using the product
+ 
+
+00:00:54.120 --> 00:00:57.349 align:start position:0%
+* natural log of x using the product
+rule<00:00:54.480><c> again</c><00:00:54.760><c> we</c><00:00:54.960><c> get</c><00:00:55.760><c> e</c><00:00:56.039><c> to</c><00:00:56.359><c> X</c><00:00:56.760><c> time</c><00:00:57.160><c> the</c>
+
+00:00:57.349 --> 00:00:57.359 align:start position:0%
+rule again we get e to X time the
+ 
+
+00:00:57.359 --> 00:01:00.709 align:start position:0%
+rule again we get e to X time the
+derivative<00:00:58.320><c> of</c><00:00:58.600><c> natural</c><00:00:58.960><c> log</c><00:00:59.199><c> of</c><00:00:59.359><c> x</c><00:01:00.280><c> plus</c>
+
+00:01:00.709 --> 00:01:00.719 align:start position:0%
+derivative of natural log of x plus
+ 
+
+00:01:00.719 --> 00:01:04.469 align:start position:0%
+derivative of natural log of x plus
+natural<00:01:01.120><c> log</c><00:01:01.399><c> of</c><00:01:01.600><c> x</c><00:01:02.280><c> *</c><00:01:02.840><c> the</c><00:01:03.039><c> derivative</c><00:01:03.960><c> of</c><00:01:04.199><c> e</c>
+
+00:01:04.469 --> 00:01:04.479 align:start position:0%
+natural log of x * the derivative of e
+ 
+
+00:01:04.479 --> 00:01:07.670 align:start position:0%
+natural log of x * the derivative of e
+to<00:01:04.840><c> X</c><00:01:05.840><c> let's</c><00:01:06.159><c> substitute</c><00:01:06.840><c> in</c><00:01:06.960><c> the</c><00:01:07.080><c> known</c>
+
+00:01:07.670 --> 00:01:07.680 align:start position:0%
+to X let's substitute in the known
+ 
+
+00:01:07.680 --> 00:01:10.070 align:start position:0%
+to X let's substitute in the known
+derivatives<00:01:08.680><c> the</c><00:01:08.840><c> derivative</c><00:01:09.400><c> of</c><00:01:09.680><c> natural</c>
+
+00:01:10.070 --> 00:01:10.080 align:start position:0%
+derivatives the derivative of natural
+ 
+
+00:01:10.080 --> 00:01:14.270 align:start position:0%
+derivatives the derivative of natural
+log<00:01:10.320><c> of</c><00:01:10.479><c> x</c><00:01:11.159><c> is</c><00:01:11.360><c> 1</c><00:01:11.560><c> /x</c><00:01:12.520><c> and</c><00:01:12.640><c> the</c><00:01:12.799><c> derivative</c><00:01:13.759><c> of</c><00:01:14.000><c> e</c>
+
+00:01:14.270 --> 00:01:14.280 align:start position:0%
+log of x is 1 /x and the derivative of e
+ 
+
+00:01:14.280 --> 00:01:18.870 align:start position:0%
+log of x is 1 /x and the derivative of e
+to<00:01:14.640><c> X</c><00:01:15.200><c> is</c><00:01:15.439><c> e</c><00:01:15.680><c> to</c><00:01:15.840><c> the</c><00:01:16.040><c> X</c><00:01:16.920><c> the</c><00:01:17.080><c> derivative</c><00:01:17.520><c> of</c><00:01:17.880><c> x^2</c>
+
+00:01:18.870 --> 00:01:18.880 align:start position:0%
+to X is e to the X the derivative of x^2
+ 
+
+00:01:18.880 --> 00:01:22.030 align:start position:0%
+to X is e to the X the derivative of x^2
+is<00:01:19.600><c> 2x</c><00:01:20.600><c> substituting</c><00:01:21.240><c> these</c><00:01:21.439><c> back</c><00:01:21.600><c> into</c><00:01:21.840><c> our</c>
+
+00:01:22.030 --> 00:01:22.040 align:start position:0%
+is 2x substituting these back into our
+ 
+
+00:01:22.040 --> 00:01:25.630 align:start position:0%
+is 2x substituting these back into our
+equation<00:01:22.920><c> gives</c><00:01:23.200><c> us</c><00:01:23.479><c> x²</c><00:01:24.200><c> *</c><00:01:24.600><c> the</c><00:01:24.720><c> quantity</c><00:01:25.159><c> e</c><00:01:25.400><c> to</c>
+
+00:01:25.630 --> 00:01:25.640 align:start position:0%
+equation gives us x² * the quantity e to
+ 
+
+00:01:25.640 --> 00:01:30.469 align:start position:0%
+equation gives us x² * the quantity e to
+X<00:01:26.119><c> over</c><00:01:26.400><c> x</c><00:01:26.720><c> +</c><00:01:27.240><c> natural</c><00:01:27.640><c> log</c><00:01:27.880><c> of</c><00:01:28.119><c> x</c><00:01:28.400><c> *</c><00:01:29.000><c> e</c><00:01:29.200><c> to</c><00:01:29.479><c> X</c>
+
+00:01:30.469 --> 00:01:30.479 align:start position:0%
+X over x + natural log of x * e to X
+ 
+
+00:01:30.479 --> 00:01:35.990 align:start position:0%
+X over x + natural log of x * e to X
++<00:01:30.840><c> 2x</c><00:01:31.479><c> *</c><00:01:32.320><c> e</c><00:01:32.479><c> to</c><00:01:32.840><c> x</c><00:01:33.159><c> *</c><00:01:33.799><c> natural</c><00:01:34.200><c> log</c><00:01:34.439><c> of</c><00:01:34.600><c> x</c><00:01:35.560><c> now</c>
+
+00:01:35.990 --> 00:01:36.000 align:start position:0%
++ 2x * e to x * natural log of x now
+ 
+
+00:01:36.000 --> 00:01:39.270 align:start position:0%
++ 2x * e to x * natural log of x now
+let's<00:01:36.439><c> distribute</c><00:01:37.439><c> and</c><00:01:37.840><c> simplify</c><00:01:38.840><c> the</c><00:01:39.000><c> first</c>
+
+00:01:39.270 --> 00:01:39.280 align:start position:0%
+let's distribute and simplify the first
+ 
+
+00:01:39.280 --> 00:01:43.510 align:start position:0%
+let's distribute and simplify the first
+term<00:01:39.600><c> becomes</c><00:01:40.040><c> x</c><00:01:40.479><c> e</c><00:01:40.720><c> to</c><00:01:41.040><c> x</c><00:01:41.360><c> +</c><00:01:41.759><c> x^2</c><00:01:42.479><c> *</c><00:01:43.079><c> natural</c>
+
+00:01:43.510 --> 00:01:43.520 align:start position:0%
+term becomes x e to x + x^2 * natural
+ 
+
+00:01:43.520 --> 00:01:49.910 align:start position:0%
+term becomes x e to x + x^2 * natural
+log<00:01:44.280><c> of</c><00:01:44.600><c> x</c><00:01:44.960><c> *</c><00:01:45.560><c> e</c><00:01:45.759><c> to</c><00:01:46.079><c> x</c><00:01:46.719><c> +</c><00:01:47.079><c> 2x</c><00:01:47.680><c> *</c><00:01:48.439><c> e</c><00:01:48.680><c> to</c><00:01:48.920><c> x</c><00:01:49.159><c> *</c>
+
+00:01:49.910 --> 00:01:49.920 align:start position:0%
+log of x * e to x + 2x * e to x *
+ 
+
+00:01:49.920 --> 00:01:53.270 align:start position:0%
+log of x * e to x + 2x * e to x *
+natural<00:01:50.320><c> log</c><00:01:50.560><c> of</c><00:01:50.759><c> x</c><00:01:51.759><c> finally</c><00:01:52.640><c> we</c><00:01:52.759><c> can</c><00:01:53.000><c> factor</c>
+
+00:01:53.270 --> 00:01:53.280 align:start position:0%
+natural log of x finally we can factor
+ 
+
+00:01:53.280 --> 00:01:56.310 align:start position:0%
+natural log of x finally we can factor
+out<00:01:53.479><c> x</c><00:01:53.759><c> e</c><00:01:54.000><c> to</c><00:01:54.159><c> the</c><00:01:54.280><c> X</c><00:01:55.240><c> giving</c><00:01:55.479><c> us</c><00:01:55.640><c> our</c><00:01:55.920><c> final</c>
+
+00:01:56.310 --> 00:01:56.320 align:start position:0%
+out x e to the X giving us our final
+ 
+
+00:01:56.320 --> 00:02:01.069 align:start position:0%
+out x e to the X giving us our final
+answer<00:01:56.680><c> x</c><00:01:57.079><c> e</c><00:01:57.360><c> to</c><00:01:57.719><c> x</c><00:01:58.079><c> *</c><00:01:58.560><c> the</c><00:01:58.719><c> quantity</c><00:01:59.600><c> 1</c><00:01:59.920><c> 1</c><00:02:00.159><c> +</c><00:02:00.600><c> x</c>
+
+00:02:01.069 --> 00:02:01.079 align:start position:0%
+answer x e to x * the quantity 1 1 + x
+ 
+
+00:02:01.079 --> 00:02:04.749 align:start position:0%
+answer x e to x * the quantity 1 1 + x
+natural<00:02:01.520><c> log</c><00:02:01.759><c> of</c><00:02:01.960><c> x</c><00:02:02.280><c> +</c><00:02:02.640><c> 2</c><00:02:03.079><c> natural</c><00:02:03.479><c> log</c><00:02:03.680><c> of</c><00:02:03.840><c> x</c>
+
+00:02:04.749 --> 00:02:04.759 align:start position:0%
+natural log of x + 2 natural log of x
+ 
+
+00:02:04.759 --> 00:02:06.990 align:start position:0%
+natural log of x + 2 natural log of x
+this<00:02:05.119><c> problem</c><00:02:05.560><c> demonstrated</c><00:02:06.280><c> how</c><00:02:06.439><c> to</c><00:02:06.680><c> handle</c>
+
+00:02:06.990 --> 00:02:07.000 align:start position:0%
+this problem demonstrated how to handle
+ 
+
+00:02:07.000 --> 00:02:09.749 align:start position:0%
+this problem demonstrated how to handle
+a<00:02:07.280><c> complex</c><00:02:07.880><c> derivative</c><00:02:08.360><c> using</c><00:02:09.080><c> multiple</c>
+
+00:02:09.749 --> 00:02:09.759 align:start position:0%
+a complex derivative using multiple
+ 
+
+00:02:09.759 --> 00:02:12.390 align:start position:0%
+a complex derivative using multiple
+applications<00:02:10.360><c> of</c><00:02:10.520><c> the</c><00:02:10.720><c> product</c><00:02:11.080><c> rule</c><00:02:12.040><c> along</c>
+
+00:02:12.390 --> 00:02:12.400 align:start position:0%
+applications of the product rule along
+ 
+
+00:02:12.400 --> 00:02:14.390 align:start position:0%
+applications of the product rule along
+with<00:02:12.599><c> knowing</c><00:02:12.959><c> our</c><00:02:13.200><c> basic</c><00:02:13.599><c> derivative</c><00:02:14.040><c> rules</c>
+
+00:02:14.390 --> 00:02:14.400 align:start position:0%
+with knowing our basic derivative rules
+ 
+
+00:02:14.400 --> 00:02:17.150 align:start position:0%
+with knowing our basic derivative rules
+for<00:02:15.040><c> exponential</c><00:02:16.040><c> and</c><00:02:16.280><c> logarithmic</c>
+
+00:02:17.150 --> 00:02:17.160 align:start position:0%
+for exponential and logarithmic
+ 
+
+00:02:17.160 --> 00:02:19.830 align:start position:0%
+for exponential and logarithmic
+functions<00:02:18.160><c> the</c><00:02:18.360><c> key</c><00:02:18.720><c> was</c><00:02:19.000><c> breaking</c><00:02:19.400><c> down</c><00:02:19.599><c> the</c>
+
+00:02:19.830 --> 00:02:19.840 align:start position:0%
+functions the key was breaking down the
+ 
+
+00:02:19.840 --> 00:02:21.750 align:start position:0%
+functions the key was breaking down the
+problem<00:02:20.160><c> into</c><00:02:20.440><c> manageable</c><00:02:21.000><c> pieces</c><00:02:21.519><c> and</c>
+
+00:02:21.750 --> 00:02:21.760 align:start position:0%
+problem into manageable pieces and
+ 
+
+00:02:21.760 --> 00:02:26.560 align:start position:0%
+problem into manageable pieces and
+applying<00:02:22.160><c> the</c><00:02:22.319><c> rules</c><00:02:22.920><c> step</c><00:02:23.239><c> by</c><00:02:23.560><c> step</c>
+

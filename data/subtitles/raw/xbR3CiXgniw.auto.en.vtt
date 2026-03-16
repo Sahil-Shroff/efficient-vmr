@@ -1,0 +1,160 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.199 --> 00:00:02.470 align:start position:0%
+ 
+first<00:00:00.680><c> we</c><00:00:00.799><c> need</c><00:00:00.960><c> to</c><00:00:01.120><c> figure</c><00:00:01.360><c> out</c><00:00:01.560><c> where</c><00:00:01.800><c> ihat</c>
+
+00:00:02.470 --> 00:00:02.480 align:start position:0%
+first we need to figure out where ihat
+ 
+
+00:00:02.480 --> 00:00:05.430 align:start position:0%
+first we need to figure out where ihat
+goes<00:00:03.480><c> after</c><00:00:03.760><c> applying</c><00:00:04.160><c> M1</c><00:00:05.040><c> the</c><00:00:05.200><c> new</c>
+
+00:00:05.430 --> 00:00:05.440 align:start position:0%
+goes after applying M1 the new
+ 
+
+00:00:05.440 --> 00:00:08.030 align:start position:0%
+goes after applying M1 the new
+coordinates<00:00:05.879><c> of</c><00:00:06.080><c> ihat</c><00:00:06.680><c> by</c><00:00:06.879><c> definition</c><00:00:07.759><c> are</c>
+
+00:00:08.030 --> 00:00:08.040 align:start position:0%
+coordinates of ihat by definition are
+ 
+
+00:00:08.040 --> 00:00:10.870 align:start position:0%
+coordinates of ihat by definition are
+given<00:00:08.320><c> by</c><00:00:08.519><c> that</c><00:00:08.719><c> First</c><00:00:09.080><c> Column</c><00:00:09.440><c> of</c><00:00:09.599><c> M1</c><00:00:10.440><c> namely</c>
+
+00:00:10.870 --> 00:00:10.880 align:start position:0%
+given by that First Column of M1 namely
+ 
+
+00:00:10.880 --> 00:00:14.030 align:start position:0%
+given by that First Column of M1 namely
+1<00:00:11.240><c> one</c><00:00:12.240><c> to</c><00:00:12.400><c> see</c><00:00:12.639><c> what</c><00:00:12.799><c> happens</c><00:00:13.240><c> after</c><00:00:13.519><c> applying</c>
+
+00:00:14.030 --> 00:00:14.040 align:start position:0%
+1 one to see what happens after applying
+ 
+
+00:00:14.040 --> 00:00:17.790 align:start position:0%
+1 one to see what happens after applying
+M2<00:00:15.040><c> multiply</c><00:00:15.559><c> The</c><00:00:15.719><c> Matrix</c><00:00:16.119><c> for</c><00:00:16.320><c> M2</c><00:00:17.240><c> by</c><00:00:17.520><c> that</c>
+
+00:00:17.790 --> 00:00:17.800 align:start position:0%
+M2 multiply The Matrix for M2 by that
+ 
+
+00:00:17.800 --> 00:00:19.950 align:start position:0%
+M2 multiply The Matrix for M2 by that
+Vector<00:00:18.240><c> 1</c>
+
+00:00:19.950 --> 00:00:19.960 align:start position:0%
+Vector 1
+ 
+
+00:00:19.960 --> 00:00:22.230 align:start position:0%
+Vector 1
+one<00:00:20.960><c> working</c><00:00:21.279><c> it</c><00:00:21.400><c> out</c><00:00:21.760><c> the</c><00:00:21.880><c> way</c><00:00:22.000><c> that</c><00:00:22.119><c> I</c>
+
+00:00:22.230 --> 00:00:22.240 align:start position:0%
+one working it out the way that I
+ 
+
+00:00:22.240 --> 00:00:24.150 align:start position:0%
+one working it out the way that I
+described<00:00:22.680><c> last</c><00:00:22.920><c> video</c><00:00:23.560><c> you'll</c><00:00:23.800><c> get</c><00:00:24.000><c> the</c>
+
+00:00:24.150 --> 00:00:24.160 align:start position:0%
+described last video you'll get the
+ 
+
+00:00:24.160 --> 00:00:25.189 align:start position:0%
+described last video you'll get the
+vector
+
+00:00:25.189 --> 00:00:25.199 align:start position:0%
+vector
+ 
+
+00:00:25.199 --> 00:00:27.589 align:start position:0%
+vector
+21<00:00:26.199><c> this</c><00:00:26.359><c> will</c><00:00:26.519><c> be</c><00:00:26.640><c> the</c><00:00:26.800><c> first</c><00:00:27.039><c> column</c><00:00:27.359><c> of</c><00:00:27.439><c> the</c>
+
+00:00:27.589 --> 00:00:27.599 align:start position:0%
+21 this will be the first column of the
+ 
+
+00:00:27.599 --> 00:00:28.950 align:start position:0%
+21 this will be the first column of the
+composition
+
+00:00:28.950 --> 00:00:28.960 align:start position:0%
+composition
+ 
+
+00:00:28.960 --> 00:00:31.790 align:start position:0%
+composition
+Matrix<00:00:30.000><c> likewise</c><00:00:30.400><c> to</c><00:00:30.560><c> follow</c><00:00:30.880><c> J</c><00:00:31.240><c> hat</c><00:00:31.679><c> the</c>
+
+00:00:31.790 --> 00:00:31.800 align:start position:0%
+Matrix likewise to follow J hat the
+ 
+
+00:00:31.800 --> 00:00:34.030 align:start position:0%
+Matrix likewise to follow J hat the
+second<00:00:32.160><c> column</c><00:00:32.439><c> of</c><00:00:32.599><c> M1</c><00:00:33.320><c> tells</c><00:00:33.559><c> us</c><00:00:33.760><c> that</c><00:00:33.879><c> it</c>
+
+00:00:34.030 --> 00:00:34.040 align:start position:0%
+second column of M1 tells us that it
+ 
+
+00:00:34.040 --> 00:00:37.430 align:start position:0%
+second column of M1 tells us that it
+first<00:00:34.320><c> lands</c><00:00:34.719><c> on</c>
+
+00:00:37.430 --> 00:00:37.440 align:start position:0%
+ 
+ 
+
+00:00:37.440 --> 00:00:42.430 align:start position:0%
+ 
+-20<00:00:38.440><c> then</c><00:00:38.960><c> when</c><00:00:39.160><c> we</c><00:00:39.320><c> apply</c><00:00:39.680><c> M2</c><00:00:40.280><c> to</c><00:00:40.480><c> that</c>
+
+00:00:42.430 --> 00:00:42.440 align:start position:0%
+-20 then when we apply M2 to that
+ 
+
+00:00:42.440 --> 00:00:44.670 align:start position:0%
+-20 then when we apply M2 to that
+Vector<00:00:43.440><c> you</c><00:00:43.600><c> can</c><00:00:43.760><c> work</c><00:00:43.960><c> out</c><00:00:44.120><c> the</c><00:00:44.280><c> Matrix</c>
+
+00:00:44.670 --> 00:00:44.680 align:start position:0%
+Vector you can work out the Matrix
+ 
+
+00:00:44.680 --> 00:00:48.590 align:start position:0%
+Vector you can work out the Matrix
+Vector<00:00:45.039><c> product</c><00:00:45.520><c> to</c><00:00:45.719><c> get</c><00:00:45.960><c> 0</c><00:00:47.079><c> -2</c><00:00:48.079><c> which</c><00:00:48.280><c> becomes</c>
+
+00:00:48.590 --> 00:00:48.600 align:start position:0%
+Vector product to get 0 -2 which becomes
+ 
+
+00:00:48.600 --> 00:00:50.150 align:start position:0%
+Vector product to get 0 -2 which becomes
+the<00:00:48.760><c> second</c><00:00:49.079><c> column</c><00:00:49.360><c> of</c><00:00:49.440><c> our</c><00:00:49.640><c> composition</c>
+
+00:00:50.150 --> 00:00:50.160 align:start position:0%
+the second column of our composition
+ 
+
+00:00:50.160 --> 00:00:53.160 align:start position:0%
+the second column of our composition
+Matrix
+

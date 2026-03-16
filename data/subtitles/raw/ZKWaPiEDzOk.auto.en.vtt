@@ -1,0 +1,200 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.280 --> 00:00:02.510 align:start position:0%
+ 
+let's<00:00:00.520><c> solve</c><00:00:00.840><c> this</c><00:00:01.079><c> calculus</c><00:00:01.680><c> problem</c><00:00:02.120><c> step</c>
+
+00:00:02.510 --> 00:00:02.520 align:start position:0%
+let's solve this calculus problem step
+ 
+
+00:00:02.520 --> 00:00:05.349 align:start position:0%
+let's solve this calculus problem step
+by<00:00:03.000><c> step</c><00:00:03.320><c> using</c><00:00:03.600><c> the</c><00:00:03.760><c> quotient</c><00:00:04.200><c> rule</c><00:00:05.040><c> we</c><00:00:05.200><c> need</c>
+
+00:00:05.349 --> 00:00:05.359 align:start position:0%
+by step using the quotient rule we need
+ 
+
+00:00:05.359 --> 00:00:08.110 align:start position:0%
+by step using the quotient rule we need
+to<00:00:05.560><c> find</c><00:00:05.799><c> the</c><00:00:05.960><c> derivative</c><00:00:06.440><c> of</c><00:00:06.640><c> x</c><00:00:06.960><c> to</c><00:00:07.160><c> the</c><00:00:07.279><c> N</c>
+
+00:00:08.110 --> 00:00:08.120 align:start position:0%
+to find the derivative of x to the N
+ 
+
+00:00:08.120 --> 00:00:12.030 align:start position:0%
+to find the derivative of x to the N
+divided<00:00:09.080><c> natural</c><00:00:09.559><c> log</c><00:00:09.840><c> of</c><00:00:10.120><c> x</c><00:00:11.120><c> first</c><00:00:11.759><c> let's</c>
+
+00:00:12.030 --> 00:00:12.040 align:start position:0%
+divided natural log of x first let's
+ 
+
+00:00:12.040 --> 00:00:15.070 align:start position:0%
+divided natural log of x first let's
+recall<00:00:12.480><c> the</c><00:00:12.639><c> quotient</c><00:00:13.120><c> rule</c><00:00:13.639><c> formula</c><00:00:14.639><c> for</c><00:00:14.839><c> a</c>
+
+00:00:15.070 --> 00:00:15.080 align:start position:0%
+recall the quotient rule formula for a
+ 
+
+00:00:15.080 --> 00:00:18.310 align:start position:0%
+recall the quotient rule formula for a
+fraction<00:00:15.480><c> U</c><00:00:15.679><c> over</c><00:00:16.000><c> V</c><00:00:16.840><c> the</c><00:00:17.000><c> derivative</c><00:00:17.439><c> is</c><00:00:17.640><c> V</c><00:00:17.880><c> *</c>
+
+00:00:18.310 --> 00:00:18.320 align:start position:0%
+fraction U over V the derivative is V *
+ 
+
+00:00:18.320 --> 00:00:23.830 align:start position:0%
+fraction U over V the derivative is V *
+d<00:00:18.720><c> dxus</c><00:00:19.720><c> u</c><00:00:19.920><c> *</c><00:00:20.760><c> dvdx</c><00:00:21.760><c> all</c><00:00:22.080><c> over</c><00:00:22.320><c> V</c><00:00:22.519><c> ^2</c><00:00:23.519><c> let's</c>
+
+00:00:23.830 --> 00:00:23.840 align:start position:0%
+d dxus u * dvdx all over V ^2 let's
+ 
+
+00:00:23.840 --> 00:00:27.429 align:start position:0%
+d dxus u * dvdx all over V ^2 let's
+identify<00:00:24.480><c> our</c><00:00:24.760><c> u</c><00:00:25.279><c> and</c><00:00:25.519><c> v</c><00:00:26.359><c> in</c><00:00:26.599><c> this</c><00:00:26.880><c> case</c><00:00:27.119><c> U</c>
+
+00:00:27.429 --> 00:00:27.439 align:start position:0%
+identify our u and v in this case U
+ 
+
+00:00:27.439 --> 00:00:31.029 align:start position:0%
+identify our u and v in this case U
+equal<00:00:27.800><c> x</c><00:00:28.080><c> to</c><00:00:28.199><c> the</c><00:00:28.320><c> n</c><00:00:29.279><c> and</c><00:00:29.480><c> V</c><00:00:30.000><c> equal</c><00:00:30.400><c> natural</c><00:00:30.800><c> log</c>
+
+00:00:31.029 --> 00:00:31.039 align:start position:0%
+equal x to the n and V equal natural log
+ 
+
+00:00:31.039 --> 00:00:34.590 align:start position:0%
+equal x to the n and V equal natural log
+of<00:00:31.239><c> x</c><00:00:32.239><c> now</c><00:00:32.719><c> let's</c><00:00:33.040><c> find</c><00:00:33.280><c> the</c><00:00:33.480><c> derivatives</c><00:00:34.040><c> of</c><00:00:34.239><c> u</c>
+
+00:00:34.590 --> 00:00:34.600 align:start position:0%
+of x now let's find the derivatives of u
+ 
+
+00:00:34.600 --> 00:00:38.790 align:start position:0%
+of x now let's find the derivatives of u
+and<00:00:34.800><c> v</c><00:00:35.640><c> the</c><00:00:35.800><c> derivative</c><00:00:36.280><c> of</c><00:00:36.440><c> x</c><00:00:36.760><c> to</c><00:00:36.920><c> the</c><00:00:37.040><c> N</c><00:00:37.640><c> is</c><00:00:37.960><c> NX</c>
+
+00:00:38.790 --> 00:00:38.800 align:start position:0%
+and v the derivative of x to the N is NX
+ 
+
+00:00:38.800 --> 00:00:39.670 align:start position:0%
+and v the derivative of x to the N is NX
+the
+
+00:00:39.670 --> 00:00:39.680 align:start position:0%
+the
+ 
+
+00:00:39.680 --> 00:00:42.350 align:start position:0%
+the
+nus1<00:00:40.680><c> and</c><00:00:40.840><c> the</c><00:00:41.000><c> derivative</c><00:00:41.480><c> of</c><00:00:41.719><c> natural</c><00:00:42.120><c> log</c>
+
+00:00:42.350 --> 00:00:42.360 align:start position:0%
+nus1 and the derivative of natural log
+ 
+
+00:00:42.360 --> 00:00:46.950 align:start position:0%
+nus1 and the derivative of natural log
+of<00:00:42.520><c> x</c><00:00:43.360><c> is</c><00:00:43.719><c> 1</c><00:00:44.239><c> /x</c><00:00:45.239><c> Let's</c><00:00:45.559><c> substitute</c><00:00:46.360><c> these</c><00:00:46.680><c> into</c>
+
+00:00:46.950 --> 00:00:46.960 align:start position:0%
+of x is 1 /x Let's substitute these into
+ 
+
+00:00:46.960 --> 00:00:50.029 align:start position:0%
+of x is 1 /x Let's substitute these into
+our<00:00:47.199><c> quotient</c><00:00:47.640><c> rule</c><00:00:48.120><c> formula</c><00:00:49.120><c> we</c><00:00:49.320><c> get</c><00:00:49.640><c> natural</c>
+
+00:00:50.029 --> 00:00:50.039 align:start position:0%
+our quotient rule formula we get natural
+ 
+
+00:00:50.039 --> 00:00:53.790 align:start position:0%
+our quotient rule formula we get natural
+log<00:00:50.280><c> x</c><00:00:50.559><c> *</c><00:00:51.640><c> NX</c>
+
+00:00:53.790 --> 00:00:53.800 align:start position:0%
+log x * NX
+ 
+
+00:00:53.800 --> 00:01:00.470 align:start position:0%
+log x * NX
+n-1<00:00:54.800><c> -</c><00:00:55.280><c> x</c><00:00:55.840><c> n</c><00:00:56.079><c> *</c><00:00:56.960><c> 1X</c><00:00:57.960><c> all</c><00:00:58.199><c> over</c><00:00:58.519><c> natural</c><00:00:58.920><c> log</c><00:00:59.160><c> x^2</c>
+
+00:01:00.470 --> 00:01:00.480 align:start position:0%
+n-1 - x n * 1X all over natural log x^2
+ 
+
+00:01:00.480 --> 00:01:03.549 align:start position:0%
+n-1 - x n * 1X all over natural log x^2
+now<00:01:01.039><c> let's</c><00:01:01.399><c> simplify</c><00:01:01.920><c> the</c><00:01:02.199><c> numerator</c><00:01:03.199><c> in</c><00:01:03.320><c> the</c>
+
+00:01:03.549 --> 00:01:03.559 align:start position:0%
+now let's simplify the numerator in the
+ 
+
+00:01:03.559 --> 00:01:09.070 align:start position:0%
+now let's simplify the numerator in the
+second<00:01:03.960><c> term</c><00:01:04.879><c> X</c><00:01:05.320><c> the</c><00:01:05.439><c> N</c><00:01:05.799><c> /</c><00:01:06.560><c> X</c><00:01:07.360><c> simplifies</c><00:01:08.080><c> to</c><00:01:08.360><c> X</c>
+
+00:01:09.070 --> 00:01:09.080 align:start position:0%
+second term X the N / X simplifies to X
+ 
+
+00:01:09.080 --> 00:01:13.990 align:start position:0%
+second term X the N / X simplifies to X
+N<00:01:10.119><c> -1</c><00:01:11.119><c> for</c><00:01:11.720><c> our</c><00:01:12.080><c> final</c><00:01:12.479><c> step</c><00:01:13.280><c> we</c><00:01:13.400><c> can</c><00:01:13.680><c> factor</c>
+
+00:01:13.990 --> 00:01:14.000 align:start position:0%
+N -1 for our final step we can factor
+ 
+
+00:01:14.000 --> 00:01:17.990 align:start position:0%
+N -1 for our final step we can factor
+out<00:01:14.320><c> x</c><00:01:14.640><c> to</c><00:01:14.840><c> the</c><00:01:15.159><c> nus</c><00:01:16.159><c> 1</c><00:01:16.920><c> from</c><00:01:17.240><c> both</c><00:01:17.479><c> terms</c><00:01:17.840><c> in</c>
+
+00:01:17.990 --> 00:01:18.000 align:start position:0%
+out x to the nus 1 from both terms in
+ 
+
+00:01:18.000 --> 00:01:21.910 align:start position:0%
+out x to the nus 1 from both terms in
+the<00:01:18.240><c> numerator</c><00:01:19.240><c> this</c><00:01:19.439><c> gives</c><00:01:19.680><c> us</c><00:01:20.000><c> x</c><00:01:20.320><c> to</c><00:01:20.520><c> the</c><00:01:20.920><c> nus</c>
+
+00:01:21.910 --> 00:01:21.920 align:start position:0%
+the numerator this gives us x to the nus
+ 
+
+00:01:21.920 --> 00:01:26.149 align:start position:0%
+the numerator this gives us x to the nus
+1<00:01:22.200><c> *</c><00:01:22.600><c> the</c><00:01:22.759><c> quantity</c><00:01:23.200><c> n</c><00:01:23.520><c> natural</c><00:01:23.960><c> log</c><00:01:24.240><c> x</c><00:01:24.920><c> -1</c><00:01:25.920><c> all</c>
+
+00:01:26.149 --> 00:01:26.159 align:start position:0%
+1 * the quantity n natural log x -1 all
+ 
+
+00:01:26.159 --> 00:01:29.390 align:start position:0%
+1 * the quantity n natural log x -1 all
+over<00:01:26.479><c> natural</c><00:01:26.960><c> log</c><00:01:27.640><c> x^2</c><00:01:28.640><c> and</c><00:01:28.920><c> this</c><00:01:29.040><c> is</c><00:01:29.159><c> our</c>
+
+00:01:29.390 --> 00:01:29.400 align:start position:0%
+over natural log x^2 and this is our
+ 
+
+00:01:29.400 --> 00:01:34.079 align:start position:0%
+over natural log x^2 and this is our
+final<00:01:29.720><c> answer</c><00:01:29.960><c> answer</c><00:01:30.799><c> we've</c><00:01:31.079><c> successfully</c>
+

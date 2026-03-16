@@ -1,0 +1,328 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.240 --> 00:00:01.550 align:start position:0%
+ 
+let's<00:00:00.480><c> solve</c><00:00:00.719><c> a</c><00:00:00.960><c> challenging</c>
+
+00:00:01.550 --> 00:00:01.560 align:start position:0%
+let's solve a challenging
+ 
+
+00:00:01.560 --> 00:00:03.990 align:start position:0%
+let's solve a challenging
+differentiation<00:00:02.520><c> problem</c><00:00:03.280><c> using</c>
+
+00:00:03.990 --> 00:00:04.000 align:start position:0%
+differentiation problem using
+ 
+
+00:00:04.000 --> 00:00:06.869 align:start position:0%
+differentiation problem using
+logarithmic<00:00:05.359><c> differentiation</c><00:00:06.359><c> we</c><00:00:06.480><c> need</c><00:00:06.640><c> to</c>
+
+00:00:06.869 --> 00:00:06.879 align:start position:0%
+logarithmic differentiation we need to
+ 
+
+00:00:06.879 --> 00:00:11.749 align:start position:0%
+logarithmic differentiation we need to
+find<00:00:07.160><c> the</c><00:00:07.320><c> derivative</c><00:00:08.320><c> of</c><00:00:09.080><c> y</c><00:00:09.320><c> =</c><00:00:09.880><c> e</c><00:00:10.200><c> to</c><00:00:10.519><c> x^2</c><00:00:11.320><c> *</c>
+
+00:00:11.749 --> 00:00:11.759 align:start position:0%
+find the derivative of y = e to x^2 *
+ 
+
+00:00:11.759 --> 00:00:14.990 align:start position:0%
+find the derivative of y = e to x^2 *
+inverse<00:00:12.200><c> tangent</c><00:00:12.599><c> of</c><00:00:12.880><c> X</c><00:00:13.880><c> all</c><00:00:14.160><c> divided</c><00:00:14.639><c> by</c><00:00:14.799><c> the</c>
+
+00:00:14.990 --> 00:00:15.000 align:start position:0%
+inverse tangent of X all divided by the
+ 
+
+00:00:15.000 --> 00:00:20.109 align:start position:0%
+inverse tangent of X all divided by the
+square<00:00:15.360><c> root</c><00:00:16.199><c> of</c><00:00:16.480><c> 1</c><00:00:16.840><c> +</c><00:00:17.640><c> x^2</c><00:00:18.640><c> this</c><00:00:18.920><c> is</c><00:00:19.039><c> a</c><00:00:19.439><c> complex</c>
+
+00:00:20.109 --> 00:00:20.119 align:start position:0%
+square root of 1 + x^2 this is a complex
+ 
+
+00:00:20.119 --> 00:00:22.429 align:start position:0%
+square root of 1 + x^2 this is a complex
+function<00:00:20.519><c> involving</c><00:00:21.119><c> products</c><00:00:21.680><c> quotients</c>
+
+00:00:22.429 --> 00:00:22.439 align:start position:0%
+function involving products quotients
+ 
+
+00:00:22.439 --> 00:00:25.470 align:start position:0%
+function involving products quotients
+and<00:00:23.160><c> compositions</c><00:00:24.160><c> the</c><00:00:24.359><c> best</c><00:00:24.640><c> approach</c><00:00:25.160><c> is</c><00:00:25.279><c> to</c>
+
+00:00:25.470 --> 00:00:25.480 align:start position:0%
+and compositions the best approach is to
+ 
+
+00:00:25.480 --> 00:00:28.910 align:start position:0%
+and compositions the best approach is to
+take<00:00:25.720><c> the</c><00:00:26.039><c> natural</c><00:00:26.480><c> logarithm</c><00:00:27.199><c> of</c><00:00:27.439><c> both</c><00:00:27.920><c> sides</c>
+
+00:00:28.910 --> 00:00:28.920 align:start position:0%
+take the natural logarithm of both sides
+ 
+
+00:00:28.920 --> 00:00:33.110 align:start position:0%
+take the natural logarithm of both sides
+this<00:00:29.160><c> gives</c><00:00:29.400><c> us</c><00:00:29.679><c> l</c><00:00:30.119><c> n</c><00:00:30.519><c> of</c><00:00:30.920><c> Y</c><00:00:31.240><c> =</c><00:00:31.800><c> Ln</c><00:00:32.759><c> of</c><00:00:32.880><c> our</c>
+
+00:00:33.110 --> 00:00:33.120 align:start position:0%
+this gives us l n of Y = Ln of our
+ 
+
+00:00:33.120 --> 00:00:35.750 align:start position:0%
+this gives us l n of Y = Ln of our
+entire<00:00:33.879><c> expression</c><00:00:34.879><c> using</c><00:00:35.200><c> the</c><00:00:35.399><c> properties</c>
+
+00:00:35.750 --> 00:00:35.760 align:start position:0%
+entire expression using the properties
+ 
+
+00:00:35.760 --> 00:00:39.630 align:start position:0%
+entire expression using the properties
+of<00:00:36.280><c> logarithms</c><00:00:37.280><c> we</c><00:00:37.399><c> can</c><00:00:37.640><c> split</c><00:00:38.440><c> this</c><00:00:38.760><c> into</c><00:00:39.440><c> the</c>
+
+00:00:39.630 --> 00:00:39.640 align:start position:0%
+of logarithms we can split this into the
+ 
+
+00:00:39.640 --> 00:00:42.990 align:start position:0%
+of logarithms we can split this into the
+difference<00:00:40.480><c> of</c><00:00:41.120><c> logarithms</c><00:00:42.120><c> the</c><00:00:42.320><c> numerator</c>
+
+00:00:42.990 --> 00:00:43.000 align:start position:0%
+difference of logarithms the numerator
+ 
+
+00:00:43.000 --> 00:00:48.430 align:start position:0%
+difference of logarithms the numerator
+becomes<00:00:43.520><c> Ln</c><00:00:44.320><c> of</c><00:00:44.559><c> e</c><00:00:45.160><c> x^2</c><00:00:46.039><c> *</c><00:00:46.640><c> inverse</c><00:00:47.120><c> tangent</c><00:00:47.559><c> of</c>
+
+00:00:48.430 --> 00:00:48.440 align:start position:0%
+becomes Ln of e x^2 * inverse tangent of
+ 
+
+00:00:48.440 --> 00:00:54.029 align:start position:0%
+becomes Ln of e x^2 * inverse tangent of
+xus<00:00:49.440><c> Ln</c><00:00:50.199><c> of</c><00:00:50.399><c> the</c><00:00:51.000><c> &lt;</c><00:00:51.120><c> TK</c><00:00:51.399><c> of</c><00:00:51.719><c> 1</c><00:00:52.039><c> +</c><00:00:52.719><c> x^2</c><00:00:53.719><c> again</c>
+
+00:00:54.029 --> 00:00:54.039 align:start position:0%
+xus Ln of the &lt; TK of 1 + x^2 again
+ 
+
+00:00:54.039 --> 00:00:56.510 align:start position:0%
+xus Ln of the &lt; TK of 1 + x^2 again
+using<00:00:54.399><c> logarithm</c><00:00:55.039><c> properties</c><00:00:55.800><c> we</c><00:00:55.920><c> can</c><00:00:56.160><c> split</c>
+
+00:00:56.510 --> 00:00:56.520 align:start position:0%
+using logarithm properties we can split
+ 
+
+00:00:56.520 --> 00:01:02.110 align:start position:0%
+using logarithm properties we can split
+the<00:00:56.680><c> first</c><00:00:57.000><c> term</c><00:00:57.320><c> into</c><00:00:57.760><c> Ln</c><00:00:58.760><c> of</c><00:00:59.000><c> e</c><00:00:59.320><c> to</c><00:00:59.559><c> X</c><00:01:00.079><c> 2</c><00:01:00.600><c> +</c><00:01:01.120><c> Ln</c>
+
+00:01:02.110 --> 00:01:02.120 align:start position:0%
+the first term into Ln of e to X 2 + Ln
+ 
+
+00:01:02.120 --> 00:01:06.469 align:start position:0%
+the first term into Ln of e to X 2 + Ln
+of<00:01:02.440><c> inverse</c><00:01:02.920><c> tangent</c><00:01:03.320><c> of</c><00:01:03.480><c> X</c><00:01:04.320><c> and</c><00:01:04.840><c> remember</c><00:01:05.840><c> Ln</c>
+
+00:01:06.469 --> 00:01:06.479 align:start position:0%
+of inverse tangent of X and remember Ln
+ 
+
+00:01:06.479 --> 00:01:11.270 align:start position:0%
+of inverse tangent of X and remember Ln
+of<00:01:06.640><c> a</c><00:01:06.960><c> square</c><00:01:07.479><c> T</c><00:01:07.759><c> is</c><00:01:08.560><c> 12</c><00:01:08.920><c> Ln</c><00:01:09.680><c> of</c><00:01:09.840><c> the</c><00:01:10.280><c> expression</c>
+
+00:01:11.270 --> 00:01:11.280 align:start position:0%
+of a square T is 12 Ln of the expression
+ 
+
+00:01:11.280 --> 00:01:13.830 align:start position:0%
+of a square T is 12 Ln of the expression
+now<00:01:11.640><c> we</c><00:01:11.799><c> can</c><00:01:12.040><c> differentiate</c><00:01:12.840><c> both</c><00:01:13.200><c> sides</c><00:01:13.600><c> with</c>
+
+00:01:13.830 --> 00:01:13.840 align:start position:0%
+now we can differentiate both sides with
+ 
+
+00:01:13.840 --> 00:01:17.990 align:start position:0%
+now we can differentiate both sides with
+respect<00:01:14.119><c> to</c><00:01:14.400><c> X</c><00:01:15.280><c> on</c><00:01:15.439><c> the</c><00:01:15.680><c> left</c><00:01:16.119><c> side</c><00:01:16.920><c> we</c><00:01:17.080><c> get</c><00:01:17.360><c> 1</c><00:01:17.600><c> /</c>
+
+00:01:17.990 --> 00:01:18.000 align:start position:0%
+respect to X on the left side we get 1 /
+ 
+
+00:01:18.000 --> 00:01:19.190 align:start position:0%
+respect to X on the left side we get 1 /
+y<00:01:18.280><c> *</c>
+
+00:01:19.190 --> 00:01:19.200 align:start position:0%
+y *
+ 
+
+00:01:19.200 --> 00:01:22.590 align:start position:0%
+y *
+dydx<00:01:20.200><c> on</c><00:01:20.320><c> the</c><00:01:20.600><c> right</c><00:01:20.920><c> side</c><00:01:21.680><c> we</c><00:01:21.840><c> use</c><00:01:22.119><c> the</c><00:01:22.280><c> chain</c>
+
+00:01:22.590 --> 00:01:22.600 align:start position:0%
+dydx on the right side we use the chain
+ 
+
+00:01:22.600 --> 00:01:26.469 align:start position:0%
+dydx on the right side we use the chain
+rule<00:01:22.920><c> for</c><00:01:23.200><c> each</c><00:01:23.479><c> term</c><00:01:24.400><c> the</c><00:01:24.600><c> derivative</c><00:01:25.040><c> of</c><00:01:25.479><c> x^2</c>
+
+00:01:26.469 --> 00:01:26.479 align:start position:0%
+rule for each term the derivative of x^2
+ 
+
+00:01:26.479 --> 00:01:29.950 align:start position:0%
+rule for each term the derivative of x^2
+is<00:01:26.840><c> 2x</c><00:01:27.840><c> for</c><00:01:28.040><c> the</c><00:01:28.200><c> natural</c><00:01:28.640><c> log</c><00:01:28.920><c> terms</c><00:01:29.560><c> we</c><00:01:29.720><c> use</c>
+
+00:01:29.950 --> 00:01:29.960 align:start position:0%
+is 2x for the natural log terms we use
+ 
+
+00:01:29.960 --> 00:01:32.990 align:start position:0%
+is 2x for the natural log terms we use
+use<00:01:30.200><c> the</c><00:01:30.320><c> chain</c><00:01:30.680><c> rule</c><00:01:31.640><c> this</c><00:01:31.840><c> gives</c><00:01:32.079><c> us</c><00:01:32.360><c> 1</c><00:01:32.600><c> /</c>
+
+00:01:32.990 --> 00:01:33.000 align:start position:0%
+use the chain rule this gives us 1 /
+ 
+
+00:01:33.000 --> 00:01:36.469 align:start position:0%
+use the chain rule this gives us 1 /
+inverse<00:01:33.600><c> tangent</c><00:01:34.520><c> of</c><00:01:34.840><c> x</c><00:01:35.159><c> *</c><00:01:35.640><c> its</c><00:01:35.920><c> derivative</c>
+
+00:01:36.469 --> 00:01:36.479 align:start position:0%
+inverse tangent of x * its derivative
+ 
+
+00:01:36.479 --> 00:01:41.270 align:start position:0%
+inverse tangent of x * its derivative
+which<00:01:36.600><c> is</c><00:01:36.799><c> 1</c><00:01:37.439><c> 1</c><00:01:37.880><c> +</c><00:01:38.479><c> x^2</c><00:01:39.479><c> and</c><00:01:39.680><c> for</c><00:01:39.840><c> the</c><00:01:40.079><c> last</c><00:01:40.360><c> term</c>
+
+00:01:41.270 --> 00:01:41.280 align:start position:0%
+which is 1 1 + x^2 and for the last term
+ 
+
+00:01:41.280 --> 00:01:47.510 align:start position:0%
+which is 1 1 + x^2 and for the last term
+we<00:01:41.439><c> get</c><00:01:42.040><c> -2</c><00:01:42.640><c> *</c><00:01:43.159><c> 1</c><00:01:43.920><c> 1</c><00:01:44.280><c> +</c><00:01:44.680><c> x^2</c><00:01:45.240><c> *</c><00:01:45.920><c> 2x</c><00:01:46.920><c> now</c><00:01:47.200><c> we</c><00:01:47.320><c> can</c>
+
+00:01:47.510 --> 00:01:47.520 align:start position:0%
+we get -2 * 1 1 + x^2 * 2x now we can
+ 
+
+00:01:47.520 --> 00:01:51.510 align:start position:0%
+we get -2 * 1 1 + x^2 * 2x now we can
+solve<00:01:47.840><c> for</c><00:01:48.360><c> dydx</c><00:01:49.360><c> by</c><00:01:49.920><c> multiplying</c><00:01:50.719><c> both</c><00:01:51.079><c> sides</c>
+
+00:01:51.510 --> 00:01:51.520 align:start position:0%
+solve for dydx by multiplying both sides
+ 
+
+00:01:51.520 --> 00:01:55.830 align:start position:0%
+solve for dydx by multiplying both sides
+by<00:01:51.799><c> Y</c><00:01:52.799><c> and</c><00:01:53.399><c> finally</c><00:01:54.399><c> we</c><00:01:54.719><c> substitute</c><00:01:55.439><c> back</c><00:01:55.640><c> the</c>
+
+00:01:55.830 --> 00:01:55.840 align:start position:0%
+by Y and finally we substitute back the
+ 
+
+00:01:55.840 --> 00:01:58.429 align:start position:0%
+by Y and finally we substitute back the
+original<00:01:56.320><c> expression</c><00:01:56.880><c> for</c><00:01:57.280><c> y</c><00:01:57.799><c> to</c><00:01:58.000><c> get</c><00:01:58.159><c> our</c>
+
+00:01:58.429 --> 00:01:58.439 align:start position:0%
+original expression for y to get our
+ 
+
+00:01:58.439 --> 00:02:01.469 align:start position:0%
+original expression for y to get our
+complete<00:01:58.960><c> derivative</c><00:02:00.119><c> this</c><00:02:00.320><c> gives</c><00:02:00.520><c> us</c><00:02:00.799><c> e</c><00:02:01.119><c> to</c>
+
+00:02:01.469 --> 00:02:01.479 align:start position:0%
+complete derivative this gives us e to
+ 
+
+00:02:01.479 --> 00:02:06.230 align:start position:0%
+complete derivative this gives us e to
+x^<00:02:01.880><c> 2</c><00:02:02.399><c> *</c><00:02:02.920><c> inverse</c><00:02:03.439><c> tangent</c><00:02:03.960><c> of</c><00:02:04.280><c> X</c><00:02:04.759><c> over</c><00:02:05.439><c> &lt;</c><00:02:05.560><c> TK</c><00:02:05.880><c> of</c>
+
+00:02:06.230 --> 00:02:06.240 align:start position:0%
+x^ 2 * inverse tangent of X over &lt; TK of
+ 
+
+00:02:06.240 --> 00:02:10.869 align:start position:0%
+x^ 2 * inverse tangent of X over &lt; TK of
+1<00:02:06.680><c> +</c><00:02:07.560><c> x^2</c><00:02:08.560><c> times</c><00:02:09.000><c> the</c><00:02:09.160><c> expression</c><00:02:09.560><c> in</c><00:02:09.879><c> Brackets</c>
+
+00:02:10.869 --> 00:02:10.879 align:start position:0%
+1 + x^2 times the expression in Brackets
+ 
+
+00:02:10.879 --> 00:02:13.509 align:start position:0%
+1 + x^2 times the expression in Brackets
+and<00:02:11.120><c> that's</c><00:02:11.440><c> how</c><00:02:11.680><c> we</c><00:02:11.840><c> use</c><00:02:12.400><c> logarithmic</c>
+
+00:02:13.509 --> 00:02:13.519 align:start position:0%
+and that's how we use logarithmic
+ 
+
+00:02:13.519 --> 00:02:16.030 align:start position:0%
+and that's how we use logarithmic
+differentiation<00:02:14.519><c> to</c><00:02:14.800><c> find</c><00:02:15.080><c> the</c><00:02:15.280><c> derivative</c>
+
+00:02:16.030 --> 00:02:16.040 align:start position:0%
+differentiation to find the derivative
+ 
+
+00:02:16.040 --> 00:02:18.910 align:start position:0%
+differentiation to find the derivative
+of<00:02:16.239><c> this</c><00:02:16.680><c> complex</c><00:02:17.239><c> function</c><00:02:18.160><c> the</c><00:02:18.360><c> key</c><00:02:18.640><c> steps</c>
+
+00:02:18.910 --> 00:02:18.920 align:start position:0%
+of this complex function the key steps
+ 
+
+00:02:18.920 --> 00:02:21.150 align:start position:0%
+of this complex function the key steps
+were<00:02:19.160><c> taking</c><00:02:19.480><c> the</c><00:02:19.760><c> natural</c><00:02:20.200><c> log</c><00:02:20.560><c> of</c><00:02:20.800><c> both</c>
+
+00:02:21.150 --> 00:02:21.160 align:start position:0%
+were taking the natural log of both
+ 
+
+00:02:21.160 --> 00:02:24.309 align:start position:0%
+were taking the natural log of both
+sides<00:02:21.800><c> using</c><00:02:22.160><c> log</c><00:02:22.560><c> properties</c><00:02:22.959><c> to</c><00:02:23.319><c> simplify</c>
+
+00:02:24.309 --> 00:02:24.319 align:start position:0%
+sides using log properties to simplify
+ 
+
+00:02:24.319 --> 00:02:29.319 align:start position:0%
+sides using log properties to simplify
+and<00:02:24.480><c> then</c><00:02:24.720><c> differentiating</c><00:02:25.560><c> term</c><00:02:26.000><c> by</c><00:02:26.319><c> term</c>
+

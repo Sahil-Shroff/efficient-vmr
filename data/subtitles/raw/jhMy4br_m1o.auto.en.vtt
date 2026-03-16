@@ -1,0 +1,536 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.240 --> 00:00:02.990 align:start position:0%
+ 
+let's<00:00:00.480><c> learn</c><00:00:00.760><c> about</c><00:00:01.000><c> the</c><00:00:01.199><c> product</c><00:00:01.599><c> rule</c><00:00:02.320><c> for</c>
+
+00:00:02.990 --> 00:00:03.000 align:start position:0%
+let's learn about the product rule for
+ 
+
+00:00:03.000 --> 00:00:06.150 align:start position:0%
+let's learn about the product rule for
+derivatives<00:00:04.000><c> this</c><00:00:04.200><c> rule</c><00:00:04.640><c> tells</c><00:00:04.920><c> us</c><00:00:05.200><c> how</c><00:00:05.920><c> to</c>
+
+00:00:06.150 --> 00:00:06.160 align:start position:0%
+derivatives this rule tells us how to
+ 
+
+00:00:06.160 --> 00:00:09.390 align:start position:0%
+derivatives this rule tells us how to
+find<00:00:06.520><c> the</c><00:00:06.720><c> derivative</c><00:00:07.520><c> of</c><00:00:07.640><c> a</c><00:00:07.839><c> product</c><00:00:08.480><c> of</c><00:00:08.840><c> two</c>
+
+00:00:09.390 --> 00:00:09.400 align:start position:0%
+find the derivative of a product of two
+ 
+
+00:00:09.400 --> 00:00:12.390 align:start position:0%
+find the derivative of a product of two
+functions<00:00:10.400><c> let's</c><00:00:10.639><c> start</c><00:00:10.960><c> with</c><00:00:11.280><c> two</c><00:00:11.719><c> functions</c>
+
+00:00:12.390 --> 00:00:12.400 align:start position:0%
+functions let's start with two functions
+ 
+
+00:00:12.400 --> 00:00:16.510 align:start position:0%
+functions let's start with two functions
+u<00:00:12.840><c> and</c><00:00:13.120><c> v</c><00:00:14.120><c> where</c><00:00:14.440><c> both</c><00:00:14.679><c> are</c><00:00:14.920><c> functions</c><00:00:15.360><c> of</c><00:00:15.559><c> X</c><00:00:16.400><c> we</c>
+
+00:00:16.510 --> 00:00:16.520 align:start position:0%
+u and v where both are functions of X we
+ 
+
+00:00:16.520 --> 00:00:18.269 align:start position:0%
+u and v where both are functions of X we
+want<00:00:16.640><c> to</c><00:00:16.840><c> find</c><00:00:17.080><c> the</c><00:00:17.240><c> derivative</c><00:00:17.800><c> of</c><00:00:18.000><c> their</c>
+
+00:00:18.269 --> 00:00:18.279 align:start position:0%
+want to find the derivative of their
+ 
+
+00:00:18.279 --> 00:00:20.950 align:start position:0%
+want to find the derivative of their
+product<00:00:19.240><c> let's</c><00:00:19.600><c> visualize</c><00:00:20.320><c> this</c>
+
+00:00:20.950 --> 00:00:20.960 align:start position:0%
+product let's visualize this
+ 
+
+00:00:20.960 --> 00:00:23.710 align:start position:0%
+product let's visualize this
+geometrically<00:00:21.960><c> imagine</c><00:00:22.439><c> you</c><00:00:23.199><c> and</c><00:00:23.400><c> V</c>
+
+00:00:23.710 --> 00:00:23.720 align:start position:0%
+geometrically imagine you and V
+ 
+
+00:00:23.720 --> 00:00:26.910 align:start position:0%
+geometrically imagine you and V
+represent<00:00:24.279><c> the</c><00:00:24.519><c> sides</c><00:00:25.160><c> of</c><00:00:25.279><c> a</c><00:00:25.679><c> rectangle</c><00:00:26.679><c> the</c>
+
+00:00:26.910 --> 00:00:26.920 align:start position:0%
+represent the sides of a rectangle the
+ 
+
+00:00:26.920 --> 00:00:30.109 align:start position:0%
+represent the sides of a rectangle the
+product<00:00:27.240><c> U</c><00:00:27.439><c> *</c><00:00:27.920><c> V</c><00:00:28.519><c> represents</c><00:00:29.160><c> the</c><00:00:29.400><c> area</c><00:00:29.800><c> of</c>
+
+00:00:30.109 --> 00:00:30.119 align:start position:0%
+product U * V represents the area of
+ 
+
+00:00:30.119 --> 00:00:33.910 align:start position:0%
+product U * V represents the area of
+this<00:00:30.439><c> rectangle</c><00:00:31.439><c> when</c><00:00:31.679><c> X</c><00:00:32.160><c> changes</c><00:00:33.160><c> both</c><00:00:33.399><c> u</c><00:00:33.719><c> and</c>
+
+00:00:33.910 --> 00:00:33.920 align:start position:0%
+this rectangle when X changes both u and
+ 
+
+00:00:33.920 --> 00:00:36.830 align:start position:0%
+this rectangle when X changes both u and
+v<00:00:34.239><c> change</c><00:00:35.000><c> causing</c><00:00:35.360><c> the</c><00:00:35.520><c> area</c><00:00:35.879><c> to</c><00:00:36.120><c> change</c><00:00:36.600><c> in</c>
+
+00:00:36.830 --> 00:00:36.840 align:start position:0%
+v change causing the area to change in
+ 
+
+00:00:36.840 --> 00:00:40.630 align:start position:0%
+v change causing the area to change in
+two<00:00:37.280><c> ways</c><00:00:38.280><c> first</c><00:00:38.640><c> you</c><00:00:38.879><c> changes</c><00:00:39.399><c> while</c><00:00:39.680><c> V</c><00:00:40.000><c> stays</c>
+
+00:00:40.630 --> 00:00:40.640 align:start position:0%
+two ways first you changes while V stays
+ 
+
+00:00:40.640 --> 00:00:43.350 align:start position:0%
+two ways first you changes while V stays
+constant<00:00:41.640><c> and</c><00:00:41.879><c> then</c><00:00:42.280><c> V</c><00:00:42.559><c> changes</c><00:00:43.039><c> while</c><00:00:43.200><c> you</c>
+
+00:00:43.350 --> 00:00:43.360 align:start position:0%
+constant and then V changes while you
+ 
+
+00:00:43.360 --> 00:00:46.549 align:start position:0%
+constant and then V changes while you
+stays<00:00:43.879><c> constant</c><00:00:44.800><c> the</c><00:00:45.039><c> total</c><00:00:45.399><c> change</c><00:00:45.760><c> in</c><00:00:46.079><c> area</c>
+
+00:00:46.549 --> 00:00:46.559 align:start position:0%
+stays constant the total change in area
+ 
+
+00:00:46.559 --> 00:00:49.189 align:start position:0%
+stays constant the total change in area
+is<00:00:46.719><c> the</c><00:00:46.879><c> sum</c><00:00:47.079><c> of</c><00:00:47.239><c> these</c><00:00:47.440><c> two</c><00:00:48.000><c> changes</c><00:00:49.000><c> this</c>
+
+00:00:49.189 --> 00:00:49.199 align:start position:0%
+is the sum of these two changes this
+ 
+
+00:00:49.199 --> 00:00:51.709 align:start position:0%
+is the sum of these two changes this
+gives<00:00:49.399><c> us</c><00:00:49.600><c> the</c><00:00:49.760><c> product</c><00:00:50.120><c> rule</c><00:00:51.120><c> the</c><00:00:51.280><c> derivative</c>
+
+00:00:51.709 --> 00:00:51.719 align:start position:0%
+gives us the product rule the derivative
+ 
+
+00:00:51.719 --> 00:00:55.990 align:start position:0%
+gives us the product rule the derivative
+of<00:00:51.879><c> U</c><00:00:52.160><c> *</c><00:00:52.640><c> V</c><00:00:53.039><c> equal</c><00:00:53.440><c> U</c><00:00:53.640><c> *</c><00:00:54.120><c> the</c><00:00:54.280><c> derivative</c><00:00:54.719><c> of</c><00:00:55.000><c> V</c>
+
+00:00:55.990 --> 00:00:56.000 align:start position:0%
+of U * V equal U * the derivative of V
+ 
+
+00:00:56.000 --> 00:00:58.990 align:start position:0%
+of U * V equal U * the derivative of V
+plus<00:00:56.280><c> v</c><00:00:56.520><c> *</c><00:00:56.960><c> the</c><00:00:57.120><c> derivative</c><00:00:57.559><c> of</c><00:00:57.719><c> U</c><00:00:58.480><c> let's</c><00:00:58.760><c> try</c>
+
+00:00:58.990 --> 00:00:59.000 align:start position:0%
+plus v * the derivative of U let's try
+ 
+
+00:00:59.000 --> 00:01:01.670 align:start position:0%
+plus v * the derivative of U let's try
+an<00:00:59.239><c> example</c><00:01:00.280><c> let's</c><00:01:00.559><c> find</c><00:01:00.760><c> the</c><00:01:00.920><c> derivative</c><00:01:01.440><c> of</c>
+
+00:01:01.670 --> 00:01:01.680 align:start position:0%
+an example let's find the derivative of
+ 
+
+00:01:01.680 --> 00:01:07.789 align:start position:0%
+an example let's find the derivative of
+x^2<00:01:02.399><c> *</c><00:01:02.879><c> X</c><00:01:03.360><c> Cub</c><00:01:04.360><c> here</c><00:01:04.799><c> U</c><00:01:05.080><c> is</c><00:01:05.600><c> x^2</c><00:01:06.600><c> and</c><00:01:06.840><c> V</c><00:01:07.320><c> is</c><00:01:07.520><c> X</c>
+
+00:01:07.789 --> 00:01:07.799 align:start position:0%
+x^2 * X Cub here U is x^2 and V is X
+ 
+
+00:01:07.799 --> 00:01:11.230 align:start position:0%
+x^2 * X Cub here U is x^2 and V is X
+cubed<00:01:08.759><c> let's</c><00:01:09.040><c> apply</c><00:01:09.400><c> the</c><00:01:09.600><c> product</c><00:01:09.960><c> rule</c><00:01:10.920><c> First</c>
+
+00:01:11.230 --> 00:01:11.240 align:start position:0%
+cubed let's apply the product rule First
+ 
+
+00:01:11.240 --> 00:01:14.830 align:start position:0%
+cubed let's apply the product rule First
+We<00:01:11.439><c> Take</c><00:01:11.640><c> U</c><00:01:11.920><c> which</c><00:01:12.040><c> is</c><00:01:12.560><c> x^2</c><00:01:13.560><c> and</c><00:01:13.880><c> multiply</c><00:01:14.560><c> it</c>
+
+00:01:14.830 --> 00:01:14.840 align:start position:0%
+We Take U which is x^2 and multiply it
+ 
+
+00:01:14.840 --> 00:01:17.630 align:start position:0%
+We Take U which is x^2 and multiply it
+by<00:01:15.400><c> the</c><00:01:15.560><c> derivative</c><00:01:16.080><c> of</c><00:01:16.240><c> V</c><00:01:16.560><c> which</c><00:01:16.680><c> is</c>
+
+00:01:17.630 --> 00:01:17.640 align:start position:0%
+by the derivative of V which is
+ 
+
+00:01:17.640 --> 00:01:21.830 align:start position:0%
+by the derivative of V which is
+3x^2<00:01:18.640><c> then</c><00:01:18.880><c> we</c><00:01:19.080><c> add</c><00:01:19.360><c> V</c><00:01:19.799><c> which</c><00:01:19.920><c> is</c><00:01:20.159><c> X</c><00:01:20.520><c> Cub</c><00:01:21.200><c> *</c><00:01:21.680><c> the</c>
+
+00:01:21.830 --> 00:01:21.840 align:start position:0%
+3x^2 then we add V which is X Cub * the
+ 
+
+00:01:21.840 --> 00:01:25.590 align:start position:0%
+3x^2 then we add V which is X Cub * the
+derivative<00:01:22.280><c> of</c><00:01:22.439><c> U</c><00:01:23.079><c> which</c><00:01:23.240><c> is</c><00:01:23.799><c> 2x</c><00:01:24.799><c> simplifying</c>
+
+00:01:25.590 --> 00:01:25.600 align:start position:0%
+derivative of U which is 2x simplifying
+ 
+
+00:01:25.600 --> 00:01:29.710 align:start position:0%
+derivative of U which is 2x simplifying
+this<00:01:25.920><c> gives</c><00:01:26.200><c> us</c><00:01:26.600><c> 5x</c><00:01:27.240><c> to</c><00:01:27.520><c> 4th</c><00:01:28.000><c> power</c><00:01:28.960><c> remember</c>
+
+00:01:29.710 --> 00:01:29.720 align:start position:0%
+this gives us 5x to 4th power remember
+ 
+
+00:01:29.720 --> 00:01:31.870 align:start position:0%
+this gives us 5x to 4th power remember
+the<00:01:29.920><c> the</c><00:01:30.079><c> product</c><00:01:30.439><c> rule</c><00:01:30.840><c> states</c><00:01:31.360><c> that</c><00:01:31.560><c> when</c>
+
+00:01:31.870 --> 00:01:31.880 align:start position:0%
+the the product rule states that when
+ 
+
+00:01:31.880 --> 00:01:33.990 align:start position:0%
+the the product rule states that when
+differentiating<00:01:32.640><c> a</c><00:01:32.840><c> product</c><00:01:33.200><c> of</c><00:01:33.479><c> two</c>
+
+00:01:33.990 --> 00:01:34.000 align:start position:0%
+differentiating a product of two
+ 
+
+00:01:34.000 --> 00:01:36.990 align:start position:0%
+differentiating a product of two
+functions<00:01:35.000><c> we</c><00:01:35.320><c> multiply</c><00:01:36.119><c> each</c><00:01:36.399><c> function</c><00:01:36.840><c> by</c>
+
+00:01:36.990 --> 00:01:37.000 align:start position:0%
+functions we multiply each function by
+ 
+
+00:01:37.000 --> 00:01:39.030 align:start position:0%
+functions we multiply each function by
+the<00:01:37.159><c> derivative</c><00:01:37.640><c> of</c><00:01:37.759><c> the</c><00:01:37.920><c> other</c><00:01:38.200><c> function</c><00:01:38.720><c> and</c>
+
+00:01:39.030 --> 00:01:39.040 align:start position:0%
+the derivative of the other function and
+ 
+
+00:01:39.040 --> 00:01:41.469 align:start position:0%
+the derivative of the other function and
+add<00:01:39.280><c> the</c><00:01:39.560><c> results</c><00:01:40.560><c> find</c>
+
+00:01:41.469 --> 00:01:41.479 align:start position:0%
+add the results find
+ 
+
+00:01:41.479 --> 00:01:44.749 align:start position:0%
+add the results find
+derivative<00:01:42.479><c> using</c><00:01:42.920><c> product</c><00:01:43.520><c> rule</c><00:01:44.520><c> let's</c>
+
+00:01:44.749 --> 00:01:44.759 align:start position:0%
+derivative using product rule let's
+ 
+
+00:01:44.759 --> 00:01:47.910 align:start position:0%
+derivative using product rule let's
+solve<00:01:45.079><c> this</c><00:01:45.320><c> calculus</c><00:01:46.000><c> problem</c><00:01:46.399><c> step</c><00:01:46.759><c> by</c><00:01:47.079><c> step</c>
+
+00:01:47.910 --> 00:01:47.920 align:start position:0%
+solve this calculus problem step by step
+ 
+
+00:01:47.920 --> 00:01:51.630 align:start position:0%
+solve this calculus problem step by step
+we<00:01:48.079><c> need</c><00:01:48.240><c> to</c><00:01:48.439><c> find</c><00:01:48.719><c> the</c><00:01:48.880><c> derivative</c><00:01:49.600><c> of</c><00:01:49.840><c> x^2</c><00:01:50.719><c> *</c>
+
+00:01:51.630 --> 00:01:51.640 align:start position:0%
+we need to find the derivative of x^2 *
+ 
+
+00:01:51.640 --> 00:01:54.389 align:start position:0%
+we need to find the derivative of x^2 *
+natural<00:01:52.079><c> log</c><00:01:52.320><c> of</c><00:01:52.479><c> x</c><00:01:53.320><c> to</c><00:01:53.560><c> solve</c><00:01:54.000><c> this</c><00:01:54.200><c> we'll</c>
+
+00:01:54.389 --> 00:01:54.399 align:start position:0%
+natural log of x to solve this we'll
+ 
+
+00:01:54.399 --> 00:01:57.069 align:start position:0%
+natural log of x to solve this we'll
+need<00:01:54.640><c> to</c><00:01:54.799><c> use</c><00:01:55.119><c> the</c><00:01:55.320><c> product</c><00:01:55.680><c> rule</c><00:01:56.479><c> the</c><00:01:56.680><c> product</c>
+
+00:01:57.069 --> 00:01:57.079 align:start position:0%
+need to use the product rule the product
+ 
+
+00:01:57.079 --> 00:01:59.190 align:start position:0%
+need to use the product rule the product
+rule<00:01:57.439><c> states</c><00:01:57.920><c> that</c><00:01:58.119><c> when</c><00:01:58.439><c> differentiating</c>
+
+00:01:59.190 --> 00:01:59.200 align:start position:0%
+rule states that when differentiating
+ 
+
+00:01:59.200 --> 00:02:02.550 align:start position:0%
+rule states that when differentiating
+the<00:01:59.360><c> product</c><00:01:59.640><c> of</c><00:02:00.000><c> two</c><00:02:00.479><c> functions</c><00:02:01.479><c> we</c><00:02:01.799><c> multiply</c>
+
+00:02:02.550 --> 00:02:02.560 align:start position:0%
+the product of two functions we multiply
+ 
+
+00:02:02.560 --> 00:02:04.469 align:start position:0%
+the product of two functions we multiply
+the<00:02:02.719><c> first</c><00:02:03.079><c> function</c><00:02:03.520><c> by</c><00:02:03.680><c> the</c><00:02:03.840><c> derivative</c><00:02:04.320><c> of</c>
+
+00:02:04.469 --> 00:02:04.479 align:start position:0%
+the first function by the derivative of
+ 
+
+00:02:04.479 --> 00:02:07.029 align:start position:0%
+the first function by the derivative of
+the<00:02:04.719><c> second</c><00:02:05.719><c> plus</c><00:02:06.039><c> the</c><00:02:06.200><c> second</c><00:02:06.560><c> function</c>
+
+00:02:07.029 --> 00:02:07.039 align:start position:0%
+the second plus the second function
+ 
+
+00:02:07.039 --> 00:02:09.990 align:start position:0%
+the second plus the second function
+times<00:02:07.520><c> the</c><00:02:07.680><c> derivative</c><00:02:08.399><c> of</c><00:02:08.560><c> the</c><00:02:08.720><c> first</c><00:02:09.560><c> in</c><00:02:09.720><c> our</c>
+
+00:02:09.990 --> 00:02:10.000 align:start position:0%
+times the derivative of the first in our
+ 
+
+00:02:10.000 --> 00:02:13.910 align:start position:0%
+times the derivative of the first in our
+case<00:02:10.560><c> let's</c><00:02:10.840><c> identify</c><00:02:11.480><c> that</c><00:02:11.720><c> U</c><00:02:11.959><c> of</c><00:02:12.120><c> X</c><00:02:12.360><c> is</c><00:02:12.920><c> X2</c>
+
+00:02:13.910 --> 00:02:13.920 align:start position:0%
+case let's identify that U of X is X2
+ 
+
+00:02:13.920 --> 00:02:17.910 align:start position:0%
+case let's identify that U of X is X2
+and<00:02:14.080><c> V</c><00:02:14.360><c> of</c><00:02:14.519><c> X</c><00:02:15.239><c> is</c><00:02:15.640><c> natural</c><00:02:16.160><c> log</c><00:02:16.360><c> of</c><00:02:16.519><c> x</c><00:02:17.400><c> so</c>
+
+00:02:17.910 --> 00:02:17.920 align:start position:0%
+and V of X is natural log of x so
+ 
+
+00:02:17.920 --> 00:02:21.550 align:start position:0%
+and V of X is natural log of x so
+applying<00:02:18.400><c> the</c><00:02:18.599><c> product</c><00:02:18.959><c> rule</c><00:02:19.920><c> we</c><00:02:20.120><c> get</c><00:02:20.360><c> x^2</c><00:02:21.040><c> *</c>
+
+00:02:21.550 --> 00:02:21.560 align:start position:0%
+applying the product rule we get x^2 *
+ 
+
+00:02:21.560 --> 00:02:24.869 align:start position:0%
+applying the product rule we get x^2 *
+the<00:02:21.720><c> derivative</c><00:02:22.360><c> of</c><00:02:22.640><c> natural</c><00:02:23.040><c> log</c><00:02:23.280><c> of</c><00:02:23.440><c> x</c><00:02:24.440><c> plus</c>
+
+00:02:24.869 --> 00:02:24.879 align:start position:0%
+the derivative of natural log of x plus
+ 
+
+00:02:24.879 --> 00:02:29.110 align:start position:0%
+the derivative of natural log of x plus
+natural<00:02:25.319><c> log</c><00:02:25.519><c> of</c><00:02:25.760><c> x</c><00:02:26.120><c> *</c><00:02:26.680><c> the</c><00:02:26.840><c> derivative</c><00:02:27.599><c> of</c><00:02:28.120><c> x^2</c>
+
+00:02:29.110 --> 00:02:29.120 align:start position:0%
+natural log of x * the derivative of x^2
+ 
+
+00:02:29.120 --> 00:02:32.750 align:start position:0%
+natural log of x * the derivative of x^2
+now<00:02:29.920><c> let's</c><00:02:30.160><c> evaluate</c><00:02:30.920><c> each</c><00:02:31.519><c> derivative</c>
+
+00:02:32.750 --> 00:02:32.760 align:start position:0%
+now let's evaluate each derivative
+ 
+
+00:02:32.760 --> 00:02:35.830 align:start position:0%
+now let's evaluate each derivative
+separately<00:02:33.760><c> first</c><00:02:34.680><c> the</c><00:02:34.879><c> derivative</c><00:02:35.519><c> of</c>
+
+00:02:35.830 --> 00:02:35.840 align:start position:0%
+separately first the derivative of
+ 
+
+00:02:35.840 --> 00:02:38.430 align:start position:0%
+separately first the derivative of
+natural<00:02:36.280><c> log</c><00:02:36.560><c> of</c><00:02:36.720><c> x</c><00:02:37.400><c> is</c>
+
+00:02:38.430 --> 00:02:38.440 align:start position:0%
+natural log of x is
+ 
+
+00:02:38.440 --> 00:02:43.550 align:start position:0%
+natural log of x is
+1/x<00:02:39.440><c> and</c><00:02:39.920><c> the</c><00:02:40.120><c> derivative</c><00:02:40.560><c> of</c><00:02:40.840><c> x^2</c><00:02:41.840><c> is</c><00:02:42.560><c> 2x</c>
+
+00:02:43.550 --> 00:02:43.560 align:start position:0%
+1/x and the derivative of x^2 is 2x
+ 
+
+00:02:43.560 --> 00:02:45.509 align:start position:0%
+1/x and the derivative of x^2 is 2x
+substituting<00:02:44.280><c> these</c><00:02:44.519><c> derivatives</c><00:02:45.120><c> back</c><00:02:45.280><c> into</c>
+
+00:02:45.509 --> 00:02:45.519 align:start position:0%
+substituting these derivatives back into
+ 
+
+00:02:45.519 --> 00:02:49.229 align:start position:0%
+substituting these derivatives back into
+our<00:02:45.920><c> equation</c><00:02:46.920><c> we</c><00:02:47.120><c> get</c><00:02:47.360><c> x^2</c><00:02:48.080><c> *</c>
+
+00:02:49.229 --> 00:02:49.239 align:start position:0%
+our equation we get x^2 *
+ 
+
+00:02:49.239 --> 00:02:53.710 align:start position:0%
+our equation we get x^2 *
+1X<00:02:50.239><c> Plus</c><00:02:50.720><c> natural</c><00:02:51.159><c> log</c><00:02:51.440><c> of</c><00:02:51.680><c> x</c><00:02:51.959><c> *</c>
+
+00:02:53.710 --> 00:02:53.720 align:start position:0%
+1X Plus natural log of x *
+ 
+
+00:02:53.720 --> 00:02:57.550 align:start position:0%
+1X Plus natural log of x *
+2x<00:02:54.720><c> now</c><00:02:55.200><c> let's</c><00:02:55.560><c> simplify</c><00:02:56.239><c> each</c><00:02:56.519><c> term</c><00:02:57.360><c> the</c>
+
+00:02:57.550 --> 00:02:57.560 align:start position:0%
+2x now let's simplify each term the
+ 
+
+00:02:57.560 --> 00:03:02.030 align:start position:0%
+2x now let's simplify each term the
+first<00:02:57.959><c> term</c><00:02:58.959><c> X2</c><00:02:59.599><c> *</c><00:02:59.840><c> *</c><00:03:00.239><c> 1</c><00:03:00.519><c> /x</c><00:03:01.159><c> simplifies</c><00:03:01.760><c> to</c>
+
+00:03:02.030 --> 00:03:02.040 align:start position:0%
+first term X2 * * 1 /x simplifies to
+ 
+
+00:03:02.040 --> 00:03:06.309 align:start position:0%
+first term X2 * * 1 /x simplifies to
+just<00:03:02.319><c> X</c><00:03:03.239><c> the</c><00:03:03.480><c> second</c><00:03:03.799><c> term</c><00:03:04.799><c> natural</c><00:03:05.280><c> log</c><00:03:05.599><c> of</c><00:03:05.959><c> x</c>
+
+00:03:06.309 --> 00:03:06.319 align:start position:0%
+just X the second term natural log of x
+ 
+
+00:03:06.319 --> 00:03:11.630 align:start position:0%
+just X the second term natural log of x
+*<00:03:06.920><c> 2x</c><00:03:07.799><c> becomes</c><00:03:08.280><c> 2x</c><00:03:09.200><c> natural</c><00:03:09.599><c> log</c><00:03:09.840><c> of</c><00:03:10.000><c> x</c><00:03:10.920><c> for</c><00:03:11.280><c> our</c>
+
+00:03:11.630 --> 00:03:11.640 align:start position:0%
+* 2x becomes 2x natural log of x for our
+ 
+
+00:03:11.640 --> 00:03:14.270 align:start position:0%
+* 2x becomes 2x natural log of x for our
+final<00:03:12.040><c> step</c><00:03:12.360><c> we</c><00:03:12.480><c> can</c><00:03:12.799><c> factor</c><00:03:13.120><c> out</c><00:03:13.400><c> X</c><00:03:13.640><c> from</c><00:03:13.959><c> both</c>
+
+00:03:14.270 --> 00:03:14.280 align:start position:0%
+final step we can factor out X from both
+ 
+
+00:03:14.280 --> 00:03:19.270 align:start position:0%
+final step we can factor out X from both
+terms<00:03:15.120><c> giving</c><00:03:15.400><c> us</c><00:03:15.799><c> x</c><00:03:16.040><c> *</c><00:03:16.599><c> thean</c><00:03:17.440><c> 1</c><00:03:17.840><c> +</c><00:03:18.319><c> 2</c><00:03:18.879><c> natural</c>
+
+00:03:19.270 --> 00:03:19.280 align:start position:0%
+terms giving us x * thean 1 + 2 natural
+ 
+
+00:03:19.280 --> 00:03:22.910 align:start position:0%
+terms giving us x * thean 1 + 2 natural
+log<00:03:19.480><c> of</c><00:03:19.640><c> x</c><00:03:20.519><c> and</c><00:03:20.760><c> this</c><00:03:20.879><c> is</c><00:03:21.040><c> our</c><00:03:21.319><c> final</c><00:03:21.720><c> answer</c><00:03:22.640><c> to</c>
+
+00:03:22.910 --> 00:03:22.920 align:start position:0%
+log of x and this is our final answer to
+ 
+
+00:03:22.920 --> 00:03:25.350 align:start position:0%
+log of x and this is our final answer to
+verify<00:03:23.480><c> this</c><00:03:23.599><c> is</c><00:03:23.879><c> correct</c><00:03:24.400><c> we</c><00:03:24.519><c> can</c><00:03:24.720><c> see</c><00:03:25.159><c> that</c>
+
+00:03:25.350 --> 00:03:25.360 align:start position:0%
+verify this is correct we can see that
+ 
+
+00:03:25.360 --> 00:03:28.229 align:start position:0%
+verify this is correct we can see that
+we've<00:03:25.959><c> properly</c><00:03:26.440><c> applied</c><00:03:26.840><c> the</c><00:03:27.040><c> product</c><00:03:27.360><c> rule</c>
+
+00:03:28.229 --> 00:03:28.239 align:start position:0%
+we've properly applied the product rule
+ 
+
+00:03:28.239 --> 00:03:30.270 align:start position:0%
+we've properly applied the product rule
+simplified<00:03:28.799><c> our</c><00:03:28.959><c> terms</c><00:03:29.360><c> and</c><00:03:29.519><c> fact</c><00:03:29.760><c> facted</c><00:03:30.040><c> our</c>
+
+00:03:30.270 --> 00:03:30.280 align:start position:0%
+simplified our terms and fact facted our
+ 
+
+00:03:30.280 --> 00:03:33.990 align:start position:0%
+simplified our terms and fact facted our
+result<00:03:31.120><c> the</c><00:03:31.280><c> derivative</c><00:03:31.760><c> of</c><00:03:31.959><c> x^2</c><00:03:32.760><c> *</c><00:03:33.599><c> natural</c>
+
+00:03:33.990 --> 00:03:34.000 align:start position:0%
+result the derivative of x^2 * natural
+ 
+
+00:03:34.000 --> 00:03:39.030 align:start position:0%
+result the derivative of x^2 * natural
+log<00:03:34.200><c> of</c><00:03:34.360><c> x</c><00:03:35.239><c> is</c><00:03:35.519><c> x</c><00:03:35.840><c> *</c><00:03:36.360><c> thean</c><00:03:37.080><c> 1</c><00:03:37.400><c> +</c><00:03:37.959><c> 2</c><00:03:38.400><c> natural</c><00:03:38.799><c> log</c>
+
+00:03:39.030 --> 00:03:39.040 align:start position:0%
+log of x is x * thean 1 + 2 natural log
+ 
+
+00:03:39.040 --> 00:03:41.760 align:start position:0%
+log of x is x * thean 1 + 2 natural log
+of<00:03:39.200><c> x</c>
+

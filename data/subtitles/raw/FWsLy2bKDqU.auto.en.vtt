@@ -1,0 +1,384 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.399 --> 00:00:03.710 align:start position:0%
+ 
+welcome<00:00:00.760><c> to</c><00:00:01.000><c> this</c><00:00:01.240><c> lesson</c><00:00:01.800><c> on</c><00:00:02.240><c> logarithmic</c>
+
+00:00:03.710 --> 00:00:03.720 align:start position:0%
+welcome to this lesson on logarithmic
+ 
+
+00:00:03.720 --> 00:00:06.389 align:start position:0%
+welcome to this lesson on logarithmic
+differentiation<00:00:04.720><c> today</c><00:00:05.640><c> we'll</c><00:00:05.879><c> be</c><00:00:06.040><c> finding</c>
+
+00:00:06.389 --> 00:00:06.399 align:start position:0%
+differentiation today we'll be finding
+ 
+
+00:00:06.399 --> 00:00:09.430 align:start position:0%
+differentiation today we'll be finding
+the<00:00:06.560><c> derivative</c><00:00:07.240><c> of</c><00:00:07.359><c> a</c><00:00:07.600><c> complex</c><00:00:08.440><c> expression</c>
+
+00:00:09.430 --> 00:00:09.440 align:start position:0%
+the derivative of a complex expression
+ 
+
+00:00:09.440 --> 00:00:12.950 align:start position:0%
+the derivative of a complex expression
+the<00:00:09.679><c> quantity</c><00:00:10.160><c> x</c><00:00:10.480><c> to</c><00:00:10.679><c> the</c><00:00:10.840><c> X</c><00:00:11.200><c> power</c><00:00:12.160><c> all</c><00:00:12.599><c> Rays</c>
+
+00:00:12.950 --> 00:00:12.960 align:start position:0%
+the quantity x to the X power all Rays
+ 
+
+00:00:12.960 --> 00:00:15.749 align:start position:0%
+the quantity x to the X power all Rays
+to<00:00:13.120><c> the</c><00:00:13.280><c> X</c><00:00:13.639><c> power</c><00:00:14.639><c> this</c><00:00:14.759><c> is</c><00:00:14.920><c> a</c><00:00:15.160><c> challenging</c>
+
+00:00:15.749 --> 00:00:15.759 align:start position:0%
+to the X power this is a challenging
+ 
+
+00:00:15.759 --> 00:00:18.230 align:start position:0%
+to the X power this is a challenging
+problem<00:00:16.279><c> because</c><00:00:16.640><c> we</c><00:00:16.840><c> have</c><00:00:17.080><c> nested</c>
+
+00:00:18.230 --> 00:00:18.240 align:start position:0%
+problem because we have nested
+ 
+
+00:00:18.240 --> 00:00:21.189 align:start position:0%
+problem because we have nested
+exponentials<00:00:19.240><c> let's</c><00:00:19.480><c> solve</c><00:00:19.760><c> it</c><00:00:20.039><c> step</c><00:00:20.439><c> by</c><00:00:20.840><c> step</c>
+
+00:00:21.189 --> 00:00:21.199 align:start position:0%
+exponentials let's solve it step by step
+ 
+
+00:00:21.199 --> 00:00:23.189 align:start position:0%
+exponentials let's solve it step by step
+using<00:00:21.800><c> logarithmic</c>
+
+00:00:23.189 --> 00:00:23.199 align:start position:0%
+using logarithmic
+ 
+
+00:00:23.199 --> 00:00:26.750 align:start position:0%
+using logarithmic
+differentiation<00:00:24.199><c> step</c><00:00:24.599><c> one</c><00:00:25.599><c> first</c><00:00:26.439><c> let's</c>
+
+00:00:26.750 --> 00:00:26.760 align:start position:0%
+differentiation step one first let's
+ 
+
+00:00:26.760 --> 00:00:29.029 align:start position:0%
+differentiation step one first let's
+simplify<00:00:27.320><c> our</c><00:00:27.599><c> expression</c><00:00:28.519><c> using</c><00:00:28.840><c> the</c>
+
+00:00:29.029 --> 00:00:29.039 align:start position:0%
+simplify our expression using the
+ 
+
+00:00:29.039 --> 00:00:30.790 align:start position:0%
+simplify our expression using the
+properties<00:00:29.400><c> of</c><00:00:29.560><c> exponents</c>
+
+00:00:30.790 --> 00:00:30.800 align:start position:0%
+properties of exponents
+ 
+
+00:00:30.800 --> 00:00:33.190 align:start position:0%
+properties of exponents
+when<00:00:31.000><c> we</c><00:00:31.199><c> have</c><00:00:31.359><c> a</c><00:00:31.679><c> power</c><00:00:32.119><c> raised</c><00:00:32.520><c> to</c><00:00:32.759><c> another</c>
+
+00:00:33.190 --> 00:00:33.200 align:start position:0%
+when we have a power raised to another
+ 
+
+00:00:33.200 --> 00:00:38.470 align:start position:0%
+when we have a power raised to another
+power<00:00:34.200><c> we</c><00:00:34.520><c> multiply</c><00:00:35.239><c> the</c><00:00:35.680><c> exponents</c><00:00:36.680><c> so</c><00:00:37.040><c> x</c><00:00:37.600><c> x</c>
+
+00:00:38.470 --> 00:00:38.480 align:start position:0%
+power we multiply the exponents so x x
+ 
+
+00:00:38.480 --> 00:00:41.750 align:start position:0%
+power we multiply the exponents so x x
+all<00:00:38.840><c> raised</c><00:00:39.200><c> to</c><00:00:39.399><c> the</c><00:00:39.520><c> X</c><00:00:39.960><c> power</c><00:00:40.960><c> simplifies</c><00:00:41.559><c> to</c>
+
+00:00:41.750 --> 00:00:41.760 align:start position:0%
+all raised to the X power simplifies to
+ 
+
+00:00:41.760 --> 00:00:45.990 align:start position:0%
+all raised to the X power simplifies to
+X<00:00:42.039><c> raised</c><00:00:42.480><c> to</c><00:00:43.039><c> x^2</c><00:00:44.039><c> step</c><00:00:44.320><c> two</c><00:00:45.320><c> let's</c><00:00:45.559><c> call</c><00:00:45.760><c> our</c>
+
+00:00:45.990 --> 00:00:46.000 align:start position:0%
+X raised to x^2 step two let's call our
+ 
+
+00:00:46.000 --> 00:00:51.310 align:start position:0%
+X raised to x^2 step two let's call our
+function<00:00:46.480><c> y</c><00:00:47.280><c> so</c><00:00:47.680><c> y</c><00:00:47.960><c> =</c><00:00:48.440><c> x</c><00:00:49.440><c> x^2</c><00:00:50.440><c> now</c><00:00:50.879><c> we'll</c><00:00:51.120><c> take</c>
+
+00:00:51.310 --> 00:00:51.320 align:start position:0%
+function y so y = x x^2 now we'll take
+ 
+
+00:00:51.320 --> 00:00:54.670 align:start position:0%
+function y so y = x x^2 now we'll take
+the<00:00:51.640><c> natural</c><00:00:52.039><c> logarithm</c><00:00:52.840><c> of</c><00:00:53.120><c> both</c><00:00:53.559><c> sides</c><00:00:54.559><c> this</c>
+
+00:00:54.670 --> 00:00:54.680 align:start position:0%
+the natural logarithm of both sides this
+ 
+
+00:00:54.680 --> 00:00:57.549 align:start position:0%
+the natural logarithm of both sides this
+is<00:00:54.879><c> the</c><00:00:55.160><c> key</c><00:00:55.520><c> step</c><00:00:56.000><c> in</c><00:00:56.359><c> logarithmic</c>
+
+00:00:57.549 --> 00:00:57.559 align:start position:0%
+is the key step in logarithmic
+ 
+
+00:00:57.559 --> 00:01:00.430 align:start position:0%
+is the key step in logarithmic
+differentiation<00:00:58.559><c> step</c><00:00:58.920><c> three</c><00:00:59.719><c> you</c><00:01:00.000><c> using</c><00:01:00.280><c> the</c>
+
+00:01:00.430 --> 00:01:00.440 align:start position:0%
+differentiation step three you using the
+ 
+
+00:01:00.440 --> 00:01:02.389 align:start position:0%
+differentiation step three you using the
+properties<00:01:00.800><c> of</c><00:01:01.039><c> logarithms</c><00:01:01.840><c> we</c><00:01:01.920><c> can</c><00:01:02.120><c> bring</c>
+
+00:01:02.389 --> 00:01:02.399 align:start position:0%
+properties of logarithms we can bring
+ 
+
+00:01:02.399 --> 00:01:05.670 align:start position:0%
+properties of logarithms we can bring
+down<00:01:02.640><c> the</c><00:01:02.840><c> power</c><00:01:03.719><c> the</c><00:01:03.960><c> natural</c><00:01:04.400><c> log</c><00:01:04.640><c> of</c><00:01:04.839><c> x</c><00:01:05.239><c> raed</c>
+
+00:01:05.670 --> 00:01:05.680 align:start position:0%
+down the power the natural log of x raed
+ 
+
+00:01:05.680 --> 00:01:08.550 align:start position:0%
+down the power the natural log of x raed
+to<00:01:05.960><c> a</c><00:01:06.280><c> power</c><00:01:06.720><c> equals</c><00:01:07.200><c> that</c><00:01:07.520><c> power</c><00:01:08.000><c> times</c><00:01:08.360><c> the</c>
+
+00:01:08.550 --> 00:01:08.560 align:start position:0%
+to a power equals that power times the
+ 
+
+00:01:08.560 --> 00:01:12.510 align:start position:0%
+to a power equals that power times the
+natural<00:01:08.920><c> log</c><00:01:09.159><c> of</c><00:01:09.320><c> x</c><00:01:10.280><c> step</c><00:01:10.720><c> four</c><00:01:11.720><c> now</c><00:01:11.960><c> we'll</c><00:01:12.159><c> use</c>
+
+00:01:12.510 --> 00:01:12.520 align:start position:0%
+natural log of x step four now we'll use
+ 
+
+00:01:12.520 --> 00:01:15.070 align:start position:0%
+natural log of x step four now we'll use
+implicit<00:01:13.439><c> differentiation</c><00:01:14.439><c> we'll</c><00:01:14.680><c> take</c><00:01:14.920><c> the</c>
+
+00:01:15.070 --> 00:01:15.080 align:start position:0%
+implicit differentiation we'll take the
+ 
+
+00:01:15.080 --> 00:01:18.109 align:start position:0%
+implicit differentiation we'll take the
+derivative<00:01:15.680><c> of</c><00:01:16.000><c> both</c><00:01:16.400><c> sides</c><00:01:16.880><c> with</c><00:01:17.159><c> respect</c><00:01:17.799><c> to</c>
+
+00:01:18.109 --> 00:01:18.119 align:start position:0%
+derivative of both sides with respect to
+ 
+
+00:01:18.119 --> 00:01:23.069 align:start position:0%
+derivative of both sides with respect to
+X<00:01:19.040><c> on</c><00:01:19.200><c> the</c><00:01:19.479><c> left</c><00:01:19.920><c> side</c><00:01:20.799><c> we</c><00:01:20.960><c> get</c><00:01:21.240><c> 1</c><00:01:21.479><c> /</c><00:01:21.880><c> y</c><00:01:22.119><c> *</c>
+
+00:01:23.069 --> 00:01:23.079 align:start position:0%
+X on the left side we get 1 / y *
+ 
+
+00:01:23.079 --> 00:01:26.270 align:start position:0%
+X on the left side we get 1 / y *
+dydx<00:01:24.079><c> on</c><00:01:24.200><c> the</c><00:01:24.439><c> right</c><00:01:24.799><c> side</c><00:01:25.600><c> we</c><00:01:25.720><c> need</c><00:01:25.920><c> to</c><00:01:26.079><c> use</c>
+
+00:01:26.270 --> 00:01:26.280 align:start position:0%
+dydx on the right side we need to use
+ 
+
+00:01:26.280 --> 00:01:29.270 align:start position:0%
+dydx on the right side we need to use
+the<00:01:26.439><c> product</c><00:01:26.759><c> rule</c><00:01:27.119><c> because</c><00:01:27.479><c> we</c><00:01:27.680><c> have</c><00:01:27.920><c> x^2</c><00:01:28.720><c> *</c>
+
+00:01:29.270 --> 00:01:29.280 align:start position:0%
+the product rule because we have x^2 *
+ 
+
+00:01:29.280 --> 00:01:30.749 align:start position:0%
+the product rule because we have x^2 *
+lnx
+
+00:01:30.749 --> 00:01:30.759 align:start position:0%
+lnx
+ 
+
+00:01:30.759 --> 00:01:34.350 align:start position:0%
+lnx
+step<00:01:31.280><c> five</c><00:01:32.280><c> let's</c><00:01:32.520><c> simplify</c><00:01:33.040><c> the</c><00:01:33.280><c> right</c><00:01:33.560><c> side</c>
+
+00:01:34.350 --> 00:01:34.360 align:start position:0%
+step five let's simplify the right side
+ 
+
+00:01:34.360 --> 00:01:39.030 align:start position:0%
+step five let's simplify the right side
+2x<00:01:35.320><c> Ln</c><00:01:35.759><c> X+</c><00:01:36.360><c> X</c><00:01:37.000><c> which</c><00:01:37.159><c> is</c><00:01:37.399><c> x</c><00:01:37.640><c> *</c><00:01:38.119><c> the</c><00:01:38.280><c> quantity</c><00:01:38.720><c> 2</c>
+
+00:01:39.030 --> 00:01:39.040 align:start position:0%
+2x Ln X+ X which is x * the quantity 2
+ 
+
+00:01:39.040 --> 00:01:44.230 align:start position:0%
+2x Ln X+ X which is x * the quantity 2
+Ln<00:01:39.439><c> x</c><00:01:39.759><c> +</c><00:01:40.119><c> 1</c><00:01:41.000><c> Step</c><00:01:41.640><c> six</c><00:01:42.640><c> now</c><00:01:42.920><c> we</c><00:01:43.040><c> can</c><00:01:43.200><c> solve</c><00:01:43.479><c> for</c>
+
+00:01:44.230 --> 00:01:44.240 align:start position:0%
+Ln x + 1 Step six now we can solve for
+ 
+
+00:01:44.240 --> 00:01:48.030 align:start position:0%
+Ln x + 1 Step six now we can solve for
+dydx<00:01:45.240><c> we</c><00:01:45.439><c> multiply</c><00:01:46.159><c> both</c><00:01:46.439><c> sides</c><00:01:46.799><c> by</c><00:01:47.079><c> y</c>
+
+00:01:48.030 --> 00:01:48.040 align:start position:0%
+dydx we multiply both sides by y
+ 
+
+00:01:48.040 --> 00:01:50.389 align:start position:0%
+dydx we multiply both sides by y
+remember<00:01:48.479><c> that</c><00:01:48.799><c> Y</c><00:01:49.079><c> is</c><00:01:49.439><c> our</c><00:01:49.680><c> original</c>
+
+00:01:50.389 --> 00:01:50.399 align:start position:0%
+remember that Y is our original
+ 
+
+00:01:50.399 --> 00:01:54.069 align:start position:0%
+remember that Y is our original
+expression<00:01:51.399><c> x</c><00:01:51.759><c> to</c><00:01:51.960><c> the</c><00:01:52.479><c> x^2</c><00:01:53.479><c> and</c><00:01:53.640><c> there</c><00:01:53.799><c> we</c>
+
+00:01:54.069 --> 00:01:54.079 align:start position:0%
+expression x to the x^2 and there we
+ 
+
+00:01:54.079 --> 00:01:56.630 align:start position:0%
+expression x to the x^2 and there we
+have<00:01:54.240><c> it</c><00:01:54.960><c> the</c><00:01:55.119><c> derivative</c><00:01:55.600><c> of</c><00:01:55.759><c> x</c><00:01:56.000><c> to</c><00:01:56.200><c> the</c><00:01:56.320><c> X</c>
+
+00:01:56.630 --> 00:01:56.640 align:start position:0%
+have it the derivative of x to the X
+ 
+
+00:01:56.640 --> 00:02:02.109 align:start position:0%
+have it the derivative of x to the X
+power<00:01:57.640><c> all</c><00:01:58.039><c> rais</c><00:01:58.360><c> to</c><00:01:58.560><c> the</c><00:01:58.680><c> X</c><00:01:59.000><c> power</c><00:02:00.039><c> is</c><00:02:00.280><c> X</c><00:02:00.840><c> x^2</c><00:02:01.600><c> *</c>
+
+00:02:02.109 --> 00:02:02.119 align:start position:0%
+power all rais to the X power is X x^2 *
+ 
+
+00:02:02.119 --> 00:02:07.029 align:start position:0%
+power all rais to the X power is X x^2 *
+x<00:02:02.560><c> *</c><00:02:03.560><c> 2</c><00:02:03.920><c> Ln</c><00:02:04.320><c> x</c><00:02:04.600><c> +</c><00:02:04.920><c> 1</c><00:02:05.799><c> Let's</c><00:02:06.119><c> highlight</c><00:02:06.520><c> the</c><00:02:06.719><c> key</c>
+
+00:02:07.029 --> 00:02:07.039 align:start position:0%
+x * 2 Ln x + 1 Let's highlight the key
+ 
+
+00:02:07.039 --> 00:02:10.070 align:start position:0%
+x * 2 Ln x + 1 Let's highlight the key
+steps<00:02:07.399><c> we</c><00:02:07.759><c> used</c><00:02:08.759><c> first</c><00:02:09.119><c> we</c><00:02:09.360><c> simplified</c><00:02:09.959><c> the</c>
+
+00:02:10.070 --> 00:02:10.080 align:start position:0%
+steps we used first we simplified the
+ 
+
+00:02:10.080 --> 00:02:13.190 align:start position:0%
+steps we used first we simplified the
+nested<00:02:10.800><c> exponential</c><00:02:11.800><c> then</c><00:02:12.319><c> we</c><00:02:12.520><c> used</c>
+
+00:02:13.190 --> 00:02:13.200 align:start position:0%
+nested exponential then we used
+ 
+
+00:02:13.200 --> 00:02:16.270 align:start position:0%
+nested exponential then we used
+logarithmic<00:02:14.400><c> differentiation</c><00:02:15.400><c> to</c><00:02:15.640><c> make</c><00:02:16.000><c> the</c>
+
+00:02:16.270 --> 00:02:16.280 align:start position:0%
+logarithmic differentiation to make the
+ 
+
+00:02:16.280 --> 00:02:19.910 align:start position:0%
+logarithmic differentiation to make the
+problem<00:02:16.840><c> manageable</c><00:02:17.840><c> and</c><00:02:18.280><c> finally</c><00:02:19.280><c> we</c><00:02:19.440><c> used</c>
+
+00:02:19.910 --> 00:02:19.920 align:start position:0%
+problem manageable and finally we used
+ 
+
+00:02:19.920 --> 00:02:22.270 align:start position:0%
+problem manageable and finally we used
+implicit<00:02:20.640><c> differentiation</c><00:02:21.640><c> and</c><00:02:21.760><c> the</c><00:02:21.959><c> product</c>
+
+00:02:22.270 --> 00:02:22.280 align:start position:0%
+implicit differentiation and the product
+ 
+
+00:02:22.280 --> 00:02:25.030 align:start position:0%
+implicit differentiation and the product
+rule<00:02:22.560><c> to</c><00:02:22.760><c> find</c><00:02:23.000><c> our</c><00:02:23.319><c> answer</c><00:02:24.319><c> this</c><00:02:24.640><c> problem</c>
+
+00:02:25.030 --> 00:02:25.040 align:start position:0%
+rule to find our answer this problem
+ 
+
+00:02:25.040 --> 00:02:27.670 align:start position:0%
+rule to find our answer this problem
+demonstrates<00:02:25.760><c> the</c><00:02:26.000><c> power</c><00:02:26.519><c> of</c><00:02:26.840><c> logarithmic</c>
+
+00:02:27.670 --> 00:02:27.680 align:start position:0%
+demonstrates the power of logarithmic
+ 
+
+00:02:27.680 --> 00:02:30.430 align:start position:0%
+demonstrates the power of logarithmic
+differentiation<00:02:28.599><c> in</c><00:02:28.879><c> handling</c><00:02:29.440><c> complex</c>
+
+00:02:30.430 --> 00:02:30.440 align:start position:0%
+differentiation in handling complex
+ 
+
+00:02:30.440 --> 00:02:32.990 align:start position:0%
+differentiation in handling complex
+exponential<00:02:31.360><c> Expressions</c><00:02:32.360><c> thank</c><00:02:32.560><c> you</c><00:02:32.720><c> for</c>
+
+00:02:32.990 --> 00:02:33.000 align:start position:0%
+exponential Expressions thank you for
+ 
+
+00:02:33.000 --> 00:02:36.000 align:start position:0%
+exponential Expressions thank you for
+watching
+

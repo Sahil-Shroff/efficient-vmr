@@ -1,0 +1,264 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.320 --> 00:00:02.629 align:start position:0%
+ 
+let's<00:00:00.599><c> learn</c><00:00:01.120><c> how</c><00:00:01.240><c> to</c><00:00:01.520><c> find</c><00:00:01.959><c> the</c><00:00:02.159><c> derivative</c>
+
+00:00:02.629 --> 00:00:02.639 align:start position:0%
+let's learn how to find the derivative
+ 
+
+00:00:02.639 --> 00:00:05.869 align:start position:0%
+let's learn how to find the derivative
+of<00:00:02.879><c> log</c><00:00:03.320><c> base</c><00:00:03.679><c> 10</c><00:00:03.959><c> of</c><00:00:04.200><c> X</c><00:00:05.080><c> we'll</c><00:00:05.359><c> go</c><00:00:05.640><c> through</c>
+
+00:00:05.869 --> 00:00:05.879 align:start position:0%
+of log base 10 of X we'll go through
+ 
+
+00:00:05.879 --> 00:00:07.789 align:start position:0%
+of log base 10 of X we'll go through
+this<00:00:06.200><c> step</c><00:00:06.480><c> by</c><00:00:06.759><c> step</c><00:00:07.000><c> to</c><00:00:07.439><c> understand</c><00:00:07.600><c> the</c>
+
+00:00:07.789 --> 00:00:07.799 align:start position:0%
+this step by step to understand the
+ 
+
+00:00:07.799 --> 00:00:11.070 align:start position:0%
+this step by step to understand the
+process<00:00:08.480><c> clearly</c><00:00:09.480><c> the</c><00:00:09.679><c> first</c><00:00:10.040><c> key</c><00:00:10.320><c> step</c><00:00:10.719><c> is</c><00:00:10.840><c> to</c>
+
+00:00:11.070 --> 00:00:11.080 align:start position:0%
+process clearly the first key step is to
+ 
+
+00:00:11.080 --> 00:00:13.629 align:start position:0%
+process clearly the first key step is to
+convert<00:00:11.519><c> this</c><00:00:11.920><c> logarithm</c><00:00:12.920><c> using</c><00:00:13.240><c> the</c><00:00:13.360><c> change</c>
+
+00:00:13.629 --> 00:00:13.639 align:start position:0%
+convert this logarithm using the change
+ 
+
+00:00:13.639 --> 00:00:16.750 align:start position:0%
+convert this logarithm using the change
+of<00:00:13.880><c> Base</c><00:00:14.320><c> formula</c><00:00:15.320><c> this</c><00:00:15.519><c> formula</c><00:00:16.039><c> states</c><00:00:16.520><c> that</c>
+
+00:00:16.750 --> 00:00:16.760 align:start position:0%
+of Base formula this formula states that
+ 
+
+00:00:16.760 --> 00:00:20.189 align:start position:0%
+of Base formula this formula states that
+log<00:00:17.160><c> base</c><00:00:17.840><c> uh</c><00:00:18.080><c> of</c><00:00:18.400><c> x</c><00:00:18.920><c> equals</c><00:00:19.320><c> the</c><00:00:19.560><c> natural</c><00:00:19.960><c> log</c>
+
+00:00:20.189 --> 00:00:20.199 align:start position:0%
+log base uh of x equals the natural log
+ 
+
+00:00:20.199 --> 00:00:24.910 align:start position:0%
+log base uh of x equals the natural log
+of<00:00:20.439><c> x</c><00:00:21.199><c> /</c><00:00:22.199><c> the</c><00:00:22.400><c> natural</c><00:00:22.840><c> log</c><00:00:23.199><c> of</c><00:00:23.439><c> a</c><00:00:24.400><c> applying</c>
+
+00:00:24.910 --> 00:00:24.920 align:start position:0%
+of x / the natural log of a applying
+ 
+
+00:00:24.920 --> 00:00:28.589 align:start position:0%
+of x / the natural log of a applying
+this<00:00:25.080><c> to</c><00:00:25.279><c> our</c><00:00:25.640><c> problem</c><00:00:26.640><c> log</c><00:00:27.000><c> base</c><00:00:27.279><c> 10</c><00:00:27.560><c> of</c><00:00:27.760><c> X</c><00:00:28.119><c> =</c>
+
+00:00:28.589 --> 00:00:28.599 align:start position:0%
+this to our problem log base 10 of X =
+ 
+
+00:00:28.599 --> 00:00:32.830 align:start position:0%
+this to our problem log base 10 of X =
+natural<00:00:29.039><c> log</c><00:00:29.279><c> of</c><00:00:29.480><c> x</c><00:00:30.080><c> time</c><00:00:30.679><c> log</c><00:00:31.119><c> base</c><00:00:31.439><c> 10</c><00:00:31.679><c> of</c><00:00:31.880><c> e</c>
+
+00:00:32.830 --> 00:00:32.840 align:start position:0%
+natural log of x time log base 10 of e
+ 
+
+00:00:32.840 --> 00:00:40.270 align:start position:0%
+natural log of x time log base 10 of e
+notice<00:00:33.320><c> that</c><00:00:33.600><c> log</c><00:00:34.000><c> base</c><00:00:34.360><c> 10</c><00:00:34.640><c> of</c><00:00:34.800><c> e</c><00:00:35.120><c> is</c><00:00:35.200><c> a</c>
+
+00:00:40.270 --> 00:00:40.280 align:start position:0%
+ 
+ 
+
+00:00:40.280 --> 00:00:42.910 align:start position:0%
+ 
+constant<00:00:41.280><c> now</c><00:00:41.559><c> we</c><00:00:41.719><c> can</c><00:00:42.000><c> rewrite</c><00:00:42.640><c> our</c>
+
+00:00:42.910 --> 00:00:42.920 align:start position:0%
+constant now we can rewrite our
+ 
+
+00:00:42.920 --> 00:00:45.549 align:start position:0%
+constant now we can rewrite our
+derivative<00:00:43.559><c> problem</c><00:00:44.440><c> we're</c><00:00:44.760><c> differentiating</c>
+
+00:00:45.549 --> 00:00:45.559 align:start position:0%
+derivative problem we're differentiating
+ 
+
+00:00:45.559 --> 00:00:49.110 align:start position:0%
+derivative problem we're differentiating
+the<00:00:45.760><c> product</c><00:00:46.360><c> of</c><00:00:46.640><c> natural</c><00:00:47.039><c> log</c><00:00:47.280><c> of</c><00:00:47.600><c> x</c><00:00:48.600><c> and</c><00:00:48.840><c> the</c>
+
+00:00:49.110 --> 00:00:49.120 align:start position:0%
+the product of natural log of x and the
+ 
+
+00:00:49.120 --> 00:00:52.830 align:start position:0%
+the product of natural log of x and the
+constant<00:00:49.600><c> log</c><00:00:49.920><c> base</c><00:00:50.280><c> 10</c><00:00:50.520><c> of</c><00:00:50.920><c> e</c><00:00:51.840><c> since</c><00:00:52.160><c> log</c><00:00:52.520><c> base</c>
+
+00:00:52.830 --> 00:00:52.840 align:start position:0%
+constant log base 10 of e since log base
+ 
+
+00:00:52.840 --> 00:00:56.110 align:start position:0%
+constant log base 10 of e since log base
+10<00:00:53.120><c> of</c><00:00:53.280><c> e</c><00:00:53.600><c> is</c><00:00:54.079><c> constant</c><00:00:55.079><c> we</c><00:00:55.199><c> can</c><00:00:55.480><c> Factor</c><00:00:55.760><c> it</c><00:00:55.960><c> out</c>
+
+00:00:56.110 --> 00:00:56.120 align:start position:0%
+10 of e is constant we can Factor it out
+ 
+
+00:00:56.120 --> 00:00:58.950 align:start position:0%
+10 of e is constant we can Factor it out
+of<00:00:56.280><c> the</c><00:00:56.600><c> derivative</c><00:00:57.600><c> this</c><00:00:57.800><c> gives</c><00:00:58.000><c> us</c><00:00:58.280><c> log</c><00:00:58.600><c> base</c>
+
+00:00:58.950 --> 00:00:58.960 align:start position:0%
+of the derivative this gives us log base
+ 
+
+00:00:58.960 --> 00:01:02.349 align:start position:0%
+of the derivative this gives us log base
+10<00:00:59.239><c> of</c><00:00:59.440><c> e</c><00:00:59.640><c> *</c><00:01:00.239><c> the</c><00:01:00.399><c> derivative</c><00:01:01.399><c> of</c><00:01:01.719><c> natural</c><00:01:02.120><c> log</c>
+
+00:01:02.349 --> 00:01:02.359 align:start position:0%
+10 of e * the derivative of natural log
+ 
+
+00:01:02.359 --> 00:01:06.030 align:start position:0%
+10 of e * the derivative of natural log
+of<00:01:02.519><c> x</c><00:01:03.440><c> now</c><00:01:03.680><c> we</c><00:01:03.840><c> use</c><00:01:04.040><c> a</c><00:01:04.360><c> key</c><00:01:04.840><c> fact</c><00:01:05.840><c> the</c>
+
+00:01:06.030 --> 00:01:06.040 align:start position:0%
+of x now we use a key fact the
+ 
+
+00:01:06.040 --> 00:01:09.749 align:start position:0%
+of x now we use a key fact the
+derivative<00:01:06.560><c> of</c><00:01:06.840><c> natural</c><00:01:07.200><c> log</c><00:01:07.439><c> of</c><00:01:07.600><c> x</c><00:01:07.960><c> is</c><00:01:08.159><c> 1</c><00:01:08.759><c> /x</c>
+
+00:01:09.749 --> 00:01:09.759 align:start position:0%
+derivative of natural log of x is 1 /x
+ 
+
+00:01:09.759 --> 00:01:13.070 align:start position:0%
+derivative of natural log of x is 1 /x
+applying<00:01:10.320><c> this</c><00:01:10.600><c> we</c><00:01:10.799><c> get</c><00:01:11.040><c> log</c><00:01:11.439><c> base</c><00:01:11.799><c> 10</c><00:01:12.040><c> of</c><00:01:12.159><c> e</c><00:01:12.280><c> *</c>
+
+00:01:13.070 --> 00:01:13.080 align:start position:0%
+applying this we get log base 10 of e *
+ 
+
+00:01:13.080 --> 00:01:16.550 align:start position:0%
+applying this we get log base 10 of e *
+1X<00:01:14.080><c> our</c><00:01:14.439><c> final</c><00:01:14.880><c> answer</c><00:01:15.240><c> can</c><00:01:15.360><c> be</c><00:01:15.560><c> written</c><00:01:16.240><c> as</c>
+
+00:01:16.550 --> 00:01:16.560 align:start position:0%
+1X our final answer can be written as
+ 
+
+00:01:16.560 --> 00:01:18.350 align:start position:0%
+1X our final answer can be written as
+log<00:01:17.000><c> base</c><00:01:17.360><c> 10</c><00:01:17.600><c> of</c>
+
+00:01:18.350 --> 00:01:18.360 align:start position:0%
+log base 10 of
+ 
+
+00:01:18.360 --> 00:01:21.230 align:start position:0%
+log base 10 of
+e/x<00:01:19.360><c> this</c><00:01:19.680><c> is</c><00:01:19.799><c> the</c><00:01:20.000><c> derivative</c><00:01:20.560><c> formula</c><00:01:20.960><c> for</c>
+
+00:01:21.230 --> 00:01:21.240 align:start position:0%
+e/x this is the derivative formula for
+ 
+
+00:01:21.240 --> 00:01:24.390 align:start position:0%
+e/x this is the derivative formula for
+log<00:01:21.600><c> base</c><00:01:21.920><c> 10</c><00:01:22.200><c> of</c><00:01:22.360><c> X</c><00:01:23.280><c> let's</c><00:01:23.560><c> visualize</c><00:01:24.240><c> what</c>
+
+00:01:24.390 --> 00:01:24.400 align:start position:0%
+log base 10 of X let's visualize what
+ 
+
+00:01:24.400 --> 00:01:26.950 align:start position:0%
+log base 10 of X let's visualize what
+this<00:01:24.600><c> derivative</c><00:01:25.119><c> means</c><00:01:25.439><c> on</c><00:01:25.600><c> a</c><00:01:25.840><c> graph</c><00:01:26.759><c> the</c>
+
+00:01:26.950 --> 00:01:26.960 align:start position:0%
+this derivative means on a graph the
+ 
+
+00:01:26.960 --> 00:01:29.149 align:start position:0%
+this derivative means on a graph the
+function<00:01:27.320><c> log</c><00:01:27.640><c> base</c><00:01:27.920><c> 10</c><00:01:28.159><c> of</c><00:01:28.320><c> X</c><00:01:28.560><c> is</c><00:01:28.680><c> shown</c><00:01:28.960><c> in</c>
+
+00:01:29.149 --> 00:01:29.159 align:start position:0%
+function log base 10 of X is shown in
+ 
+
+00:01:29.159 --> 00:01:32.270 align:start position:0%
+function log base 10 of X is shown in
+blue<00:01:30.000><c> and</c><00:01:30.159><c> its</c><00:01:30.479><c> derivative</c><00:01:31.079><c> log</c><00:01:31.439><c> base</c><00:01:31.759><c> 10</c><00:01:31.960><c> of</c><00:01:32.119><c> e</c>
+
+00:01:32.270 --> 00:01:32.280 align:start position:0%
+blue and its derivative log base 10 of e
+ 
+
+00:01:32.280 --> 00:01:35.590 align:start position:0%
+blue and its derivative log base 10 of e
+overx<00:01:33.119><c> is</c><00:01:33.280><c> shown</c><00:01:33.560><c> in</c><00:01:33.840><c> red</c><00:01:34.840><c> notice</c><00:01:35.240><c> how</c><00:01:35.399><c> the</c>
+
+00:01:35.590 --> 00:01:35.600 align:start position:0%
+overx is shown in red notice how the
+ 
+
+00:01:35.600 --> 00:01:37.789 align:start position:0%
+overx is shown in red notice how the
+derivative<00:01:36.159><c> is</c><00:01:36.520><c> always</c><00:01:37.079><c> positive</c><00:01:37.560><c> but</c>
+
+00:01:37.789 --> 00:01:37.799 align:start position:0%
+derivative is always positive but
+ 
+
+00:01:37.799 --> 00:01:40.510 align:start position:0%
+derivative is always positive but
+decreases<00:01:38.439><c> as</c><00:01:38.640><c> X</c><00:01:38.920><c> increases</c><00:01:39.840><c> showing</c><00:01:40.320><c> that</c>
+
+00:01:40.510 --> 00:01:40.520 align:start position:0%
+decreases as X increases showing that
+ 
+
+00:01:40.520 --> 00:01:43.749 align:start position:0%
+decreases as X increases showing that
+log<00:01:40.920><c> base</c><00:01:41.280><c> 10</c><00:01:41.520><c> of</c><00:01:41.680><c> X</c><00:01:41.920><c> grows</c><00:01:42.360><c> more</c><00:01:42.680><c> slowly</c><00:01:43.280><c> as</c><00:01:43.479><c> X</c>
+
+00:01:43.749 --> 00:01:43.759 align:start position:0%
+log base 10 of X grows more slowly as X
+ 
+
+00:01:43.759 --> 00:01:47.040 align:start position:0%
+log base 10 of X grows more slowly as X
+gets<00:01:44.040><c> larger</c>
+

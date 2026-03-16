@@ -1,0 +1,272 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.320 --> 00:00:02.550 align:start position:0%
+ 
+let's<00:00:00.560><c> solve</c><00:00:00.919><c> this</c><00:00:01.120><c> calculus</c><00:00:01.719><c> problem</c><00:00:02.080><c> step</c>
+
+00:00:02.550 --> 00:00:02.560 align:start position:0%
+let's solve this calculus problem step
+ 
+
+00:00:02.560 --> 00:00:05.430 align:start position:0%
+let's solve this calculus problem step
+by<00:00:03.040><c> step</c><00:00:03.399><c> using</c><00:00:03.679><c> the</c><00:00:03.840><c> quotient</c><00:00:04.279><c> rule</c><00:00:05.080><c> we</c><00:00:05.240><c> need</c>
+
+00:00:05.430 --> 00:00:05.440 align:start position:0%
+by step using the quotient rule we need
+ 
+
+00:00:05.440 --> 00:00:09.430 align:start position:0%
+by step using the quotient rule we need
+to<00:00:05.640><c> find</c><00:00:05.920><c> the</c><00:00:06.120><c> derivative</c><00:00:06.640><c> of</c><00:00:06.919><c> cosine</c><00:00:07.639><c> x/</c><00:00:08.639><c> x^2</c>
+
+00:00:09.430 --> 00:00:09.440 align:start position:0%
+to find the derivative of cosine x/ x^2
+ 
+
+00:00:09.440 --> 00:00:13.230 align:start position:0%
+to find the derivative of cosine x/ x^2
++<00:00:10.200><c> sinx</c><00:00:11.200><c> first</c><00:00:12.080><c> let's</c><00:00:12.360><c> recall</c><00:00:12.679><c> the</c><00:00:12.840><c> quotient</c>
+
+00:00:13.230 --> 00:00:13.240 align:start position:0%
++ sinx first let's recall the quotient
+ 
+
+00:00:13.240 --> 00:00:16.390 align:start position:0%
++ sinx first let's recall the quotient
+rule<00:00:13.679><c> formula</c><00:00:14.679><c> the</c><00:00:14.839><c> derivative</c><00:00:15.320><c> of</c><00:00:15.440><c> U</c><00:00:15.759><c> over</c><00:00:16.080><c> V</c>
+
+00:00:16.390 --> 00:00:16.400 align:start position:0%
+rule formula the derivative of U over V
+ 
+
+00:00:16.400 --> 00:00:20.710 align:start position:0%
+rule formula the derivative of U over V
+equal<00:00:17.000><c> V</c><00:00:17.400><c> *</c><00:00:17.920><c> the</c><00:00:18.119><c> derivative</c><00:00:18.600><c> of</c><00:00:18.760><c> U</c><00:00:19.640><c> minus</c><00:00:20.080><c> U</c><00:00:20.320><c> *</c>
+
+00:00:20.710 --> 00:00:20.720 align:start position:0%
+equal V * the derivative of U minus U *
+ 
+
+00:00:20.720 --> 00:00:24.429 align:start position:0%
+equal V * the derivative of U minus U *
+the<00:00:20.880><c> derivative</c><00:00:21.320><c> of</c><00:00:21.480><c> V</c><00:00:22.279><c> all</c><00:00:22.600><c> over</c><00:00:22.920><c> V</c><00:00:23.160><c> ^2</c><00:00:24.160><c> let's</c>
+
+00:00:24.429 --> 00:00:24.439 align:start position:0%
+the derivative of V all over V ^2 let's
+ 
+
+00:00:24.439 --> 00:00:28.910 align:start position:0%
+the derivative of V all over V ^2 let's
+identify<00:00:25.039><c> our</c><00:00:25.359><c> u</c><00:00:26.000><c> and</c><00:00:26.519><c> v</c><00:00:27.119><c> functions</c><00:00:28.119><c> U</c><00:00:28.400><c> equal</c>
+
+00:00:28.910 --> 00:00:28.920 align:start position:0%
+identify our u and v functions U equal
+ 
+
+00:00:28.920 --> 00:00:34.790 align:start position:0%
+identify our u and v functions U equal
+cine<00:00:29.359><c> X</c><00:00:30.080><c> and</c><00:00:30.640><c> V</c><00:00:30.960><c> =</c><00:00:31.400><c> x^2</c><00:00:32.239><c> +</c><00:00:32.599><c> sin</c><00:00:33.000><c> x</c><00:00:34.000><c> now</c><00:00:34.480><c> let's</c>
+
+00:00:34.790 --> 00:00:34.800 align:start position:0%
+cine X and V = x^2 + sin x now let's
+ 
+
+00:00:34.800 --> 00:00:37.670 align:start position:0%
+cine X and V = x^2 + sin x now let's
+find<00:00:35.040><c> the</c><00:00:35.239><c> derivatives</c><00:00:35.760><c> of</c><00:00:35.960><c> u</c><00:00:36.480><c> and</c><00:00:36.680><c> v</c><00:00:37.520><c> the</c>
+
+00:00:37.670 --> 00:00:37.680 align:start position:0%
+find the derivatives of u and v the
+ 
+
+00:00:37.680 --> 00:00:42.190 align:start position:0%
+find the derivatives of u and v the
+derivative<00:00:38.239><c> of</c><00:00:38.520><c> cine</c><00:00:39.000><c> X</c><00:00:39.879><c> is</c><00:00:40.879><c> sinx</c><00:00:41.879><c> and</c><00:00:42.039><c> the</c>
+
+00:00:42.190 --> 00:00:42.200 align:start position:0%
+derivative of cine X is sinx and the
+ 
+
+00:00:42.200 --> 00:00:47.029 align:start position:0%
+derivative of cine X is sinx and the
+derivative<00:00:42.680><c> of</c><00:00:42.879><c> x^2</c><00:00:43.680><c> +</c><00:00:44.039><c> sin</c><00:00:44.360><c> x</c><00:00:45.039><c> is</c><00:00:45.360><c> 2x</c><00:00:46.160><c> +</c><00:00:46.640><c> cosine</c>
+
+00:00:47.029 --> 00:00:47.039 align:start position:0%
+derivative of x^2 + sin x is 2x + cosine
+ 
+
+00:00:47.039 --> 00:00:49.709 align:start position:0%
+derivative of x^2 + sin x is 2x + cosine
+X<00:00:47.960><c> let's</c><00:00:48.280><c> substitute</c><00:00:49.000><c> these</c><00:00:49.239><c> into</c><00:00:49.520><c> the</c>
+
+00:00:49.709 --> 00:00:49.719 align:start position:0%
+X let's substitute these into the
+ 
+
+00:00:49.719 --> 00:00:53.709 align:start position:0%
+X let's substitute these into the
+quotient<00:00:50.160><c> rule</c><00:00:50.600><c> formula</c><00:00:51.600><c> we</c><00:00:51.800><c> get</c><00:00:52.000><c> x^2</c><00:00:52.719><c> +</c><00:00:53.079><c> sin</c><00:00:53.399><c> x</c>
+
+00:00:53.709 --> 00:00:53.719 align:start position:0%
+quotient rule formula we get x^2 + sin x
+ 
+
+00:00:53.719 --> 00:01:00.630 align:start position:0%
+quotient rule formula we get x^2 + sin x
+*<00:00:54.920><c> sinx</c><00:00:55.920><c> -</c><00:00:56.399><c> cinx</c><00:00:57.120><c> *</c><00:00:57.600><c> 2x</c><00:00:58.199><c> +</c><00:00:58.600><c> cosin</c><00:00:59.000><c> x</c><00:01:00.039><c> all</c><00:01:00.280><c> over</c>
+
+00:01:00.630 --> 00:01:00.640 align:start position:0%
+* sinx - cinx * 2x + cosin x all over
+ 
+
+00:01:00.640 --> 00:01:05.710 align:start position:0%
+* sinx - cinx * 2x + cosin x all over
+x^2<00:01:01.440><c> +</c><00:01:01.760><c> sin</c><00:01:02.399><c> x^2</c><00:01:03.439><c> now</c><00:01:04.439><c> let's</c><00:01:04.760><c> expand</c><00:01:05.320><c> the</c>
+
+00:01:05.710 --> 00:01:05.720 align:start position:0%
+x^2 + sin x^2 now let's expand the
+ 
+
+00:01:05.720 --> 00:01:09.870 align:start position:0%
+x^2 + sin x^2 now let's expand the
+numerator<00:01:06.720><c> first</c><00:01:07.360><c> let's</c><00:01:07.640><c> multiply</c><00:01:08.320><c> x^2</c><00:01:09.119><c> +</c><00:01:09.479><c> sin</c>
+
+00:01:09.870 --> 00:01:09.880 align:start position:0%
+numerator first let's multiply x^2 + sin
+ 
+
+00:01:09.880 --> 00:01:15.950 align:start position:0%
+numerator first let's multiply x^2 + sin
+x<00:01:10.320><c> by</c><00:01:11.040><c> sin</c><00:01:11.320><c> x</c><00:01:12.240><c> this</c><00:01:12.439><c> gives</c><00:01:12.680><c> us</c><00:01:13.560><c> x^2</c><00:01:14.520><c> sin</c><00:01:14.960><c> x</c><00:01:15.439><c> -</c>
+
+00:01:15.950 --> 00:01:15.960 align:start position:0%
+x by sin x this gives us x^2 sin x -
+ 
+
+00:01:15.960 --> 00:01:21.390 align:start position:0%
+x by sin x this gives us x^2 sin x -
+sin^2<00:01:16.759><c> x</c><00:01:17.759><c> next</c><00:01:18.640><c> we</c><00:01:18.880><c> multiply</c><00:01:19.560><c> cosine</c><00:01:19.960><c> X</c><00:01:20.360><c> by</c><00:01:20.720><c> 2x</c>
+
+00:01:21.390 --> 00:01:21.400 align:start position:0%
+sin^2 x next we multiply cosine X by 2x
+ 
+
+00:01:21.400 --> 00:01:25.670 align:start position:0%
+sin^2 x next we multiply cosine X by 2x
++<00:01:21.799><c> cosine</c><00:01:22.200><c> X</c><00:01:22.840><c> getting</c><00:01:23.159><c> 2x</c><00:01:23.960><c> cosine</c><00:01:24.439><c> x</c><00:01:24.799><c> +</c><00:01:25.200><c> cosine</c>
+
+00:01:25.670 --> 00:01:25.680 align:start position:0%
++ cosine X getting 2x cosine x + cosine
+ 
+
+00:01:25.680 --> 00:01:29.350 align:start position:0%
++ cosine X getting 2x cosine x + cosine
+2<00:01:26.040><c> x</c><00:01:27.000><c> let's</c><00:01:27.360><c> factor</c><00:01:27.759><c> out</c><00:01:28.079><c> the</c><00:01:28.280><c> negative</c><00:01:28.799><c> sign</c>
+
+00:01:29.350 --> 00:01:29.360 align:start position:0%
+2 x let's factor out the negative sign
+ 
+
+00:01:29.360 --> 00:01:32.429 align:start position:0%
+2 x let's factor out the negative sign
+from<00:01:29.520><c> the</c><00:01:29.640><c> num</c><00:01:29.920><c> numerator</c><00:01:30.880><c> this</c><00:01:31.079><c> gives</c><00:01:31.240><c> us</c><00:01:31.560><c> NE</c>
+
+00:01:32.429 --> 00:01:32.439 align:start position:0%
+from the num numerator this gives us NE
+ 
+
+00:01:32.439 --> 00:01:37.429 align:start position:0%
+from the num numerator this gives us NE
+*<00:01:32.840><c> x^2</c><00:01:33.479><c> sin</c><00:01:33.759><c> x</c><00:01:34.079><c> +</c><00:01:34.399><c> sin^2</c><00:01:35.159><c> x</c><00:01:35.399><c> +</c><00:01:35.720><c> 2x</c><00:01:36.320><c> cosine</c><00:01:36.759><c> x</c><00:01:37.079><c> +</c>
+
+00:01:37.429 --> 00:01:37.439 align:start position:0%
+* x^2 sin x + sin^2 x + 2x cosine x +
+ 
+
+00:01:37.439 --> 00:01:42.469 align:start position:0%
+* x^2 sin x + sin^2 x + 2x cosine x +
+cosine<00:01:37.920><c> 2</c><00:01:38.320><c> x</c><00:01:39.240><c> all</c><00:01:39.479><c> over</c><00:01:39.799><c> x^2</c><00:01:40.520><c> +</c><00:01:40.840><c> sin</c><00:01:41.439><c> x^2</c>
+
+00:01:42.469 --> 00:01:42.479 align:start position:0%
+cosine 2 x all over x^2 + sin x^2
+ 
+
+00:01:42.479 --> 00:01:45.149 align:start position:0%
+cosine 2 x all over x^2 + sin x^2
+finally<00:01:43.479><c> we</c><00:01:43.600><c> can</c><00:01:43.840><c> simplify</c><00:01:44.399><c> this</c><00:01:44.560><c> further</c><00:01:44.960><c> by</c>
+
+00:01:45.149 --> 00:01:45.159 align:start position:0%
+finally we can simplify this further by
+ 
+
+00:01:45.159 --> 00:01:50.630 align:start position:0%
+finally we can simplify this further by
+using<00:01:45.479><c> the</c><00:01:45.680><c> identity</c><00:01:46.200><c> sign</c><00:01:47.000><c> 2</c><00:01:47.600><c> x</c><00:01:48.040><c> +</c><00:01:48.759><c> cosine</c><00:01:49.360><c> 2</c><00:01:50.240><c> x</c>
+
+00:01:50.630 --> 00:01:50.640 align:start position:0%
+using the identity sign 2 x + cosine 2 x
+ 
+
+00:01:50.640 --> 00:01:55.469 align:start position:0%
+using the identity sign 2 x + cosine 2 x
+=<00:01:51.119><c> 1</c><00:01:51.960><c> this</c><00:01:52.159><c> gives</c><00:01:52.360><c> us</c><00:01:52.520><c> our</c><00:01:52.799><c> final</c><00:01:53.719><c> answer</c><00:01:54.719><c> x^2</c>
+
+00:01:55.469 --> 00:01:55.479 align:start position:0%
+= 1 this gives us our final answer x^2
+ 
+
+00:01:55.479 --> 00:02:00.910 align:start position:0%
+= 1 this gives us our final answer x^2
+sin<00:01:55.840><c> x</c><00:01:56.159><c> +</c><00:01:56.479><c> 2x</c><00:01:57.159><c> cosine</c><00:01:57.560><c> x</c><00:01:57.840><c> +</c><00:01:58.200><c> 1</c><00:01:59.200><c> all</c><00:01:59.439><c> over</c><00:01:59.960><c> x^2</c><00:02:00.600><c> +</c>
+
+00:02:00.910 --> 00:02:00.920 align:start position:0%
+sin x + 2x cosine x + 1 all over x^2 +
+ 
+
+00:02:00.920 --> 00:02:04.270 align:start position:0%
+sin x + 2x cosine x + 1 all over x^2 +
+sin<00:02:01.479><c> x^2</c><00:02:02.479><c> and</c><00:02:02.680><c> there</c><00:02:02.840><c> we</c><00:02:03.039><c> have</c><00:02:03.240><c> it</c><00:02:03.960><c> we've</c>
+
+00:02:04.270 --> 00:02:04.280 align:start position:0%
+sin x^2 and there we have it we've
+ 
+
+00:02:04.280 --> 00:02:07.310 align:start position:0%
+sin x^2 and there we have it we've
+successfully<00:02:05.039><c> found</c><00:02:05.759><c> the</c><00:02:06.039><c> derivative</c><00:02:07.039><c> using</c>
+
+00:02:07.310 --> 00:02:07.320 align:start position:0%
+successfully found the derivative using
+ 
+
+00:02:07.320 --> 00:02:10.389 align:start position:0%
+successfully found the derivative using
+the<00:02:07.479><c> quotient</c><00:02:07.960><c> rule</c><00:02:08.800><c> the</c><00:02:09.039><c> key</c><00:02:09.399><c> steps</c><00:02:10.000><c> were</c>
+
+00:02:10.389 --> 00:02:10.399 align:start position:0%
+the quotient rule the key steps were
+ 
+
+00:02:10.399 --> 00:02:13.350 align:start position:0%
+the quotient rule the key steps were
+identifying<00:02:11.120><c> u</c><00:02:11.520><c> and</c><00:02:11.760><c> v</c><00:02:12.760><c> finding</c><00:02:13.160><c> their</c>
+
+00:02:13.350 --> 00:02:13.360 align:start position:0%
+identifying u and v finding their
+ 
+
+00:02:13.360 --> 00:02:15.790 align:start position:0%
+identifying u and v finding their
+derivatives<00:02:14.360><c> applying</c><00:02:14.800><c> the</c><00:02:14.920><c> quotient</c><00:02:15.360><c> rule</c>
+
+00:02:15.790 --> 00:02:15.800 align:start position:0%
+derivatives applying the quotient rule
+ 
+
+00:02:15.800 --> 00:02:21.080 align:start position:0%
+derivatives applying the quotient rule
+formula<00:02:16.800><c> and</c><00:02:16.959><c> then</c><00:02:17.280><c> simplifying</c><00:02:17.879><c> the</c><00:02:18.080><c> result</c>
+

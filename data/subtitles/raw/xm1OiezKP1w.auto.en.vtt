@@ -1,0 +1,320 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.320 --> 00:00:02.710 align:start position:0%
+ 
+let's<00:00:00.599><c> solve</c><00:00:01.040><c> this</c><00:00:01.400><c> complex</c><00:00:02.040><c> derivative</c>
+
+00:00:02.710 --> 00:00:02.720 align:start position:0%
+let's solve this complex derivative
+ 
+
+00:00:02.720 --> 00:00:06.030 align:start position:0%
+let's solve this complex derivative
+problem<00:00:03.159><c> step</c><00:00:03.639><c> by</c><00:00:03.959><c> step</c><00:00:04.759><c> we</c><00:00:04.920><c> need</c><00:00:05.120><c> to</c><00:00:05.359><c> find</c><00:00:05.879><c> the</c>
+
+00:00:06.030 --> 00:00:06.040 align:start position:0%
+problem step by step we need to find the
+ 
+
+00:00:06.040 --> 00:00:08.509 align:start position:0%
+problem step by step we need to find the
+derivative<00:00:06.640><c> of</c><00:00:06.759><c> the</c><00:00:07.040><c> natural</c><00:00:07.480><c> logarithm</c><00:00:08.200><c> of</c><00:00:08.320><c> a</c>
+
+00:00:08.509 --> 00:00:08.519 align:start position:0%
+derivative of the natural logarithm of a
+ 
+
+00:00:08.519 --> 00:00:11.190 align:start position:0%
+derivative of the natural logarithm of a
+fraction<00:00:09.040><c> involving</c><00:00:09.599><c> square</c><00:00:10.000><c> roots</c><00:00:11.000><c> the</c>
+
+00:00:11.190 --> 00:00:11.200 align:start position:0%
+fraction involving square roots the
+ 
+
+00:00:11.200 --> 00:00:13.150 align:start position:0%
+fraction involving square roots the
+first<00:00:11.519><c> step</c><00:00:11.799><c> is</c><00:00:11.920><c> to</c><00:00:12.080><c> use</c><00:00:12.320><c> the</c><00:00:12.519><c> logarithm</c>
+
+00:00:13.150 --> 00:00:13.160 align:start position:0%
+first step is to use the logarithm
+ 
+
+00:00:13.160 --> 00:00:15.030 align:start position:0%
+first step is to use the logarithm
+property<00:00:13.599><c> that</c><00:00:13.799><c> states</c><00:00:14.200><c> the</c><00:00:14.360><c> log</c><00:00:14.679><c> of</c><00:00:14.799><c> a</c>
+
+00:00:15.030 --> 00:00:15.040 align:start position:0%
+property that states the log of a
+ 
+
+00:00:15.040 --> 00:00:17.670 align:start position:0%
+property that states the log of a
+fraction<00:00:15.559><c> equals</c><00:00:16.000><c> the</c><00:00:16.199><c> log</c><00:00:16.560><c> of</c><00:00:16.680><c> the</c><00:00:16.880><c> numerator</c>
+
+00:00:17.670 --> 00:00:17.680 align:start position:0%
+fraction equals the log of the numerator
+ 
+
+00:00:17.680 --> 00:00:20.750 align:start position:0%
+fraction equals the log of the numerator
+minus<00:00:18.119><c> the</c><00:00:18.320><c> log</c><00:00:19.000><c> of</c><00:00:19.119><c> the</c><00:00:19.560><c> denominator</c><00:00:20.560><c> this</c>
+
+00:00:20.750 --> 00:00:20.760 align:start position:0%
+minus the log of the denominator this
+ 
+
+00:00:20.760 --> 00:00:23.390 align:start position:0%
+minus the log of the denominator this
+allows<00:00:21.119><c> us</c><00:00:21.279><c> to</c><00:00:21.519><c> split</c><00:00:21.920><c> our</c><00:00:22.160><c> expression</c><00:00:22.880><c> into</c><00:00:23.119><c> a</c>
+
+00:00:23.390 --> 00:00:23.400 align:start position:0%
+allows us to split our expression into a
+ 
+
+00:00:23.400 --> 00:00:26.870 align:start position:0%
+allows us to split our expression into a
+difference<00:00:24.320><c> of</c><00:00:24.599><c> two</c><00:00:25.400><c> logarithms</c><00:00:26.400><c> next</c><00:00:26.679><c> we'll</c>
+
+00:00:26.870 --> 00:00:26.880 align:start position:0%
+difference of two logarithms next we'll
+ 
+
+00:00:26.880 --> 00:00:29.990 align:start position:0%
+difference of two logarithms next we'll
+use<00:00:27.119><c> the</c><00:00:27.240><c> chain</c><00:00:27.640><c> rule</c><00:00:28.320><c> to</c><00:00:28.599><c> differentiate</c><00:00:29.439><c> each</c>
+
+00:00:29.990 --> 00:00:30.000 align:start position:0%
+use the chain rule to differentiate each
+ 
+
+00:00:30.000 --> 00:00:33.430 align:start position:0%
+use the chain rule to differentiate each
+logarithm<00:00:30.519><c> term</c><00:00:31.640><c> remember</c><00:00:32.640><c> the</c><00:00:32.840><c> derivative</c>
+
+00:00:33.430 --> 00:00:33.440 align:start position:0%
+logarithm term remember the derivative
+ 
+
+00:00:33.440 --> 00:00:35.950 align:start position:0%
+logarithm term remember the derivative
+of<00:00:33.680><c> natural</c><00:00:34.120><c> log</c><00:00:34.559><c> is</c><00:00:34.800><c> 1</c><00:00:35.040><c> over</c><00:00:35.280><c> the</c><00:00:35.440><c> function</c>
+
+00:00:35.950 --> 00:00:35.960 align:start position:0%
+of natural log is 1 over the function
+ 
+
+00:00:35.960 --> 00:00:38.709 align:start position:0%
+of natural log is 1 over the function
+time<00:00:36.360><c> the</c><00:00:36.559><c> derivative</c><00:00:37.399><c> of</c><00:00:37.559><c> the</c><00:00:37.719><c> function</c>
+
+00:00:38.709 --> 00:00:38.719 align:start position:0%
+time the derivative of the function
+ 
+
+00:00:38.719 --> 00:00:41.709 align:start position:0%
+time the derivative of the function
+let's<00:00:39.000><c> apply</c><00:00:39.399><c> this</c><00:00:39.559><c> to</c><00:00:39.800><c> both</c><00:00:40.239><c> terms</c><00:00:41.239><c> now</c><00:00:41.559><c> we</c>
+
+00:00:41.709 --> 00:00:41.719 align:start position:0%
+let's apply this to both terms now we
+ 
+
+00:00:41.719 --> 00:00:44.029 align:start position:0%
+let's apply this to both terms now we
+need<00:00:41.920><c> to</c><00:00:42.160><c> find</c><00:00:42.480><c> the</c><00:00:42.680><c> derivative</c><00:00:43.280><c> of</c><00:00:43.520><c> square</c><00:00:43.920><c> &lt;</c>
+
+00:00:44.029 --> 00:00:44.039 align:start position:0%
+need to find the derivative of square &lt;
+ 
+
+00:00:44.039 --> 00:00:48.950 align:start position:0%
+need to find the derivative of square &lt;
+TK<00:00:44.640><c> of</c><00:00:45.039><c> x</c><00:00:45.680><c> +</c><00:00:46.160><c> 1</c><00:00:47.079><c> remember</c><00:00:48.079><c> the</c><00:00:48.280><c> derivative</c><00:00:48.760><c> of</c>
+
+00:00:48.950 --> 00:00:48.960 align:start position:0%
+TK of x + 1 remember the derivative of
+ 
+
+00:00:48.960 --> 00:00:54.110 align:start position:0%
+TK of x + 1 remember the derivative of
+square<00:00:49.320><c> &lt;</c><00:00:49.440><c> TK</c><00:00:49.719><c> X</c><00:00:50.399><c> is</c><00:00:50.719><c> 1</c><00:00:50.960><c> /</c><00:00:51.239><c> 2</c><00:00:51.640><c> *</c><00:00:52.520><c> &lt;</c><00:00:52.640><c> TK</c><00:00:52.920><c> X</c><00:00:53.719><c> so</c><00:00:54.000><c> the</c>
+
+00:00:54.110 --> 00:00:54.120 align:start position:0%
+square &lt; TK X is 1 / 2 * &lt; TK X so the
+ 
+
+00:00:54.120 --> 00:00:57.150 align:start position:0%
+square &lt; TK X is 1 / 2 * &lt; TK X so the
+derivative<00:00:54.559><c> of</c><00:00:54.760><c> square</c><00:00:55.120><c> &lt;</c><00:00:55.239><c> TK</c><00:00:55.480><c> of</c><00:00:55.719><c> x</c><00:00:56.000><c> +</c><00:00:56.399><c> 1</c><00:00:57.000><c> will</c>
+
+00:00:57.150 --> 00:00:57.160 align:start position:0%
+derivative of square &lt; TK of x + 1 will
+ 
+
+00:00:57.160 --> 00:01:01.910 align:start position:0%
+derivative of square &lt; TK of x + 1 will
+be<00:00:57.359><c> 1</c><00:00:57.640><c> /</c><00:00:57.960><c> 2</c><00:00:58.719><c> &lt;</c><00:00:58.840><c> TK</c><00:00:59.359><c> x</c><00:00:59.600><c> +</c><00:01:00.199><c> 1</c><00:01:00.480><c> *</c><00:01:01.039><c> the</c><00:01:01.199><c> derivative</c><00:01:01.719><c> of</c>
+
+00:01:01.910 --> 00:01:01.920 align:start position:0%
+be 1 / 2 &lt; TK x + 1 * the derivative of
+ 
+
+00:01:01.920 --> 00:01:06.390 align:start position:0%
+be 1 / 2 &lt; TK x + 1 * the derivative of
+x<00:01:02.239><c> +</c><00:01:02.559><c> 1</c><00:01:03.320><c> the</c><00:01:03.480><c> derivative</c><00:01:04.280><c> of</c><00:01:04.479><c> x</c><00:01:04.760><c> +</c><00:01:05.159><c> 1</c><00:01:05.680><c> is</c><00:01:05.960><c> simply</c>
+
+00:01:06.390 --> 00:01:06.400 align:start position:0%
+x + 1 the derivative of x + 1 is simply
+ 
+
+00:01:06.400 --> 00:01:10.630 align:start position:0%
+x + 1 the derivative of x + 1 is simply
+1<00:01:07.360><c> so</c><00:01:08.200><c> we</c><00:01:08.320><c> can</c><00:01:08.560><c> replace</c><00:01:09.000><c> those</c><00:01:09.240><c> terms</c><00:01:09.640><c> with</c><00:01:09.840><c> one</c>
+
+00:01:10.630 --> 00:01:10.640 align:start position:0%
+1 so we can replace those terms with one
+ 
+
+00:01:10.640 --> 00:01:13.710 align:start position:0%
+1 so we can replace those terms with one
+and<00:01:10.880><c> begin</c><00:01:11.320><c> to</c><00:01:11.600><c> simplify</c><00:01:12.200><c> our</c><00:01:12.479><c> expression</c><00:01:13.479><c> to</c>
+
+00:01:13.710 --> 00:01:13.720 align:start position:0%
+and begin to simplify our expression to
+ 
+
+00:01:13.720 --> 00:01:16.590 align:start position:0%
+and begin to simplify our expression to
+combine<00:01:14.200><c> these</c><00:01:14.439><c> fractions</c><00:01:15.200><c> we</c><00:01:15.360><c> need</c><00:01:15.520><c> a</c><00:01:15.759><c> common</c>
+
+00:01:16.590 --> 00:01:16.600 align:start position:0%
+combine these fractions we need a common
+ 
+
+00:01:16.600 --> 00:01:18.950 align:start position:0%
+combine these fractions we need a common
+denominator<00:01:17.600><c> after</c><00:01:17.960><c> combining</c><00:01:18.680><c> and</c>
+
+00:01:18.950 --> 00:01:18.960 align:start position:0%
+denominator after combining and
+ 
+
+00:01:18.960 --> 00:01:21.590 align:start position:0%
+denominator after combining and
+simplifying<00:01:19.600><c> the</c><00:01:19.759><c> numerator</c><00:01:20.640><c> we</c><00:01:20.880><c> get</c><00:01:21.119><c> this</c>
+
+00:01:21.590 --> 00:01:21.600 align:start position:0%
+simplifying the numerator we get this
+ 
+
+00:01:21.600 --> 00:01:24.190 align:start position:0%
+simplifying the numerator we get this
+expression<00:01:22.600><c> looking</c><00:01:22.880><c> at</c><00:01:23.000><c> the</c><00:01:23.200><c> numerator</c><00:01:24.079><c> we</c>
+
+00:01:24.190 --> 00:01:24.200 align:start position:0%
+expression looking at the numerator we
+ 
+
+00:01:24.200 --> 00:01:26.910 align:start position:0%
+expression looking at the numerator we
+can<00:01:24.439><c> see</c><00:01:25.280><c> that</c><00:01:25.479><c> the</c><00:01:25.720><c> square</c><00:01:26.119><c> root</c><00:01:26.439><c> terms</c>
+
+00:01:26.910 --> 00:01:26.920 align:start position:0%
+can see that the square root terms
+ 
+
+00:01:26.920 --> 00:01:29.950 align:start position:0%
+can see that the square root terms
+cancel<00:01:27.280><c> out</c><00:01:27.720><c> leaving</c><00:01:28.119><c> us</c><00:01:28.360><c> with</c><00:01:28.560><c> just</c><00:01:28.799><c> two</c><00:01:29.720><c> and</c>
+
+00:01:29.950 --> 00:01:29.960 align:start position:0%
+cancel out leaving us with just two and
+ 
+
+00:01:29.960 --> 00:01:33.109 align:start position:0%
+cancel out leaving us with just two and
+and<00:01:30.119><c> in</c><00:01:30.240><c> the</c><00:01:30.680><c> denominator</c><00:01:31.680><c> we</c><00:01:31.799><c> can</c><00:01:32.079><c> simplify</c><00:01:32.720><c> x</c>
+
+00:01:33.109 --> 00:01:33.119 align:start position:0%
+and in the denominator we can simplify x
+ 
+
+00:01:33.119 --> 00:01:37.990 align:start position:0%
+and in the denominator we can simplify x
++<00:01:33.720><c> 1</c><00:01:34.159><c> -1</c><00:01:35.159><c> to</c><00:01:35.479><c> just</c><00:01:35.880><c> X</c><00:01:36.880><c> finally</c><00:01:37.320><c> we</c><00:01:37.439><c> can</c><00:01:37.600><c> cancel</c>
+
+00:01:37.990 --> 00:01:38.000 align:start position:0%
++ 1 -1 to just X finally we can cancel
+ 
+
+00:01:38.000 --> 00:01:40.630 align:start position:0%
++ 1 -1 to just X finally we can cancel
+the<00:01:38.119><c> twos</c><00:01:38.520><c> and</c><00:01:38.799><c> simplify</c><00:01:39.600><c> the</c><00:01:39.799><c> denominator</c><00:01:40.479><c> to</c>
+
+00:01:40.630 --> 00:01:40.640 align:start position:0%
+the twos and simplify the denominator to
+ 
+
+00:01:40.640 --> 00:01:46.709 align:start position:0%
+the twos and simplify the denominator to
+get<00:01:40.799><c> our</c><00:01:41.119><c> final</c><00:01:41.560><c> answer</c><00:01:42.560><c> 1X</c><00:01:43.640><c> *</c><00:01:44.640><c> &lt;</c><00:01:44.759><c> TK</c><00:01:45.200><c> x</c><00:01:45.479><c> +</c><00:01:45.759><c> 1</c>
+
+00:01:46.709 --> 00:01:46.719 align:start position:0%
+get our final answer 1X * &lt; TK x + 1
+ 
+
+00:01:46.719 --> 00:01:48.990 align:start position:0%
+get our final answer 1X * &lt; TK x + 1
+this<00:01:47.159><c> problem</c><00:01:47.600><c> demonstrated</c><00:01:48.560><c> several</c>
+
+00:01:48.990 --> 00:01:49.000 align:start position:0%
+this problem demonstrated several
+ 
+
+00:01:49.000 --> 00:01:51.550 align:start position:0%
+this problem demonstrated several
+important<00:01:49.600><c> calculus</c><00:01:50.399><c> Concepts</c><00:01:51.399><c> the</c>
+
+00:01:51.550 --> 00:01:51.560 align:start position:0%
+important calculus Concepts the
+ 
+
+00:01:51.560 --> 00:01:54.590 align:start position:0%
+important calculus Concepts the
+properties<00:01:51.960><c> of</c><00:01:52.240><c> logarithms</c><00:01:53.000><c> the</c><00:01:53.159><c> chain</c><00:01:53.600><c> Rule</c>
+
+00:01:54.590 --> 00:01:54.600 align:start position:0%
+properties of logarithms the chain Rule
+ 
+
+00:01:54.600 --> 00:01:56.870 align:start position:0%
+properties of logarithms the chain Rule
+and<00:01:54.920><c> the</c><00:01:55.079><c> derivative</c><00:01:55.719><c> of</c><00:01:55.960><c> square</c><00:01:56.320><c> root</c>
+
+00:01:56.870 --> 00:01:56.880 align:start position:0%
+and the derivative of square root
+ 
+
+00:01:56.880 --> 00:01:59.950 align:start position:0%
+and the derivative of square root
+functions<00:01:57.880><c> by</c><00:01:58.200><c> breaking</c><00:01:58.640><c> it</c><00:01:58.840><c> down</c><00:01:59.200><c> step</c><00:01:59.520><c> by</c>
+
+00:01:59.950 --> 00:01:59.960 align:start position:0%
+functions by breaking it down step by
+ 
+
+00:01:59.960 --> 00:02:02.830 align:start position:0%
+functions by breaking it down step by
+step<00:02:00.399><c> we</c><00:02:00.520><c> were</c><00:02:00.759><c> able</c><00:02:01.039><c> to</c><00:02:01.200><c> solve</c><00:02:01.680><c> this</c><00:02:02.119><c> complex</c>
+
+00:02:02.830 --> 00:02:02.840 align:start position:0%
+step we were able to solve this complex
+ 
+
+00:02:02.840 --> 00:02:05.840 align:start position:0%
+step we were able to solve this complex
+derivative
+

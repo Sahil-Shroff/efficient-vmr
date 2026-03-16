@@ -1,0 +1,120 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.060 --> 00:00:02.629 align:start position:0%
+ 
+select<00:00:00.719><c> 5000</c><00:00:01.319><c> positive</c><00:00:01.680><c> integers</c><00:00:02.100><c> uniformly</c>
+
+00:00:02.629 --> 00:00:02.639 align:start position:0%
+select 5000 positive integers uniformly
+ 
+
+00:00:02.639 --> 00:00:04.190 align:start position:0%
+select 5000 positive integers uniformly
+at<00:00:02.820><c> random</c><00:00:03.120><c> from</c><00:00:03.300><c> the</c><00:00:03.419><c> range</c><00:00:03.600><c> one</c><00:00:03.840><c> to</c><00:00:04.020><c> five</c>
+
+00:00:04.190 --> 00:00:04.200 align:start position:0%
+at random from the range one to five
+ 
+
+00:00:04.200 --> 00:00:06.470 align:start position:0%
+at random from the range one to five
+million<00:00:04.560><c> to</c><00:00:04.799><c> plot</c><00:00:05.040><c> points</c><00:00:05.339><c> in</c><00:00:05.460><c> the</c><00:00:05.580><c> plane</c>
+
+00:00:06.470 --> 00:00:06.480 align:start position:0%
+million to plot points in the plane
+ 
+
+00:00:06.480 --> 00:00:08.690 align:start position:0%
+million to plot points in the plane
+if<00:00:06.899><c> the</c><00:00:07.020><c> pair</c><00:00:07.140><c> is</c><00:00:07.440><c> relatively</c><00:00:07.799><c> prime</c><00:00:08.040><c> plot</c><00:00:08.580><c> the</c>
+
+00:00:08.690 --> 00:00:08.700 align:start position:0%
+if the pair is relatively prime plot the
+ 
+
+00:00:08.700 --> 00:00:10.549 align:start position:0%
+if the pair is relatively prime plot the
+point<00:00:08.880><c> in</c><00:00:09.059><c> red</c><00:00:09.300><c> and</c><00:00:09.720><c> otherwise</c><00:00:10.019><c> plot</c><00:00:10.440><c> the</c>
+
+00:00:10.549 --> 00:00:10.559 align:start position:0%
+point in red and otherwise plot the
+ 
+
+00:00:10.559 --> 00:00:12.110 align:start position:0%
+point in red and otherwise plot the
+point<00:00:10.740><c> in</c><00:00:10.980><c> blue</c>
+
+00:00:12.110 --> 00:00:12.120 align:start position:0%
+point in blue
+ 
+
+00:00:12.120 --> 00:00:14.450 align:start position:0%
+point in blue
+here's<00:00:12.599><c> an</c><00:00:12.719><c> animation</c><00:00:13.080><c> of</c><00:00:13.440><c> one</c><00:00:13.620><c> example</c><00:00:14.040><c> of</c>
+
+00:00:14.450 --> 00:00:14.460 align:start position:0%
+here's an animation of one example of
+ 
+
+00:00:14.460 --> 00:00:16.189 align:start position:0%
+here's an animation of one example of
+this<00:00:14.639><c> random</c><00:00:14.940><c> process</c>
+
+00:00:16.189 --> 00:00:16.199 align:start position:0%
+this random process
+ 
+
+00:00:16.199 --> 00:00:18.170 align:start position:0%
+this random process
+it<00:00:16.619><c> turns</c><00:00:16.859><c> out</c><00:00:16.980><c> that</c><00:00:17.160><c> the</c><00:00:17.340><c> ratio</c><00:00:17.699><c> of</c><00:00:18.000><c> the</c>
+
+00:00:18.170 --> 00:00:18.180 align:start position:0%
+it turns out that the ratio of the
+ 
+
+00:00:18.180 --> 00:00:19.970 align:start position:0%
+it turns out that the ratio of the
+number<00:00:18.300><c> of</c><00:00:18.539><c> red</c><00:00:18.720><c> dots</c><00:00:19.199><c> to</c><00:00:19.440><c> the</c><00:00:19.619><c> total</c><00:00:19.859><c> number</c>
+
+00:00:19.970 --> 00:00:19.980 align:start position:0%
+number of red dots to the total number
+ 
+
+00:00:19.980 --> 00:00:22.310 align:start position:0%
+number of red dots to the total number
+of<00:00:20.160><c> dots</c><00:00:20.640><c> gives</c><00:00:21.180><c> a</c><00:00:21.359><c> good</c><00:00:21.480><c> approximation</c><00:00:22.020><c> for</c>
+
+00:00:22.310 --> 00:00:22.320 align:start position:0%
+of dots gives a good approximation for
+ 
+
+00:00:22.320 --> 00:00:24.710 align:start position:0%
+of dots gives a good approximation for
+the<00:00:22.380><c> fraction</c><00:00:22.680><c> 6</c><00:00:22.920><c> over</c><00:00:23.160><c> pi</c><00:00:23.460><c> squared</c>
+
+00:00:24.710 --> 00:00:24.720 align:start position:0%
+the fraction 6 over pi squared
+ 
+
+00:00:24.720 --> 00:00:26.509 align:start position:0%
+the fraction 6 over pi squared
+therefore<00:00:25.199><c> we</c><00:00:25.439><c> can</c><00:00:25.560><c> use</c><00:00:25.800><c> this</c><00:00:26.220><c> particular</c>
+
+00:00:26.509 --> 00:00:26.519 align:start position:0%
+therefore we can use this particular
+ 
+
+00:00:26.519 --> 00:00:28.370 align:start position:0%
+therefore we can use this particular
+simulation<00:00:27.000><c> to</c><00:00:27.359><c> get</c><00:00:27.480><c> an</c><00:00:27.660><c> approximation</c><00:00:28.080><c> for</c>
+
+00:00:28.370 --> 00:00:28.380 align:start position:0%
+simulation to get an approximation for
+ 
+
+00:00:28.380 --> 00:00:34.099 align:start position:0%
+simulation to get an approximation for
+pi<00:00:28.740><c> as</c><00:00:29.599><c> 3.142</c><00:00:30.599><c> not</c><00:00:31.260><c> great</c><00:00:31.439><c> but</c><00:00:31.679><c> not</c><00:00:31.800><c> terrible</c>
+

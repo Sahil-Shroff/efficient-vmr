@@ -1,0 +1,288 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.280 --> 00:00:02.669 align:start position:0%
+ 
+let's<00:00:00.599><c> solve</c><00:00:01.040><c> this</c><00:00:01.360><c> challenging</c><00:00:02.040><c> derivative</c>
+
+00:00:02.669 --> 00:00:02.679 align:start position:0%
+let's solve this challenging derivative
+ 
+
+00:00:02.679 --> 00:00:05.630 align:start position:0%
+let's solve this challenging derivative
+problem<00:00:03.080><c> step</c><00:00:03.480><c> by</c><00:00:03.800><c> step</c><00:00:04.560><c> we'll</c><00:00:04.799><c> use</c><00:00:05.040><c> the</c><00:00:05.240><c> chain</c>
+
+00:00:05.630 --> 00:00:05.640 align:start position:0%
+problem step by step we'll use the chain
+ 
+
+00:00:05.640 --> 00:00:07.990 align:start position:0%
+problem step by step we'll use the chain
+Rule<00:00:06.080><c> and</c><00:00:06.399><c> inverse</c><00:00:06.839><c> function</c><00:00:07.200><c> rules</c><00:00:07.560><c> to</c><00:00:07.720><c> find</c>
+
+00:00:07.990 --> 00:00:08.000 align:start position:0%
+Rule and inverse function rules to find
+ 
+
+00:00:08.000 --> 00:00:11.030 align:start position:0%
+Rule and inverse function rules to find
+the<00:00:08.240><c> derivative</c><00:00:09.000><c> of</c><00:00:09.280><c> tan</c><00:00:09.639><c> inverse</c><00:00:10.080><c> of</c><00:00:10.360><c> sin</c><00:00:10.800><c> of</c>
+
+00:00:11.030 --> 00:00:11.040 align:start position:0%
+the derivative of tan inverse of sin of
+ 
+
+00:00:11.040 --> 00:00:14.990 align:start position:0%
+the derivative of tan inverse of sin of
+e<00:00:11.360><c> to</c><00:00:11.719><c> X</c><00:00:12.679><c> let's</c><00:00:12.960><c> break</c><00:00:13.320><c> this</c><00:00:13.519><c> down</c><00:00:13.759><c> into</c><00:00:14.120><c> parts</c>
+
+00:00:14.990 --> 00:00:15.000 align:start position:0%
+e to X let's break this down into parts
+ 
+
+00:00:15.000 --> 00:00:18.150 align:start position:0%
+e to X let's break this down into parts
+we<00:00:15.200><c> have</c><00:00:15.440><c> three</c><00:00:15.759><c> nested</c><00:00:16.640><c> functions</c><00:00:17.640><c> first</c><00:00:18.000><c> the</c>
+
+00:00:18.150 --> 00:00:18.160 align:start position:0%
+we have three nested functions first the
+ 
+
+00:00:18.160 --> 00:00:20.630 align:start position:0%
+we have three nested functions first the
+outer<00:00:18.520><c> function</c><00:00:18.920><c> is</c><00:00:19.119><c> tan</c><00:00:19.439><c> inverse</c><00:00:20.320><c> then</c><00:00:20.480><c> we</c>
+
+00:00:20.630 --> 00:00:20.640 align:start position:0%
+outer function is tan inverse then we
+ 
+
+00:00:20.640 --> 00:00:23.310 align:start position:0%
+outer function is tan inverse then we
+have<00:00:20.880><c> S</c><00:00:21.279><c> as</c><00:00:21.400><c> our</c><00:00:21.560><c> middle</c><00:00:21.960><c> function</c><00:00:22.960><c> and</c>
+
+00:00:23.310 --> 00:00:23.320 align:start position:0%
+have S as our middle function and
+ 
+
+00:00:23.320 --> 00:00:25.669 align:start position:0%
+have S as our middle function and
+finally<00:00:23.680><c> e</c><00:00:23.880><c> to</c><00:00:24.080><c> thex</c><00:00:24.519><c> as</c><00:00:24.680><c> our</c><00:00:24.960><c> innermost</c>
+
+00:00:25.669 --> 00:00:25.679 align:start position:0%
+finally e to thex as our innermost
+ 
+
+00:00:25.679 --> 00:00:28.470 align:start position:0%
+finally e to thex as our innermost
+function<00:00:26.679><c> now</c><00:00:27.000><c> let's</c><00:00:27.279><c> recall</c><00:00:27.720><c> the</c><00:00:27.920><c> derivative</c>
+
+00:00:28.470 --> 00:00:28.480 align:start position:0%
+function now let's recall the derivative
+ 
+
+00:00:28.480 --> 00:00:30.589 align:start position:0%
+function now let's recall the derivative
+formula<00:00:29.359><c> for</c><00:00:29.679><c> in</c>
+
+00:00:30.589 --> 00:00:30.599 align:start position:0%
+formula for in
+ 
+
+00:00:30.599 --> 00:00:33.510 align:start position:0%
+formula for in
+tangent<00:00:31.599><c> the</c><00:00:31.800><c> derivative</c><00:00:32.320><c> of</c><00:00:32.559><c> tan</c><00:00:32.920><c> inverse</c><00:00:33.360><c> of</c>
+
+00:00:33.510 --> 00:00:33.520 align:start position:0%
+tangent the derivative of tan inverse of
+ 
+
+00:00:33.520 --> 00:00:38.590 align:start position:0%
+tangent the derivative of tan inverse of
+U<00:00:34.120><c> with</c><00:00:34.360><c> respect</c><00:00:34.719><c> to</c><00:00:34.920><c> U</c><00:00:35.559><c> is</c><00:00:35.840><c> 1/</c><00:00:36.680><c> 1</c><00:00:37.040><c> +</c><00:00:37.360><c> U</c><00:00:37.480><c> ^2</c><00:00:38.440><c> in</c>
+
+00:00:38.590 --> 00:00:38.600 align:start position:0%
+U with respect to U is 1/ 1 + U ^2 in
+ 
+
+00:00:38.600 --> 00:00:43.830 align:start position:0%
+U with respect to U is 1/ 1 + U ^2 in
+our<00:00:38.920><c> case</c><00:00:39.840><c> U</c><00:00:40.200><c> equal</c><00:00:40.719><c> s</c><00:00:41.280><c> of</c><00:00:41.520><c> e</c><00:00:41.840><c> to</c><00:00:42.239><c> X</c><00:00:43.200><c> so</c><00:00:43.440><c> when</c><00:00:43.640><c> we</c>
+
+00:00:43.830 --> 00:00:43.840 align:start position:0%
+our case U equal s of e to X so when we
+ 
+
+00:00:43.840 --> 00:00:47.189 align:start position:0%
+our case U equal s of e to X so when we
+apply<00:00:44.239><c> the</c><00:00:44.399><c> inverse</c><00:00:44.840><c> tangent</c><00:00:45.320><c> rule</c><00:00:46.160><c> we</c><00:00:46.320><c> get</c><00:00:46.600><c> 1</c>
+
+00:00:47.189 --> 00:00:47.199 align:start position:0%
+apply the inverse tangent rule we get 1
+ 
+
+00:00:47.199 --> 00:00:51.430 align:start position:0%
+apply the inverse tangent rule we get 1
+1<00:00:47.640><c> +</c><00:00:48.079><c> sin^2</c><00:00:48.840><c> of</c><00:00:49.000><c> e</c><00:00:49.239><c> to</c><00:00:49.559><c> X</c><00:00:50.480><c> time</c><00:00:50.840><c> the</c><00:00:51.000><c> derivative</c>
+
+00:00:51.430 --> 00:00:51.440 align:start position:0%
+1 + sin^2 of e to X time the derivative
+ 
+
+00:00:51.440 --> 00:00:55.229 align:start position:0%
+1 + sin^2 of e to X time the derivative
+of<00:00:51.680><c> sin</c><00:00:51.920><c> of</c><00:00:52.160><c> e</c><00:00:52.440><c> to</c><00:00:52.760><c> X</c><00:00:53.760><c> now</c><00:00:54.120><c> we</c><00:00:54.320><c> need</c><00:00:54.520><c> to</c><00:00:54.760><c> find</c><00:00:55.079><c> the</c>
+
+00:00:55.229 --> 00:00:55.239 align:start position:0%
+of sin of e to X now we need to find the
+ 
+
+00:00:55.239 --> 00:00:58.349 align:start position:0%
+of sin of e to X now we need to find the
+derivative<00:00:55.719><c> of</c><00:00:55.920><c> sign</c><00:00:56.320><c> of</c><00:00:56.559><c> e</c><00:00:56.879><c> to</c><00:00:57.280><c> X</c><00:00:57.920><c> using</c><00:00:58.199><c> the</c>
+
+00:00:58.349 --> 00:00:58.359 align:start position:0%
+derivative of sign of e to X using the
+ 
+
+00:00:58.359 --> 00:01:01.750 align:start position:0%
+derivative of sign of e to X using the
+chain<00:00:58.719><c> rule</c><00:00:59.480><c> the</c><00:00:59.600><c> D</c><00:00:59.960><c> dtive</c><00:01:00.320><c> of</c><00:01:00.480><c> s</c><00:01:00.760><c> of</c><00:01:00.960><c> V</c><00:01:01.399><c> is</c>
+
+00:01:01.750 --> 00:01:01.760 align:start position:0%
+chain rule the D dtive of s of V is
+ 
+
+00:01:01.760 --> 00:01:05.990 align:start position:0%
+chain rule the D dtive of s of V is
+cosine<00:01:02.719><c> of</c><00:01:02.920><c> V</c><00:01:03.239><c> *</c><00:01:03.719><c> the</c><00:01:03.920><c> derivative</c><00:01:04.519><c> of</c><00:01:04.760><c> v</c><00:01:05.560><c> in</c><00:01:05.720><c> our</c>
+
+00:01:05.990 --> 00:01:06.000 align:start position:0%
+cosine of V * the derivative of v in our
+ 
+
+00:01:06.000 --> 00:01:09.870 align:start position:0%
+cosine of V * the derivative of v in our
+case<00:01:06.400><c> v</c><00:01:06.799><c> is</c><00:01:06.960><c> e</c><00:01:07.200><c> to</c><00:01:07.479><c> X</c><00:01:08.159><c> so</c><00:01:08.360><c> we</c><00:01:08.520><c> get</c><00:01:08.840><c> cosine</c><00:01:09.320><c> of</c><00:01:09.560><c> e</c>
+
+00:01:09.870 --> 00:01:09.880 align:start position:0%
+case v is e to X so we get cosine of e
+ 
+
+00:01:09.880 --> 00:01:13.270 align:start position:0%
+case v is e to X so we get cosine of e
+to<00:01:10.479><c> the</c><00:01:10.640><c> X</c><00:01:11.040><c> time</c><00:01:11.439><c> the</c><00:01:11.600><c> derivative</c><00:01:12.320><c> of</c><00:01:12.520><c> e</c><00:01:12.799><c> to</c><00:01:13.000><c> the</c>
+
+00:01:13.270 --> 00:01:13.280 align:start position:0%
+to the X time the derivative of e to the
+ 
+
+00:01:13.280 --> 00:01:17.230 align:start position:0%
+to the X time the derivative of e to the
+X<00:01:14.280><c> finally</c><00:01:15.040><c> we</c><00:01:15.240><c> know</c><00:01:15.600><c> that</c><00:01:15.799><c> the</c><00:01:16.000><c> derivative</c><00:01:17.000><c> of</c>
+
+00:01:17.230 --> 00:01:17.240 align:start position:0%
+X finally we know that the derivative of
+ 
+
+00:01:17.240 --> 00:01:21.830 align:start position:0%
+X finally we know that the derivative of
+e<00:01:17.560><c> to</c><00:01:17.920><c> X</c><00:01:18.720><c> is</c><00:01:18.960><c> just</c><00:01:19.240><c> e</c><00:01:19.520><c> to</c><00:01:19.840><c> X</c><00:01:20.840><c> so</c><00:01:21.159><c> our</c><00:01:21.439><c> final</c>
+
+00:01:21.830 --> 00:01:21.840 align:start position:0%
+e to X is just e to X so our final
+ 
+
+00:01:21.840 --> 00:01:26.390 align:start position:0%
+e to X is just e to X so our final
+answer<00:01:22.439><c> is</c><00:01:22.720><c> e</c><00:01:23.000><c> to</c><00:01:23.280><c> x</c><00:01:23.520><c> *</c><00:01:24.079><c> cosine</c><00:01:24.600><c> of</c><00:01:24.759><c> e</c><00:01:24.960><c> to</c><00:01:25.240><c> X</c><00:01:26.200><c> all</c>
+
+00:01:26.390 --> 00:01:26.400 align:start position:0%
+answer is e to x * cosine of e to X all
+ 
+
+00:01:26.400 --> 00:01:30.670 align:start position:0%
+answer is e to x * cosine of e to X all
+over<00:01:26.759><c> 1</c><00:01:27.040><c> +</c><00:01:27.439><c> sin</c><00:01:27.759><c> 2</c><00:01:28.320><c> e</c><00:01:28.560><c> to</c><00:01:28.840><c> X</c><00:01:29.680><c> let's</c><00:01:29.920><c> let's</c><00:01:30.159><c> verify</c>
+
+00:01:30.670 --> 00:01:30.680 align:start position:0%
+over 1 + sin 2 e to X let's let's verify
+ 
+
+00:01:30.680 --> 00:01:33.270 align:start position:0%
+over 1 + sin 2 e to X let's let's verify
+that<00:01:30.880><c> this</c><00:01:31.079><c> makes</c><00:01:31.360><c> sense</c><00:01:32.280><c> our</c><00:01:32.600><c> derivative</c><00:01:33.159><c> is</c>
+
+00:01:33.270 --> 00:01:33.280 align:start position:0%
+that this makes sense our derivative is
+ 
+
+00:01:33.280 --> 00:01:36.710 align:start position:0%
+that this makes sense our derivative is
+a<00:01:33.520><c> fraction</c><00:01:34.399><c> where</c><00:01:35.240><c> the</c><00:01:35.479><c> numerator</c><00:01:36.040><c> contains</c>
+
+00:01:36.710 --> 00:01:36.720 align:start position:0%
+a fraction where the numerator contains
+ 
+
+00:01:36.720 --> 00:01:39.230 align:start position:0%
+a fraction where the numerator contains
+e<00:01:37.000><c> to</c><00:01:37.280><c> X</c><00:01:37.759><c> which</c><00:01:38.079><c> came</c><00:01:38.280><c> from</c><00:01:38.479><c> the</c><00:01:38.640><c> derivative</c><00:01:39.119><c> of</c>
+
+00:01:39.230 --> 00:01:39.240 align:start position:0%
+e to X which came from the derivative of
+ 
+
+00:01:39.240 --> 00:01:42.270 align:start position:0%
+e to X which came from the derivative of
+our<00:01:39.439><c> innermost</c><00:01:40.240><c> function</c><00:01:41.240><c> multiplied</c><00:01:41.960><c> by</c>
+
+00:01:42.270 --> 00:01:42.280 align:start position:0%
+our innermost function multiplied by
+ 
+
+00:01:42.280 --> 00:01:44.950 align:start position:0%
+our innermost function multiplied by
+cosine<00:01:42.680><c> of</c><00:01:42.880><c> e</c><00:01:43.119><c> to</c><00:01:43.479><c> X</c><00:01:44.200><c> which</c><00:01:44.439><c> came</c><00:01:44.680><c> from</c><00:01:44.840><c> the</c>
+
+00:01:44.950 --> 00:01:44.960 align:start position:0%
+cosine of e to X which came from the
+ 
+
+00:01:44.960 --> 00:01:47.749 align:start position:0%
+cosine of e to X which came from the
+derivative<00:01:45.399><c> of</c><00:01:45.560><c> s</c><00:01:46.479><c> the</c><00:01:46.680><c> denominator</c><00:01:47.439><c> comes</c>
+
+00:01:47.749 --> 00:01:47.759 align:start position:0%
+derivative of s the denominator comes
+ 
+
+00:01:47.759 --> 00:01:50.950 align:start position:0%
+derivative of s the denominator comes
+from<00:01:47.960><c> the</c><00:01:48.159><c> derivative</c><00:01:49.079><c> formula</c><00:01:49.759><c> of</c><00:01:50.119><c> inverse</c>
+
+00:01:50.950 --> 00:01:50.960 align:start position:0%
+from the derivative formula of inverse
+ 
+
+00:01:50.960 --> 00:01:53.709 align:start position:0%
+from the derivative formula of inverse
+tangent<00:01:51.960><c> this</c><00:01:52.079><c> is</c><00:01:52.360><c> exactly</c><00:01:52.880><c> what</c><00:01:53.040><c> we'd</c><00:01:53.320><c> expect</c>
+
+00:01:53.709 --> 00:01:53.719 align:start position:0%
+tangent this is exactly what we'd expect
+ 
+
+00:01:53.719 --> 00:01:56.069 align:start position:0%
+tangent this is exactly what we'd expect
+from<00:01:54.040><c> applying</c><00:01:54.479><c> the</c><00:01:54.640><c> chain</c><00:01:55.000><c> rule</c><00:01:55.640><c> to</c><00:01:55.880><c> our</c>
+
+00:01:56.069 --> 00:01:56.079 align:start position:0%
+from applying the chain rule to our
+ 
+
+00:01:56.079 --> 00:01:59.560 align:start position:0%
+from applying the chain rule to our
+nested<00:01:56.560><c> functions</c>
+

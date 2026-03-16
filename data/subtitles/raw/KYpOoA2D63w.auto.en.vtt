@@ -1,0 +1,600 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.720 --> 00:00:09.430 align:start position:0%
+ 
+[Music]
+
+00:00:09.430 --> 00:00:09.440 align:start position:0%
+ 
+ 
+
+00:00:09.440 --> 00:00:11.430 align:start position:0%
+ 
+recall<00:00:09.840><c> that</c><00:00:10.000><c> the</c><00:00:10.080><c> binomial</c><00:00:10.639><c> coefficient</c><00:00:11.280><c> n</c>
+
+00:00:11.430 --> 00:00:11.440 align:start position:0%
+recall that the binomial coefficient n
+ 
+
+00:00:11.440 --> 00:00:13.270 align:start position:0%
+recall that the binomial coefficient n
+choose<00:00:11.759><c> a</c><00:00:12.000><c> represents</c><00:00:12.480><c> the</c><00:00:12.639><c> number</c><00:00:12.880><c> of</c><00:00:13.040><c> ways</c>
+
+00:00:13.270 --> 00:00:13.280 align:start position:0%
+choose a represents the number of ways
+ 
+
+00:00:13.280 --> 00:00:15.350 align:start position:0%
+choose a represents the number of ways
+of<00:00:13.440><c> selecting</c><00:00:13.920><c> a</c><00:00:14.160><c> unordered</c><00:00:14.639><c> objects</c><00:00:15.120><c> from</c><00:00:15.280><c> a</c>
+
+00:00:15.350 --> 00:00:15.360 align:start position:0%
+of selecting a unordered objects from a
+ 
+
+00:00:15.360 --> 00:00:17.910 align:start position:0%
+of selecting a unordered objects from a
+set<00:00:15.519><c> of</c><00:00:15.679><c> size</c><00:00:16.000><c> n</c>
+
+00:00:17.910 --> 00:00:17.920 align:start position:0%
+set of size n
+ 
+
+00:00:17.920 --> 00:00:19.670 align:start position:0%
+set of size n
+consider<00:00:18.400><c> the</c><00:00:18.560><c> lattice</c><00:00:18.960><c> of</c><00:00:19.119><c> points</c><00:00:19.439><c> in</c><00:00:19.520><c> the</c>
+
+00:00:19.670 --> 00:00:19.680 align:start position:0%
+consider the lattice of points in the
+ 
+
+00:00:19.680 --> 00:00:21.109 align:start position:0%
+consider the lattice of points in the
+plane<00:00:19.920><c> with</c><00:00:20.080><c> non-negative</c><00:00:20.720><c> integer</c>
+
+00:00:21.109 --> 00:00:21.119 align:start position:0%
+plane with non-negative integer
+ 
+
+00:00:21.119 --> 00:00:23.349 align:start position:0%
+plane with non-negative integer
+coordinates<00:00:22.000><c> let's</c><00:00:22.240><c> label</c><00:00:22.560><c> the</c><00:00:22.720><c> origin</c><00:00:23.199><c> and</c>
+
+00:00:23.349 --> 00:00:23.359 align:start position:0%
+coordinates let's label the origin and
+ 
+
+00:00:23.359 --> 00:00:25.109 align:start position:0%
+coordinates let's label the origin and
+the<00:00:23.439><c> point</c><00:00:23.760><c> a</c><00:00:24.000><c> b</c>
+
+00:00:25.109 --> 00:00:25.119 align:start position:0%
+the point a b
+ 
+
+00:00:25.119 --> 00:00:27.269 align:start position:0%
+the point a b
+how<00:00:25.279><c> many</c><00:00:25.599><c> northeast</c><00:00:26.240><c> lattice</c><00:00:26.640><c> paths</c><00:00:27.119><c> are</c>
+
+00:00:27.269 --> 00:00:27.279 align:start position:0%
+how many northeast lattice paths are
+ 
+
+00:00:27.279 --> 00:00:30.070 align:start position:0%
+how many northeast lattice paths are
+there<00:00:27.439><c> from</c><00:00:27.680><c> 0</c><00:00:28.000><c> 0</c><00:00:28.240><c> to</c><00:00:28.400><c> a</c><00:00:28.560><c> b</c><00:00:29.119><c> where</c><00:00:29.359><c> a</c><00:00:29.439><c> northeast</c>
+
+00:00:30.070 --> 00:00:30.080 align:start position:0%
+there from 0 0 to a b where a northeast
+ 
+
+00:00:30.080 --> 00:00:31.990 align:start position:0%
+there from 0 0 to a b where a northeast
+path<00:00:30.480><c> is</c><00:00:30.560><c> one</c><00:00:30.800><c> that</c><00:00:30.960><c> only</c><00:00:31.199><c> allows</c><00:00:31.599><c> steps</c>
+
+00:00:31.990 --> 00:00:32.000 align:start position:0%
+path is one that only allows steps
+ 
+
+00:00:32.000 --> 00:00:34.310 align:start position:0%
+path is one that only allows steps
+directly<00:00:32.480><c> right</c><00:00:32.719><c> or</c><00:00:32.960><c> up</c>
+
+00:00:34.310 --> 00:00:34.320 align:start position:0%
+directly right or up
+ 
+
+00:00:34.320 --> 00:00:36.709 align:start position:0%
+directly right or up
+let's<00:00:34.559><c> enumerate</c><00:00:35.040><c> them</c><00:00:35.200><c> for</c><00:00:35.440><c> a</c><00:00:35.600><c> equals</c><00:00:36.000><c> 2</c><00:00:36.559><c> and</c>
+
+00:00:36.709 --> 00:00:36.719 align:start position:0%
+let's enumerate them for a equals 2 and
+ 
+
+00:00:36.719 --> 00:00:41.350 align:start position:0%
+let's enumerate them for a equals 2 and
+b<00:00:36.960><c> equals</c><00:00:37.360><c> 3.</c>
+
+00:00:41.350 --> 00:00:41.360 align:start position:0%
+ 
+ 
+
+00:00:41.360 --> 00:00:43.990 align:start position:0%
+ 
+as<00:00:41.600><c> we</c><00:00:41.840><c> build</c><00:00:42.160><c> all</c><00:00:42.320><c> the</c><00:00:42.559><c> paths</c><00:00:43.360><c> we</c><00:00:43.520><c> realize</c>
+
+00:00:43.990 --> 00:00:44.000 align:start position:0%
+as we build all the paths we realize
+ 
+
+00:00:44.000 --> 00:00:45.910 align:start position:0%
+as we build all the paths we realize
+that<00:00:44.160><c> each</c><00:00:44.480><c> path</c><00:00:44.800><c> has</c><00:00:45.039><c> the</c><00:00:45.200><c> same</c><00:00:45.440><c> number</c><00:00:45.760><c> of</c>
+
+00:00:45.910 --> 00:00:45.920 align:start position:0%
+that each path has the same number of
+ 
+
+00:00:45.920 --> 00:00:49.029 align:start position:0%
+that each path has the same number of
+steps<00:00:46.640><c> namely</c><00:00:47.120><c> a</c><00:00:47.360><c> plus</c><00:00:47.680><c> b</c>
+
+00:00:49.029 --> 00:00:49.039 align:start position:0%
+steps namely a plus b
+ 
+
+00:00:49.039 --> 00:00:51.270 align:start position:0%
+steps namely a plus b
+moreover<00:00:49.840><c> we</c><00:00:50.000><c> see</c><00:00:50.160><c> that</c><00:00:50.399><c> each</c><00:00:50.640><c> path</c><00:00:51.039><c> has</c>
+
+00:00:51.270 --> 00:00:51.280 align:start position:0%
+moreover we see that each path has
+ 
+
+00:00:51.280 --> 00:00:54.310 align:start position:0%
+moreover we see that each path has
+exactly<00:00:51.760><c> a</c><00:00:52.000><c> steps</c><00:00:52.320><c> to</c><00:00:52.399><c> the</c><00:00:52.559><c> right</c><00:00:53.120><c> and</c><00:00:53.360><c> b</c><00:00:53.680><c> steps</c>
+
+00:00:54.310 --> 00:00:54.320 align:start position:0%
+exactly a steps to the right and b steps
+ 
+
+00:00:54.320 --> 00:00:55.029 align:start position:0%
+exactly a steps to the right and b steps
+up
+
+00:00:55.029 --> 00:00:55.039 align:start position:0%
+up
+ 
+
+00:00:55.039 --> 00:00:57.510 align:start position:0%
+up
+so<00:00:55.199><c> we</c><00:00:55.440><c> only</c><00:00:55.680><c> need</c><00:00:55.840><c> to</c><00:00:56.000><c> keep</c><00:00:56.239><c> track</c><00:00:56.879><c> of</c><00:00:57.120><c> where</c>
+
+00:00:57.510 --> 00:00:57.520 align:start position:0%
+so we only need to keep track of where
+ 
+
+00:00:57.520 --> 00:01:00.490 align:start position:0%
+so we only need to keep track of where
+and<00:00:57.680><c> when</c><00:00:58.000><c> the</c><00:00:58.079><c> right</c><00:00:58.320><c> steps</c><00:00:58.719><c> occur</c>
+
+00:01:00.490 --> 00:01:00.500 align:start position:0%
+and when the right steps occur
+ 
+
+00:01:00.500 --> 00:01:02.549 align:start position:0%
+and when the right steps occur
+[Music]
+
+00:01:02.549 --> 00:01:02.559 align:start position:0%
+[Music]
+ 
+
+00:01:02.559 --> 00:01:05.030 align:start position:0%
+[Music]
+we<00:01:02.719><c> can</c><00:01:02.960><c> keep</c><00:01:03.280><c> track</c><00:01:03.680><c> of</c><00:01:03.840><c> these</c><00:01:04.159><c> steps</c><00:01:04.799><c> by</c>
+
+00:01:05.030 --> 00:01:05.040 align:start position:0%
+we can keep track of these steps by
+ 
+
+00:01:05.040 --> 00:01:07.590 align:start position:0%
+we can keep track of these steps by
+listing<00:01:05.439><c> off</c><00:01:05.600><c> the</c><00:01:05.760><c> order</c><00:01:06.080><c> of</c><00:01:06.159><c> the</c><00:01:06.320><c> steps</c>
+
+00:01:07.590 --> 00:01:07.600 align:start position:0%
+listing off the order of the steps
+ 
+
+00:01:07.600 --> 00:01:08.950 align:start position:0%
+listing off the order of the steps
+for<00:01:07.840><c> instance</c>
+
+00:01:08.950 --> 00:01:08.960 align:start position:0%
+for instance
+ 
+
+00:01:08.960 --> 00:01:12.310 align:start position:0%
+for instance
+the<00:01:09.119><c> first</c><00:01:09.520><c> path</c><00:01:10.000><c> is</c><00:01:10.240><c> r</c><00:01:10.560><c> r</c><00:01:10.799><c> u</c><00:01:11.040><c> u</c><00:01:11.360><c> u</c><00:01:11.920><c> because</c><00:01:12.159><c> the</c>
+
+00:01:12.310 --> 00:01:12.320 align:start position:0%
+the first path is r r u u u because the
+ 
+
+00:01:12.320 --> 00:01:14.630 align:start position:0%
+the first path is r r u u u because the
+right<00:01:12.479><c> steps</c><00:01:12.799><c> happen</c><00:01:13.200><c> first</c><00:01:13.920><c> and</c><00:01:14.080><c> the</c><00:01:14.240><c> last</c>
+
+00:01:14.630 --> 00:01:14.640 align:start position:0%
+right steps happen first and the last
+ 
+
+00:01:14.640 --> 00:01:18.070 align:start position:0%
+right steps happen first and the last
+path<00:01:15.280><c> is</c><00:01:15.520><c> u</c><00:01:15.759><c> u</c><00:01:16.080><c> u</c><00:01:16.640><c> r</c><00:01:16.960><c> r</c><00:01:17.280><c> because</c><00:01:17.520><c> the</c><00:01:17.680><c> two</c><00:01:17.920><c> right</c>
+
+00:01:18.070 --> 00:01:18.080 align:start position:0%
+path is u u u r r because the two right
+ 
+
+00:01:18.080 --> 00:01:21.590 align:start position:0%
+path is u u u r r because the two right
+steps<00:01:18.560><c> happen</c><00:01:18.880><c> at</c><00:01:19.040><c> the</c><00:01:19.200><c> end</c>
+
+00:01:21.590 --> 00:01:21.600 align:start position:0%
+ 
+ 
+
+00:01:21.600 --> 00:01:23.590 align:start position:0%
+ 
+a<00:01:21.759><c> consequence</c><00:01:22.320><c> of</c><00:01:22.400><c> this</c><00:01:22.640><c> encoding</c><00:01:23.360><c> is</c><00:01:23.520><c> that</c>
+
+00:01:23.590 --> 00:01:23.600 align:start position:0%
+a consequence of this encoding is that
+ 
+
+00:01:23.600 --> 00:01:26.149 align:start position:0%
+a consequence of this encoding is that
+the<00:01:23.759><c> north</c><00:01:24.159><c> east</c><00:01:24.640><c> lattice</c><00:01:25.040><c> paths</c><00:01:25.360><c> to</c><00:01:25.520><c> av</c>
+
+00:01:26.149 --> 00:01:26.159 align:start position:0%
+the north east lattice paths to av
+ 
+
+00:01:26.159 --> 00:01:28.630 align:start position:0%
+the north east lattice paths to av
+correspond<00:01:26.720><c> to</c><00:01:26.960><c> strings</c><00:01:27.439><c> of</c><00:01:27.680><c> r's</c><00:01:28.000><c> and</c><00:01:28.159><c> u's</c>
+
+00:01:28.630 --> 00:01:28.640 align:start position:0%
+correspond to strings of r's and u's
+ 
+
+00:01:28.640 --> 00:01:32.870 align:start position:0%
+correspond to strings of r's and u's
+with<00:01:28.880><c> ars</c><00:01:29.840><c> and</c><00:01:30.079><c> bu's</c>
+
+00:01:32.870 --> 00:01:32.880 align:start position:0%
+ 
+ 
+
+00:01:32.880 --> 00:01:35.749 align:start position:0%
+ 
+thus<00:01:33.600><c> such</c><00:01:33.920><c> a</c><00:01:34.079><c> lattice</c><00:01:34.479><c> path</c><00:01:35.040><c> corresponds</c><00:01:35.600><c> to</c>
+
+00:01:35.749 --> 00:01:35.759 align:start position:0%
+thus such a lattice path corresponds to
+ 
+
+00:01:35.759 --> 00:01:37.990 align:start position:0%
+thus such a lattice path corresponds to
+a<00:01:35.840><c> selection</c><00:01:36.320><c> of</c><00:01:36.479><c> a</c><00:01:36.799><c> unordered</c><00:01:37.280><c> positions</c>
+
+00:01:37.990 --> 00:01:38.000 align:start position:0%
+a selection of a unordered positions
+ 
+
+00:01:38.000 --> 00:01:40.550 align:start position:0%
+a selection of a unordered positions
+from<00:01:38.240><c> a</c><00:01:38.479><c> plus</c><00:01:38.720><c> b</c><00:01:38.960><c> spots</c><00:01:39.360><c> to</c><00:01:39.520><c> place</c><00:01:39.759><c> the</c><00:01:40.000><c> rs</c><00:01:40.479><c> and</c>
+
+00:01:40.550 --> 00:01:40.560 align:start position:0%
+from a plus b spots to place the rs and
+ 
+
+00:01:40.560 --> 00:01:43.270 align:start position:0%
+from a plus b spots to place the rs and
+the<00:01:40.720><c> u's</c><00:01:41.040><c> go</c><00:01:41.280><c> in</c><00:01:41.360><c> the</c><00:01:41.520><c> other</c><00:01:41.759><c> spots</c>
+
+00:01:43.270 --> 00:01:43.280 align:start position:0%
+the u's go in the other spots
+ 
+
+00:01:43.280 --> 00:01:46.710 align:start position:0%
+the u's go in the other spots
+hence<00:01:44.079><c> northeast</c><00:01:44.880><c> lattice</c><00:01:45.280><c> paths</c><00:01:45.680><c> to</c><00:01:45.840><c> a</c><00:01:46.000><c> b</c><00:01:46.560><c> are</c>
+
+00:01:46.710 --> 00:01:46.720 align:start position:0%
+hence northeast lattice paths to a b are
+ 
+
+00:01:46.720 --> 00:01:48.550 align:start position:0%
+hence northeast lattice paths to a b are
+counted<00:01:47.040><c> by</c><00:01:47.200><c> the</c><00:01:47.280><c> binomial</c><00:01:47.759><c> coefficient</c><00:01:48.399><c> a</c>
+
+00:01:48.550 --> 00:01:48.560 align:start position:0%
+counted by the binomial coefficient a
+ 
+
+00:01:48.560 --> 00:01:52.469 align:start position:0%
+counted by the binomial coefficient a
+plus<00:01:48.799><c> b</c><00:01:49.119><c> choose</c><00:01:49.439><c> a</c>
+
+00:01:52.469 --> 00:01:52.479 align:start position:0%
+ 
+ 
+
+00:01:52.479 --> 00:01:55.270 align:start position:0%
+ 
+returning<00:01:53.280><c> to</c><00:01:53.439><c> our</c><00:01:53.600><c> lattice</c><00:01:54.000><c> paths</c>
+
+00:01:55.270 --> 00:01:55.280 align:start position:0%
+returning to our lattice paths
+ 
+
+00:01:55.280 --> 00:01:57.910 align:start position:0%
+returning to our lattice paths
+we<00:01:55.520><c> see</c><00:01:56.159><c> that</c><00:01:56.320><c> we</c><00:01:56.479><c> can</c><00:01:56.719><c> group</c><00:01:57.040><c> them</c><00:01:57.439><c> by</c><00:01:57.600><c> their</c>
+
+00:01:57.910 --> 00:01:57.920 align:start position:0%
+we see that we can group them by their
+ 
+
+00:01:57.920 --> 00:01:59.190 align:start position:0%
+we see that we can group them by their
+final<00:01:58.320><c> step</c>
+
+00:01:59.190 --> 00:01:59.200 align:start position:0%
+final step
+ 
+
+00:01:59.200 --> 00:02:01.429 align:start position:0%
+final step
+so<00:01:59.439><c> in</c><00:01:59.680><c> our</c><00:01:59.920><c> example</c>
+
+00:02:01.429 --> 00:02:01.439 align:start position:0%
+so in our example
+ 
+
+00:02:01.439 --> 00:02:04.230 align:start position:0%
+so in our example
+four<00:02:01.840><c> end</c><00:02:02.079><c> with</c><00:02:02.159><c> a</c><00:02:02.320><c> right</c><00:02:02.560><c> step</c><00:02:03.040><c> and</c><00:02:03.360><c> six</c><00:02:03.840><c> end</c>
+
+00:02:04.230 --> 00:02:04.240 align:start position:0%
+four end with a right step and six end
+ 
+
+00:02:04.240 --> 00:02:06.950 align:start position:0%
+four end with a right step and six end
+with<00:02:04.479><c> an</c><00:02:04.640><c> up</c><00:02:04.799><c> step</c>
+
+00:02:06.950 --> 00:02:06.960 align:start position:0%
+with an up step
+ 
+
+00:02:06.960 --> 00:02:09.430 align:start position:0%
+with an up step
+notice<00:02:07.280><c> that</c><00:02:07.520><c> all</c><00:02:07.600><c> the</c><00:02:07.840><c> paths</c><00:02:08.239><c> ending</c><00:02:08.560><c> in</c><00:02:08.800><c> r</c>
+
+00:02:09.430 --> 00:02:09.440 align:start position:0%
+notice that all the paths ending in r
+ 
+
+00:02:09.440 --> 00:02:11.270 align:start position:0%
+notice that all the paths ending in r
+must<00:02:09.759><c> first</c><00:02:10.160><c> pass</c><00:02:10.479><c> through</c><00:02:10.640><c> the</c><00:02:10.800><c> point</c><00:02:11.120><c> a</c>
+
+00:02:11.270 --> 00:02:11.280 align:start position:0%
+must first pass through the point a
+ 
+
+00:02:11.280 --> 00:02:15.020 align:start position:0%
+must first pass through the point a
+minus<00:02:11.680><c> one</c><00:02:11.920><c> comma</c><00:02:12.319><c> b</c>
+
+00:02:15.020 --> 00:02:15.030 align:start position:0%
+ 
+ 
+
+00:02:15.030 --> 00:02:18.790 align:start position:0%
+ 
+[Music]
+
+00:02:18.790 --> 00:02:18.800 align:start position:0%
+[Music]
+ 
+
+00:02:18.800 --> 00:02:21.350 align:start position:0%
+[Music]
+similarly<00:02:19.599><c> all</c><00:02:19.760><c> the</c><00:02:20.000><c> paths</c><00:02:20.480><c> ending</c><00:02:20.879><c> in</c><00:02:21.040><c> an</c><00:02:21.200><c> up</c>
+
+00:02:21.350 --> 00:02:21.360 align:start position:0%
+similarly all the paths ending in an up
+ 
+
+00:02:21.360 --> 00:02:23.750 align:start position:0%
+similarly all the paths ending in an up
+step<00:02:21.680><c> u</c><00:02:22.319><c> must</c><00:02:22.640><c> first</c><00:02:22.959><c> pass</c><00:02:23.200><c> through</c><00:02:23.360><c> the</c><00:02:23.440><c> point</c>
+
+00:02:23.750 --> 00:02:23.760 align:start position:0%
+step u must first pass through the point
+ 
+
+00:02:23.760 --> 00:02:26.850 align:start position:0%
+step u must first pass through the point
+a<00:02:24.080><c> comma</c><00:02:24.400><c> b</c><00:02:24.560><c> minus</c><00:02:24.959><c> one</c>
+
+00:02:26.850 --> 00:02:26.860 align:start position:0%
+a comma b minus one
+ 
+
+00:02:26.860 --> 00:02:31.750 align:start position:0%
+a comma b minus one
+[Music]
+
+00:02:31.750 --> 00:02:31.760 align:start position:0%
+[Music]
+ 
+
+00:02:31.760 --> 00:02:34.390 align:start position:0%
+[Music]
+these<00:02:32.239><c> two</c><00:02:32.560><c> collections</c><00:02:33.120><c> of</c><00:02:33.360><c> paths</c><00:02:34.160><c> are</c>
+
+00:02:34.390 --> 00:02:34.400 align:start position:0%
+these two collections of paths are
+ 
+
+00:02:34.400 --> 00:02:37.110 align:start position:0%
+these two collections of paths are
+clearly<00:02:34.840><c> disjoint</c><00:02:35.840><c> and</c><00:02:36.000><c> make</c><00:02:36.239><c> up</c><00:02:36.560><c> all</c><00:02:36.800><c> of</c><00:02:36.879><c> the</c>
+
+00:02:37.110 --> 00:02:37.120 align:start position:0%
+clearly disjoint and make up all of the
+ 
+
+00:02:37.120 --> 00:02:39.830 align:start position:0%
+clearly disjoint and make up all of the
+possible<00:02:37.680><c> northeast</c><00:02:38.560><c> lattice</c><00:02:38.959><c> paths</c><00:02:39.519><c> to</c><00:02:39.680><c> the</c>
+
+00:02:39.830 --> 00:02:39.840 align:start position:0%
+possible northeast lattice paths to the
+ 
+
+00:02:39.840 --> 00:02:41.990 align:start position:0%
+possible northeast lattice paths to the
+point<00:02:40.160><c> a</c><00:02:40.480><c> b</c>
+
+00:02:41.990 --> 00:02:42.000 align:start position:0%
+point a b
+ 
+
+00:02:42.000 --> 00:02:43.589 align:start position:0%
+point a b
+thus
+
+00:02:43.589 --> 00:02:43.599 align:start position:0%
+thus
+ 
+
+00:02:43.599 --> 00:02:46.550 align:start position:0%
+thus
+a<00:02:43.920><c> plus</c><00:02:44.239><c> b</c><00:02:44.560><c> choose</c><00:02:44.879><c> a</c>
+
+00:02:46.550 --> 00:02:46.560 align:start position:0%
+a plus b choose a
+ 
+
+00:02:46.560 --> 00:02:49.509 align:start position:0%
+a plus b choose a
+is<00:02:46.800><c> equal</c><00:02:47.280><c> to</c><00:02:47.519><c> a</c><00:02:47.760><c> minus</c><00:02:48.160><c> 1</c><00:02:48.400><c> plus</c><00:02:48.640><c> b</c><00:02:49.040><c> choose</c><00:02:49.360><c> a</c>
+
+00:02:49.509 --> 00:02:49.519 align:start position:0%
+is equal to a minus 1 plus b choose a
+ 
+
+00:02:49.519 --> 00:02:51.670 align:start position:0%
+is equal to a minus 1 plus b choose a
+minus<00:02:49.920><c> 1</c><00:02:50.239><c> which</c><00:02:50.480><c> is</c><00:02:50.560><c> the</c><00:02:50.800><c> number</c><00:02:51.040><c> of</c><00:02:51.280><c> lattice</c>
+
+00:02:51.670 --> 00:02:51.680 align:start position:0%
+minus 1 which is the number of lattice
+ 
+
+00:02:51.680 --> 00:02:53.990 align:start position:0%
+minus 1 which is the number of lattice
+paths<00:02:52.160><c> to</c><00:02:52.319><c> a</c><00:02:52.480><c> minus</c><00:02:52.720><c> 1</c><00:02:52.959><c> comma</c><00:02:53.280><c> b</c>
+
+00:02:53.990 --> 00:02:54.000 align:start position:0%
+paths to a minus 1 comma b
+ 
+
+00:02:54.000 --> 00:02:55.190 align:start position:0%
+paths to a minus 1 comma b
+plus
+
+00:02:55.190 --> 00:02:55.200 align:start position:0%
+plus
+ 
+
+00:02:55.200 --> 00:02:57.430 align:start position:0%
+plus
+the<00:02:55.360><c> binomial</c><00:02:55.840><c> coefficient</c><00:02:56.480><c> a</c><00:02:56.720><c> plus</c><00:02:56.959><c> b</c><00:02:57.120><c> minus</c>
+
+00:02:57.430 --> 00:02:57.440 align:start position:0%
+the binomial coefficient a plus b minus
+ 
+
+00:02:57.440 --> 00:02:59.270 align:start position:0%
+the binomial coefficient a plus b minus
+1<00:02:57.680><c> choose</c><00:02:58.080><c> a</c><00:02:58.480><c> which</c><00:02:58.720><c> is</c><00:02:58.800><c> the</c><00:02:58.879><c> number</c><00:02:59.120><c> of</c>
+
+00:02:59.270 --> 00:02:59.280 align:start position:0%
+1 choose a which is the number of
+ 
+
+00:02:59.280 --> 00:03:03.030 align:start position:0%
+1 choose a which is the number of
+lattice<00:02:59.599><c> paths</c><00:03:00.080><c> to</c><00:03:00.239><c> a</c><00:03:00.480><c> comma</c><00:03:00.720><c> b</c><00:03:00.879><c> minus</c><00:03:01.200><c> 1.</c>
+
+00:03:03.030 --> 00:03:03.040 align:start position:0%
+lattice paths to a comma b minus 1.
+ 
+
+00:03:03.040 --> 00:03:05.509 align:start position:0%
+lattice paths to a comma b minus 1.
+replacing<00:03:03.760><c> a</c><00:03:03.920><c> plus</c><00:03:04.159><c> b</c><00:03:04.400><c> by</c><00:03:04.720><c> n</c>
+
+00:03:05.509 --> 00:03:05.519 align:start position:0%
+replacing a plus b by n
+ 
+
+00:03:05.519 --> 00:03:08.229 align:start position:0%
+replacing a plus b by n
+results<00:03:05.920><c> in</c><00:03:06.080><c> n</c><00:03:06.319><c> choose</c><00:03:06.640><c> a</c><00:03:07.120><c> equals</c><00:03:07.440><c> n</c><00:03:07.599><c> minus</c><00:03:07.920><c> 1</c>
+
+00:03:08.229 --> 00:03:08.239 align:start position:0%
+results in n choose a equals n minus 1
+ 
+
+00:03:08.239 --> 00:03:11.270 align:start position:0%
+results in n choose a equals n minus 1
+choose<00:03:08.480><c> a</c><00:03:08.560><c> minus</c><00:03:08.879><c> 1</c><00:03:09.360><c> plus</c><00:03:09.599><c> n</c><00:03:09.760><c> minus</c><00:03:10.080><c> 1</c><00:03:10.319><c> choose</c><00:03:10.640><c> a</c>
+
+00:03:11.270 --> 00:03:11.280 align:start position:0%
+choose a minus 1 plus n minus 1 choose a
+ 
+
+00:03:11.280 --> 00:03:14.120 align:start position:0%
+choose a minus 1 plus n minus 1 choose a
+this<00:03:11.440><c> is</c><00:03:11.599><c> the</c><00:03:11.680><c> binomial</c><00:03:12.319><c> recurrence</c>
+
+00:03:14.120 --> 00:03:14.130 align:start position:0%
+this is the binomial recurrence
+ 
+
+00:03:14.130 --> 00:03:25.990 align:start position:0%
+this is the binomial recurrence
+[Music]
+
+00:03:25.990 --> 00:03:26.000 align:start position:0%
+ 
+ 
+
+00:03:26.000 --> 00:03:28.080 align:start position:0%
+ 
+you
+

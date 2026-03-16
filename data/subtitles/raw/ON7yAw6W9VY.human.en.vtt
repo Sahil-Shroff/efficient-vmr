@@ -1,0 +1,196 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+1
+00:00:00.420 --> 00:00:02.257
+Here I have the example,
+
+2
+00:00:02.257 --> 00:00:04.230
+"If I'm skilled at poker,
+
+3
+00:00:04.230 --> 00:00:06.387
+then I'm gonna win a bunch of money."
+
+4
+00:00:07.440 --> 00:00:08.760
+So go to the casino,
+
+5
+00:00:08.760 --> 00:00:11.820
+I won a bunch of money playing poker
+
+6
+00:00:11.820 --> 00:00:14.190
+and I am tempted to conclude
+
+7
+00:00:14.190 --> 00:00:16.830
+that therefore, I am skilled at poker.
+
+8
+00:00:16.830 --> 00:00:20.220
+Okay, so lots of people might actually believe this,
+
+9
+00:00:20.220 --> 00:00:21.750
+this would be a very reasonable
+
+10
+00:00:21.750 --> 00:00:23.610
+fallacy that a lot of people would make.
+
+11
+00:00:23.610 --> 00:00:27.180
+Let's try to analyze it and I claim this is not true.
+
+12
+00:00:27.180 --> 00:00:30.390
+And the Liz idea is that just 'cause I won
+
+13
+00:00:30.390 --> 00:00:32.070
+a bunch of money, I might've just gotten lucky,
+
+14
+00:00:32.070 --> 00:00:35.130
+I might be terrible at poker, but I got really lucky.
+
+15
+00:00:35.130 --> 00:00:37.290
+So I cannot claim
+
+16
+00:00:37.290 --> 00:00:40.803
+that I am skilled at poker from this argument.
+
+17
+00:00:41.790 --> 00:00:44.070
+So let's try to analyze the structure of this argument.
+
+18
+00:00:44.070 --> 00:00:46.980
+First I have, if I'm skilled at poker,
+
+19
+00:00:46.980 --> 00:00:49.290
+I'm gonna give that a P,
+
+20
+00:00:49.290 --> 00:00:52.923
+then I will win money, I'm gonna give that as a Q.
+
+21
+00:00:54.090 --> 00:00:56.910
+So that was my first premise, if P, then Q.
+
+22
+00:00:56.910 --> 00:01:01.910
+So I'll write this as P implies Q, that is my first premise.
+
+23
+00:01:02.220 --> 00:01:06.270
+Next up I say, I won money playing poker.
+
+24
+00:01:06.270 --> 00:01:08.493
+So this is asserting Q.
+
+25
+00:01:10.500 --> 00:01:13.260
+And then what we're saying is P implies Q
+
+26
+00:01:13.260 --> 00:01:14.730
+and I'm gonna copy it over here
+
+27
+00:01:14.730 --> 00:01:16.410
+so that we have it all in place.
+
+28
+00:01:16.410 --> 00:01:18.660
+P implies Q.
+
+29
+00:01:18.660 --> 00:01:21.600
+Then you assume the conclusion
+
+30
+00:01:21.600 --> 00:01:24.213
+and you're going to get, I'm skilled at poker.
+
+31
+00:01:25.740 --> 00:01:29.820
+So the logical form that you have here is P implies Q,
+
+32
+00:01:29.820 --> 00:01:32.940
+then Q, and then you get out P.
+
+33
+00:01:32.940 --> 00:01:35.370
+But that wasn't modus pos, that wasn't modus tones,
+
+34
+00:01:35.370 --> 00:01:36.870
+it was none of these.
+
+35
+00:01:36.870 --> 00:01:37.860
+And the problem here
+
+36
+00:01:37.860 --> 00:01:40.762
+is that you're kind of arguing by the converse.
+
+37
+00:01:40.762 --> 00:01:45.510
+It's Q implies P would be the converse of the statement,
+
+38
+00:01:45.510 --> 00:01:46.710
+not P implies Q.
+
+39
+00:01:46.710 --> 00:01:48.930
+If you had Q implies P here,
+
+40
+00:01:48.930 --> 00:01:50.820
+then you could icdate Q and get P,
+
+41
+00:01:50.820 --> 00:01:52.440
+but not the other way around.
+
+42
+00:01:52.440 --> 00:01:54.900
+So this is trying to use
+
+43
+00:01:54.900 --> 00:01:58.200
+the converse of the statement and we know that a converse
+
+44
+00:01:58.200 --> 00:02:01.410
+is not logically equivalent to the original statement.
+
+45
+00:02:01.410 --> 00:02:04.470
+So this argument does not work.
+
+46
+00:02:04.470 --> 00:02:06.780
+So this argument does not work
+
+47
+00:02:06.780 --> 00:02:09.990
+and we are going to say that it is invalid,
+
+48
+00:02:09.990 --> 00:02:12.933
+I disagree with this logical structure.
+

@@ -1,0 +1,144 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.120 --> 00:00:02.350 align:start position:0%
+ 
+the<00:00:00.240><c> N</c><00:00:00.640><c> plus</c><00:00:00.880><c> first</c><00:00:01.199><c> triangular</c><00:00:01.800><c> number</c><00:00:02.080><c> t</c>
+
+00:00:02.350 --> 00:00:02.360 align:start position:0%
+the N plus first triangular number t
+ 
+
+00:00:02.360 --> 00:00:05.349 align:start position:0%
+the N plus first triangular number t
+subn<00:00:02.800><c> +</c><00:00:03.040><c> 1</c><00:00:03.439><c> can</c><00:00:03.560><c> be</c><00:00:03.760><c> represented</c><00:00:04.319><c> by</c><00:00:04.480><c> an</c><00:00:04.600><c> n</c><00:00:04.880><c> +</c><00:00:05.120><c> 1</c>
+
+00:00:05.349 --> 00:00:05.359 align:start position:0%
+subn + 1 can be represented by an n + 1
+ 
+
+00:00:05.359 --> 00:00:08.310 align:start position:0%
+subn + 1 can be represented by an n + 1
+by<00:00:05.480><c> n</c><00:00:05.720><c> +1</c><00:00:06.200><c> triangular</c><00:00:06.759><c> array</c><00:00:07.040><c> of</c><00:00:07.200><c> unit</c><00:00:07.520><c> cubes</c>
+
+00:00:08.310 --> 00:00:08.320 align:start position:0%
+by n +1 triangular array of unit cubes
+ 
+
+00:00:08.320 --> 00:00:10.549 align:start position:0%
+by n +1 triangular array of unit cubes
+if<00:00:08.440><c> we</c><00:00:08.639><c> place</c><00:00:08.920><c> n</c><00:00:09.240><c> such</c><00:00:09.519><c> triangular</c><00:00:10.000><c> Rays</c><00:00:10.320><c> side</c>
+
+00:00:10.549 --> 00:00:10.559 align:start position:0%
+if we place n such triangular Rays side
+ 
+
+00:00:10.559 --> 00:00:12.990 align:start position:0%
+if we place n such triangular Rays side
+by<00:00:10.840><c> side</c><00:00:11.160><c> we</c><00:00:11.280><c> end</c><00:00:11.440><c> up</c><00:00:11.559><c> with</c><00:00:11.679><c> an</c><00:00:11.840><c> N</c><00:00:12.160><c> by</c><00:00:12.320><c> T</c><00:00:12.559><c> sub</c><00:00:12.759><c> n</c>
+
+00:00:12.990 --> 00:00:13.000 align:start position:0%
+by side we end up with an N by T sub n
+ 
+
+00:00:13.000 --> 00:00:15.990 align:start position:0%
+by side we end up with an N by T sub n
++1<00:00:13.559><c> triangular</c><00:00:14.120><c> staircase</c><00:00:14.759><c> diagram</c><00:00:15.639><c> when</c><00:00:15.799><c> we</c>
+
+00:00:15.990 --> 00:00:16.000 align:start position:0%
++1 triangular staircase diagram when we
+ 
+
+00:00:16.000 --> 00:00:18.590 align:start position:0%
++1 triangular staircase diagram when we
+removed<00:00:16.400><c> the</c><00:00:16.560><c> back</c><00:00:16.840><c> n</c><00:00:17.119><c> by</c><00:00:17.279><c> n</c><00:00:17.439><c> +1</c><00:00:17.920><c> rectangle</c>
+
+00:00:18.590 --> 00:00:18.600 align:start position:0%
+removed the back n by n +1 rectangle
+ 
+
+00:00:18.600 --> 00:00:21.550 align:start position:0%
+removed the back n by n +1 rectangle
+we're<00:00:18.840><c> left</c><00:00:19.080><c> with</c><00:00:19.199><c> an</c><00:00:19.439><c> N</c><00:00:19.840><c> by</c><00:00:20.039><c> T</c><00:00:20.359><c> subn</c><00:00:20.960><c> staircase</c>
+
+00:00:21.550 --> 00:00:21.560 align:start position:0%
+we're left with an N by T subn staircase
+ 
+
+00:00:21.560 --> 00:00:23.790 align:start position:0%
+we're left with an N by T subn staircase
+diagram<00:00:22.240><c> and</c><00:00:22.400><c> we</c><00:00:22.519><c> can</c><00:00:22.720><c> decompose</c><00:00:23.320><c> the</c><00:00:23.439><c> N</c><00:00:23.640><c> by</c>
+
+00:00:23.790 --> 00:00:23.800 align:start position:0%
+diagram and we can decompose the N by
+ 
+
+00:00:23.800 --> 00:00:26.470 align:start position:0%
+diagram and we can decompose the N by
+n+1<00:00:24.400><c> rectangle</c><00:00:24.960><c> into</c><00:00:25.279><c> two</c><00:00:25.519><c> more</c><00:00:25.840><c> n</c><00:00:26.080><c> byn</c>
+
+00:00:26.470 --> 00:00:26.480 align:start position:0%
+n+1 rectangle into two more n byn
+ 
+
+00:00:26.480 --> 00:00:28.630 align:start position:0%
+n+1 rectangle into two more n byn
+triangular<00:00:27.039><c> arrays</c><00:00:27.880><c> we</c><00:00:28.039><c> place</c><00:00:28.320><c> these</c><00:00:28.480><c> two</c>
+
+00:00:28.630 --> 00:00:28.640 align:start position:0%
+triangular arrays we place these two
+ 
+
+00:00:28.640 --> 00:00:30.349 align:start position:0%
+triangular arrays we place these two
+arrays<00:00:29.000><c> next</c><00:00:29.160><c> to</c><00:00:29.279><c> the</c><00:00:29.480><c> remaining</c><00:00:29.679><c> St</c><00:00:29.960><c> St</c><00:00:30.160><c> case</c>
+
+00:00:30.349 --> 00:00:30.359 align:start position:0%
+arrays next to the remaining St St case
+ 
+
+00:00:30.359 --> 00:00:33.549 align:start position:0%
+arrays next to the remaining St St case
+diagram<00:00:30.880><c> to</c><00:00:31.080><c> produce</c><00:00:31.359><c> an</c><00:00:31.599><c> n</c><00:00:31.840><c> +</c><00:00:32.119><c> 2</c><00:00:32.439><c> by</c><00:00:32.640><c> T</c><00:00:32.920><c> subn</c>
+
+00:00:33.549 --> 00:00:33.559 align:start position:0%
+diagram to produce an n + 2 by T subn
+ 
+
+00:00:33.559 --> 00:00:36.069 align:start position:0%
+diagram to produce an n + 2 by T subn
+staircase<00:00:34.120><c> diagram</c><00:00:34.800><c> this</c><00:00:34.920><c> means</c><00:00:35.200><c> that</c><00:00:35.360><c> n</c><00:00:35.559><c> *</c><00:00:35.879><c> t</c>
+
+00:00:36.069 --> 00:00:36.079 align:start position:0%
+staircase diagram this means that n * t
+ 
+
+00:00:36.079 --> 00:00:39.869 align:start position:0%
+staircase diagram this means that n * t
+subn<00:00:36.480><c> +</c><00:00:36.760><c> 1</c><00:00:37.120><c> is</c><00:00:37.239><c> equal</c><00:00:37.440><c> to</c><00:00:37.600><c> n</c><00:00:37.800><c> +</c><00:00:38.079><c> 2</c><00:00:38.320><c> *</c><00:00:38.640><c> T</c><00:00:38.840><c> subn</c><00:00:39.640><c> from</c>
+
+00:00:39.869 --> 00:00:39.879 align:start position:0%
+subn + 1 is equal to n + 2 * T subn from
+ 
+
+00:00:39.879 --> 00:00:41.270 align:start position:0%
+subn + 1 is equal to n + 2 * T subn from
+this<00:00:40.039><c> we</c><00:00:40.160><c> can</c><00:00:40.320><c> conclude</c><00:00:40.680><c> the</c><00:00:40.800><c> recursive</c>
+
+00:00:41.270 --> 00:00:41.280 align:start position:0%
+this we can conclude the recursive
+ 
+
+00:00:41.280 --> 00:00:45.510 align:start position:0%
+this we can conclude the recursive
+formula<00:00:41.760><c> that</c><00:00:41.879><c> t</c><00:00:42.079><c> subn</c><00:00:42.440><c> +</c><00:00:42.680><c> 1</c><00:00:43.000><c> =</c><00:00:43.280><c> n</c><00:00:43.480><c> +</c><00:00:43.680><c> 2</c><00:00:44.000><c> /</c><00:00:44.520><c> n</c><00:00:44.840><c> *</c><00:00:45.200><c> t</c>
+
+00:00:45.510 --> 00:00:45.520 align:start position:0%
+formula that t subn + 1 = n + 2 / n * t
+ 
+
+00:00:45.520 --> 00:00:48.520 align:start position:0%
+formula that t subn + 1 = n + 2 / n * t
+subn
+

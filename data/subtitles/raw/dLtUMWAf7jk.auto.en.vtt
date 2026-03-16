@@ -1,0 +1,184 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.199 --> 00:00:03.389 align:start position:0%
+ 
+hey<00:00:00.399><c> guys</c><00:00:00.640><c> welcome</c><00:00:00.919><c> to</c><00:00:01.240><c> this</c><00:00:01.719><c> limit</c><00:00:02.440><c> problem</c>
+
+00:00:03.389 --> 00:00:03.399 align:start position:0%
+hey guys welcome to this limit problem
+ 
+
+00:00:03.399 --> 00:00:06.749 align:start position:0%
+hey guys welcome to this limit problem
+so<00:00:03.760><c> as</c><00:00:03.879><c> you</c><00:00:04.040><c> know</c><00:00:05.000><c> as</c><00:00:05.240><c> X</c><00:00:05.520><c> approaches</c><00:00:06.080><c> 3</c><00:00:06.600><c> we</c>
+
+00:00:06.749 --> 00:00:06.759 align:start position:0%
+so as you know as X approaches 3 we
+ 
+
+00:00:06.759 --> 00:00:08.589 align:start position:0%
+so as you know as X approaches 3 we
+ultimately<00:00:07.240><c> can</c><00:00:07.359><c> just</c><00:00:07.480><c> plug</c><00:00:07.680><c> in</c><00:00:07.799><c> a</c><00:00:08.000><c> 3</c><00:00:08.200><c> for</c><00:00:08.440><c> the</c>
+
+00:00:08.589 --> 00:00:08.599 align:start position:0%
+ultimately can just plug in a 3 for the
+ 
+
+00:00:08.599 --> 00:00:10.870 align:start position:0%
+ultimately can just plug in a 3 for the
+X<00:00:09.200><c> and</c><00:00:09.360><c> what</c><00:00:09.480><c> happens</c><00:00:09.760><c> when</c><00:00:09.880><c> we</c><00:00:10.000><c> do</c><00:00:10.200><c> that</c><00:00:10.400><c> is</c><00:00:10.559><c> we</c>
+
+00:00:10.870 --> 00:00:10.880 align:start position:0%
+X and what happens when we do that is we
+ 
+
+00:00:10.880 --> 00:00:17.670 align:start position:0%
+X and what happens when we do that is we
+get<00:00:11.880><c> 3</c><00:00:12.240><c> -</c><00:00:12.880><c> 3</c><00:00:13.880><c> over</c><00:00:14.360><c> 3^</c><00:00:14.799><c> 2</c><00:00:15.360><c> -</c><00:00:15.960><c> 9</c><00:00:16.960><c> and</c><00:00:17.119><c> this</c><00:00:17.240><c> ends</c><00:00:17.480><c> up</c>
+
+00:00:17.670 --> 00:00:17.680 align:start position:0%
+get 3 - 3 over 3^ 2 - 9 and this ends up
+ 
+
+00:00:17.680 --> 00:00:21.429 align:start position:0%
+get 3 - 3 over 3^ 2 - 9 and this ends up
+giving<00:00:17.960><c> us</c><00:00:18.279><c> 0</c><00:00:19.000><c> over</c><00:00:19.720><c> 0</c><00:00:20.720><c> so</c><00:00:20.920><c> anytime</c><00:00:21.199><c> you</c><00:00:21.279><c> have</c><00:00:21.400><c> a</c>
+
+00:00:21.429 --> 00:00:21.439 align:start position:0%
+giving us 0 over 0 so anytime you have a
+ 
+
+00:00:21.439 --> 00:00:23.029 align:start position:0%
+giving us 0 over 0 so anytime you have a
+0<00:00:21.720><c> over</c><00:00:21.880><c> 0</c><00:00:22.199><c> you</c><00:00:22.279><c> should</c><00:00:22.480><c> look</c><00:00:22.600><c> to</c><00:00:22.720><c> see</c><00:00:22.880><c> if</c>
+
+00:00:23.029 --> 00:00:23.039 align:start position:0%
+0 over 0 you should look to see if
+ 
+
+00:00:23.039 --> 00:00:26.269 align:start position:0%
+0 over 0 you should look to see if
+something<00:00:23.320><c> can</c><00:00:23.640><c> cancel</c><00:00:24.640><c> after</c><00:00:24.880><c> you</c><00:00:25.080><c> factor</c><00:00:26.039><c> so</c>
+
+00:00:26.269 --> 00:00:26.279 align:start position:0%
+something can cancel after you factor so
+ 
+
+00:00:26.279 --> 00:00:27.630 align:start position:0%
+something can cancel after you factor so
+this<00:00:26.439><c> is</c><00:00:26.640><c> actually</c><00:00:26.960><c> difference</c><00:00:27.240><c> of</c><00:00:27.400><c> two</c>
+
+00:00:27.630 --> 00:00:27.640 align:start position:0%
+this is actually difference of two
+ 
+
+00:00:27.640 --> 00:00:30.830 align:start position:0%
+this is actually difference of two
+squared<00:00:28.119><c> so</c><00:00:28.240><c> I'm</c><00:00:28.320><c> going</c><00:00:28.439><c> to</c><00:00:28.599><c> rewrite</c><00:00:29.000><c> this</c><00:00:29.400><c> as</c>
+
+00:00:30.830 --> 00:00:30.840 align:start position:0%
+squared so I'm going to rewrite this as
+ 
+
+00:00:30.840 --> 00:00:33.030 align:start position:0%
+squared so I'm going to rewrite this as
+the<00:00:31.039><c> limit</c><00:00:31.359><c> is</c><00:00:31.640><c> X</c><00:00:31.960><c> approaches</c>
+
+00:00:33.030 --> 00:00:33.040 align:start position:0%
+the limit is X approaches
+ 
+
+00:00:33.040 --> 00:00:38.190 align:start position:0%
+the limit is X approaches
+3<00:00:34.040><c> of</c><00:00:34.399><c> x</c><00:00:35.120><c> -</c><00:00:35.600><c> 3</c><00:00:36.320><c> over</c><00:00:37.239><c> and</c><00:00:37.360><c> I'm</c><00:00:37.480><c> going</c><00:00:37.559><c> to</c><00:00:37.719><c> factor</c>
+
+00:00:38.190 --> 00:00:38.200 align:start position:0%
+3 of x - 3 over and I'm going to factor
+ 
+
+00:00:38.200 --> 00:00:39.869 align:start position:0%
+3 of x - 3 over and I'm going to factor
+this<00:00:38.640><c> x</c><00:00:38.960><c> -</c>
+
+00:00:39.869 --> 00:00:39.879 align:start position:0%
+this x -
+ 
+
+00:00:39.879 --> 00:00:42.510 align:start position:0%
+this x -
+3<00:00:40.879><c> x</c><00:00:41.200><c> +</c>
+
+00:00:42.510 --> 00:00:42.520 align:start position:0%
+3 x +
+ 
+
+00:00:42.520 --> 00:00:47.670 align:start position:0%
+3 x +
+3<00:00:43.520><c> and</c><00:00:44.280><c> now</c><00:00:45.280><c> these</c><00:00:45.480><c> two</c><00:00:45.680><c> things</c><00:00:45.960><c> can</c><00:00:46.680><c> cancel</c>
+
+00:00:47.670 --> 00:00:47.680 align:start position:0%
+3 and now these two things can cancel
+ 
+
+00:00:47.680 --> 00:00:50.350 align:start position:0%
+3 and now these two things can cancel
+and<00:00:48.079><c> we're</c><00:00:48.239><c> left</c><00:00:48.440><c> with</c><00:00:48.600><c> just</c><00:00:48.719><c> a</c><00:00:48.879><c> one</c><00:00:49.120><c> on</c><00:00:49.360><c> top</c>
+
+00:00:50.350 --> 00:00:50.360 align:start position:0%
+and we're left with just a one on top
+ 
+
+00:00:50.360 --> 00:00:52.910 align:start position:0%
+and we're left with just a one on top
+now<00:00:50.559><c> when</c><00:00:50.719><c> I</c><00:00:50.840><c> plug</c><00:00:51.079><c> in</c><00:00:51.239><c> the</c><00:00:51.360><c> three</c><00:00:51.559><c> for</c><00:00:51.760><c> the</c><00:00:51.920><c> X</c><00:00:52.800><c> I</c>
+
+00:00:52.910 --> 00:00:52.920 align:start position:0%
+now when I plug in the three for the X I
+ 
+
+00:00:52.920 --> 00:00:58.310 align:start position:0%
+now when I plug in the three for the X I
+end<00:00:53.160><c> up</c><00:00:53.480><c> with</c><00:00:54.160><c> 1</c><00:00:55.480><c> over</c><00:00:56.480><c> 3</c><00:00:56.879><c> +</c>
+
+00:00:58.310 --> 00:00:58.320 align:start position:0%
+end up with 1 over 3 +
+ 
+
+00:00:58.320 --> 00:01:02.790 align:start position:0%
+end up with 1 over 3 +
+3<00:00:59.320><c> which</c><00:00:59.440><c> is</c><00:00:59.559><c> equal</c><00:00:59.800><c> to</c><00:01:00.000><c> to</c><00:01:00.680><c> 1</c>
+
+00:01:02.790 --> 00:01:02.800 align:start position:0%
+3 which is equal to to 1
+ 
+
+00:01:02.800 --> 00:01:06.230 align:start position:0%
+3 which is equal to to 1
+6<00:01:03.800><c> and</c><00:01:04.119><c> that</c><00:01:04.400><c> is</c><00:01:04.600><c> the</c><00:01:04.799><c> answer</c><00:01:05.159><c> to</c><00:01:05.320><c> the</c><00:01:05.479><c> question</c>
+
+00:01:06.230 --> 00:01:06.240 align:start position:0%
+6 and that is the answer to the question
+ 
+
+00:01:06.240 --> 00:01:07.830 align:start position:0%
+6 and that is the answer to the question
+so<00:01:06.360><c> I</c><00:01:06.479><c> hope</c><00:01:06.640><c> that</c><00:01:06.760><c> makes</c><00:01:06.960><c> sense</c><00:01:07.439><c> and</c><00:01:07.600><c> I'll</c><00:01:07.720><c> talk</c>
+
+00:01:07.830 --> 00:01:07.840 align:start position:0%
+so I hope that makes sense and I'll talk
+ 
+
+00:01:07.840 --> 00:01:10.590 align:start position:0%
+so I hope that makes sense and I'll talk
+to<00:01:07.960><c> you</c><00:01:08.080><c> guys</c><00:01:08.240><c> soon</c>
+
+00:01:10.590 --> 00:01:10.600 align:start position:0%
+to you guys soon
+ 
+
+00:01:10.600 --> 00:01:13.600 align:start position:0%
+to you guys soon
+bye
+

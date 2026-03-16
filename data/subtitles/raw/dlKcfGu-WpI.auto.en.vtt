@@ -1,0 +1,632 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:03.140 --> 00:00:05.870 align:start position:0%
+ 
+the<00:00:04.140><c> even</c><00:00:04.710><c> and</c><00:00:04.859><c> all</c><00:00:05.100><c> of</c><00:00:05.220><c> integers</c><00:00:05.670><c> are</c>
+
+00:00:05.870 --> 00:00:05.880 align:start position:0%
+the even and all of integers are
+ 
+
+00:00:05.880 --> 00:00:08.900 align:start position:0%
+the even and all of integers are
+familiar<00:00:06.720><c> concepts</c><00:00:07.259><c> to</c><00:00:07.380><c> us</c><00:00:07.529><c> however</c><00:00:08.250><c> in</c><00:00:08.639><c> this</c>
+
+00:00:08.900 --> 00:00:08.910 align:start position:0%
+familiar concepts to us however in this
+ 
+
+00:00:08.910 --> 00:00:10.580 align:start position:0%
+familiar concepts to us however in this
+particular<00:00:09.120><c> video</c><00:00:09.719><c> what</c><00:00:10.080><c> we're</c><00:00:10.200><c> going</c><00:00:10.350><c> to</c><00:00:10.440><c> do</c>
+
+00:00:10.580 --> 00:00:10.590 align:start position:0%
+particular video what we're going to do
+ 
+
+00:00:10.590 --> 00:00:12.890 align:start position:0%
+particular video what we're going to do
+is<00:00:10.769><c> we're</c><00:00:10.950><c> going</c><00:00:11.070><c> to</c><00:00:11.130><c> try</c><00:00:11.280><c> to</c><00:00:11.340><c> define</c><00:00:11.900><c> exactly</c>
+
+00:00:12.890 --> 00:00:12.900 align:start position:0%
+is we're going to try to define exactly
+ 
+
+00:00:12.900 --> 00:00:15.919 align:start position:0%
+is we're going to try to define exactly
+what<00:00:13.710><c> we</c><00:00:14.040><c> mean</c><00:00:14.280><c> by</c><00:00:14.340><c> the</c><00:00:14.580><c> even</c><00:00:15.120><c> and</c><00:00:15.150><c> odd</c>
+
+00:00:15.919 --> 00:00:15.929 align:start position:0%
+what we mean by the even and odd
+ 
+
+00:00:15.929 --> 00:00:17.359 align:start position:0%
+what we mean by the even and odd
+integers<00:00:16.320><c> we're</c><00:00:16.500><c> going</c><00:00:16.680><c> to</c><00:00:16.770><c> try</c><00:00:17.009><c> to</c><00:00:17.070><c> have</c><00:00:17.340><c> the</c>
+
+00:00:17.359 --> 00:00:17.369 align:start position:0%
+integers we're going to try to have the
+ 
+
+00:00:17.369 --> 00:00:19.999 align:start position:0%
+integers we're going to try to have the
+most<00:00:17.670><c> precise</c><00:00:18.270><c> and</c><00:00:18.599><c> formal</c><00:00:19.410><c> and</c><00:00:19.560><c> rigorous</c>
+
+00:00:19.999 --> 00:00:20.009 align:start position:0%
+most precise and formal and rigorous
+ 
+
+00:00:20.009 --> 00:00:22.040 align:start position:0%
+most precise and formal and rigorous
+definition<00:00:20.640><c> of</c><00:00:20.730><c> these</c><00:00:20.880><c> concepts</c><00:00:21.419><c> that</c><00:00:21.779><c> we</c><00:00:21.930><c> can</c>
+
+00:00:22.040 --> 00:00:22.050 align:start position:0%
+definition of these concepts that we can
+ 
+
+00:00:22.050 --> 00:00:24.920 align:start position:0%
+definition of these concepts that we can
+have<00:00:22.259><c> and</c><00:00:22.950><c> the</c><00:00:23.070><c> idea</c><00:00:23.369><c> is</c><00:00:23.640><c> this</c><00:00:24.119><c> when</c><00:00:24.779><c> we're</c>
+
+00:00:24.920 --> 00:00:24.930 align:start position:0%
+have and the idea is this when we're
+ 
+
+00:00:24.930 --> 00:00:26.870 align:start position:0%
+have and the idea is this when we're
+trying<00:00:25.050><c> to</c><00:00:25.230><c> make</c><00:00:25.410><c> claims</c><00:00:25.980><c> about</c><00:00:26.130><c> mathematics</c>
+
+00:00:26.870 --> 00:00:26.880 align:start position:0%
+trying to make claims about mathematics
+ 
+
+00:00:26.880 --> 00:00:29.179 align:start position:0%
+trying to make claims about mathematics
+and<00:00:27.000><c> when</c><00:00:27.090><c> we're</c><00:00:27.210><c> trying</c><00:00:27.329><c> to</c><00:00:27.630><c> prove</c><00:00:28.050><c> claims</c><00:00:28.559><c> in</c>
+
+00:00:29.179 --> 00:00:29.189 align:start position:0%
+and when we're trying to prove claims in
+ 
+
+00:00:29.189 --> 00:00:31.190 align:start position:0%
+and when we're trying to prove claims in
+mathematics<00:00:29.880><c> we</c><00:00:30.419><c> need</c><00:00:30.599><c> to</c><00:00:30.689><c> have</c><00:00:30.809><c> a</c><00:00:30.899><c> high</c>
+
+00:00:31.190 --> 00:00:31.200 align:start position:0%
+mathematics we need to have a high
+ 
+
+00:00:31.200 --> 00:00:33.979 align:start position:0%
+mathematics we need to have a high
+degree<00:00:31.230><c> of</c><00:00:31.829><c> precision</c><00:00:32.369><c> and</c><00:00:32.910><c> simply</c><00:00:33.600><c> saying</c><00:00:33.840><c> we</c>
+
+00:00:33.979 --> 00:00:33.989 align:start position:0%
+degree of precision and simply saying we
+ 
+
+00:00:33.989 --> 00:00:36.049 align:start position:0%
+degree of precision and simply saying we
+understand<00:00:34.769><c> what</c><00:00:35.010><c> even</c><00:00:35.280><c> numbers</c><00:00:35.609><c> are</c><00:00:35.789><c> their</c>
+
+00:00:36.049 --> 00:00:36.059 align:start position:0%
+understand what even numbers are their
+ 
+
+00:00:36.059 --> 00:00:37.669 align:start position:0%
+understand what even numbers are their
+numbers<00:00:36.210><c> like</c><00:00:36.570><c> two</c><00:00:36.780><c> four</c><00:00:37.079><c> six</c><00:00:37.379><c> eight</c><00:00:37.620><c> and</c>
+
+00:00:37.669 --> 00:00:37.679 align:start position:0%
+numbers like two four six eight and
+ 
+
+00:00:37.679 --> 00:00:39.740 align:start position:0%
+numbers like two four six eight and
+seeing<00:00:38.429><c> that</c><00:00:38.579><c> we</c><00:00:38.670><c> understand</c><00:00:39.210><c> what</c><00:00:39.510><c> odd</c>
+
+00:00:39.740 --> 00:00:39.750 align:start position:0%
+seeing that we understand what odd
+ 
+
+00:00:39.750 --> 00:00:41.630 align:start position:0%
+seeing that we understand what odd
+numbers<00:00:40.230><c> like</c><00:00:40.440><c> three</c><00:00:40.769><c> five</c><00:00:41.010><c> seven</c><00:00:41.370><c> and</c><00:00:41.519><c> nine</c>
+
+00:00:41.630 --> 00:00:41.640 align:start position:0%
+numbers like three five seven and nine
+ 
+
+00:00:41.640 --> 00:00:44.029 align:start position:0%
+numbers like three five seven and nine
+are<00:00:42.000><c> is</c><00:00:42.350><c> insufficient</c><00:00:43.350><c> we</c><00:00:43.440><c> need</c><00:00:43.679><c> to</c><00:00:43.800><c> use</c>
+
+00:00:44.029 --> 00:00:44.039 align:start position:0%
+are is insufficient we need to use
+ 
+
+00:00:44.039 --> 00:00:46.970 align:start position:0%
+are is insufficient we need to use
+incredibly<00:00:44.820><c> precise</c><00:00:45.570><c> ideas</c><00:00:46.199><c> for</c><00:00:46.739><c> what</c><00:00:46.890><c> these</c>
+
+00:00:46.970 --> 00:00:46.980 align:start position:0%
+incredibly precise ideas for what these
+ 
+
+00:00:46.980 --> 00:00:49.880 align:start position:0%
+incredibly precise ideas for what these
+concepts<00:00:47.460><c> actually</c><00:00:47.640><c> are</c><00:00:48.030><c> now</c><00:00:49.019><c> when</c><00:00:49.469><c> I</c><00:00:49.499><c> look</c><00:00:49.769><c> at</c>
+
+00:00:49.880 --> 00:00:49.890 align:start position:0%
+concepts actually are now when I look at
+ 
+
+00:00:49.890 --> 00:00:52.310 align:start position:0%
+concepts actually are now when I look at
+this<00:00:49.980><c> in</c><00:00:50.160><c> formal</c><00:00:50.640><c> definition</c><00:00:51.239><c> there's</c><00:00:52.019><c> a</c><00:00:52.109><c> sort</c>
+
+00:00:52.310 --> 00:00:52.320 align:start position:0%
+this in formal definition there's a sort
+ 
+
+00:00:52.320 --> 00:00:55.579 align:start position:0%
+this in formal definition there's a sort
+of<00:00:52.410><c> existential</c><00:00:52.850><c> nature</c><00:00:53.850><c> to</c><00:00:54.420><c> it</c><00:00:54.510><c> when</c><00:00:55.320><c> we</c><00:00:55.409><c> say</c>
+
+00:00:55.579 --> 00:00:55.589 align:start position:0%
+of existential nature to it when we say
+ 
+
+00:00:55.589 --> 00:00:58.250 align:start position:0%
+of existential nature to it when we say
+that<00:00:55.800><c> an</c><00:00:56.010><c> integer</c><00:00:56.460><c> say</c><00:00:56.879><c> n</c><00:00:57.359><c> can</c><00:00:57.809><c> be</c><00:00:57.839><c> written</c><00:00:57.929><c> as</c>
+
+00:00:58.250 --> 00:00:58.260 align:start position:0%
+that an integer say n can be written as
+ 
+
+00:00:58.260 --> 00:01:00.919 align:start position:0%
+that an integer say n can be written as
+twice<00:00:58.679><c> something</c><00:00:59.269><c> really</c><00:01:00.269><c> what</c><00:01:00.480><c> we're</c><00:01:00.659><c> saying</c>
+
+00:01:00.919 --> 00:01:00.929 align:start position:0%
+twice something really what we're saying
+ 
+
+00:01:00.929 --> 00:01:04.369 align:start position:0%
+twice something really what we're saying
+is<00:01:01.199><c> that</c><00:01:01.409><c> there</c><00:01:02.179><c> exists</c><00:01:03.179><c> this</c><00:01:03.539><c> existential</c>
+
+00:01:04.369 --> 00:01:04.379 align:start position:0%
+is that there exists this existential
+ 
+
+00:01:04.379 --> 00:01:07.810 align:start position:0%
+is that there exists this existential
+claim<00:01:04.680><c> there</c><00:01:05.400><c> exists</c><00:01:06.000><c> some</c><00:01:06.180><c> other</c><00:01:06.509><c> integer</c><00:01:07.380><c> K</c>
+
+00:01:07.810 --> 00:01:07.820 align:start position:0%
+claim there exists some other integer K
+ 
+
+00:01:07.820 --> 00:01:10.580 align:start position:0%
+claim there exists some other integer K
+where<00:01:08.820><c> the</c><00:01:08.939><c> N</c><00:01:09.119><c> can</c><00:01:09.299><c> be</c><00:01:09.390><c> written</c><00:01:09.540><c> as</c><00:01:09.840><c> twice</c><00:01:10.350><c> at</c>
+
+00:01:10.580 --> 00:01:10.590 align:start position:0%
+where the N can be written as twice at
+ 
+
+00:01:10.590 --> 00:01:12.920 align:start position:0%
+where the N can be written as twice at
+so<00:01:11.579><c> if</c><00:01:11.850><c> I</c><00:01:11.939><c> want</c><00:01:12.180><c> to</c><00:01:12.240><c> take</c><00:01:12.329><c> this</c><00:01:12.450><c> informal</c>
+
+00:01:12.920 --> 00:01:12.930 align:start position:0%
+so if I want to take this informal
+ 
+
+00:01:12.930 --> 00:01:15.139 align:start position:0%
+so if I want to take this informal
+definition<00:01:13.049><c> and</c><00:01:13.619><c> make</c><00:01:13.799><c> it</c><00:01:13.950><c> into</c><00:01:14.250><c> a</c><00:01:14.280><c> formal</c><00:01:15.000><c> one</c>
+
+00:01:15.139 --> 00:01:15.149 align:start position:0%
+definition and make it into a formal one
+ 
+
+00:01:15.149 --> 00:01:16.940 align:start position:0%
+definition and make it into a formal one
+I<00:01:15.390><c> might</c><00:01:15.750><c> write</c><00:01:15.960><c> something</c><00:01:16.229><c> like</c><00:01:16.350><c> this</c><00:01:16.710><c> I</c>
+
+00:01:16.940 --> 00:01:16.950 align:start position:0%
+I might write something like this I
+ 
+
+00:01:16.950 --> 00:01:21.830 align:start position:0%
+I might write something like this I
+would<00:01:17.579><c> say</c><00:01:17.759><c> that</c><00:01:18.030><c> n</c><00:01:18.240><c> is</c><00:01:18.780><c> an</c><00:01:19.079><c> integer</c><00:01:19.490><c> if</c><00:01:20.840><c> there</c>
+
+00:01:21.830 --> 00:01:21.840 align:start position:0%
+would say that n is an integer if there
+ 
+
+00:01:21.840 --> 00:01:25.520 align:start position:0%
+would say that n is an integer if there
+exists<00:01:22.829><c> another</c><00:01:23.180><c> integer</c><00:01:24.180><c> K</c><00:01:24.689><c> so</c><00:01:24.750><c> so</c><00:01:25.320><c> there</c>
+
+00:01:25.520 --> 00:01:25.530 align:start position:0%
+exists another integer K so so there
+ 
+
+00:01:25.530 --> 00:01:28.130 align:start position:0%
+exists another integer K so so there
+exists<00:01:25.890><c> a</c><00:01:25.950><c> K</c><00:01:26.159><c> any</c><00:01:26.340><c> integers</c><00:01:26.759><c> but</c><00:01:27.630><c> has</c><00:01:27.930><c> the</c>
+
+00:01:28.130 --> 00:01:28.140 align:start position:0%
+exists a K any integers but has the
+ 
+
+00:01:28.140 --> 00:01:32.539 align:start position:0%
+exists a K any integers but has the
+property<00:01:28.590><c> that</c><00:01:28.619><c> the</c><00:01:28.890><c> N</c><00:01:29.040><c> is</c><00:01:29.430><c> twice</c><00:01:30.299><c> K</c><00:01:30.920><c> now</c><00:01:31.920><c> why</c>
+
+00:01:32.539 --> 00:01:32.549 align:start position:0%
+property that the N is twice K now why
+ 
+
+00:01:32.549 --> 00:01:34.580 align:start position:0%
+property that the N is twice K now why
+do<00:01:32.640><c> I</c><00:01:32.789><c> like</c><00:01:32.969><c> this</c><00:01:33.119><c> formal</c><00:01:33.659><c> definition</c><00:01:34.229><c> so</c><00:01:34.380><c> much</c>
+
+00:01:34.580 --> 00:01:34.590 align:start position:0%
+do I like this formal definition so much
+ 
+
+00:01:34.590 --> 00:01:36.770 align:start position:0%
+do I like this formal definition so much
+it's<00:01:35.250><c> because</c><00:01:35.579><c> now</c><00:01:35.969><c> there's</c><00:01:36.240><c> actually</c><00:01:36.630><c> an</c>
+
+00:01:36.770 --> 00:01:36.780 align:start position:0%
+it's because now there's actually an
+ 
+
+00:01:36.780 --> 00:01:40.429 align:start position:0%
+it's because now there's actually an
+equation<00:01:37.049><c> here</c><00:01:37.560><c> N</c><00:01:37.710><c> equals</c><00:01:38.520><c> to</c><00:01:38.969><c> K</c><00:01:39.509><c> and</c><00:01:39.899><c> I</c><00:01:40.380><c> know</c>
+
+00:01:40.429 --> 00:01:40.439 align:start position:0%
+equation here N equals to K and I know
+ 
+
+00:01:40.439 --> 00:01:42.020 align:start position:0%
+equation here N equals to K and I know
+something<00:01:40.860><c> about</c><00:01:40.920><c> what</c><00:01:41.159><c> K</c><00:01:41.310><c> is</c><00:01:41.490><c> K</c><00:01:41.700><c> is</c><00:01:41.850><c> an</c>
+
+00:01:42.020 --> 00:01:42.030 align:start position:0%
+something about what K is K is an
+ 
+
+00:01:42.030 --> 00:01:42.499 align:start position:0%
+something about what K is K is an
+integer
+
+00:01:42.499 --> 00:01:42.509 align:start position:0%
+integer
+ 
+
+00:01:42.509 --> 00:01:44.840 align:start position:0%
+integer
+so<00:01:43.289><c> if</c><00:01:43.350><c> I</c><00:01:43.530><c> want</c><00:01:43.740><c> to</c><00:01:43.829><c> make</c><00:01:43.979><c> a</c><00:01:44.009><c> proof</c><00:01:44.520><c> that</c>
+
+00:01:44.840 --> 00:01:44.850 align:start position:0%
+so if I want to make a proof that
+ 
+
+00:01:44.850 --> 00:01:47.569 align:start position:0%
+so if I want to make a proof that
+involves<00:01:45.630><c> the</c><00:01:45.750><c> even</c><00:01:46.079><c> integers</c><00:01:46.469><c> now</c><00:01:47.159><c> I</c><00:01:47.189><c> can</c>
+
+00:01:47.569 --> 00:01:47.579 align:start position:0%
+involves the even integers now I can
+ 
+
+00:01:47.579 --> 00:01:49.880 align:start position:0%
+involves the even integers now I can
+actually<00:01:48.060><c> substitute</c><00:01:48.719><c> it</c><00:01:49.109><c> in</c><00:01:49.229><c> I</c><00:01:49.439><c> can</c><00:01:49.590><c> write</c>
+
+00:01:49.880 --> 00:01:49.890 align:start position:0%
+actually substitute it in I can write
+ 
+
+00:01:49.890 --> 00:01:51.980 align:start position:0%
+actually substitute it in I can write
+equation<00:01:50.460><c> I</c><00:01:50.579><c> have</c><00:01:50.729><c> a</c><00:01:50.759><c> precise</c><00:01:51.270><c> way</c><00:01:51.570><c> of</c><00:01:51.719><c> writing</c>
+
+00:01:51.980 --> 00:01:51.990 align:start position:0%
+equation I have a precise way of writing
+ 
+
+00:01:51.990 --> 00:01:53.990 align:start position:0%
+equation I have a precise way of writing
+what<00:01:52.200><c> I</c><00:01:52.229><c> mean</c><00:01:52.530><c> when</c><00:01:53.219><c> I</c><00:01:53.250><c> talk</c><00:01:53.369><c> about</c><00:01:53.700><c> an</c><00:01:53.789><c> even</c>
+
+00:01:53.990 --> 00:01:54.000 align:start position:0%
+what I mean when I talk about an even
+ 
+
+00:01:54.000 --> 00:01:56.420 align:start position:0%
+what I mean when I talk about an even
+integer<00:01:54.170><c> ok</c><00:01:55.170><c> same</c><00:01:55.649><c> story</c><00:01:55.979><c> but</c><00:01:56.039><c> for</c><00:01:56.340><c> the</c>
+
+00:01:56.420 --> 00:01:56.430 align:start position:0%
+integer ok same story but for the
+ 
+
+00:01:56.430 --> 00:01:59.200 align:start position:0%
+integer ok same story but for the
+auditors<00:01:57.119><c> well</c><00:01:57.390><c> okay</c><00:01:57.960><c> what's</c><00:01:58.439><c> an</c><00:01:58.590><c> odd</c><00:01:58.799><c> integer</c>
+
+00:01:59.200 --> 00:01:59.210 align:start position:0%
+auditors well okay what's an odd integer
+ 
+
+00:01:59.210 --> 00:02:01.580 align:start position:0%
+auditors well okay what's an odd integer
+informally<00:02:00.210><c> odd</c><00:02:00.450><c> integers</c><00:02:00.990><c> are</c><00:02:01.140><c> the</c><00:02:01.229><c> integers</c>
+
+00:02:01.580 --> 00:02:01.590 align:start position:0%
+informally odd integers are the integers
+ 
+
+00:02:01.590 --> 00:02:06.319 align:start position:0%
+informally odd integers are the integers
+that<00:02:01.859><c> are</c><00:02:02.310><c> just</c><00:02:02.549><c> not</c><00:02:02.969><c> even</c><00:02:03.960><c> as</c><00:02:04.770><c> in</c><00:02:05.009><c> if</c><00:02:05.159><c> two</c><00:02:05.700><c> four</c>
+
+00:02:06.319 --> 00:02:06.329 align:start position:0%
+that are just not even as in if two four
+ 
+
+00:02:06.329 --> 00:02:10.070 align:start position:0%
+that are just not even as in if two four
+six<00:02:06.750><c> eight</c><00:02:07.020><c> are</c><00:02:07.550><c> even</c><00:02:08.550><c> integers</c><00:02:08.970><c> then</c><00:02:09.780><c> the</c>
+
+00:02:10.070 --> 00:02:10.080 align:start position:0%
+six eight are even integers then the
+ 
+
+00:02:10.080 --> 00:02:12.110 align:start position:0%
+six eight are even integers then the
+other<00:02:10.259><c> ones</c><00:02:10.620><c> though</c><00:02:11.160><c> the</c><00:02:11.400><c> one</c><00:02:11.610><c> three</c><00:02:11.880><c> five</c>
+
+00:02:12.110 --> 00:02:12.120 align:start position:0%
+other ones though the one three five
+ 
+
+00:02:12.120 --> 00:02:12.800 align:start position:0%
+other ones though the one three five
+seven
+
+00:02:12.800 --> 00:02:12.810 align:start position:0%
+seven
+ 
+
+00:02:12.810 --> 00:02:16.350 align:start position:0%
+seven
+those<00:02:13.020><c> are</c><00:02:13.320><c> the</c><00:02:13.800><c> auditors</c>
+
+00:02:16.350 --> 00:02:16.360 align:start position:0%
+those are the auditors
+ 
+
+00:02:16.360 --> 00:02:19.110 align:start position:0%
+those are the auditors
+you<00:02:16.840><c> are</c><00:02:17.170><c> allowed</c><00:02:17.620><c> to</c><00:02:17.950><c> define</c><00:02:18.340><c> something</c><00:02:18.760><c> as</c>
+
+00:02:19.110 --> 00:02:19.120 align:start position:0%
+you are allowed to define something as
+ 
+
+00:02:19.120 --> 00:02:22.440 align:start position:0%
+you are allowed to define something as
+being<00:02:19.390><c> not</c><00:02:19.780><c> some</c><00:02:20.650><c> other</c><00:02:20.770><c> thing</c><00:02:21.240><c> okay</c><00:02:22.240><c> but</c>
+
+00:02:22.440 --> 00:02:22.450 align:start position:0%
+being not some other thing okay but
+ 
+
+00:02:22.450 --> 00:02:23.850 align:start position:0%
+being not some other thing okay but
+let's<00:02:22.930><c> try</c><00:02:23.110><c> to</c><00:02:23.170><c> be</c><00:02:23.320><c> a</c><00:02:23.350><c> little</c><00:02:23.500><c> bit</c><00:02:23.710><c> more</c>
+
+00:02:23.850 --> 00:02:23.860 align:start position:0%
+let's try to be a little bit more
+ 
+
+00:02:23.860 --> 00:02:26.730 align:start position:0%
+let's try to be a little bit more
+precise<00:02:24.190><c> about</c><00:02:24.340><c> this</c><00:02:24.640><c> if</c><00:02:25.510><c> I</c><00:02:25.660><c> take</c><00:02:25.930><c> say</c><00:02:26.170><c> six</c><00:02:26.560><c> we</c>
+
+00:02:26.730 --> 00:02:26.740 align:start position:0%
+precise about this if I take say six we
+ 
+
+00:02:26.740 --> 00:02:29.430 align:start position:0%
+precise about this if I take say six we
+said<00:02:26.950><c> that</c><00:02:27.100><c> was</c><00:02:27.220><c> even</c><00:02:27.610><c> because</c><00:02:28.030><c> it</c><00:02:28.060><c> was</c><00:02:28.480><c> twice</c>
+
+00:02:29.430 --> 00:02:29.440 align:start position:0%
+said that was even because it was twice
+ 
+
+00:02:29.440 --> 00:02:32.010 align:start position:0%
+said that was even because it was twice
+an<00:02:29.680><c> integer</c><00:02:29.890><c> but</c><00:02:30.790><c> what</c><00:02:30.940><c> about</c><00:02:31.120><c> seven</c><00:02:31.810><c> so</c><00:02:31.990><c> seven</c>
+
+00:02:32.010 --> 00:02:32.020 align:start position:0%
+an integer but what about seven so seven
+ 
+
+00:02:32.020 --> 00:02:34.830 align:start position:0%
+an integer but what about seven so seven
+is<00:02:32.500><c> odd</c><00:02:32.800><c> but</c><00:02:33.400><c> what</c><00:02:33.880><c> I</c><00:02:33.910><c> notice</c><00:02:34.180><c> about</c><00:02:34.240><c> seven</c><00:02:34.750><c> is</c>
+
+00:02:34.830 --> 00:02:34.840 align:start position:0%
+is odd but what I notice about seven is
+ 
+
+00:02:34.840 --> 00:02:37.190 align:start position:0%
+is odd but what I notice about seven is
+that<00:02:34.930><c> it's</c><00:02:35.110><c> twice</c><00:02:35.560><c> an</c><00:02:35.830><c> integer</c><00:02:36.070><c> twice</c><00:02:36.520><c> three</c>
+
+00:02:37.190 --> 00:02:37.200 align:start position:0%
+that it's twice an integer twice three
+ 
+
+00:02:37.200 --> 00:02:41.130 align:start position:0%
+that it's twice an integer twice three
+plus<00:02:38.200><c> one</c><00:02:38.790><c> so</c><00:02:39.790><c> all</c><00:02:39.820><c> of</c><00:02:40.180><c> the</c><00:02:40.300><c> odd</c><00:02:40.480><c> integers</c><00:02:40.990><c> can</c>
+
+00:02:41.130 --> 00:02:41.140 align:start position:0%
+plus one so all of the odd integers can
+ 
+
+00:02:41.140 --> 00:02:43.850 align:start position:0%
+plus one so all of the odd integers can
+really<00:02:41.440><c> be</c><00:02:41.590><c> written</c><00:02:41.950><c> as</c><00:02:42.150><c> twice</c><00:02:43.150><c> an</c><00:02:43.420><c> integer</c>
+
+00:02:43.850 --> 00:02:43.860 align:start position:0%
+really be written as twice an integer
+ 
+
+00:02:43.860 --> 00:02:46.740 align:start position:0%
+really be written as twice an integer
+plus<00:02:44.860><c> one</c><00:02:45.190><c> so</c><00:02:45.940><c> I</c><00:02:45.970><c> maybe</c><00:02:46.090><c> use</c><00:02:46.270><c> that</c><00:02:46.300><c> as</c><00:02:46.570><c> my</c>
+
+00:02:46.740 --> 00:02:46.750 align:start position:0%
+plus one so I maybe use that as my
+ 
+
+00:02:46.750 --> 00:02:48.810 align:start position:0%
+plus one so I maybe use that as my
+formal<00:02:47.590><c> definition</c><00:02:48.220><c> again</c><00:02:48.520><c> it's</c><00:02:48.730><c> an</c>
+
+00:02:48.810 --> 00:02:48.820 align:start position:0%
+formal definition again it's an
+ 
+
+00:02:48.820 --> 00:02:50.340 align:start position:0%
+formal definition again it's an
+existential<00:02:49.030><c> claim</c><00:02:49.540><c> I'm</c><00:02:49.750><c> saying</c><00:02:50.020><c> there</c>
+
+00:02:50.340 --> 00:02:50.350 align:start position:0%
+existential claim I'm saying there
+ 
+
+00:02:50.350 --> 00:02:53.520 align:start position:0%
+existential claim I'm saying there
+exists<00:02:50.860><c> a</c><00:02:50.980><c> cave</c><00:02:51.310><c> in</c><00:02:51.880><c> the</c><00:02:52.209><c> integers</c><00:02:52.660><c> such</c><00:02:53.470><c> that</c>
+
+00:02:53.520 --> 00:02:53.530 align:start position:0%
+exists a cave in the integers such that
+ 
+
+00:02:53.530 --> 00:02:55.910 align:start position:0%
+exists a cave in the integers such that
+your<00:02:53.950><c> audience</c><00:02:54.400><c> a</c><00:02:54.459><c> Duran</c><00:02:54.790><c> can</c><00:02:55.030><c> be</c><00:02:55.180><c> written</c><00:02:55.420><c> as</c>
+
+00:02:55.910 --> 00:02:55.920 align:start position:0%
+your audience a Duran can be written as
+ 
+
+00:02:55.920 --> 00:03:00.150 align:start position:0%
+your audience a Duran can be written as
+twice<00:02:56.920><c> K</c><00:02:57.300><c> plus</c><00:02:58.300><c> one</c><00:02:58.570><c> and</c><00:02:58.810><c> now</c><00:02:59.530><c> again</c><00:02:59.709><c> I</c><00:02:59.890><c> have</c><00:03:00.130><c> a</c>
+
+00:03:00.150 --> 00:03:00.160 align:start position:0%
+twice K plus one and now again I have a
+ 
+
+00:03:00.160 --> 00:03:02.580 align:start position:0%
+twice K plus one and now again I have a
+precise<00:03:00.730><c> formal</c><00:03:01.510><c> definition</c><00:03:02.050><c> of</c><00:03:02.140><c> what</c><00:03:02.320><c> I</c><00:03:02.350><c> mean</c>
+
+00:03:02.580 --> 00:03:02.590 align:start position:0%
+precise formal definition of what I mean
+ 
+
+00:03:02.590 --> 00:03:04.620 align:start position:0%
+precise formal definition of what I mean
+by<00:03:02.709><c> all</c><00:03:03.010><c> integers</c><00:03:03.489><c> there's</c><00:03:03.670><c> an</c><00:03:03.790><c> equation</c><00:03:04.150><c> here</c>
+
+00:03:04.620 --> 00:03:04.630 align:start position:0%
+by all integers there's an equation here
+ 
+
+00:03:04.630 --> 00:03:06.510 align:start position:0%
+by all integers there's an equation here
+I<00:03:04.750><c> can</c><00:03:05.200><c> send</c><00:03:05.590><c> it</c><00:03:05.650><c> to</c><00:03:05.680><c> that</c><00:03:05.920><c> equation</c><00:03:06.190><c> into</c>
+
+00:03:06.510 --> 00:03:06.520 align:start position:0%
+I can send it to that equation into
+ 
+
+00:03:06.520 --> 00:03:08.040 align:start position:0%
+I can send it to that equation into
+other<00:03:06.670><c> equations</c><00:03:07.150><c> that</c><00:03:07.209><c> I</c><00:03:07.330><c> can</c><00:03:07.510><c> use</c><00:03:07.810><c> these</c>
+
+00:03:08.040 --> 00:03:08.050 align:start position:0%
+other equations that I can use these
+ 
+
+00:03:08.050 --> 00:03:10.680 align:start position:0%
+other equations that I can use these
+definitions<00:03:08.260><c> to</c><00:03:09.070><c> make</c><00:03:09.400><c> proofs</c><00:03:09.790><c> about</c><00:03:10.510><c> the</c>
+
+00:03:10.680 --> 00:03:10.690 align:start position:0%
+definitions to make proofs about the
+ 
+
+00:03:10.690 --> 00:03:12.270 align:start position:0%
+definitions to make proofs about the
+even<00:03:11.020><c> and</c><00:03:11.110><c> odd</c><00:03:11.200><c> integers</c><00:03:11.530><c> and</c><00:03:11.650><c> indeed</c><00:03:11.890><c> in</c><00:03:12.010><c> the</c>
+
+00:03:12.270 --> 00:03:12.280 align:start position:0%
+even and odd integers and indeed in the
+ 
+
+00:03:12.280 --> 00:03:14.250 align:start position:0%
+even and odd integers and indeed in the
+next<00:03:12.700><c> video</c><00:03:12.970><c> that's</c><00:03:13.209><c> exactly</c><00:03:13.930><c> what</c><00:03:14.050><c> I'm</c><00:03:14.140><c> going</c>
+
+00:03:14.250 --> 00:03:14.260 align:start position:0%
+next video that's exactly what I'm going
+ 
+
+00:03:14.260 --> 00:03:16.110 align:start position:0%
+next video that's exactly what I'm going
+to<00:03:14.320><c> do</c><00:03:14.440><c> I'm</c><00:03:14.650><c> going</c><00:03:14.890><c> to</c><00:03:14.950><c> do</c><00:03:15.100><c> our</c><00:03:15.310><c> first</c><00:03:15.700><c> proof</c>
+
+00:03:16.110 --> 00:03:16.120 align:start position:0%
+to do I'm going to do our first proof
+ 
+
+00:03:16.120 --> 00:03:17.910 align:start position:0%
+to do I'm going to do our first proof
+and<00:03:16.450><c> I'm</c><00:03:16.810><c> going</c><00:03:16.959><c> to</c><00:03:17.050><c> use</c><00:03:17.200><c> these</c><00:03:17.410><c> definitions</c>
+
+00:03:17.910 --> 00:03:17.920 align:start position:0%
+and I'm going to use these definitions
+ 
+
+00:03:17.920 --> 00:03:20.729 align:start position:0%
+and I'm going to use these definitions
+of<00:03:18.190><c> even</c><00:03:18.550><c> and</c><00:03:18.730><c> odd</c><00:03:18.970><c> in</c><00:03:19.390><c> the</c><00:03:19.959><c> proof</c><00:03:20.350><c> that</c><00:03:20.620><c> I'm</c>
+
+00:03:20.729 --> 00:03:20.739 align:start position:0%
+of even and odd in the proof that I'm
+ 
+
+00:03:20.739 --> 00:03:23.489 align:start position:0%
+of even and odd in the proof that I'm
+going<00:03:20.890><c> to</c><00:03:20.920><c> do</c><00:03:21.040><c> in</c><00:03:21.130><c> the</c><00:03:21.220><c> next</c><00:03:21.310><c> video</c>
+

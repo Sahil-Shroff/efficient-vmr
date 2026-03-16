@@ -1,0 +1,504 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:02.990 align:start position:0%
+ 
+because<00:00:00.690><c> sets</c><00:00:01.170><c> in</c><00:00:01.469><c> the</c><00:00:01.589><c> set</c><00:00:02.129><c> operations</c><00:00:02.850><c> like</c>
+
+00:00:02.990 --> 00:00:03.000 align:start position:0%
+because sets in the set operations like
+ 
+
+00:00:03.000 --> 00:00:04.820 align:start position:0%
+because sets in the set operations like
+Union<00:00:03.060><c> and</c><00:00:03.600><c> intersection</c><00:00:03.810><c> and</c><00:00:04.259><c> complement</c>
+
+00:00:04.820 --> 00:00:04.830 align:start position:0%
+Union and intersection and complement
+ 
+
+00:00:04.830 --> 00:00:08.210 align:start position:0%
+Union and intersection and complement
+are<00:00:04.980><c> all</c><00:00:05.759><c> defined</c><00:00:06.210><c> in</c><00:00:06.540><c> terms</c><00:00:06.720><c> of</c><00:00:07.049><c> some</c><00:00:07.620><c> logic</c>
+
+00:00:08.210 --> 00:00:08.220 align:start position:0%
+are all defined in terms of some logic
+ 
+
+00:00:08.220 --> 00:00:11.930 align:start position:0%
+are all defined in terms of some logic
+condition<00:00:08.730><c> like</c><00:00:08.910><c> or</c><00:00:09.120><c> or</c><00:00:09.750><c> and</c><00:00:10.260><c> or</c><00:00:10.800><c> not</c><00:00:10.830><c> in</c><00:00:11.610><c> it</c>
+
+00:00:11.930 --> 00:00:11.940 align:start position:0%
+condition like or or and or not in it
+ 
+
+00:00:11.940 --> 00:00:15.079 align:start position:0%
+condition like or or and or not in it
+means<00:00:12.750><c> that</c><00:00:12.990><c> all</c><00:00:13.349><c> of</c><00:00:13.740><c> those</c><00:00:13.920><c> rules</c><00:00:14.370><c> of</c><00:00:14.820><c> logic</c>
+
+00:00:15.079 --> 00:00:15.089 align:start position:0%
+means that all of those rules of logic
+ 
+
+00:00:15.089 --> 00:00:17.450 align:start position:0%
+means that all of those rules of logic
+that<00:00:15.360><c> we</c><00:00:15.570><c> got</c><00:00:15.750><c> all</c><00:00:15.960><c> those</c><00:00:16.460><c> logical</c>
+
+00:00:17.450 --> 00:00:17.460 align:start position:0%
+that we got all those logical
+ 
+
+00:00:17.460 --> 00:00:20.660 align:start position:0%
+that we got all those logical
+equivalences<00:00:18.359><c> can</c><00:00:19.199><c> be</c><00:00:19.410><c> applied</c><00:00:20.039><c> to</c><00:00:20.430><c> the</c>
+
+00:00:20.660 --> 00:00:20.670 align:start position:0%
+equivalences can be applied to the
+ 
+
+00:00:20.670 --> 00:00:22.490 align:start position:0%
+equivalences can be applied to the
+language<00:00:21.150><c> of</c><00:00:21.330><c> set</c><00:00:21.600><c> and</c><00:00:21.840><c> therefore</c><00:00:22.170><c> we</c><00:00:22.289><c> get</c><00:00:22.439><c> a</c>
+
+00:00:22.490 --> 00:00:22.500 align:start position:0%
+language of set and therefore we get a
+ 
+
+00:00:22.500 --> 00:00:26.359 align:start position:0%
+language of set and therefore we get a
+lot<00:00:22.800><c> of</c><00:00:22.830><c> equalities</c><00:00:23.820><c> of</c><00:00:24.060><c> sets</c><00:00:24.650><c> so</c><00:00:25.650><c> for</c><00:00:26.070><c> example</c>
+
+00:00:26.359 --> 00:00:26.369 align:start position:0%
+lot of equalities of sets so for example
+ 
+
+00:00:26.369 --> 00:00:28.220 align:start position:0%
+lot of equalities of sets so for example
+consider<00:00:26.640><c> this</c><00:00:26.910><c> claim</c><00:00:27.210><c> I'm</c><00:00:27.390><c> claiming</c><00:00:27.779><c> that</c><00:00:27.960><c> a</c>
+
+00:00:28.220 --> 00:00:28.230 align:start position:0%
+consider this claim I'm claiming that a
+ 
+
+00:00:28.230 --> 00:00:32.990 align:start position:0%
+consider this claim I'm claiming that a
+union<00:00:29.039><c> B</c><00:00:29.310><c> equals</c><00:00:29.550><c> B</c><00:00:30.119><c> Union</c><00:00:30.810><c> a</c><00:00:31.099><c> so</c><00:00:32.099><c> how</c><00:00:32.669><c> could</c><00:00:32.850><c> we</c>
+
+00:00:32.990 --> 00:00:33.000 align:start position:0%
+union B equals B Union a so how could we
+ 
+
+00:00:33.000 --> 00:00:35.780 align:start position:0%
+union B equals B Union a so how could we
+prove<00:00:33.329><c> a</c><00:00:33.510><c> claim</c><00:00:33.750><c> like</c><00:00:34.140><c> this</c><00:00:34.380><c> again</c><00:00:35.340><c> I</c><00:00:35.489><c> want</c><00:00:35.700><c> you</c>
+
+00:00:35.780 --> 00:00:35.790 align:start position:0%
+prove a claim like this again I want you
+ 
+
+00:00:35.790 --> 00:00:37.430 align:start position:0%
+prove a claim like this again I want you
+to<00:00:35.880><c> notice</c><00:00:36.090><c> inequality</c><00:00:36.809><c> so</c><00:00:36.960><c> I</c><00:00:36.989><c> want</c><00:00:37.200><c> to</c><00:00:37.260><c> show</c>
+
+00:00:37.430 --> 00:00:37.440 align:start position:0%
+to notice inequality so I want to show
+ 
+
+00:00:37.440 --> 00:00:40.670 align:start position:0%
+to notice inequality so I want to show
+if<00:00:38.040><c> it's</c><00:00:38.430><c> in</c><00:00:38.610><c> the</c><00:00:38.760><c> Union</c><00:00:39.239><c> a</c><00:00:39.450><c> union</c><00:00:40.020><c> B</c><00:00:40.200><c> then</c><00:00:40.530><c> it's</c>
+
+00:00:40.670 --> 00:00:40.680 align:start position:0%
+if it's in the Union a union B then it's
+ 
+
+00:00:40.680 --> 00:00:44.060 align:start position:0%
+if it's in the Union a union B then it's
+in<00:00:40.829><c> the</c><00:00:41.070><c> B</c><00:00:41.550><c> Union</c><00:00:41.879><c> a</c><00:00:42.149><c> and</c><00:00:42.510><c> vice</c><00:00:43.469><c> versa</c>
+
+00:00:44.060 --> 00:00:44.070 align:start position:0%
+in the B Union a and vice versa
+ 
+
+00:00:44.070 --> 00:00:46.639 align:start position:0%
+in the B Union a and vice versa
+if<00:00:44.129><c> it's</c><00:00:44.700><c> in</c><00:00:44.850><c> B</c><00:00:45.090><c> Union</c><00:00:45.390><c> a</c><00:00:45.629><c> then</c><00:00:46.110><c> it's</c><00:00:46.320><c> an</c><00:00:46.469><c> a</c>
+
+00:00:46.639 --> 00:00:46.649 align:start position:0%
+if it's in B Union a then it's an a
+ 
+
+00:00:46.649 --> 00:00:48.770 align:start position:0%
+if it's in B Union a then it's an a
+union<00:00:47.100><c> B</c><00:00:47.250><c> I</c><00:00:47.280><c> want</c><00:00:47.520><c> to</c><00:00:47.610><c> show</c><00:00:47.760><c> both</c><00:00:48.180><c> sides</c><00:00:48.570><c> of</c>
+
+00:00:48.770 --> 00:00:48.780 align:start position:0%
+union B I want to show both sides of
+ 
+
+00:00:48.780 --> 00:00:50.690 align:start position:0%
+union B I want to show both sides of
+that<00:00:48.809><c> so</c><00:00:49.500><c> I</c><00:00:49.559><c> want</c><00:00:49.739><c> to</c><00:00:49.770><c> say</c><00:00:49.920><c> show</c><00:00:50.280><c> that</c><00:00:50.460><c> what</c><00:00:50.579><c> my</c>
+
+00:00:50.690 --> 00:00:50.700 align:start position:0%
+that so I want to say show that what my
+ 
+
+00:00:50.700 --> 00:00:52.819 align:start position:0%
+that so I want to say show that what my
+proof<00:00:51.030><c> is</c><00:00:51.210><c> going</c><00:00:51.480><c> forward</c><00:00:51.870><c> everything</c><00:00:52.620><c> is</c><00:00:52.710><c> in</c>
+
+00:00:52.819 --> 00:00:52.829 align:start position:0%
+proof is going forward everything is in
+ 
+
+00:00:52.829 --> 00:00:53.930 align:start position:0%
+proof is going forward everything is in
+biconditional
+
+00:00:53.930 --> 00:00:53.940 align:start position:0%
+biconditional
+ 
+
+00:00:53.940 --> 00:00:56.299 align:start position:0%
+biconditional
+and<00:00:54.090><c> if</c><00:00:54.420><c> and</c><00:00:54.600><c> only</c><00:00:54.660><c> if</c><00:00:54.949><c> so</c><00:00:55.949><c> what</c><00:00:56.070><c> I'm</c><00:00:56.129><c> going</c><00:00:56.280><c> to</c>
+
+00:00:56.299 --> 00:00:56.309 align:start position:0%
+and if and only if so what I'm going to
+ 
+
+00:00:56.309 --> 00:00:58.220 align:start position:0%
+and if and only if so what I'm going to
+use<00:00:56.460><c> the</c><00:00:56.670><c> element</c><00:00:57.090><c> method</c><00:00:57.390><c> mainly</c><00:00:57.989><c> I'm</c><00:00:58.109><c> going</c>
+
+00:00:58.220 --> 00:00:58.230 align:start position:0%
+use the element method mainly I'm going
+ 
+
+00:00:58.230 --> 00:01:01.549 align:start position:0%
+use the element method mainly I'm going
+to<00:00:58.289><c> start</c><00:00:58.680><c> with</c><00:00:58.949><c> an</c><00:00:59.449><c> element</c><00:01:00.449><c> X</c><00:01:00.600><c> which</c><00:01:01.379><c> is</c>
+
+00:01:01.549 --> 00:01:01.559 align:start position:0%
+to start with an element X which is
+ 
+
+00:01:01.559 --> 00:01:05.179 align:start position:0%
+to start with an element X which is
+inside<00:01:01.920><c> of</c><00:01:02.160><c> the</c><00:01:02.340><c> a</c><00:01:02.370><c> and</c><00:01:03.110><c> the</c><00:01:04.110><c> B</c><00:01:04.140><c> inside</c><00:01:04.799><c> of</c><00:01:04.979><c> a</c>
+
+00:01:05.179 --> 00:01:05.189 align:start position:0%
+inside of the a and the B inside of a
+ 
+
+00:01:05.189 --> 00:01:11.090 align:start position:0%
+inside of the a and the B inside of a
+union<00:01:05.970><c> B</c><00:01:07.100><c> but</c><00:01:08.100><c> the</c><00:01:08.810><c> definition</c><00:01:09.810><c> of</c><00:01:10.049><c> a</c><00:01:10.560><c> union</c><00:01:11.070><c> B</c>
+
+00:01:11.090 --> 00:01:11.100 align:start position:0%
+union B but the definition of a union B
+ 
+
+00:01:11.100 --> 00:01:13.219 align:start position:0%
+union B but the definition of a union B
+and<00:01:11.460><c> by</c><00:01:11.580><c> the</c><00:01:11.640><c> way</c><00:01:11.909><c> all</c><00:01:12.150><c> definitions</c><00:01:13.020><c> are</c>
+
+00:01:13.219 --> 00:01:13.229 align:start position:0%
+and by the way all definitions are
+ 
+
+00:01:13.229 --> 00:01:15.679 align:start position:0%
+and by the way all definitions are
+inherently<00:01:13.890><c> if</c><00:01:14.250><c> and</c><00:01:14.460><c> only</c><00:01:14.520><c> if</c><00:01:14.760><c> you</c><00:01:15.450><c> don't</c><00:01:15.600><c> have</c>
+
+00:01:15.679 --> 00:01:15.689 align:start position:0%
+inherently if and only if you don't have
+ 
+
+00:01:15.689 --> 00:01:16.910 align:start position:0%
+inherently if and only if you don't have
+to<00:01:15.780><c> worry</c><00:01:15.960><c> about</c><00:01:16.080><c> that</c><00:01:16.259><c> if</c><00:01:16.350><c> you're</c><00:01:16.470><c> applying</c><00:01:16.560><c> a</c>
+
+00:01:16.910 --> 00:01:16.920 align:start position:0%
+to worry about that if you're applying a
+ 
+
+00:01:16.920 --> 00:01:20.210 align:start position:0%
+to worry about that if you're applying a
+definition<00:01:17.490><c> it</c><00:01:17.670><c> is</c><00:01:17.880><c> always</c><00:01:18.390><c> if</c><00:01:18.570><c> anomia</c><00:01:18.979><c> so</c><00:01:19.979><c> X</c>
+
+00:01:20.210 --> 00:01:20.220 align:start position:0%
+definition it is always if anomia so X
+ 
+
+00:01:20.220 --> 00:01:23.359 align:start position:0%
+definition it is always if anomia so X
+is<00:01:20.400><c> an</c><00:01:20.520><c> a</c><00:01:20.640><c> union</c><00:01:21.210><c> B</c><00:01:21.420><c> is</c><00:01:21.659><c> the</c><00:01:22.170><c> same</c><00:01:22.409><c> thing</c><00:01:22.710><c> as</c><00:01:22.950><c> X</c>
+
+00:01:23.359 --> 00:01:23.369 align:start position:0%
+is an a union B is the same thing as X
+ 
+
+00:01:23.369 --> 00:01:27.230 align:start position:0%
+is an a union B is the same thing as X
+is<00:01:23.759><c> in</c><00:01:23.939><c> a</c><00:01:24.090><c> or</c><00:01:25.520><c> I'm</c><00:01:26.520><c> going</c><00:01:26.700><c> to</c><00:01:26.729><c> put</c><00:01:26.820><c> this</c><00:01:27.000><c> symbol</c>
+
+00:01:27.230 --> 00:01:27.240 align:start position:0%
+is in a or I'm going to put this symbol
+ 
+
+00:01:27.240 --> 00:01:32.620 align:start position:0%
+is in a or I'm going to put this symbol
+for<00:01:27.659><c> my</c><00:01:27.780><c> disjunctive</c><00:01:28.439><c> or</c><00:01:28.820><c> X</c><00:01:29.820><c> is</c><00:01:30.270><c> inside</c><00:01:30.840><c> of</c><00:01:31.619><c> B</c>
+
+00:01:32.620 --> 00:01:32.630 align:start position:0%
+for my disjunctive or X is inside of B
+ 
+
+00:01:32.630 --> 00:01:35.810 align:start position:0%
+for my disjunctive or X is inside of B
+but<00:01:33.630><c> now</c><00:01:33.869><c> we</c><00:01:33.930><c> can</c><00:01:34.350><c> use</c><00:01:34.380><c> a</c><00:01:34.860><c> property</c><00:01:35.490><c> that</c><00:01:35.520><c> we</c>
+
+00:01:35.810 --> 00:01:35.820 align:start position:0%
+but now we can use a property that we
+ 
+
+00:01:35.820 --> 00:01:38.719 align:start position:0%
+but now we can use a property that we
+had<00:01:36.060><c> for</c><00:01:36.360><c> disjunctive</c><00:01:36.900><c> we</c><00:01:37.470><c> know</c><00:01:37.799><c> that</c><00:01:38.250><c> two</c>
+
+00:01:38.719 --> 00:01:38.729 align:start position:0%
+had for disjunctive we know that two
+ 
+
+00:01:38.729 --> 00:01:40.550 align:start position:0%
+had for disjunctive we know that two
+properties<00:01:39.479><c> that</c><00:01:39.630><c> are</c><00:01:39.750><c> connected</c><00:01:40.110><c> with</c><00:01:40.140><c> an</c><00:01:40.320><c> or</c>
+
+00:01:40.550 --> 00:01:40.560 align:start position:0%
+properties that are connected with an or
+ 
+
+00:01:40.560 --> 00:01:43.520 align:start position:0%
+properties that are connected with an or
+that<00:01:41.159><c> I</c><00:01:41.280><c> can</c><00:01:41.490><c> reverse</c><00:01:41.850><c> that</c><00:01:42.119><c> order</c><00:01:42.840><c> that</c><00:01:43.409><c> I</c><00:01:43.439><c> can</c>
+
+00:01:43.520 --> 00:01:43.530 align:start position:0%
+that I can reverse that order that I can
+ 
+
+00:01:43.530 --> 00:01:45.740 align:start position:0%
+that I can reverse that order that I can
+say<00:01:43.829><c> that</c><00:01:43.860><c> this</c><00:01:44.130><c> is</c><00:01:44.189><c> the</c><00:01:44.460><c> same</c><00:01:44.700><c> thing</c><00:01:45.000><c> as</c><00:01:45.240><c> X</c>
+
+00:01:45.740 --> 00:01:45.750 align:start position:0%
+say that this is the same thing as X
+ 
+
+00:01:45.750 --> 00:01:50.990 align:start position:0%
+say that this is the same thing as X
+inside<00:01:46.200><c> of</c><00:01:46.409><c> B</c><00:01:46.710><c> or</c><00:01:47.070><c> X</c><00:01:48.060><c> is</c><00:01:48.509><c> inside</c><00:01:48.899><c> of</c><00:01:49.229><c> a</c><00:01:50.000><c> indeed</c>
+
+00:01:50.990 --> 00:01:51.000 align:start position:0%
+inside of B or X is inside of a indeed
+ 
+
+00:01:51.000 --> 00:01:53.300 align:start position:0%
+inside of B or X is inside of a indeed
+back<00:01:51.540><c> in</c><00:01:51.780><c> the</c><00:01:51.899><c> day</c><00:01:52.079><c> we</c><00:01:52.290><c> would</c><00:01:52.380><c> have</c><00:01:52.530><c> verified</c>
+
+00:01:53.300 --> 00:01:53.310 align:start position:0%
+back in the day we would have verified
+ 
+
+00:01:53.310 --> 00:01:56.179 align:start position:0%
+back in the day we would have verified
+this<00:01:53.520><c> logical</c><00:01:54.210><c> property</c><00:01:54.750><c> by</c><00:01:55.259><c> looking</c><00:01:55.890><c> at</c><00:01:56.040><c> it</c>
+
+00:01:56.179 --> 00:01:56.189 align:start position:0%
+this logical property by looking at it
+ 
+
+00:01:56.189 --> 00:01:58.429 align:start position:0%
+this logical property by looking at it
+at<00:01:56.310><c> level</c><00:01:56.520><c> of</c><00:01:56.729><c> truth</c><00:01:56.969><c> tables</c><00:01:57.479><c> this</c><00:01:57.570><c> is</c><00:01:57.750><c> P</c><00:01:58.200><c> or</c><00:01:58.409><c> Q</c>
+
+00:01:58.429 --> 00:01:58.439 align:start position:0%
+at level of truth tables this is P or Q
+ 
+
+00:01:58.439 --> 00:02:01.190 align:start position:0%
+at level of truth tables this is P or Q
+and<00:01:59.040><c> this</c><00:01:59.100><c> is</c><00:01:59.159><c> Q</c><00:01:59.340><c> or</c><00:01:59.880><c> P</c><00:01:59.909><c> and</c><00:02:00.509><c> you</c><00:02:00.540><c> can</c><00:02:00.990><c> verify</c>
+
+00:02:01.190 --> 00:02:01.200 align:start position:0%
+and this is Q or P and you can verify
+ 
+
+00:02:01.200 --> 00:02:03.620 align:start position:0%
+and this is Q or P and you can verify
+that<00:02:01.409><c> they</c><00:02:01.710><c> have</c><00:02:01.920><c> the</c><00:02:02.219><c> same</c><00:02:02.579><c> truth</c><00:02:02.969><c> table</c><00:02:03.149><c> so</c>
+
+00:02:03.620 --> 00:02:03.630 align:start position:0%
+that they have the same truth table so
+ 
+
+00:02:03.630 --> 00:02:06.620 align:start position:0%
+that they have the same truth table so
+this<00:02:03.899><c> is</c><00:02:04.079><c> a</c><00:02:04.110><c> logical</c><00:02:04.590><c> equivalence</c><00:02:05.159><c> and</c><00:02:05.340><c> then</c><00:02:06.329><c> I</c>
+
+00:02:06.620 --> 00:02:06.630 align:start position:0%
+this is a logical equivalence and then I
+ 
+
+00:02:06.630 --> 00:02:10.580 align:start position:0%
+this is a logical equivalence and then I
+can<00:02:06.780><c> go</c><00:02:06.899><c> backwards</c><00:02:07.409><c> X</c><00:02:07.890><c> and</c><00:02:08.280><c> B</c><00:02:08.489><c> or</c><00:02:08.759><c> X</c><00:02:09.209><c> and</c><00:02:09.539><c> a</c><00:02:09.840><c> this</c>
+
+00:02:10.580 --> 00:02:10.590 align:start position:0%
+can go backwards X and B or X and a this
+ 
+
+00:02:10.590 --> 00:02:12.470 align:start position:0%
+can go backwards X and B or X and a this
+is<00:02:10.800><c> precisely</c><00:02:11.250><c> the</c><00:02:11.580><c> same</c><00:02:11.970><c> thing</c>
+
+00:02:12.470 --> 00:02:12.480 align:start position:0%
+is precisely the same thing
+ 
+
+00:02:12.480 --> 00:02:17.899 align:start position:0%
+is precisely the same thing
+saying<00:02:12.690><c> that</c><00:02:12.930><c> X</c><00:02:13.170><c> is</c><00:02:13.409><c> in</c><00:02:13.730><c> B</c><00:02:14.900><c> Union</c><00:02:15.900><c> a</c><00:02:16.500><c> and</c><00:02:17.159><c> so</c><00:02:17.879><c> I</c>
+
+00:02:17.899 --> 00:02:17.909 align:start position:0%
+saying that X is in B Union a and so I
+ 
+
+00:02:17.909 --> 00:02:20.869 align:start position:0%
+saying that X is in B Union a and so I
+have<00:02:18.299><c> a</c><00:02:18.569><c> chain</c><00:02:19.019><c> of</c><00:02:19.319><c> if</c><00:02:19.620><c> and</c><00:02:19.890><c> only</c><00:02:19.980><c> if</c><00:02:20.250><c> and</c><00:02:20.610><c> I</c><00:02:20.670><c> get</c>
+
+00:02:20.869 --> 00:02:20.879 align:start position:0%
+have a chain of if and only if and I get
+ 
+
+00:02:20.879 --> 00:02:23.720 align:start position:0%
+have a chain of if and only if and I get
+if<00:02:20.970><c> I</c><00:02:21.090><c> start</c><00:02:21.510><c> in</c><00:02:21.690><c> a</c><00:02:21.840><c> union</c><00:02:22.230><c> B</c><00:02:22.260><c> I</c><00:02:22.650><c> end</c><00:02:23.099><c> up</c><00:02:23.370><c> in</c><00:02:23.549><c> B</c>
+
+00:02:23.720 --> 00:02:23.730 align:start position:0%
+if I start in a union B I end up in B
+ 
+
+00:02:23.730 --> 00:02:26.210 align:start position:0%
+if I start in a union B I end up in B
+Union<00:02:23.970><c> a</c><00:02:24.180><c> and</c><00:02:24.480><c> the</c><00:02:25.260><c> key</c><00:02:25.470><c> thing</c><00:02:25.739><c> to</c><00:02:25.769><c> note</c><00:02:26.190><c> here</c>
+
+00:02:26.210 --> 00:02:26.220 align:start position:0%
+Union a and the key thing to note here
+ 
+
+00:02:26.220 --> 00:02:30.140 align:start position:0%
+Union a and the key thing to note here
+is<00:02:26.730><c> that</c><00:02:27.140><c> the</c><00:02:28.310><c> important</c><00:02:29.310><c> property</c><00:02:29.970><c> is</c>
+
+00:02:30.140 --> 00:02:30.150 align:start position:0%
+is that the important property is
+ 
+
+00:02:30.150 --> 00:02:32.809 align:start position:0%
+is that the important property is
+something<00:02:30.690><c> about</c><00:02:30.900><c> logic</c><00:02:31.590><c> the</c><00:02:31.769><c> the</c><00:02:32.129><c> reversing</c>
+
+00:02:32.809 --> 00:02:32.819 align:start position:0%
+something about logic the the reversing
+ 
+
+00:02:32.819 --> 00:02:35.000 align:start position:0%
+something about logic the the reversing
+the<00:02:32.940><c> order</c><00:02:32.970><c> came</c><00:02:33.660><c> down</c><00:02:33.900><c> here</c><00:02:34.230><c> is</c><00:02:34.319><c> a</c><00:02:34.440><c> logical</c>
+
+00:02:35.000 --> 00:02:35.010 align:start position:0%
+the order came down here is a logical
+ 
+
+00:02:35.010 --> 00:02:37.729 align:start position:0%
+the order came down here is a logical
+property<00:02:35.489><c> and</c><00:02:35.700><c> then</c><00:02:36.239><c> because</c><00:02:36.599><c> the</c><00:02:36.780><c> Union</c><00:02:37.290><c> was</c>
+
+00:02:37.729 --> 00:02:37.739 align:start position:0%
+property and then because the Union was
+ 
+
+00:02:37.739 --> 00:02:40.130 align:start position:0%
+property and then because the Union was
+defined<00:02:38.370><c> in</c><00:02:38.700><c> terms</c><00:02:38.910><c> of</c><00:02:39.180><c> this</c><00:02:39.360><c> or</c><00:02:39.599><c> statement</c>
+
+00:02:40.130 --> 00:02:40.140 align:start position:0%
+defined in terms of this or statement
+ 
+
+00:02:40.140 --> 00:02:42.500 align:start position:0%
+defined in terms of this or statement
+you<00:02:40.530><c> could</c><00:02:40.709><c> sort</c><00:02:41.069><c> of</c><00:02:41.129><c> bring</c><00:02:41.790><c> it</c><00:02:41.940><c> out</c><00:02:42.120><c> of</c><00:02:42.360><c> the</c>
+
+00:02:42.500 --> 00:02:42.510 align:start position:0%
+you could sort of bring it out of the
+ 
+
+00:02:42.510 --> 00:02:44.900 align:start position:0%
+you could sort of bring it out of the
+logical<00:02:43.140><c> property</c><00:02:43.769><c> into</c><00:02:44.310><c> this</c><00:02:44.430><c> statement</c>
+
+00:02:44.900 --> 00:02:44.910 align:start position:0%
+logical property into this statement
+ 
+
+00:02:44.910 --> 00:02:48.140 align:start position:0%
+logical property into this statement
+about<00:02:45.209><c> unions</c><00:02:45.690><c> but</c><00:02:46.530><c> the</c><00:02:46.680><c> same</c><00:02:46.980><c> is</c><00:02:47.250><c> true</c><00:02:47.459><c> in</c><00:02:48.120><c> a</c>
+
+00:02:48.140 --> 00:02:48.150 align:start position:0%
+about unions but the same is true in a
+ 
+
+00:02:48.150 --> 00:02:50.569 align:start position:0%
+about unions but the same is true in a
+much<00:02:48.510><c> larger</c><00:02:48.989><c> domain</c><00:02:49.349><c> for</c><00:02:49.709><c> instance</c><00:02:49.980><c> we</c><00:02:50.430><c> have</c>
+
+00:02:50.569 --> 00:02:50.579 align:start position:0%
+much larger domain for instance we have
+ 
+
+00:02:50.579 --> 00:02:52.789 align:start position:0%
+much larger domain for instance we have
+a<00:02:50.609><c> de</c><00:02:50.940><c> Morgan's</c><00:02:51.420><c> law</c><00:02:51.599><c> for</c><00:02:51.870><c> logic</c><00:02:52.230><c> we</c><00:02:52.349><c> have</c><00:02:52.379><c> a</c><00:02:52.530><c> de</c>
+
+00:02:52.789 --> 00:02:52.799 align:start position:0%
+a de Morgan's law for logic we have a de
+ 
+
+00:02:52.799 --> 00:02:56.900 align:start position:0%
+a de Morgan's law for logic we have a de
+Morgan's<00:02:53.280><c> law</c><00:02:53.489><c> for</c><00:02:54.000><c> sets</c><00:02:54.329><c> and</c><00:02:55.010><c> that</c><00:02:56.010><c> idea</c><00:02:56.579><c> is</c>
+
+00:02:56.900 --> 00:02:56.910 align:start position:0%
+Morgan's law for sets and that idea is
+ 
+
+00:02:56.910 --> 00:02:58.670 align:start position:0%
+Morgan's law for sets and that idea is
+going<00:02:57.209><c> to</c><00:02:57.299><c> continue</c><00:02:57.660><c> for</c><00:02:57.870><c> all</c><00:02:58.170><c> of</c><00:02:58.560><c> the</c>
+
+00:02:58.670 --> 00:02:58.680 align:start position:0%
+going to continue for all of the
+ 
+
+00:02:58.680 --> 00:03:02.450 align:start position:0%
+going to continue for all of the
+different<00:02:58.829><c> logical</c><00:02:59.640><c> equivalences</c>
+

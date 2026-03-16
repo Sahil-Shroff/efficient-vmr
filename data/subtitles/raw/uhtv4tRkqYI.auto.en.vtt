@@ -1,0 +1,200 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.160 --> 00:00:01.790 align:start position:0%
+ 
+connecting<00:00:00.680><c> these</c><00:00:00.840><c> two</c><00:00:01.079><c> line</c><00:00:01.319><c> segments</c><00:00:01.640><c> of</c>
+
+00:00:01.790 --> 00:00:01.800 align:start position:0%
+connecting these two line segments of
+ 
+
+00:00:01.800 --> 00:00:03.709 align:start position:0%
+connecting these two line segments of
+length<00:00:02.120><c> one</c><00:00:02.560><c> produces</c><00:00:02.960><c> a</c><00:00:03.080><c> line</c><00:00:03.320><c> segment</c><00:00:03.600><c> of</c>
+
+00:00:03.709 --> 00:00:03.719 align:start position:0%
+length one produces a line segment of
+ 
+
+00:00:03.719 --> 00:00:06.430 align:start position:0%
+length one produces a line segment of
+length<00:00:03.959><c> root2</c><00:00:04.839><c> draw</c><00:00:05.120><c> a</c><00:00:05.240><c> circle</c><00:00:05.560><c> of</c><00:00:05.759><c> radius</c><00:00:06.160><c> one</c>
+
+00:00:06.430 --> 00:00:06.440 align:start position:0%
+length root2 draw a circle of radius one
+ 
+
+00:00:06.440 --> 00:00:08.230 align:start position:0%
+length root2 draw a circle of radius one
+at<00:00:06.560><c> the</c><00:00:06.680><c> end</c><00:00:06.879><c> of</c><00:00:07.040><c> that</c><00:00:07.200><c> line</c><00:00:07.480><c> segment</c><00:00:07.839><c> draw</c>
+
+00:00:08.230 --> 00:00:08.240 align:start position:0%
+at the end of that line segment draw
+ 
+
+00:00:08.240 --> 00:00:10.030 align:start position:0%
+at the end of that line segment draw
+perpendicular<00:00:08.920><c> to</c><00:00:09.080><c> that</c><00:00:09.240><c> line</c><00:00:09.480><c> segment</c><00:00:09.880><c> and</c>
+
+00:00:10.030 --> 00:00:10.040 align:start position:0%
+perpendicular to that line segment and
+ 
+
+00:00:10.040 --> 00:00:11.629 align:start position:0%
+perpendicular to that line segment and
+this<00:00:10.200><c> produces</c><00:00:10.559><c> a</c><00:00:10.679><c> line</c><00:00:10.920><c> segment</c><00:00:11.240><c> of</c><00:00:11.360><c> length</c>
+
+00:00:11.629 --> 00:00:11.639 align:start position:0%
+this produces a line segment of length
+ 
+
+00:00:11.639 --> 00:00:13.829 align:start position:0%
+this produces a line segment of length
+root<00:00:11.920><c> three</c><00:00:12.599><c> you</c><00:00:12.719><c> can</c><00:00:12.920><c> continue</c><00:00:13.360><c> repeating</c>
+
+00:00:13.829 --> 00:00:13.839 align:start position:0%
+root three you can continue repeating
+ 
+
+00:00:13.839 --> 00:00:15.749 align:start position:0%
+root three you can continue repeating
+this<00:00:14.080><c> process</c><00:00:14.440><c> over</c><00:00:14.639><c> and</c><00:00:14.799><c> over</c><00:00:15.080><c> again</c><00:00:15.440><c> drawing</c>
+
+00:00:15.749 --> 00:00:15.759 align:start position:0%
+this process over and over again drawing
+ 
+
+00:00:15.759 --> 00:00:17.830 align:start position:0%
+this process over and over again drawing
+a<00:00:16.000><c> circle</c><00:00:16.279><c> of</c><00:00:16.480><c> radius</c><00:00:16.960><c> one</c><00:00:17.439><c> drawing</c><00:00:17.720><c> a</c>
+
+00:00:17.830 --> 00:00:17.840 align:start position:0%
+a circle of radius one drawing a
+ 
+
+00:00:17.840 --> 00:00:19.310 align:start position:0%
+a circle of radius one drawing a
+perpendicular<00:00:18.439><c> to</c><00:00:18.560><c> the</c><00:00:18.720><c> previous</c><00:00:19.080><c> line</c>
+
+00:00:19.310 --> 00:00:19.320 align:start position:0%
+perpendicular to the previous line
+ 
+
+00:00:19.320 --> 00:00:21.150 align:start position:0%
+perpendicular to the previous line
+segment<00:00:19.960><c> and</c><00:00:20.080><c> then</c><00:00:20.199><c> the</c><00:00:20.320><c> new</c><00:00:20.560><c> line</c><00:00:20.800><c> segment</c>
+
+00:00:21.150 --> 00:00:21.160 align:start position:0%
+segment and then the new line segment
+ 
+
+00:00:21.160 --> 00:00:22.710 align:start position:0%
+segment and then the new line segment
+will<00:00:21.320><c> have</c><00:00:21.519><c> a</c><00:00:21.680><c> length</c><00:00:22.000><c> given</c><00:00:22.240><c> by</c><00:00:22.359><c> the</c><00:00:22.480><c> square</c>
+
+00:00:22.710 --> 00:00:22.720 align:start position:0%
+will have a length given by the square
+ 
+
+00:00:22.720 --> 00:00:24.830 align:start position:0%
+will have a length given by the square
+root<00:00:23.000><c> of</c><00:00:23.080><c> the</c><00:00:23.240><c> next</c><00:00:23.480><c> integer</c><00:00:24.279><c> so</c><00:00:24.480><c> here</c><00:00:24.640><c> we've</c>
+
+00:00:24.830 --> 00:00:24.840 align:start position:0%
+root of the next integer so here we've
+ 
+
+00:00:24.840 --> 00:00:27.070 align:start position:0%
+root of the next integer so here we've
+constructed<00:00:25.400><c> the</c><00:00:25.560><c> length</c><00:00:26.039><c> &lt;</c><00:00:26.199><c> TK</c><00:00:26.279><c> of</c><00:00:26.359><c> two</c><00:00:26.640><c> up</c><00:00:26.760><c> to</c>
+
+00:00:27.070 --> 00:00:27.080 align:start position:0%
+constructed the length &lt; TK of two up to
+ 
+
+00:00:27.080 --> 00:00:29.589 align:start position:0%
+constructed the length &lt; TK of two up to
+&lt;<00:00:27.199><c> TK</c><00:00:27.320><c> of</c><00:00:27.439><c> 7</c><00:00:28.400><c> repeating</c><00:00:28.880><c> this</c><00:00:29.080><c> process</c><00:00:29.439><c> over</c>
+
+00:00:29.589 --> 00:00:29.599 align:start position:0%
+&lt; TK of 7 repeating this process over
+ 
+
+00:00:29.599 --> 00:00:31.710 align:start position:0%
+&lt; TK of 7 repeating this process over
+and<00:00:29.759><c> over</c><00:00:30.160><c> produces</c><00:00:30.519><c> a</c><00:00:30.720><c> spiral</c><00:00:31.080><c> shape</c><00:00:31.519><c> known</c>
+
+00:00:31.710 --> 00:00:31.720 align:start position:0%
+and over produces a spiral shape known
+ 
+
+00:00:31.720 --> 00:00:34.830 align:start position:0%
+and over produces a spiral shape known
+as<00:00:31.880><c> the</c><00:00:32.079><c> spiral</c><00:00:32.520><c> of</c><00:00:33.120><c> theodoris</c><00:00:34.120><c> we</c><00:00:34.239><c> can</c><00:00:34.520><c> use</c>
+
+00:00:34.830 --> 00:00:34.840 align:start position:0%
+as the spiral of theodoris we can use
+ 
+
+00:00:34.840 --> 00:00:37.110 align:start position:0%
+as the spiral of theodoris we can use
+this<00:00:35.079><c> spiral</c><00:00:35.600><c> to</c><00:00:35.800><c> construct</c><00:00:36.320><c> lengths</c><00:00:36.640><c> of</c><00:00:36.840><c> sare</c>
+
+00:00:37.110 --> 00:00:37.120 align:start position:0%
+this spiral to construct lengths of sare
+ 
+
+00:00:37.120 --> 00:00:39.709 align:start position:0%
+this spiral to construct lengths of sare
+root<00:00:37.360><c> of</c><00:00:37.480><c> n</c><00:00:37.760><c> for</c><00:00:38.120><c> any</c><00:00:38.360><c> n</c><00:00:38.719><c> that</c><00:00:38.879><c> we</c><00:00:39.040><c> want</c><00:00:39.320><c> where</c><00:00:39.480><c> N</c>
+
+00:00:39.709 --> 00:00:39.719 align:start position:0%
+root of n for any n that we want where N
+ 
+
+00:00:39.719 --> 00:00:41.670 align:start position:0%
+root of n for any n that we want where N
+is<00:00:39.840><c> a</c><00:00:40.079><c> positive</c><00:00:40.480><c> integer</c><00:00:41.079><c> just</c><00:00:41.239><c> using</c><00:00:41.520><c> a</c>
+
+00:00:41.670 --> 00:00:41.680 align:start position:0%
+is a positive integer just using a
+ 
+
+00:00:41.680 --> 00:00:43.990 align:start position:0%
+is a positive integer just using a
+straight<00:00:42.000><c> edge</c><00:00:42.200><c> and</c><00:00:42.360><c> a</c><00:00:42.520><c> compass</c><00:00:43.399><c> for</c><00:00:43.600><c> example</c>
+
+00:00:43.990 --> 00:00:44.000 align:start position:0%
+straight edge and a compass for example
+ 
+
+00:00:44.000 --> 00:00:46.389 align:start position:0%
+straight edge and a compass for example
+as<00:00:44.120><c> we</c><00:00:44.280><c> keep</c><00:00:44.440><c> spiraling</c><00:00:44.960><c> out</c><00:00:45.280><c> here</c><00:00:45.800><c> we'll</c><00:00:46.120><c> end</c>
+
+00:00:46.389 --> 00:00:46.399 align:start position:0%
+as we keep spiraling out here we'll end
+ 
+
+00:00:46.399 --> 00:00:48.470 align:start position:0%
+as we keep spiraling out here we'll end
+with<00:00:46.520><c> a</c><00:00:46.680><c> line</c><00:00:46.960><c> segment</c><00:00:47.360><c> whose</c><00:00:47.600><c> length</c><00:00:47.879><c> is</c><00:00:48.239><c> &lt;</c><00:00:48.360><c> TK</c>
+
+00:00:48.470 --> 00:00:48.480 align:start position:0%
+with a line segment whose length is &lt; TK
+ 
+
+00:00:48.480 --> 00:00:50.670 align:start position:0%
+with a line segment whose length is &lt; TK
+of<00:00:48.760><c> 200</c><00:00:49.480><c> do</c><00:00:49.600><c> you</c><00:00:49.719><c> think</c><00:00:49.879><c> you</c><00:00:50.000><c> could</c><00:00:50.199><c> construct</c>
+
+00:00:50.670 --> 00:00:50.680 align:start position:0%
+of 200 do you think you could construct
+ 
+
+00:00:50.680 --> 00:00:53.760 align:start position:0%
+of 200 do you think you could construct
+this<00:00:50.879><c> by</c><00:00:51.079><c> hand</c>
+

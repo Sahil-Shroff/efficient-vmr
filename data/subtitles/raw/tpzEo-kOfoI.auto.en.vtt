@@ -1,0 +1,264 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.280 --> 00:00:02.590 align:start position:0%
+ 
+let's<00:00:00.560><c> solve</c><00:00:00.960><c> this</c><00:00:01.199><c> differentiation</c><00:00:02.120><c> problem</c>
+
+00:00:02.590 --> 00:00:02.600 align:start position:0%
+let's solve this differentiation problem
+ 
+
+00:00:02.600 --> 00:00:05.030 align:start position:0%
+let's solve this differentiation problem
+step<00:00:03.000><c> by</c><00:00:03.320><c> step</c><00:00:04.120><c> we</c><00:00:04.279><c> need</c><00:00:04.440><c> to</c><00:00:04.600><c> find</c><00:00:04.880><c> the</c>
+
+00:00:05.030 --> 00:00:05.040 align:start position:0%
+step by step we need to find the
+ 
+
+00:00:05.040 --> 00:00:09.390 align:start position:0%
+step by step we need to find the
+derivative<00:00:05.600><c> of</c><00:00:05.879><c> x</c><00:00:06.600><c> *</c><00:00:07.160><c> the</c><00:00:07.399><c> square</c><00:00:07.759><c> &lt;</c><00:00:07.879><c> TK</c><00:00:08.240><c> of</c><00:00:08.519><c> x^2</c>
+
+00:00:09.390 --> 00:00:09.400 align:start position:0%
+derivative of x * the square &lt; TK of x^2
+ 
+
+00:00:09.400 --> 00:00:13.350 align:start position:0%
+derivative of x * the square &lt; TK of x^2
++<00:00:09.760><c> a</c><00:00:10.120><c> 2</c><00:00:11.120><c> first</c><00:00:12.000><c> let's</c><00:00:12.320><c> identify</c><00:00:12.920><c> that</c><00:00:13.120><c> this</c><00:00:13.240><c> is</c>
+
+00:00:13.350 --> 00:00:13.360 align:start position:0%
++ a 2 first let's identify that this is
+ 
+
+00:00:13.360 --> 00:00:17.750 align:start position:0%
++ a 2 first let's identify that this is
+a<00:00:13.719><c> product</c><00:00:14.360><c> of</c><00:00:14.719><c> two</c><00:00:15.279><c> functions</c><00:00:16.279><c> we</c><00:00:16.440><c> have</c><00:00:16.600><c> =</c><00:00:17.199><c> X</c>
+
+00:00:17.750 --> 00:00:17.760 align:start position:0%
+a product of two functions we have = X
+ 
+
+00:00:17.760 --> 00:00:22.790 align:start position:0%
+a product of two functions we have = X
+and<00:00:17.960><c> V</c><00:00:18.359><c> =</c><00:00:18.800><c> the</c><00:00:19.359><c> &lt;</c><00:00:19.480><c> TK</c><00:00:19.680><c> of</c><00:00:19.960><c> x^2</c><00:00:20.760><c> +</c><00:00:21.000><c> a</c><00:00:21.199><c> 2</c><00:00:22.199><c> this</c><00:00:22.359><c> means</c>
+
+00:00:22.790 --> 00:00:22.800 align:start position:0%
+and V = the &lt; TK of x^2 + a 2 this means
+ 
+
+00:00:22.800 --> 00:00:25.150 align:start position:0%
+and V = the &lt; TK of x^2 + a 2 this means
+we'll<00:00:23.039><c> need</c><00:00:23.240><c> to</c><00:00:23.400><c> use</c><00:00:23.680><c> the</c><00:00:23.840><c> product</c><00:00:24.279><c> rule</c>
+
+00:00:25.150 --> 00:00:25.160 align:start position:0%
+we'll need to use the product rule
+ 
+
+00:00:25.160 --> 00:00:28.669 align:start position:0%
+we'll need to use the product rule
+applying<00:00:25.640><c> the</c><00:00:25.840><c> product</c><00:00:26.240><c> rule</c><00:00:27.160><c> we</c><00:00:27.400><c> get</c><00:00:27.679><c> x</c><00:00:28.000><c> *</c><00:00:28.519><c> the</c>
+
+00:00:28.669 --> 00:00:28.679 align:start position:0%
+applying the product rule we get x * the
+ 
+
+00:00:28.679 --> 00:00:31.669 align:start position:0%
+applying the product rule we get x * the
+derivative<00:00:29.240><c> of</c><00:00:29.359><c> the</c><00:00:29.519><c> square</c><00:00:30.080><c> root</c><00:00:30.400><c> term</c><00:00:31.400><c> plus</c>
+
+00:00:31.669 --> 00:00:31.679 align:start position:0%
+derivative of the square root term plus
+ 
+
+00:00:31.679 --> 00:00:33.670 align:start position:0%
+derivative of the square root term plus
+the<00:00:31.840><c> square</c><00:00:32.119><c> root</c><00:00:32.439><c> term</c><00:00:33.079><c> times</c><00:00:33.559><c> the</c>
+
+00:00:33.670 --> 00:00:33.680 align:start position:0%
+the square root term times the
+ 
+
+00:00:33.680 --> 00:00:37.030 align:start position:0%
+the square root term times the
+derivative<00:00:34.160><c> of</c><00:00:34.320><c> x</c><00:00:35.239><c> now</c><00:00:35.399><c> for</c><00:00:35.600><c> the</c><00:00:35.760><c> first</c><00:00:36.079><c> term</c>
+
+00:00:37.030 --> 00:00:37.040 align:start position:0%
+derivative of x now for the first term
+ 
+
+00:00:37.040 --> 00:00:39.350 align:start position:0%
+derivative of x now for the first term
+we<00:00:37.200><c> need</c><00:00:37.360><c> to</c><00:00:37.520><c> use</c><00:00:37.760><c> the</c><00:00:37.960><c> chain</c><00:00:38.360><c> rule</c><00:00:39.120><c> to</c>
+
+00:00:39.350 --> 00:00:39.360 align:start position:0%
+we need to use the chain rule to
+ 
+
+00:00:39.360 --> 00:00:41.549 align:start position:0%
+we need to use the chain rule to
+differentiate<00:00:40.039><c> the</c><00:00:40.200><c> square</c><00:00:40.559><c> root</c><00:00:41.360><c> the</c>
+
+00:00:41.549 --> 00:00:41.559 align:start position:0%
+differentiate the square root the
+ 
+
+00:00:41.559 --> 00:00:44.430 align:start position:0%
+differentiate the square root the
+derivative<00:00:42.000><c> of</c><00:00:42.200><c> square</c><00:00:42.559><c> root</c><00:00:42.800><c> of</c><00:00:42.920><c> U</c><00:00:43.360><c> is</c><00:00:43.559><c> 1</c><00:00:43.760><c> /</c><00:00:44.079><c> 2</c>
+
+00:00:44.430 --> 00:00:44.440 align:start position:0%
+derivative of square root of U is 1 / 2
+ 
+
+00:00:44.440 --> 00:00:48.150 align:start position:0%
+derivative of square root of U is 1 / 2
+sare<00:00:44.800><c> &lt;</c><00:00:44.920><c> TK</c><00:00:45.520><c> of</c><00:00:45.680><c> U</c><00:00:46.000><c> *</c><00:00:46.520><c> the</c><00:00:46.680><c> derivative</c><00:00:47.160><c> of</c><00:00:47.320><c> U</c>
+
+00:00:48.150 --> 00:00:48.160 align:start position:0%
+sare &lt; TK of U * the derivative of U
+ 
+
+00:00:48.160 --> 00:00:52.229 align:start position:0%
+sare &lt; TK of U * the derivative of U
+applying<00:00:48.719><c> this</c><00:00:48.920><c> to</c><00:00:49.160><c> our</c><00:00:49.480><c> problem</c><00:00:50.440><c> we</c><00:00:50.640><c> get</c><00:00:50.879><c> x/</c><00:00:51.440><c> 2</c>
+
+00:00:52.229 --> 00:00:52.239 align:start position:0%
+applying this to our problem we get x/ 2
+ 
+
+00:00:52.239 --> 00:00:56.110 align:start position:0%
+applying this to our problem we get x/ 2
+&lt;<00:00:52.359><c> TK</c><00:00:52.840><c> of</c><00:00:53.160><c> x^2</c><00:00:53.920><c> +</c><00:00:54.199><c> a</c><00:00:54.520><c> squar</c><00:00:55.520><c> times</c><00:00:55.960><c> the</c>
+
+00:00:56.110 --> 00:00:56.120 align:start position:0%
+&lt; TK of x^2 + a squar times the
+ 
+
+00:00:56.120 --> 00:00:58.509 align:start position:0%
+&lt; TK of x^2 + a squar times the
+derivative<00:00:57.120><c> of</c><00:00:57.359><c> what's</c><00:00:57.600><c> inside</c><00:00:58.039><c> the</c><00:00:58.199><c> square</c>
+
+00:00:58.509 --> 00:00:58.519 align:start position:0%
+derivative of what's inside the square
+ 
+
+00:00:58.519 --> 00:01:01.790 align:start position:0%
+derivative of what's inside the square
+root<00:00:59.280><c> plus</c><00:00:59.480><c> the</c><00:01:00.120><c> root</c><00:01:00.320><c> term</c><00:01:01.079><c> the</c><00:01:01.239><c> derivative</c>
+
+00:01:01.790 --> 00:01:01.800 align:start position:0%
+root plus the root term the derivative
+ 
+
+00:01:01.800 --> 00:01:05.630 align:start position:0%
+root plus the root term the derivative
+of<00:01:02.039><c> x^2</c><00:01:02.760><c> +</c><00:01:03.000><c> a</c><00:01:03.199><c> s</c><00:01:03.600><c> is</c><00:01:03.760><c> simply</c><00:01:04.199><c> 2x</c><00:01:05.199><c> since</c><00:01:05.479><c> the</c>
+
+00:01:05.630 --> 00:01:05.640 align:start position:0%
+of x^2 + a s is simply 2x since the
+ 
+
+00:01:05.640 --> 00:01:08.990 align:start position:0%
+of x^2 + a s is simply 2x since the
+derivative<00:01:06.080><c> of</c><00:01:06.159><c> a</c><00:01:06.360><c> squar</c><00:01:06.880><c> is</c><00:01:07.119><c> 0o</c><00:01:08.119><c> so</c><00:01:08.360><c> we</c><00:01:08.520><c> get</c><00:01:08.759><c> x</c>
+
+00:01:08.990 --> 00:01:09.000 align:start position:0%
+derivative of a squar is 0o so we get x
+ 
+
+00:01:09.000 --> 00:01:14.469 align:start position:0%
+derivative of a squar is 0o so we get x
+*<00:01:09.520><c> 2x</c><00:01:10.240><c> over</c><00:01:10.520><c> 2</c><00:01:11.280><c> &lt;</c><00:01:11.400><c> TK</c><00:01:11.720><c> of</c><00:01:12.040><c> x^2</c><00:01:12.759><c> +</c><00:01:13.040><c> a</c><00:01:13.240><c> 2</c><00:01:14.119><c> plus</c><00:01:14.360><c> the</c>
+
+00:01:14.469 --> 00:01:14.479 align:start position:0%
+* 2x over 2 &lt; TK of x^2 + a 2 plus the
+ 
+
+00:01:14.479 --> 00:01:18.310 align:start position:0%
+* 2x over 2 &lt; TK of x^2 + a 2 plus the
+square<00:01:14.759><c> root</c><00:01:15.119><c> term</c><00:01:16.119><c> now</c><00:01:16.600><c> let's</c><00:01:17.119><c> simplify</c><00:01:18.119><c> the</c>
+
+00:01:18.310 --> 00:01:18.320 align:start position:0%
+square root term now let's simplify the
+ 
+
+00:01:18.320 --> 00:01:21.190 align:start position:0%
+square root term now let's simplify the
+numerator<00:01:18.920><c> becomes</c><00:01:19.479><c> x^2</c><00:01:20.479><c> and</c><00:01:20.640><c> we</c><00:01:20.759><c> can</c><00:01:20.960><c> write</c>
+
+00:01:21.190 --> 00:01:21.200 align:start position:0%
+numerator becomes x^2 and we can write
+ 
+
+00:01:21.200 --> 00:01:25.310 align:start position:0%
+numerator becomes x^2 and we can write
+the<00:01:21.400><c> second</c><00:01:21.759><c> term</c><00:01:22.560><c> as</c><00:01:22.799><c> x^2</c><00:01:23.439><c> +</c><00:01:23.720><c> a</c><00:01:23.960><c> 2</c><00:01:24.799><c> over</c><00:01:25.079><c> the</c>
+
+00:01:25.310 --> 00:01:25.320 align:start position:0%
+the second term as x^2 + a 2 over the
+ 
+
+00:01:25.320 --> 00:01:30.030 align:start position:0%
+the second term as x^2 + a 2 over the
+square<00:01:25.759><c> &lt;</c><00:01:25.880><c> TK</c><00:01:26.159><c> of</c><00:01:26.439><c> x^2</c><00:01:27.159><c> +</c><00:01:27.400><c> a</c><00:01:27.720><c> 2</c><00:01:28.720><c> finally</c><00:01:29.479><c> combine</c>
+
+00:01:30.030 --> 00:01:30.040 align:start position:0%
+square &lt; TK of x^2 + a 2 finally combine
+ 
+
+00:01:30.040 --> 00:01:31.710 align:start position:0%
+square &lt; TK of x^2 + a 2 finally combine
+in<00:01:30.159><c> these</c><00:01:30.320><c> terms</c><00:01:30.680><c> under</c><00:01:30.920><c> a</c><00:01:31.119><c> common</c>
+
+00:01:31.710 --> 00:01:31.720 align:start position:0%
+in these terms under a common
+ 
+
+00:01:31.720 --> 00:01:35.710 align:start position:0%
+in these terms under a common
+denominator<00:01:32.720><c> we</c><00:01:32.880><c> get</c><00:01:33.240><c> 2x^2</c><00:01:34.240><c> +</c><00:01:34.479><c> a</c><00:01:34.680><c> 2</c><00:01:35.479><c> over</c>
+
+00:01:35.710 --> 00:01:35.720 align:start position:0%
+denominator we get 2x^2 + a 2 over
+ 
+
+00:01:35.720 --> 00:01:39.789 align:start position:0%
+denominator we get 2x^2 + a 2 over
+theare<00:01:36.280><c> &lt;</c><00:01:36.399><c> TK</c><00:01:36.680><c> of</c><00:01:37.200><c> x^2</c><00:01:38.200><c> plus</c><00:01:38.399><c> a</c><00:01:38.600><c> squar</c><00:01:39.520><c> and</c><00:01:39.680><c> this</c>
+
+00:01:39.789 --> 00:01:39.799 align:start position:0%
+theare &lt; TK of x^2 plus a squar and this
+ 
+
+00:01:39.799 --> 00:01:42.270 align:start position:0%
+theare &lt; TK of x^2 plus a squar and this
+is<00:01:39.920><c> our</c><00:01:40.200><c> final</c><00:01:40.600><c> answer</c><00:01:41.439><c> we</c><00:01:41.600><c> use</c><00:01:41.920><c> both</c><00:01:42.119><c> the</c>
+
+00:01:42.270 --> 00:01:42.280 align:start position:0%
+is our final answer we use both the
+ 
+
+00:01:42.280 --> 00:01:44.550 align:start position:0%
+is our final answer we use both the
+product<00:01:42.680><c> rule</c><00:01:43.200><c> and</c><00:01:43.439><c> chain</c><00:01:43.840><c> rule</c><00:01:44.320><c> to</c>
+
+00:01:44.550 --> 00:01:44.560 align:start position:0%
+product rule and chain rule to
+ 
+
+00:01:44.560 --> 00:01:46.429 align:start position:0%
+product rule and chain rule to
+differentiate<00:01:45.240><c> this</c><00:01:45.479><c> expression</c><00:01:46.200><c> and</c>
+
+00:01:46.429 --> 00:01:46.439 align:start position:0%
+differentiate this expression and
+ 
+
+00:01:46.439 --> 00:01:51.439 align:start position:0%
+differentiate this expression and
+arrived<00:01:47.159><c> at</c><00:01:47.399><c> this</c><00:01:47.719><c> simplified</c><00:01:48.439><c> form</c>
+

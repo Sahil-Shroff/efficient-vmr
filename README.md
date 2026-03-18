@@ -52,6 +52,10 @@ src/
     bm25.py
   eval/
     moment_retrieval.py
+  apps/
+    vmr_annotation_app.py
+  annotation/
+    vmr.py
   legacy/
     eval_transcript_qa.py
   utils/
@@ -219,6 +223,72 @@ Window format:
   "start_time": 12.0,
   "end_time": 24.0,
   "text": "concatenated subtitle text for this time window"
+}
+```
+
+## Manual Annotation App
+
+For building a small gold VMR subset, the repo includes a lightweight Streamlit annotator that:
+
+- loads flattened Video-MMLU question rows
+- shows subtitle segments and fixed windows for the selected video
+- runs BM25 over the video's subtitle windows to suggest top candidate spans
+- saves annotations incrementally to JSONL so you can stop and resume at any time
+
+Default paths favor the local `vmr10` subset when it exists:
+
+- dataset rows: `data/subtitles/vmr10/raw_video_rows.jsonl`
+- parsed subtitles: `data/subtitles/vmr10/parsed`
+- subtitle windows: `data/subtitles/vmr10/windows`
+- annotations: `data/annotations/vmr_gold_annotations.jsonl`
+
+Run it with:
+
+```bash
+source .venv/bin/activate
+streamlit run src/apps/vmr_annotation_app.py
+```
+
+Or use the helper script:
+
+```bash
+bash scripts/run_vmr_annotation_app.sh
+```
+
+The app supports:
+
+- navigating examples one by one
+- filtering by `video_id`, `qa_type`, and annotated/unannotated status
+- jumping to a specific `question_id`
+- editing `isRelevant`, `gold_timestamps`, `confidence`, and `notes`
+- loading existing annotations for the same `question_id`
+- seeding `gold_timestamps` from BM25 top-1 or top-k suggestions
+
+If you only want to annotate videos that already have timed subtitles/windows, first create a subset file:
+
+```bash
+source .venv/bin/activate
+python -m src.data.select_annotatable_video_ids \
+  --dataset-path data/subtitles/vmr10/raw_video_rows.jsonl \
+  --parsed-dir data/subtitles/vmr10/parsed \
+  --windows-dir data/subtitles/vmr10/windows \
+  --limit 10 \
+  --output data/annotations/vmr10_video_ids.txt
+```
+
+Then paste `data/annotations/vmr10_video_ids.txt` into the app's `Optional video_id subset file` field, or adapt the same command for the full dataset directories.
+
+Expected annotation JSONL format:
+
+```json
+{
+  "question_id": "Y8KMa8tJw-o:reasoning_qa:3",
+  "video_id": "Y8KMa8tJw-o",
+  "qa_type": "reasoning_qa",
+  "isRelevant": 1,
+  "gold_timestamps": [{"start": 41.2, "end": 56.8}],
+  "confidence": "high",
+  "notes": "evidence appears during derivative simplification explanation"
 }
 ```
 

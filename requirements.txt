@@ -1,10 +1,2 @@
-datasets
 rank-bm25
-numpy
-pandas
 tqdm
-python-dotenv
-orjson
-scikit-learn
-yt-dlp
-streamlit

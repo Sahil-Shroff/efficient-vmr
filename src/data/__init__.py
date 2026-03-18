@@ -1,13 +1,19 @@
-from .videommlu import (
-    extract_unique_video_ids,
-    flatten_video_qa_rows,
-    load_flattened_examples,
-    load_raw_video_rows,
+from .tvr import (
+    OFFICIAL_QUERY_FILES,
+    OFFICIAL_SUBTITLE_FILE,
+    OFFICIAL_VIDEO_DURATION_FILE,
+    load_subtitle_segments,
+    load_tvr_queries,
+    load_video_durations,
+    resolve_query_path,
 )
 
 __all__ = [
-    "extract_unique_video_ids",
-    "flatten_video_qa_rows",
-    "load_flattened_examples",
-    "load_raw_video_rows",
+    "OFFICIAL_QUERY_FILES",
+    "OFFICIAL_SUBTITLE_FILE",
+    "OFFICIAL_VIDEO_DURATION_FILE",
+    "load_subtitle_segments",
+    "load_tvr_queries",
+    "load_video_durations",
+    "resolve_query_path",
 ]

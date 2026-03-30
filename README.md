@@ -88,7 +88,7 @@ source .venv/bin/activate
 
 ## Expected Data Layout
 
-See [data/README.md](/home/ext_sash8218_colorado_edu/efficient-vmr/data/README.md).
+See [data/README.md](/home/ext_sash8218_colorado_edu/efficient-vmr/data/README.md) for the expected external TVR data layout.
 
 In short, place the official TVR metadata and subtitle files under `data/tvr/`.
 

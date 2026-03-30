@@ -16,6 +16,7 @@ This repo does **not** use the original TVR codebase as its implementation base.
 Current baselines:
 
 - subtitle-window BM25 retrieval
+- dense subtitle-window retrieval
 - sanity baselines: random window, full-video span, oracle-best window
 
 Current task setup:
@@ -33,6 +34,7 @@ scripts/
   inspect_tvr.py
   build_tvr_windows.py
   run_tvr_bm25.py
+  run_tvr_dense.py
   run_tvr_oracle.py
   setup_vm.sh
 src/
@@ -42,6 +44,7 @@ src/
     tvr_eval.py
   retrieval/
     bm25.py
+    dense.py
   subtitles/
     parsing.py
     windows.py
@@ -126,6 +129,19 @@ python scripts/run_tvr_bm25.py \
   --output-dir outputs/tvr/bm25
 ```
 
+Run dense subtitle-window baseline:
+
+```bash
+source .venv/bin/activate
+python scripts/run_tvr_dense.py \
+  --data-dir data/tvr \
+  --split val \
+  --windows-dir data/tvr/processed/windows \
+  --model-name sentence-transformers/all-MiniLM-L6-v2 \
+  --top-k 3 \
+  --output-dir outputs/tvr/dense
+```
+
 Run sanity/oracle baselines:
 
 ```bash
@@ -185,12 +201,12 @@ It also provides a breakdown by query type:
 - Subtitle rows contain `vid_name` plus a `sub` list of timestamped segments.
 - Window construction currently targets **per-clip moment retrieval**, where retrieval is restricted to the query's ground-truth clip.
 - Corpus-level retrieval is intentionally not implemented yet to keep the baseline path simple and readable.
+- The dense retriever uses sentence-transformer text embeddings over subtitle windows and shares the same eval pipeline as BM25.
 
 ## Next Steps
 
 Good next extensions after this baseline layer:
 
-- add a sentence-transformer dense subtitle-window retriever
 - add clip-level retrieval before within-clip window localization
 - add late fusion with visual features
 - compare accuracy/latency tradeoffs across BM25, dense retrieval, and multimodal reranking

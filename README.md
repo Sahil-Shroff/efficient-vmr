@@ -17,6 +17,7 @@ Current baselines:
 
 - subtitle-window BM25 retrieval
 - dense subtitle-window retrieval
+- dense + visual reranking for `v`-heavy queries
 - sanity baselines: random window, full-video span, oracle-best window
 
 Current task setup:
@@ -33,9 +34,11 @@ data/
 scripts/
   inspect_tvr.py
   build_tvr_windows.py
+  build_tvr_visual_features.py
   run_tvr_bm25.py
   run_tvr_dense.py
   run_tvr_oracle.py
+  run_tvr_visual_rerank.py
   setup_vm.sh
 src/
   data/
@@ -45,6 +48,7 @@ src/
   retrieval/
     bm25.py
     dense.py
+    fusion.py
   subtitles/
     parsing.py
     windows.py
@@ -52,6 +56,8 @@ src/
     io.py
     text.py
     time.py
+  visual/
+    features.py
 ```
 
 ## TVR Schema
@@ -142,6 +148,36 @@ python scripts/run_tvr_dense.py \
   --output-dir outputs/tvr/dense
 ```
 
+Build CLIP frame features from local TVR clips:
+
+```bash
+source .venv/bin/activate
+python scripts/build_tvr_visual_features.py \
+  --data-dir data/tvr \
+  --split val \
+  --video-dir data/tvr/videos \
+  --output-dir data/tvr/processed/visual_features \
+  --model-name openai/clip-vit-base-patch32 \
+  --sample-stride-sec 1.0
+```
+
+Run dense + visual reranking for `v` queries:
+
+```bash
+source .venv/bin/activate
+python scripts/run_tvr_visual_rerank.py \
+  --data-dir data/tvr \
+  --split val \
+  --windows-dir data/tvr/processed/windows \
+  --visual-features-dir data/tvr/processed/visual_features \
+  --candidate-top-k 10 \
+  --top-k 3 \
+  --text-weight 0.6 \
+  --visual-weight 0.4 \
+  --apply-query-types v \
+  --output-dir outputs/tvr/visual_rerank
+```
+
 Run sanity/oracle baselines:
 
 ```bash
@@ -202,6 +238,8 @@ It also provides a breakdown by query type:
 - Window construction currently targets **per-clip moment retrieval**, where retrieval is restricted to the query's ground-truth clip.
 - Corpus-level retrieval is intentionally not implemented yet to keep the baseline path simple and readable.
 - The dense retriever uses sentence-transformer text embeddings over subtitle windows and shares the same eval pipeline as BM25.
+- The visual reranker expects local video clips under `data/tvr/videos/` or precomputed CLIP frame features under `data/tvr/processed/visual_features/`.
+- Visual reranking is intended as a targeted extension for visually grounded queries, so it defaults to applying only on query type `v`.
 
 ## Next Steps
 

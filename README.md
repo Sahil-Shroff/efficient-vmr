@@ -17,6 +17,7 @@ Current baselines:
 
 - subtitle-window BM25 retrieval
 - dense subtitle-window retrieval
+- BM25 + dense subtitle-window fusion
 - dense + visual reranking for `v`-heavy queries
 - sanity baselines: random window, full-video span, oracle-best window
 
@@ -37,6 +38,7 @@ scripts/
   build_tvr_visual_features.py
   run_tvr_bm25.py
   run_tvr_dense.py
+  run_tvr_fusion.py
   run_tvr_oracle.py
   run_tvr_visual_rerank.py
   setup_vm.sh
@@ -146,6 +148,20 @@ python scripts/run_tvr_dense.py \
   --model-name sentence-transformers/all-MiniLM-L6-v2 \
   --top-k 3 \
   --output-dir outputs/tvr/dense
+```
+
+Run BM25 + dense fusion baselines:
+
+```bash
+source .venv/bin/activate
+python scripts/run_tvr_fusion.py \
+  --data-dir data/tvr \
+  --split val \
+  --windows-dir data/tvr/processed/windows \
+  --alphas 0.0,0.25,0.5,0.75,1.0 \
+  --rrf-ks 10,60 \
+  --bm25-topn-rerank 10,20,50 \
+  --output-dir outputs/tvr/fusion
 ```
 
 Build CLIP frame features from local TVR clips:

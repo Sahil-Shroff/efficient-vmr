@@ -12,6 +12,10 @@ def build_bm25_index(windows: list[dict[str, Any]]) -> tuple[BM25Okapi, list[lis
     return BM25Okapi(tokenized_windows), tokenized_windows
 
 
+def score_windows_bm25(*, query: str, bm25: BM25Okapi) -> list[float]:
+    return [float(score) for score in bm25.get_scores(simple_tokenize(query))]
+
+
 def retrieve_top_k_windows(
     *,
     query: str,
@@ -22,7 +26,7 @@ def retrieve_top_k_windows(
     if not windows:
         return []
 
-    scores = bm25.get_scores(simple_tokenize(query))
+    scores = score_windows_bm25(query=query, bm25=bm25)
     ranked = sorted(enumerate(scores), key=lambda item: item[1], reverse=True)[:top_k]
     return [
         {

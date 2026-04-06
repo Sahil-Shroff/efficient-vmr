@@ -125,7 +125,10 @@ def retrieve_top_k_windows_from_embedding(
     if not windows:
         return []
 
-    scores = document_embeddings @ query_embedding
+    scores = score_windows_dense(
+        document_embeddings=document_embeddings,
+        query_embedding=query_embedding,
+    )
     ranked = sorted(enumerate(scores.tolist()), key=lambda item: item[1], reverse=True)[:top_k]
     return [
         {
@@ -135,3 +138,13 @@ def retrieve_top_k_windows_from_embedding(
         }
         for rank, (idx, score) in enumerate(ranked)
     ]
+
+
+def score_windows_dense(
+    *,
+    document_embeddings: np.ndarray,
+    query_embedding: np.ndarray,
+) -> np.ndarray:
+    if document_embeddings.size == 0:
+        return np.zeros((0,), dtype=np.float32)
+    return np.asarray(document_embeddings @ query_embedding, dtype=np.float32)

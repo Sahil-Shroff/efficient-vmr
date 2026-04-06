@@ -43,6 +43,10 @@ def _window_iou(window: dict[str, Any], row: dict[str, Any]) -> float:
 
 def _evaluate_subset(rows: list[dict[str, Any]]) -> dict[str, Any]:
     retrieval_latencies: list[float] = []
+    bm25_latencies: list[float] = []
+    dense_latencies: list[float] = []
+    fusion_latencies: list[float] = []
+    total_retrieval_latencies: list[float] = []
     top1_ious: list[float] = []
     start_errors: list[float] = []
     end_errors: list[float] = []
@@ -51,9 +55,17 @@ def _evaluate_subset(rows: list[dict[str, Any]]) -> dict[str, Any]:
     num_examples_with_gold = 0
     num_examples_with_predictions = 0
     for row in rows:
-        retrieval_time_ms = row.get("retrieval_time_ms")
+        retrieval_time_ms = row.get("retrieval_time_ms", row.get("total_retrieval_time_ms"))
         if retrieval_time_ms is not None:
             retrieval_latencies.append(float(retrieval_time_ms))
+        if row.get("bm25_time_ms") is not None:
+            bm25_latencies.append(float(row["bm25_time_ms"]))
+        if row.get("dense_time_ms") is not None:
+            dense_latencies.append(float(row["dense_time_ms"]))
+        if row.get("fusion_time_ms") is not None:
+            fusion_latencies.append(float(row["fusion_time_ms"]))
+        if row.get("total_retrieval_time_ms") is not None:
+            total_retrieval_latencies.append(float(row["total_retrieval_time_ms"]))
 
         gold_start = row.get("gold_start_time")
         gold_end = row.get("gold_end_time")
@@ -90,6 +102,12 @@ def _evaluate_subset(rows: list[dict[str, Any]]) -> dict[str, Any]:
         "avg_retrieval_latency_ms": _mean(retrieval_latencies),
         "p50_retrieval_latency_ms": _percentile(retrieval_latencies, 0.50),
         "p95_retrieval_latency_ms": _percentile(retrieval_latencies, 0.95),
+        "avg_bm25_time_ms": _mean(bm25_latencies),
+        "avg_dense_time_ms": _mean(dense_latencies),
+        "avg_fusion_time_ms": _mean(fusion_latencies),
+        "avg_total_retrieval_time_ms": _mean(total_retrieval_latencies),
+        "p50_total_retrieval_time_ms": _percentile(total_retrieval_latencies, 0.50),
+        "p95_total_retrieval_time_ms": _percentile(total_retrieval_latencies, 0.95),
     }
     if num_examples_with_gold > 0:
         summary["recall_at_1_iou_0_3"] = recall_hits[(1, 0.3)] / num_examples_with_gold

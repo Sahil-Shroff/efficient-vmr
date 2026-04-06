@@ -103,6 +103,33 @@ See [data/README.md](/home/ext_sash8218_colorado_edu/efficient-vmr/data/README.m
 
 In short, place the official TVR metadata and subtitle files under `data/tvr/`.
 
+## Official XML Baseline
+
+The official TVR XML implementation is vendored at `third_party/TVRetrieval`.
+
+This integration keeps the upstream training and inference code intact and adds thin wrappers that point it at this repo's external data layout:
+
+```bash
+bash scripts/run_tvr_xml_train.sh video_sub resnet_i3d --exp_id xml_debug --debug
+```
+
+```bash
+bash scripts/run_tvr_xml_eval.sh tvr-video_sub-xml_debug-YYYY_MM_DD_HH_MM_SS val
+```
+
+Required external assets for XML:
+
+- `data/tvr/tvr_train_release.jsonl`
+- `data/tvr/tvr_val_release.jsonl`
+- `data/tvr/tvr_test_public_release.jsonl`
+- `data/tvr/tvr_video2dur_idx.json`
+- `data/tvr_feature_release/bert_feature/...`
+- `data/tvr_feature_release/video_feature/...`
+
+The wrappers keep official XML outputs under:
+
+- `third_party/TVRetrieval/baselines/crossmodal_moment_localization/results/`
+
 ## Commands
 
 Inspect TVR:

@@ -22,6 +22,17 @@ data/
         <vid_name>.jsonl
       visual_features/
         <vid_name>.npz
+  tvr_feature_release/
+    bert_feature/
+      query_only/
+        tvr_query_pretrained_w_query.h5
+      sub_query/
+        tvr_query_pretrained_w_sub_query.h5
+        tvr_sub_pretrained_w_sub_query_max_cl-1.5.h5
+    video_feature/
+      tvr_resnet152_rgb_max_cl-1.5.h5
+      tvr_i3d_rgb600_avg_cl-1.5.h5
+      tvr_resnet152_rgb_max_i3d_rgb600_avg_cat_cl-1.5.h5
 ```
 
 Notes:
@@ -32,5 +43,6 @@ Notes:
 - `processed/subtitles/` contains normalized per-clip subtitle segments.
 - `processed/windows/` contains fixed-width retrieval windows built from those segments.
 - `processed/visual_features/` contains compressed CLIP frame embeddings with `timestamps` and `embeddings` arrays per clip.
+- `tvr_feature_release/` is the official 33GB XML feature release used by the vendored `third_party/TVRetrieval` baseline.
 
 Nothing under `data/tvr/` is meant to be committed in this branch.

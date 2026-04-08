@@ -208,7 +208,7 @@ def chunk_single_sub(tokenizer, single_sub_data, max_length=256, drop_edge=True)
     tokenized_text_list = [tokenizer.tokenize(e["text"]) for e in single_sub_data["sub"]]
     tokenized_lengths = [len(e) for e in tokenized_text_list]
     tokenized_lengths_cumsum = np.cumsum(tokenized_lengths)
-    num_chunks = np.ceil(tokenized_lengths_cumsum[-1] / max_length).astype(np.int)
+    num_chunks = np.ceil(tokenized_lengths_cumsum[-1] / max_length).astype(int)
     if drop_edge and (tokenized_lengths_cumsum[-1] % max_length) / max_length < 0.1 and num_chunks > 1:
         # remove extra length if it is too short
         num_chunks -= 1

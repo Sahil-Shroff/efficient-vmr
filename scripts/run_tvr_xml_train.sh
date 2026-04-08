@@ -17,8 +17,61 @@ cd "${repo_root}"
 
 xml_root="third_party/TVRetrieval"
 results_root="${xml_root}/baselines/crossmodal_moment_localization/results"
-data_root="${TVR_DATA_DIR:-data/tvr}"
-feature_root="${TVR_FEATURE_ROOT:-data/tvr_feature_release}"
+default_data_root="data/tvr"
+if [[ ! -d "${default_data_root}" && -d "${xml_root}/data" ]]; then
+    default_data_root="${xml_root}/data"
+fi
+data_root="${TVR_DATA_DIR:-${default_data_root}}"
+default_feature_root="data/tvr_feature_release"
+if [[ ! -d "${default_feature_root}" && -d "/home/jupyter/data/tvr_feature_release" ]]; then
+    default_feature_root="/home/jupyter/data/tvr_feature_release"
+fi
+feature_root="${TVR_FEATURE_ROOT:-${default_feature_root}}"
+device_arg=()
+
+wheel_cuda_lib_path="$(python3 - <<'PY'
+import os
+import site
+from pathlib import Path
+
+candidates = []
+for root in site.getusersitepackages(), *site.getsitepackages():
+    if not root:
+        continue
+    base = Path(root)
+    lib_dirs = [
+        base / "nvidia" / "nvjitlink" / "lib",
+        base / "nvidia" / "cusparse" / "lib",
+        base / "nvidia" / "cublas" / "lib",
+        base / "nvidia" / "cudnn" / "lib",
+        base / "nvidia" / "cuda_runtime" / "lib",
+        base / "nvidia" / "cuda_nvrtc" / "lib",
+    ]
+    existing = [str(path) for path in lib_dirs if path.is_dir()]
+    if existing:
+        print(":".join(existing))
+        raise SystemExit(0)
+print("")
+PY
+)"
+
+if [[ -n "${wheel_cuda_lib_path}" ]]; then
+    export LD_LIBRARY_PATH="${wheel_cuda_lib_path}${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}"
+fi
+
+if [[ -n "${TVR_XML_DEVICE:-}" ]]; then
+    device_arg=(--device "${TVR_XML_DEVICE}")
+else
+    if python3 - <<'PY' >/dev/null 2>&1
+import torch
+raise SystemExit(0 if torch.cuda.is_available() else 1)
+PY
+    then
+        device_arg=(--device 0)
+    else
+        device_arg=(--device -1)
+    fi
+fi
 
 train_path="${data_root}/tvr_train_release.jsonl"
 eval_path="${data_root}/tvr_val_release.jsonl"
@@ -98,5 +151,6 @@ python3 "${xml_root}/baselines/crossmodal_moment_localization/train.py" \
     --ctx_mode="${ctx_mode}" \
     --max_ctx_l=100 \
     --max_pred_l=16 \
+    "${device_arg[@]}" \
     "${extra_args[@]}" \
     "$@"

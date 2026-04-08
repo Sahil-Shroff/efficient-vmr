@@ -286,11 +286,11 @@ def compute_query2ctx_info(model, eval_dataset, opt, ctx_info,
     bsz = opt.eval_query_bsz
 
     if is_vcmr:
-        flat_st_ed_scores_sorted_indices = np.empty((n_total_query, max_before_nms), dtype=np.int)
+        flat_st_ed_scores_sorted_indices = np.empty((n_total_query, max_before_nms), dtype=int)
         flat_st_ed_sorted_scores = np.zeros((n_total_query, max_before_nms), dtype=np.float32)
 
     if is_vr or is_vcmr:
-        sorted_q2c_indices = np.empty((n_total_query, max_n_videos), dtype=np.int)
+        sorted_q2c_indices = np.empty((n_total_query, max_n_videos), dtype=int)
         sorted_q2c_scores = np.empty((n_total_query, max_n_videos), dtype=np.float32)
 
     if is_svmr:
@@ -387,6 +387,16 @@ def compute_query2ctx_info(model, eval_dataset, opt, ctx_info,
 
         if opt.debug:
             break
+
+    n_processed_query = len(query_metas)
+    if n_processed_query != n_total_query:
+        sorted_q2c_scores = sorted_q2c_scores[:n_processed_query]
+        sorted_q2c_indices = sorted_q2c_indices[:n_processed_query]
+        flat_st_ed_sorted_scores = flat_st_ed_sorted_scores[:n_processed_query]
+        flat_st_ed_scores_sorted_indices = flat_st_ed_scores_sorted_indices[:n_processed_query]
+        svmr_gt_st_probs = svmr_gt_st_probs[:n_processed_query]
+        svmr_gt_ed_probs = svmr_gt_ed_probs[:n_processed_query]
+        n_total_query = n_processed_query
 
     # Numpy starts here!!!
     svmr_res = []

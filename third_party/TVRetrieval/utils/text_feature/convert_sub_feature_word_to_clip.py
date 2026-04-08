@@ -20,7 +20,7 @@ def process_single_vid_sub(sub_listdicts, clip_length):
     timestamps = timestamps / clip_length
     # r-th row of clip_indices is [st_idx, ed_idx), where [st_idx, st_idx+1, ..., ed_idx-1]
     # should be with r-th clip, which is [r*clip_length, (r+1)*clip_length]
-    sentence2clip_st_ed = np.empty_like(timestamps, dtype=np.int)
+    sentence2clip_st_ed = np.empty_like(timestamps, dtype=int)
     sentence2clip_st_ed[:, 0] = np.floor(timestamps[:, 0])
     sentence2clip_st_ed[:, 1] = np.ceil(timestamps[:, 1])
     sentence_idx2clip_indices = {sen_idx: set(range(clip_st_idx, clip_ed_idx))

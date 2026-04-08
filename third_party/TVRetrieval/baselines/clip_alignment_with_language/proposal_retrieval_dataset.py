@@ -552,8 +552,8 @@ class ProposalRetrievalEvalDataset(Dataset):
         if normalize and not pool_local:
             vid_feat = l2_normalize_np_array(vid_feat)
         vid_feat_len = len(vid_feat)
-        moments_st_clip_indices = np.floor(moments[:, 0] / self.clip_length).astype(np.int).clip(0, vid_feat_len-1)
-        moments_ed_clip_indices = np.ceil(moments[:, 1] / self.clip_length).astype(np.int).clip(1, vid_feat_len)
+        moments_st_clip_indices = np.floor(moments[:, 0] / self.clip_length).astype(int).clip(0, vid_feat_len-1)
+        moments_ed_clip_indices = np.ceil(moments[:, 1] / self.clip_length).astype(int).clip(1, vid_feat_len)
         moments_features = []
         for st_idx, ed_idx, m in zip(moments_st_clip_indices, moments_ed_clip_indices, moments):
             feat = vid_feat[st_idx:ed_idx]

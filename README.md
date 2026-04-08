@@ -119,16 +119,31 @@ bash scripts/run_tvr_xml_eval.sh tvr-video_sub-xml_debug-YYYY_MM_DD_HH_MM_SS val
 
 Required external assets for XML:
 
-- `data/tvr/tvr_train_release.jsonl`
-- `data/tvr/tvr_val_release.jsonl`
-- `data/tvr/tvr_test_public_release.jsonl`
-- `data/tvr/tvr_video2dur_idx.json`
+- query metadata and duration files, from either:
+  - `data/tvr/...`, or
+  - bundled fallback: `third_party/TVRetrieval/data/...`
 - `data/tvr_feature_release/bert_feature/...`
 - `data/tvr_feature_release/video_feature/...`
 
 The wrappers keep official XML outputs under:
 
 - `third_party/TVRetrieval/baselines/crossmodal_moment_localization/results/`
+
+Feature root resolution order for the wrapper:
+
+- `TVR_FEATURE_ROOT` if set
+- `data/tvr_feature_release`
+- `/home/jupyter/data/tvr_feature_release`
+
+Device selection for the wrapper:
+
+- `TVR_XML_DEVICE` if set
+- otherwise `cuda:0` when `torch.cuda.is_available()`
+- otherwise CPU via `--device -1`
+
+On machines where `/usr/local/cuda/lib64` is on `LD_LIBRARY_PATH`, the wrappers prepend the
+PyTorch wheel CUDA libraries automatically so the installed `torch` build uses matching CUDA
+runtime components.
 
 ## Commands
 

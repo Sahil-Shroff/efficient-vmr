@@ -18,8 +18,41 @@ cd "${repo_root}"
 xml_root="third_party/TVRetrieval"
 results_root="${xml_root}/baselines/crossmodal_moment_localization/results"
 model_dir_path="${results_root}/${model_dir_name}"
-data_root="${TVR_DATA_DIR:-data/tvr}"
+default_data_root="data/tvr"
+if [[ ! -d "${default_data_root}" && -d "${xml_root}/data" ]]; then
+    default_data_root="${xml_root}/data"
+fi
+data_root="${TVR_DATA_DIR:-${default_data_root}}"
 eval_path="${data_root}/tvr_${split}_release.jsonl"
+
+wheel_cuda_lib_path="$(python3 - <<'PY'
+import os
+import site
+from pathlib import Path
+
+for root in site.getusersitepackages(), *site.getsitepackages():
+    if not root:
+        continue
+    base = Path(root)
+    lib_dirs = [
+        base / "nvidia" / "nvjitlink" / "lib",
+        base / "nvidia" / "cusparse" / "lib",
+        base / "nvidia" / "cublas" / "lib",
+        base / "nvidia" / "cudnn" / "lib",
+        base / "nvidia" / "cuda_runtime" / "lib",
+        base / "nvidia" / "cuda_nvrtc" / "lib",
+    ]
+    existing = [str(path) for path in lib_dirs if path.is_dir()]
+    if existing:
+        print(":".join(existing))
+        raise SystemExit(0)
+print("")
+PY
+)"
+
+if [[ -n "${wheel_cuda_lib_path}" ]]; then
+    export LD_LIBRARY_PATH="${wheel_cuda_lib_path}${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}"
+fi
 
 required_paths=(
     "${xml_root}/baselines/crossmodal_moment_localization/inference.py"

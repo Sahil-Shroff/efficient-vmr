@@ -202,7 +202,8 @@ class BaseOptions(object):
             for arg in saved_options:  # use saved options to overwrite all BaseOptions args.
                 if arg not in ["results_root", "num_workers", "nms_thd", "debug",
                                "eval_split_name", "eval_path", "eval_query_bsz", "eval_context_bsz",
-                               "max_pred_l", "min_pred_l", "external_inference_vr_res_path"]:
+                               "max_pred_l", "min_pred_l", "max_vcmr_video",
+                               "external_inference_vr_res_path"]:
                     setattr(opt, arg, saved_options[arg])
             # opt.no_core_driver = True
         else:

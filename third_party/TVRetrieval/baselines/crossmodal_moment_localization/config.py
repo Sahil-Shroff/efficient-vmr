@@ -172,6 +172,15 @@ class BaseOptions(object):
                                       "(or non-minimum suppression for distance)"
                                       "to post-processing the predictions. "
                                       "-1: do not use nms. 0.6 for charades_sta, 0.5 for anet_cap,")
+        self.parser.add_argument("--akf_keep_ratio", type=float, default=1.0,
+                                 help="AKF-lite keep ratio for visual clips. 1.0 disables sparsification.")
+        self.parser.add_argument("--akf_selection_strategy", type=str, default="topk",
+                                 choices=["topk", "contiguous"],
+                                 help="AKF-lite clip selection strategy.")
+        self.parser.add_argument("--akf_num_spans", type=int, default=3,
+                                 help="Number of contiguous spans to keep when using contiguous selection.")
+        self.parser.add_argument("--akf_score_dump_path", type=str, default=None,
+                                 help="Optional .npz path for saving per-query GT-video visual clip scores.")
 
     def display_save(self, opt):
         args = vars(opt)
@@ -202,7 +211,9 @@ class BaseOptions(object):
             for arg in saved_options:  # use saved options to overwrite all BaseOptions args.
                 if arg not in ["results_root", "num_workers", "nms_thd", "debug",
                                "eval_split_name", "eval_path", "eval_query_bsz", "eval_context_bsz",
-                               "max_pred_l", "min_pred_l", "external_inference_vr_res_path"]:
+                               "max_pred_l", "min_pred_l", "external_inference_vr_res_path",
+                               "akf_keep_ratio", "akf_selection_strategy", "akf_num_spans",
+                               "akf_score_dump_path"]:
                     setattr(opt, arg, saved_options[arg])
             # opt.no_core_driver = True
         else:

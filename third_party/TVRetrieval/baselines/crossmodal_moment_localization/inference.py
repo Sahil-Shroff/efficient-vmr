@@ -12,7 +12,7 @@ import torch.backends.cudnn as cudnn
 from torch.utils.data import DataLoader
 
 from baselines.crossmodal_moment_localization.config import TestOptions
-from baselines.crossmodal_moment_localization.model_xml import XML
+from baselines.crossmodal_moment_localization.model_xml import XML, mask_logits
 from baselines.crossmodal_moment_localization.start_end_dataset import \
     start_end_collate, StartEndEvalDataset, prepare_batch_inputs
 from baselines.clip_alignment_with_language.inference import \
@@ -249,6 +249,104 @@ def load_external_vr_res2(external_vr_res_path, top_n_vr_videos=5):
     return query2video
 
 
+def compute_visual_clip_scores(video_query, video_feat, video_mask):
+    video_query = F.normalize(video_query, dim=-1)
+    video_feat = F.normalize(video_feat, dim=-1)
+    clip_scores = torch.einsum("md,nld->mnl", video_query, video_feat)
+    return mask_logits(clip_scores, video_mask.unsqueeze(0))
+
+
+def build_topk_clip_mask(clip_scores, video_mask, keep_ratio):
+    if keep_ratio >= 1.0:
+        return video_mask.unsqueeze(0).expand(clip_scores.shape[0], -1, -1)
+
+    keep_count = max(1, int(math.ceil(video_mask.shape[-1] * keep_ratio)))
+    topk_indices = torch.topk(clip_scores, k=keep_count, dim=-1, largest=True).indices
+    keep_mask = clip_scores.new_zeros(clip_scores.shape)
+    keep_mask.scatter_(dim=-1, index=topk_indices, value=1.0)
+    keep_mask *= video_mask.unsqueeze(0)
+    return keep_mask
+
+
+def build_contiguous_clip_mask(clip_scores, video_mask, keep_ratio, num_spans):
+    if keep_ratio >= 1.0:
+        return video_mask.unsqueeze(0).expand(clip_scores.shape[0], -1, -1)
+
+    n_q, n_v, max_ctx_l = clip_scores.shape
+    keep_mask = np.zeros((n_q, n_v, max_ctx_l), dtype=np.float32)
+    clip_scores_np = clip_scores.detach().cpu().numpy()
+    valid_lengths = video_mask.sum(dim=-1).to(torch.long).cpu().numpy()
+    for q_idx in range(n_q):
+        for v_idx, valid_length in enumerate(valid_lengths):
+            if valid_length <= 0:
+                continue
+            target_count = max(1, int(math.ceil(valid_length * keep_ratio)))
+            span_len = max(1, int(math.ceil(float(target_count) / max(1, num_spans))))
+            span_len = min(span_len, valid_length)
+            taken = np.zeros(valid_length, dtype=bool)
+            scores = clip_scores_np[q_idx, v_idx, :valid_length]
+
+            for _ in range(num_spans):
+                best_start = None
+                best_score = None
+                for start_idx in range(0, valid_length - span_len + 1):
+                    end_idx = start_idx + span_len
+                    if taken[start_idx:end_idx].any():
+                        continue
+                    cur_score = float(scores[start_idx:end_idx].sum())
+                    if best_score is None or cur_score > best_score:
+                        best_start = start_idx
+                        best_score = cur_score
+                if best_start is None:
+                    break
+                end_idx = best_start + span_len
+                taken[best_start:end_idx] = True
+                keep_mask[q_idx, v_idx, best_start:end_idx] = 1.0
+                if taken.sum() >= target_count:
+                    break
+
+            if keep_mask[q_idx, v_idx, :valid_length].sum() < target_count:
+                ranked_indices = np.argsort(scores)[::-1]
+                for clip_idx in ranked_indices:
+                    keep_mask[q_idx, v_idx, clip_idx] = 1.0
+                    if keep_mask[q_idx, v_idx, :valid_length].sum() >= target_count:
+                        break
+    return clip_scores.new_tensor(keep_mask) * video_mask.unsqueeze(0)
+
+
+def build_visual_clip_mask(clip_scores, video_mask, opt):
+    if opt.akf_selection_strategy == "topk":
+        return build_topk_clip_mask(clip_scores, video_mask, opt.akf_keep_ratio)
+    return build_contiguous_clip_mask(
+        clip_scores, video_mask, keep_ratio=opt.akf_keep_ratio, num_spans=opt.akf_num_spans)
+
+
+def get_masked_video_level_scores(video_query, context_feat1, clip_mask):
+    video_query = F.normalize(video_query, dim=-1)
+    context_feat1 = F.normalize(context_feat1, dim=-1)
+    query_context_scores = torch.einsum("md,nld->mnl", video_query, context_feat1)
+    query_context_scores = mask_logits(query_context_scores, clip_mask)
+    query_context_scores, _ = torch.max(query_context_scores, dim=-1)
+    return query_context_scores
+
+
+def save_akf_score_dump(score_dump, score_dump_path):
+    if score_dump_path is None or len(score_dump["desc_ids"]) == 0:
+        return
+    score_dir = os.path.dirname(score_dump_path)
+    if score_dir:
+        os.makedirs(score_dir, exist_ok=True)
+    np.savez_compressed(
+        score_dump_path,
+        desc_ids=np.asarray(score_dump["desc_ids"], dtype=np.int64),
+        vid_names=np.asarray(score_dump["vid_names"]),
+        query_types=np.asarray(score_dump["query_types"]),
+        clip_scores=np.concatenate(score_dump["clip_scores"], axis=0),
+        clip_masks=np.concatenate(score_dump["clip_masks"], axis=0),
+        active_masks=np.concatenate(score_dump["active_masks"], axis=0),
+    )
+
+
 def compute_query2ctx_info(model, eval_dataset, opt, ctx_info,
                            max_before_nms=1000, max_n_videos=100, tasks=("SVMR",)):
     """Use val set to do evaluation, remember to run with torch.no_grad().
@@ -297,6 +395,30 @@ def compute_query2ctx_info(model, eval_dataset, opt, ctx_info,
         svmr_video2meta_idx = {e["vid_name"]: idx for idx, e in enumerate(video_metas)}
         svmr_gt_st_probs = np.zeros((n_total_query, opt.max_ctx_l), dtype=np.float32)
         svmr_gt_ed_probs = np.zeros((n_total_query, opt.max_ctx_l), dtype=np.float32)
+    akf_enabled = model.use_video and opt.akf_keep_ratio < 1.0
+    akf_stats = None
+    if akf_enabled:
+        akf_stats = dict(
+            keep_ratio=float(opt.akf_keep_ratio),
+            selection_strategy=opt.akf_selection_strategy,
+            num_spans=int(opt.akf_num_spans),
+            active_clip_sum=0.0,
+            valid_clip_sum=0.0,
+            gt_active_clip_sum=0.0,
+            gt_valid_clip_sum=0.0,
+            num_query_video_pairs=0,
+            num_queries=0,
+        )
+    score_dump = None
+    if opt.akf_score_dump_path is not None:
+        score_dump = dict(
+            desc_ids=[],
+            vid_names=[],
+            query_types=[],
+            clip_scores=[],
+            clip_masks=[],
+            active_masks=[],
+        )
 
     query_metas = []
     for idx, batch in tqdm(
@@ -304,14 +426,85 @@ def compute_query2ctx_info(model, eval_dataset, opt, ctx_info,
         _query_metas = batch[0]
         query_metas.extend(batch[0])
         model_inputs = prepare_batch_inputs(batch[1], device=opt.device, non_blocking=opt.pin_memory)
-        # query_context_scores (_N_q, N_videos), st_prob, ed_prob (_N_q, N_videos, L)
-        _query_context_scores, _st_probs, _ed_probs = \
-            model.get_pred_from_raw_query(model_inputs["query_feat"], model_inputs["query_mask"],
-                                          ctx_info["video_feat1"], ctx_info["video_feat2"],
-                                          ctx_info["video_mask"],
-                                          ctx_info["sub_feat1"], ctx_info["sub_feat2"],
-                                          ctx_info["sub_mask"],
-                                          cross=True)
+        gt_query2video_meta_indices = None
+        if is_svmr or score_dump is not None or akf_enabled:
+            gt_query2video_meta_indices = torch.LongTensor(
+                [svmr_video2meta_idx[e["vid_name"]] for e in _query_metas]).to(opt.device)
+
+        if akf_enabled or score_dump is not None:
+            video_query, sub_query = model.encode_query(model_inputs["query_feat"], model_inputs["query_mask"])
+            visual_clip_scores = compute_visual_clip_scores(video_query, ctx_info["video_feat2"], ctx_info["video_mask"])
+
+            if score_dump is not None:
+                row_indices = torch.arange(0, len(_query_metas), device=opt.device)
+                gt_clip_scores = visual_clip_scores[row_indices, gt_query2video_meta_indices]
+                gt_clip_masks = ctx_info["video_mask"][gt_query2video_meta_indices]
+                score_dump["desc_ids"].extend([e["desc_id"] for e in _query_metas])
+                score_dump["vid_names"].extend([e["vid_name"] for e in _query_metas])
+                score_dump["query_types"].extend([e.get("type", "") for e in eval_dataset.query_data[
+                    idx * bsz:(idx * bsz) + len(_query_metas)]])
+                score_dump["clip_scores"].append(gt_clip_scores.cpu().numpy())
+                score_dump["clip_masks"].append(gt_clip_masks.cpu().numpy())
+
+            if akf_enabled:
+                clip_mask = build_visual_clip_mask(visual_clip_scores, ctx_info["video_mask"], opt)
+                masked_video_q2ctx_scores = get_masked_video_level_scores(video_query, ctx_info["video_feat1"], clip_mask)
+                divisor = model.use_sub + model.use_video
+                if model.use_sub:
+                    sub_q2ctx_scores = model.get_video_level_scores(sub_query, ctx_info["sub_feat1"], ctx_info["sub_mask"])
+                else:
+                    sub_q2ctx_scores = 0
+                _query_context_scores = (masked_video_q2ctx_scores + sub_q2ctx_scores) / divisor
+                if model.config.merge_two_stream and model.use_video and model.use_sub:
+                    _st_probs, _ed_probs = model.get_merged_st_ed_prob(
+                        video_query, ctx_info["video_feat2"], sub_query, ctx_info["sub_feat2"],
+                        ctx_info["video_mask"], cross=True)
+                else:
+                    video_st_prob, video_ed_prob = model.get_st_ed_prob(
+                        video_query, ctx_info["video_feat2"], ctx_info["video_mask"],
+                        module_name="video", cross=True) if model.use_video else (0, 0)
+                    sub_st_prob, sub_ed_prob = model.get_st_ed_prob(
+                        sub_query, ctx_info["sub_feat2"], ctx_info["sub_mask"],
+                        module_name="sub", cross=True) if model.use_sub else (0, 0)
+                    _st_probs = (video_st_prob + sub_st_prob) / divisor
+                    _ed_probs = (video_ed_prob + sub_ed_prob) / divisor
+                _st_probs = mask_logits(_st_probs, clip_mask)
+                _ed_probs = mask_logits(_ed_probs, clip_mask)
+
+                active_clips = clip_mask.sum(dim=-1)
+                valid_clips = ctx_info["video_mask"].sum(dim=-1).unsqueeze(0)
+                akf_stats["active_clip_sum"] += float(active_clips.sum().item())
+                akf_stats["valid_clip_sum"] += float(valid_clips.sum().item() * len(_query_metas))
+                akf_stats["num_query_video_pairs"] += int(len(_query_metas) * ctx_info["video_mask"].shape[0])
+                akf_stats["num_queries"] += int(len(_query_metas))
+                row_indices = torch.arange(0, len(_query_metas), device=opt.device)
+                gt_active_mask = clip_mask[row_indices, gt_query2video_meta_indices]
+                gt_valid_mask = ctx_info["video_mask"][gt_query2video_meta_indices]
+                akf_stats["gt_active_clip_sum"] += float(gt_active_mask.sum().item())
+                akf_stats["gt_valid_clip_sum"] += float(gt_valid_mask.sum().item())
+
+                if score_dump is not None:
+                    score_dump["active_masks"].append(gt_active_mask.cpu().numpy())
+            else:
+                # query_context_scores (_N_q, N_videos), st_prob, ed_prob (_N_q, N_videos, L)
+                _query_context_scores, _st_probs, _ed_probs = \
+                    model.get_pred_from_raw_query(model_inputs["query_feat"], model_inputs["query_mask"],
+                                                  ctx_info["video_feat1"], ctx_info["video_feat2"],
+                                                  ctx_info["video_mask"],
+                                                  ctx_info["sub_feat1"], ctx_info["sub_feat2"],
+                                                  ctx_info["sub_mask"],
+                                                  cross=True)
+                if score_dump is not None:
+                    score_dump["active_masks"].append(ctx_info["video_mask"][gt_query2video_meta_indices].cpu().numpy())
+        else:
+            # query_context_scores (_N_q, N_videos), st_prob, ed_prob (_N_q, N_videos, L)
+            _query_context_scores, _st_probs, _ed_probs = \
+                model.get_pred_from_raw_query(model_inputs["query_feat"], model_inputs["query_mask"],
+                                              ctx_info["video_feat1"], ctx_info["video_feat2"],
+                                              ctx_info["video_mask"],
+                                              ctx_info["sub_feat1"], ctx_info["sub_feat2"],
+                                              ctx_info["sub_mask"],
+                                              cross=True)
         # _query_context_scores = _query_context_scores + 1  # move cosine similarity to [0, 2]
         # To give more importance to top scores, the higher opt.alpha is the more importance will be given
         _query_context_scores = torch.exp(opt.q2c_alpha * _query_context_scores)
@@ -323,8 +516,8 @@ def compute_query2ctx_info(model, eval_dataset, opt, ctx_info,
 
         if is_svmr:  # collect SVMR data
             row_indices = torch.arange(0, len(_st_probs))
-            query2video_meta_indices = torch.LongTensor(
-                [svmr_video2meta_idx[e["vid_name"]] for e in _query_metas])
+            query2video_meta_indices = gt_query2video_meta_indices.cpu() if gt_query2video_meta_indices is not None \
+                else torch.LongTensor([svmr_video2meta_idx[e["vid_name"]] for e in _query_metas])
             # print("svmr_gt_st_probs[idx * bsz:(idx + 1) * bsz, :_st_probs.shape[1]] {}"
             #       .format(svmr_gt_st_probs[idx * bsz:(idx + 1) * bsz, :_st_probs.shape[1]].shape))
             # print("_st_probs[row_indices, query2video_meta_indices] {}"
@@ -452,7 +645,21 @@ def compute_query2ctx_info(model, eval_dataset, opt, ctx_info,
             vcmr_res.append(cur_query_pred)
 
     res = dict(SVMR=svmr_res, VCMR=vcmr_res, VR=vr_res)
-    return {k: v for k, v in res.items() if len(v) != 0}
+    res = {k: v for k, v in res.items() if len(v) != 0}
+    if akf_stats is not None:
+        akf_stats["avg_active_clips_per_query_video"] = \
+            akf_stats["active_clip_sum"] / max(1, akf_stats["num_query_video_pairs"])
+        akf_stats["avg_valid_clips_per_video"] = \
+            akf_stats["valid_clip_sum"] / max(1, akf_stats["num_query_video_pairs"])
+        akf_stats["active_clip_ratio"] = \
+            akf_stats["active_clip_sum"] / max(1.0, akf_stats["valid_clip_sum"])
+        akf_stats["avg_active_gt_video_clips"] = \
+            akf_stats["gt_active_clip_sum"] / max(1, akf_stats["num_queries"])
+        akf_stats["gt_video_active_clip_ratio"] = \
+            akf_stats["gt_active_clip_sum"] / max(1.0, akf_stats["gt_valid_clip_sum"])
+        res["_akf_stats"] = akf_stats
+    save_akf_score_dump(score_dump, opt.akf_score_dump_path)
+    return res
 
 
 def get_eval_res(model, eval_dataset, opt, tasks, max_after_nms):
@@ -494,12 +701,15 @@ def eval_epoch(model, eval_dataset, opt, save_submission_filename,
     # times = torch.FloatTensor(times)
 
     eval_submission_raw = get_eval_res(model, eval_dataset, opt, tasks, max_after_nms=max_after_nms)
+    akf_stats = eval_submission_raw.pop("_akf_stats", None)
 
     IOU_THDS = (0.5, 0.7)
     logger.info("Saving/Evaluating before nms results")
     submission_path = os.path.join(opt.results_dir, save_submission_filename)
     eval_submission = get_submission_top_n(eval_submission_raw, top_n=max_after_nms)
     save_json(eval_submission, submission_path)
+    if akf_stats is not None:
+        save_json(akf_stats, submission_path.replace(".json", "_akf_stats.json"), save_pretty=True, sort_keys=False)
 
     if opt.eval_split_name == "val":  # since test_public has no GT
         metrics = eval_retrieval(eval_submission, eval_dataset.query_data,

@@ -1,0 +1,2 @@
+TVR random_window:   0%|          | 0/10895 [00:00<?, ?it/s]TVR random_window:  72%|███████▏  | 7801/10895 [00:00<00:00, 78003.57it/s]TVR random_window: 100%|██████████| 10895/10895 [00:00<00:00, 57382.77it/s]
+outputs/tvr/final_eval/sanity/random_window_val.json

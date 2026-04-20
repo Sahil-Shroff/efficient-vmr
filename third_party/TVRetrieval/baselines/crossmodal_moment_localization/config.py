@@ -181,6 +181,10 @@ class BaseOptions(object):
                                  help="Number of contiguous spans to keep when using contiguous selection.")
         self.parser.add_argument("--akf_score_dump_path", type=str, default=None,
                                  help="Optional .npz path for saving per-query GT-video visual clip scores.")
+        self.parser.add_argument("--shared_compact_keep_ratio", type=float, default=1.0,
+                                 help="Shared video+subtitle compaction keep ratio. 1.0 disables compaction.")
+        self.parser.add_argument("--shared_compact_num_spans", type=int, default=3,
+                                 help="Number of contiguous spans to keep for shared compaction.")
 
     def display_save(self, opt):
         args = vars(opt)
@@ -213,7 +217,8 @@ class BaseOptions(object):
                                "eval_split_name", "eval_path", "eval_query_bsz", "eval_context_bsz",
                                "max_pred_l", "min_pred_l", "external_inference_vr_res_path",
                                "akf_keep_ratio", "akf_selection_strategy", "akf_num_spans",
-                               "akf_score_dump_path"]:
+                               "akf_score_dump_path", "shared_compact_keep_ratio",
+                               "shared_compact_num_spans"]:
                     setattr(opt, arg, saved_options[arg])
             # opt.no_core_driver = True
         else:

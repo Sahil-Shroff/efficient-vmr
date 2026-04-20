@@ -185,7 +185,8 @@ class StartEndEvalDataset(Dataset):
                  sub_bert_path_or_handler=None, vid_feat_path_or_handler=None,
                  video_duration_idx_path=None, clip_length=None,
                  ctx_mode="video", data_mode="context",
-                 h5driver=None, data_ratio=1.0, normalize_vfeat=True, normalize_tfeat=True):
+                 h5driver=None, data_ratio=1.0, normalize_vfeat=True, normalize_tfeat=True,
+                 shared_compact_keep_ratio=1.0, shared_compact_num_spans=3):
         self.dset_name = dset_name
         self.eval_split_name = eval_split_name
         self.ctx_mode = ctx_mode
@@ -193,6 +194,8 @@ class StartEndEvalDataset(Dataset):
         self.data_ratio = data_ratio  # only affect query data
         self.normalize_vfeat = normalize_vfeat
         self.normalize_tfeat = normalize_tfeat
+        self.shared_compact_keep_ratio = shared_compact_keep_ratio
+        self.shared_compact_num_spans = shared_compact_num_spans
 
         self.data_mode = None
         self.set_data_mode(data_mode)
@@ -230,6 +233,58 @@ class StartEndEvalDataset(Dataset):
                 self.sub_bert_h5 = sub_bert_path_or_handler
             else:  # str path
                 self.sub_bert_h5 = h5py.File(sub_bert_path_or_handler, "r", driver=h5driver)
+
+    @staticmethod
+    def compute_clip_change_scores(video_feat):
+        if len(video_feat) == 0:
+            return np.zeros((0,), dtype=np.float32)
+        if len(video_feat) == 1:
+            return np.ones((1,), dtype=np.float32)
+        diffs = np.linalg.norm(video_feat[1:] - video_feat[:-1], axis=1).astype(np.float32)
+        clip_scores = np.zeros((len(video_feat),), dtype=np.float32)
+        clip_scores[0] = diffs[0]
+        clip_scores[-1] = diffs[-1]
+        if len(video_feat) > 2:
+            clip_scores[1:-1] = np.maximum(diffs[:-1], diffs[1:])
+        return clip_scores
+
+    @staticmethod
+    def select_shared_compact_indices(video_feat, keep_ratio, num_spans):
+        valid_length = len(video_feat)
+        if keep_ratio >= 1.0 or valid_length <= 1:
+            return np.arange(valid_length, dtype=np.int64)
+
+        target_count = max(1, int(math.ceil(valid_length * keep_ratio)))
+        span_len = max(1, int(math.ceil(float(target_count) / max(1, num_spans))))
+        span_len = min(span_len, valid_length)
+        clip_scores = StartEndEvalDataset.compute_clip_change_scores(video_feat)
+        window_scores = np.asarray(
+            [clip_scores[start_idx:start_idx + span_len].sum() for start_idx in range(valid_length - span_len + 1)],
+            dtype=np.float32,
+        )
+        taken = np.zeros(valid_length, dtype=bool)
+        selected = []
+        for _ in range(num_spans):
+            best_start = None
+            best_score = None
+            for start_idx, cur_score in enumerate(window_scores):
+                end_idx = start_idx + span_len
+                if taken[start_idx:end_idx].any():
+                    continue
+                if best_score is None or float(cur_score) > best_score:
+                    best_start = start_idx
+                    best_score = float(cur_score)
+            if best_start is None:
+                break
+            end_idx = best_start + span_len
+            taken[best_start:end_idx] = True
+            selected.extend(range(best_start, end_idx))
+            if taken.sum() >= target_count:
+                break
+
+        if not selected:
+            return np.arange(valid_length, dtype=np.int64)
+        return np.asarray(sorted(set(selected)), dtype=np.int64)
 
     def set_data_mode(self, data_mode):
         """context or query"""
@@ -306,24 +361,46 @@ class StartEndEvalDataset(Dataset):
 
         model_inputs = dict()
         ctx_l = 0
+        raw_video_feat = None
+        raw_sub_feat = None
 
         if self.use_video:
-            video_feat = self.vid_feat_h5[meta["vid_name"]][:self.max_ctx_len]  # (N_clip, D)
-            if self.normalize_vfeat:
-                video_feat = l2_normalize_np_array(video_feat)
-            model_inputs["video_feat"] = torch.from_numpy(video_feat)
-            ctx_l = len(video_feat)
+            raw_video_feat = self.vid_feat_h5[meta["vid_name"]][:self.max_ctx_len]  # (N_clip, D)
+            ctx_l = len(raw_video_feat)
         else:
             model_inputs["video_feat"] = torch.zeros((2, 2))
 
         if self.use_sub:  # no need for ctx feature, as the features are already contextulized
-            sub_feat = self.sub_bert_h5[meta["vid_name"]][:self.max_ctx_len]  # (N_clips, D_t)
+            raw_sub_feat = self.sub_bert_h5[meta["vid_name"]][:self.max_ctx_len]  # (N_clips, D_t)
+            ctx_l = len(raw_sub_feat) if ctx_l == 0 else min(ctx_l, len(raw_sub_feat))
+        else:
+            model_inputs["sub_feat"] = torch.zeros((2, 2))
+
+        retained_clip_indices = np.arange(ctx_l, dtype=np.int64)
+        if self.use_video and self.use_sub:
+            raw_video_feat = raw_video_feat[:ctx_l]
+            raw_sub_feat = raw_sub_feat[:ctx_l]
+            retained_clip_indices = self.select_shared_compact_indices(
+                raw_video_feat,
+                keep_ratio=self.shared_compact_keep_ratio,
+                num_spans=self.shared_compact_num_spans,
+            )
+            raw_video_feat = raw_video_feat[retained_clip_indices]
+            raw_sub_feat = raw_sub_feat[retained_clip_indices]
+        meta["retained_clip_indices"] = retained_clip_indices.tolist()
+
+        if self.use_video:
+            video_feat = raw_video_feat
+            if self.normalize_vfeat:
+                video_feat = l2_normalize_np_array(video_feat)
+            model_inputs["video_feat"] = torch.from_numpy(video_feat)
+            ctx_l = len(video_feat)
+        if self.use_sub:
+            sub_feat = raw_sub_feat
             if self.normalize_tfeat:
                 sub_feat = l2_normalize_np_array(sub_feat)
             model_inputs["sub_feat"] = torch.from_numpy(sub_feat)
             ctx_l = len(sub_feat)
-        else:
-            model_inputs["sub_feat"] = torch.zeros((2, 2))
 
         if self.use_tef:
             ctx_l = meta["duration"] // self.clip_length + 1 if ctx_l == 0 else ctx_l

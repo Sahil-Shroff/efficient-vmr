@@ -215,7 +215,7 @@ class BaseOptions(object):
             for arg in saved_options:  # use saved options to overwrite all BaseOptions args.
                 if arg not in ["results_root", "num_workers", "nms_thd", "debug",
                                "eval_split_name", "eval_path", "eval_query_bsz", "eval_context_bsz",
-                               "max_pred_l", "min_pred_l", "external_inference_vr_res_path",
+                               "max_pred_l", "min_pred_l", "max_vcmr_video", "external_inference_vr_res_path",
                                "akf_keep_ratio", "akf_selection_strategy", "akf_num_spans",
                                "akf_score_dump_path", "shared_compact_keep_ratio",
                                "shared_compact_num_spans"]:

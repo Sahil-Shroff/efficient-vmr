@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/ext_sash8218_colorado_edu/efficient-vmr/scripts/run_tvr_xml_dense_video_shortlist.py", line 40, in <module>
+    import torch
+  File "/home/ext_sash8218_colorado_edu/.local/lib/python3.10/site-packages/torch/__init__.py", line 367, in <module>
+    from torch._C import *  # noqa: F403
+ImportError: /home/ext_sash8218_colorado_edu/.local/lib/python3.10/site-packages/torch/lib/../../nvidia/cusparse/lib/libcusparse.so.12: undefined symbol: __nvJitLinkComplete_12_4, version libnvJitLink.so.12
+
+WALL_TIME_SECONDS=0.771

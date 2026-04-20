@@ -86,11 +86,20 @@ def compute_context_info(model, eval_dataset, opt):
                 res_tensor[b_sizes_cumsum[i]:b_sizes_cumsum[i+1], :seq_l[i]] = e
             return res_tensor
 
+    video_orig_indices = None
+    if len(metas) > 0 and "retained_clip_indices" in metas[0]:
+        max_ctx_l = max(len(e["retained_clip_indices"]) for e in metas)
+        video_orig_indices = torch.full((len(metas), max_ctx_l), -1, dtype=torch.long)
+        for meta_idx, meta in enumerate(metas):
+            retained_clip_indices = torch.as_tensor(meta["retained_clip_indices"], dtype=torch.long)
+            video_orig_indices[meta_idx, :len(retained_clip_indices)] = retained_clip_indices
+
     return dict(
         video_metas=metas,  # list(dict) (N_videos)
         video_feat1=cat_tensor(video_feat1),  # (N_videos, L, hsz),
         video_feat2=cat_tensor(video_feat2),
         video_mask=cat_tensor(video_mask),  # (N_videos, L)
+        video_orig_indices=video_orig_indices,
         sub_feat1=cat_tensor(sub_feat1),
         sub_feat2=cat_tensor(sub_feat2),
         sub_mask=cat_tensor(sub_mask),
@@ -128,6 +137,7 @@ def compute_query2ctx_info_svmr_only(model, eval_dataset, opt, ctx_info,
     svmr_video2meta_idx = {e["vid_name"]: idx for idx, e in enumerate(video_metas)}
     svmr_gt_st_probs = np.zeros((n_total_query, ctx_len), dtype=np.float32)
     svmr_gt_ed_probs = np.zeros((n_total_query, ctx_len), dtype=np.float32)
+    svmr_gt_orig_indices = np.full((n_total_query, ctx_len), -1, dtype=np.int64)
 
     query_metas = []
     for idx, batch in tqdm(
@@ -155,11 +165,13 @@ def compute_query2ctx_info_svmr_only(model, eval_dataset, opt, ctx_info,
 
         svmr_gt_st_probs[idx * bsz:(idx + 1) * bsz, :_st_probs.shape[1]] = _st_probs.cpu().numpy()
         svmr_gt_ed_probs[idx * bsz:(idx + 1) * bsz, :_ed_probs.shape[1]] = _ed_probs.cpu().numpy()
+        gt_orig_indices = ctx_info["video_orig_indices"][query2video_meta_indices]
+        svmr_gt_orig_indices[idx * bsz:(idx + 1) * bsz, :gt_orig_indices.shape[1]] = gt_orig_indices.numpy()
 
         if opt.debug:
             break
     svmr_res = get_svmr_res_from_st_ed_probs(svmr_gt_st_probs, svmr_gt_ed_probs,
-                                             query_metas, video2idx,
+                                             query_metas, video2idx, svmr_gt_orig_indices,
                                              clip_length=opt.clip_length,
                                              min_pred_l=opt.min_pred_l,
                                              max_pred_l=opt.max_pred_l,
@@ -192,8 +204,31 @@ def generate_min_max_length_mask(array_shape, min_l, max_l):
     return final_prob_mask  # with valid bit to be 1
 
 
+def generate_compact_contiguity_mask(orig_clip_indices):
+    orig_clip_indices = np.asarray(orig_clip_indices)
+    leading_shape = orig_clip_indices.shape[:-1]
+    max_ctx_l = orig_clip_indices.shape[-1]
+    flat_orig_clip_indices = orig_clip_indices.reshape(-1, max_ctx_l)
+    flat_masks = np.zeros((len(flat_orig_clip_indices), max_ctx_l, max_ctx_l), dtype=np.float32)
+
+    for row_idx, row_orig_indices in enumerate(flat_orig_clip_indices):
+        valid_length = int(np.sum(row_orig_indices >= 0))
+        if valid_length <= 0:
+            continue
+        valid_orig_indices = row_orig_indices[:valid_length]
+        compact_offsets = np.arange(valid_length, dtype=np.int64)
+        contiguous_mask = (
+            valid_orig_indices[None, :] - valid_orig_indices[:, None]
+            == compact_offsets[None, :] - compact_offsets[:, None]
+        )
+        flat_masks[row_idx, :valid_length, :valid_length] = contiguous_mask.astype(np.float32)
+
+    return flat_masks.reshape(leading_shape + (max_ctx_l, max_ctx_l))
+
+
 def get_svmr_res_from_st_ed_probs(svmr_gt_st_probs, svmr_gt_ed_probs, query_metas, video2idx,
-                                  clip_length, min_pred_l, max_pred_l, max_before_nms):
+                                  svmr_gt_orig_indices, clip_length, min_pred_l, max_pred_l,
+                                  max_before_nms):
     """
     Args:
         svmr_gt_st_probs: np.ndarray (N_queries, L, L), value range [0, 1]
@@ -218,7 +253,8 @@ def get_svmr_res_from_st_ed_probs(svmr_gt_st_probs, svmr_gt_ed_probs, query_meta
     # mask_triu_reversed = np.logical_not(np.triu(extra_length_mask_array, k=max_pred_l))
     # final_prob_mask = np.logical_and(mask_triu, mask_triu_reversed)  # with valid bit to be 1
     valid_prob_mask = generate_min_max_length_mask(st_ed_prob_product.shape, min_l=min_pred_l, max_l=max_pred_l)
-    st_ed_prob_product *= valid_prob_mask  # invalid location will become zero!
+    contiguous_prob_mask = generate_compact_contiguity_mask(svmr_gt_orig_indices)
+    st_ed_prob_product *= valid_prob_mask * contiguous_prob_mask
 
     batched_sorted_triples = find_max_triples_from_upper_triangle_product(
         st_ed_prob_product, top_n=max_before_nms, prob_thd=None)
@@ -228,10 +264,35 @@ def get_svmr_res_from_st_ed_probs(svmr_gt_st_probs, svmr_gt_ed_probs, query_meta
         q_m = query_metas[i]
         video_idx = video2idx[q_vid_name]
         _sorted_triples = batched_sorted_triples[i]
-        _sorted_triples[:, 1] += 1  # as we redefined ed_idx, which is inside the moment.
-        _sorted_triples[:, :2] = _sorted_triples[:, :2] * clip_length
-        # [video_idx(int), st(float), ed(float), score(float)]
-        cur_ranked_predictions = [[video_idx, ] + row for row in _sorted_triples.tolist()]
+        compact_st_indices = _sorted_triples[:, 0].astype(np.int64)
+        compact_ed_indices = _sorted_triples[:, 1].astype(np.int64)
+        orig_clip_indices = svmr_gt_orig_indices[i]
+        valid_pred_mask = np.logical_and.reduce([
+            compact_st_indices < len(orig_clip_indices),
+            compact_ed_indices < len(orig_clip_indices),
+            orig_clip_indices[compact_st_indices] >= 0,
+            orig_clip_indices[compact_ed_indices] >= 0,
+            _sorted_triples[:, 2] > 0,
+        ])
+        _sorted_triples = _sorted_triples[valid_pred_mask]
+        if len(_sorted_triples) == 0:
+            valid_orig_indices = orig_clip_indices[orig_clip_indices >= 0]
+            if len(valid_orig_indices) == 0:
+                valid_orig_indices = np.asarray([0], dtype=np.int64)
+            fallback_ed_offset = min(len(valid_orig_indices) - 1, max(0, min_pred_l - 1))
+            cur_ranked_predictions = [[
+                video_idx,
+                float(valid_orig_indices[0] * clip_length),
+                float((valid_orig_indices[fallback_ed_offset] + 1) * clip_length),
+                0.0,
+            ]]
+        else:
+            mapped_st_indices = orig_clip_indices[_sorted_triples[:, 0].astype(np.int64)]
+            mapped_ed_indices = orig_clip_indices[_sorted_triples[:, 1].astype(np.int64)] + 1
+            _sorted_triples[:, 0] = mapped_st_indices
+            _sorted_triples[:, 1] = mapped_ed_indices
+            _sorted_triples[:, :2] = _sorted_triples[:, :2] * clip_length
+            cur_ranked_predictions = [[video_idx, ] + row for row in _sorted_triples.tolist()]
         cur_query_pred = dict(
             desc_id=q_m["desc_id"],
             desc=q_m["desc"],
@@ -284,6 +345,7 @@ def compute_query2ctx_info(model, eval_dataset, opt, ctx_info,
     n_total_videos = len(video_metas)
     n_total_query = len(eval_dataset)
     bsz = opt.eval_query_bsz
+    ctx_len = ctx_info["video_mask"].shape[1] if ctx_info["video_mask"] is not None else ctx_info["sub_mask"].shape[1]
 
     if is_vcmr:
         flat_st_ed_scores_sorted_indices = np.empty((n_total_query, max_before_nms), dtype=int)
@@ -297,6 +359,7 @@ def compute_query2ctx_info(model, eval_dataset, opt, ctx_info,
         svmr_video2meta_idx = {e["vid_name"]: idx for idx, e in enumerate(video_metas)}
         svmr_gt_st_probs = np.zeros((n_total_query, opt.max_ctx_l), dtype=np.float32)
         svmr_gt_ed_probs = np.zeros((n_total_query, opt.max_ctx_l), dtype=np.float32)
+        svmr_gt_orig_indices = np.full((n_total_query, opt.max_ctx_l), -1, dtype=np.int64)
 
     query_metas = []
     for idx, batch in tqdm(
@@ -334,6 +397,8 @@ def compute_query2ctx_info(model, eval_dataset, opt, ctx_info,
                 _st_probs[row_indices, query2video_meta_indices].cpu().numpy()
             svmr_gt_ed_probs[idx * bsz:(idx + 1) * bsz, :_ed_probs.shape[2]] = \
                 _ed_probs[row_indices, query2video_meta_indices].cpu().numpy()
+            gt_orig_indices = ctx_info["video_orig_indices"][query2video_meta_indices]
+            svmr_gt_orig_indices[idx * bsz:(idx + 1) * bsz, :gt_orig_indices.shape[1]] = gt_orig_indices.numpy()
 
         if not (is_vr or is_vcmr):
             continue
@@ -372,6 +437,9 @@ def compute_query2ctx_info(model, eval_dataset, opt, ctx_info,
             _st_ed_scores.shape, min_l=opt.min_pred_l, max_l=opt.max_pred_l)
         _st_ed_scores *= torch.from_numpy(
             valid_prob_mask).to(_st_ed_scores.device)  # invalid location will become zero!
+        sorted_q2c_orig_indices = ctx_info["video_orig_indices"][_sorted_q2c_indices.cpu()]
+        contiguous_prob_mask = generate_compact_contiguity_mask(sorted_q2c_orig_indices.numpy())
+        _st_ed_scores *= torch.from_numpy(contiguous_prob_mask).to(_st_ed_scores.device)
 
         # sort across the top-max_n_videos videos (by flatten from the 2nd dim)
         # the indices here are local indices, not global indices
@@ -396,13 +464,14 @@ def compute_query2ctx_info(model, eval_dataset, opt, ctx_info,
         flat_st_ed_scores_sorted_indices = flat_st_ed_scores_sorted_indices[:n_processed_query]
         svmr_gt_st_probs = svmr_gt_st_probs[:n_processed_query]
         svmr_gt_ed_probs = svmr_gt_ed_probs[:n_processed_query]
+        svmr_gt_orig_indices = svmr_gt_orig_indices[:n_processed_query]
         n_total_query = n_processed_query
 
     # Numpy starts here!!!
     svmr_res = []
     if is_svmr:
         svmr_res = get_svmr_res_from_st_ed_probs(svmr_gt_st_probs, svmr_gt_ed_probs,
-                                                 query_metas, video2idx,
+                                                 query_metas, video2idx, svmr_gt_orig_indices,
                                                  clip_length=opt.clip_length,
                                                  min_pred_l=opt.min_pred_l,
                                                  max_pred_l=opt.max_pred_l,
@@ -432,18 +501,39 @@ def compute_query2ctx_info(model, eval_dataset, opt, ctx_info,
             # list([video_idx(int), st(float), ed(float), score(float)])
             video_meta_indices_local, pred_st_indices, pred_ed_indices = \
                 np.unravel_index(_flat_st_ed_scores_sorted_indices,
-                                 shape=(max_n_videos, opt.max_ctx_l, opt.max_ctx_l))
+                                 shape=(max_n_videos, ctx_len, ctx_len))
             # video_meta_indices_local refers to the indices among the top-max_n_videos
             # video_meta_indices refers to the indices in all the videos, which is the True indices
             video_meta_indices = sorted_q2c_indices[i, video_meta_indices_local]
-
-            pred_st_in_seconds = pred_st_indices.astype(np.float32) * opt.clip_length
-            pred_ed_in_seconds = pred_ed_indices.astype(np.float32) * opt.clip_length + opt.clip_length
+            video_orig_indices = ctx_info["video_orig_indices"][video_meta_indices].numpy()
             cur_vcmr_redictions = []
             for j, (v_meta_idx, v_score) in enumerate(zip(video_meta_indices, _flat_st_ed_sorted_scores)):  # videos
+                compact_st_idx = pred_st_indices[j]
+                compact_ed_idx = pred_ed_indices[j]
+                orig_clip_indices = video_orig_indices[j]
+                if compact_st_idx >= len(orig_clip_indices) or compact_ed_idx >= len(orig_clip_indices):
+                    continue
+                if orig_clip_indices[compact_st_idx] < 0 or orig_clip_indices[compact_ed_idx] < 0 or v_score <= 0:
+                    continue
+                pred_st_in_seconds = float(orig_clip_indices[compact_st_idx] * opt.clip_length)
+                pred_ed_in_seconds = float((orig_clip_indices[compact_ed_idx] + 1) * opt.clip_length)
                 video_idx = video2idx[video_metas[v_meta_idx]["vid_name"]]
                 cur_vcmr_redictions.append(
-                    [video_idx, float(pred_st_in_seconds[j]), float(pred_ed_in_seconds[j]), float(v_score)])
+                    [video_idx, pred_st_in_seconds, pred_ed_in_seconds, float(v_score)])
+            if len(cur_vcmr_redictions) == 0:
+                fallback_meta_idx = video_meta_indices[0]
+                fallback_orig_indices = video_orig_indices[0]
+                fallback_orig_indices = fallback_orig_indices[fallback_orig_indices >= 0]
+                if len(fallback_orig_indices) == 0:
+                    fallback_orig_indices = np.asarray([0], dtype=np.int64)
+                fallback_ed_offset = min(len(fallback_orig_indices) - 1, max(0, opt.min_pred_l - 1))
+                video_idx = video2idx[video_metas[fallback_meta_idx]["vid_name"]]
+                cur_vcmr_redictions.append([
+                    video_idx,
+                    float(fallback_orig_indices[0] * opt.clip_length),
+                    float((fallback_orig_indices[fallback_ed_offset] + 1) * opt.clip_length),
+                    0.0,
+                ])
 
             cur_query_pred = dict(
                 desc_id=query_metas[i]["desc_id"],
@@ -583,7 +673,11 @@ def start_inference():
         h5driver=opt.h5driver,
         data_ratio=opt.data_ratio,
         normalize_vfeat=not opt.no_norm_vfeat,
-        normalize_tfeat=not opt.no_norm_tfeat
+        normalize_tfeat=not opt.no_norm_tfeat,
+        shared_compact_keep_ratio=opt.shared_compact_keep_ratio,
+        shared_compact_num_spans=opt.shared_compact_num_spans,
+        context_video_shortlist_path=opt.context_video_shortlist_path,
+        context_video_shortlist_topk=opt.context_video_shortlist_topk,
     )
 
     model = setup_model(opt)

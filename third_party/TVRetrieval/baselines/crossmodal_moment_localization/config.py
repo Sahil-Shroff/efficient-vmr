@@ -172,6 +172,14 @@ class BaseOptions(object):
                                       "(or non-minimum suppression for distance)"
                                       "to post-processing the predictions. "
                                       "-1: do not use nms. 0.6 for charades_sta, 0.5 for anet_cap,")
+        self.parser.add_argument("--shared_compact_keep_ratio", type=float, default=1.0,
+                                 help="Shared video+subtitle compaction keep ratio. 1.0 disables compaction.")
+        self.parser.add_argument("--shared_compact_num_spans", type=int, default=3,
+                                 help="Number of contiguous spans to keep for shared compaction.")
+        self.parser.add_argument("--context_video_shortlist_path", type=str, default=None,
+                                 help="Optional VR shortlist JSON used to restrict eval context videos.")
+        self.parser.add_argument("--context_video_shortlist_topk", type=int, default=0,
+                                 help="How many videos per query to keep when restricting eval context videos.")
 
     def display_save(self, opt):
         args = vars(opt)
@@ -203,7 +211,10 @@ class BaseOptions(object):
                 if arg not in ["results_root", "num_workers", "nms_thd", "debug",
                                "eval_split_name", "eval_path", "eval_query_bsz", "eval_context_bsz",
                                "max_pred_l", "min_pred_l", "max_vcmr_video",
-                               "external_inference_vr_res_path"]:
+                               "external_inference_vr_res_path", "shared_compact_keep_ratio",
+                               "shared_compact_num_spans", "context_video_shortlist_path",
+                               "context_video_shortlist_topk", "desc_bert_path",
+                               "sub_bert_path", "vid_feat_path"]:
                     setattr(opt, arg, saved_options[arg])
             # opt.no_core_driver = True
         else:

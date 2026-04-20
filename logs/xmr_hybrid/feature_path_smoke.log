@@ -1,0 +1,116 @@
+2026-04-20 06:35:35.237:INFO:__main__ - Setup config, data and model...
+/home/ext_sash8218_colorado_edu/efficient-vmr/third_party/TVRetrieval/baselines/crossmodal_moment_localization/inference.py:636: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(opt.ckpt_filepath)
+2026-04-20 06:35:36.024:INFO:__main__ - Loaded model saved at epoch 1 from checkpoint: third_party/TVRetrieval/baselines/crossmodal_moment_localization/results/tvr-video_sub-xml_official_nocore_validation-2026_04_08_19_21_22/model.ckpt
+2026-04-20 06:35:36.024:INFO:__main__ - CUDA enabled.
+2026-04-20 06:35:36.032:INFO:__main__ - Starting inference...
+2026-04-20 06:35:36.033:INFO:__main__ - Computing scores
+------------ Options -------------
+{'add_pe_rnn': 'False', 'bsz': '128', 'clip_length': '1.5', 'context_video_shortlist_path': 'None', 'context_video_shortlist_topk': '0', 'conv_kernel_size': '5', 'conv_stride': '1', 'cross_att_drop': '0.1', 'ctx_mode': 'video_sub', 'data_ratio': '1.0', 'debug': 'True', 'desc_bert_path': '/mnt/tvr_disk/data/tvr_feature_release/bert_feature/sub_query/tvr_query_pretrained_w_sub_query.h5', 'device': '0', 'device_ids': '[0]', 'drop': '0.1', 'dset_name': 'tvr', 'encoder_type': 'transformer', 'eval_context_bsz': '200', 'eval_id': 'feature_path_smoke', 'eval_path': 'third_party/TVRetrieval/data/tvr_val_release.jsonl', 'eval_query_bsz': '100', 'eval_split_name': 'val', 'eval_tasks_at_training': "['VCMR', 'SVMR', 'VR']", 'eval_untrained': 'False', 'exp_id': 'xml_official_nocore_validation', 'external_inference_vr_res_path': 'None', 'glove_path': 'None', 'grad_clip': '-1', 'hard_negtiave_start_epoch': '20', 'hard_pool_size': '20', 'hidden_size': '256', 'initializer_range': '0.02', 'input_drop': '0.1', 'lr': '0.0001', 'lr_warmup_proportion': '0.01', 'lw_neg_ctx': '1', 'lw_neg_q': '1', 'lw_st_ed': '0.01', 'margin': '0.1', 'max_before_nms': '200', 'max_ctx_l': '100', 'max_desc_l': '30', 'max_es_cnt': '10', 'max_position_embeddings': '300', 'max_pred_l': '16', 'max_sub_l': '50', 'max_vcmr_video': '100', 'min_pred_l': '2', 'model_dir': '/home/ext_sash8218_colorado_edu/efficient-vmr/third_party/TVRetrieval/baselines/crossmodal_moment_localization/results/tvr-video_sub-xml_official_nocore_validation-2026_04_08_19_21_22', 'n_epoch': '100', 'n_heads': '4', 'nms_thd': '-1', 'no_core_driver': 'True', 'no_cross_att': 'False', 'no_merge_two_stream': 'False', 'no_modular': 'False', 'no_norm_tfeat': 'False', 'no_norm_vfeat': 'True', 'no_pin_memory': 'False', 'no_self_att': 'False', 'num_workers': '0', 'pe_type': 'cosine', 'q2c_alpha': '20', 'q_feat_size': '768', 'ranking_loss_type': 'hinge', 'results_dir': 'third_party/TVRetrieval/baselines/crossmodal_moment_localization/results/tvr-video_sub-xml_official_nocore_validation-2026_04_08_19_21_22', 'results_root': 'debug_results', 'seed': '2018', 'shared_compact_keep_ratio': '0.6', 'shared_compact_num_spans': '3', 'span_predictor_type': 'conv', 'stack_conv_predictor_conv_kernel_sizes': '-1', 'stop_task': 'VCMR', 'sub_bert_path': '/mnt/tvr_disk/data/tvr_feature_release/bert_feature/sub_query/tvr_sub_pretrained_w_sub_query_max_cl-1.5.h5', 'sub_feat_size': '768', 'tasks': "['VCMR', 'SVMR', 'VR']", 'train_path': 'third_party/TVRetrieval/data/tvr_train_release.jsonl', 'train_span_start_epoch': '0', 'use_glove': 'False', 'vid_feat_path': '/mnt/tvr_disk/data/tvr_feature_release/video_feature/tvr_resnet152_rgb_max_i3d_rgb600_avg_cat_cl-1.5.h5', 'vid_feat_size': '3072', 'video_duration_idx_path': 'third_party/TVRetrieval/data/tvr_video2dur_idx.json', 'vocab_size': '-1', 'wd': '0.01', 'word2idx_path': 'None'}
+-------------------
+Computing query2video scores:   0%|          | 0/11 [00:00<?, ?it/s]Computing query2video scores:   9%|▉         | 1/11 [00:03<00:31,  3.16s/it]Computing query2video scores:  18%|█▊        | 2/11 [00:04<00:21,  2.35s/it]Computing query2video scores:  27%|██▋       | 3/11 [00:06<00:16,  2.03s/it]Computing query2video scores:  36%|███▋      | 4/11 [00:08<00:12,  1.85s/it]Computing query2video scores:  45%|████▌     | 5/11 [00:09<00:10,  1.79s/it]Computing query2video scores:  55%|█████▍    | 6/11 [00:11<00:09,  1.81s/it]Computing query2video scores:  64%|██████▎   | 7/11 [00:13<00:07,  1.84s/it]Computing query2video scores:  73%|███████▎  | 8/11 [00:15<00:05,  1.89s/it]Computing query2video scores:  82%|████████▏ | 9/11 [00:17<00:03,  1.81s/it]Computing query2video scores:  91%|█████████ | 10/11 [00:18<00:01,  1.74s/it]Computing query2video scores: 100%|██████████| 11/11 [00:20<00:00,  1.67s/it]Computing query2video scores: 100%|██████████| 11/11 [00:20<00:00,  1.85s/it]
+2026-04-20 06:35:56.458:INFO:__main__ - Inference with full-script.
+Computing q embedding:   0%|          | 0/109 [00:00<?, ?it/s]Computing q embedding:   0%|          | 0/109 [00:01<?, ?it/s]
+[SVMR] Loop over queries to generate predictions:   0%|          | 0/100 [00:00<?, ?it/s][SVMR] Loop over queries to generate predictions: 100%|██████████| 100/100 [00:00<00:00, 3257.16it/s]
+[VR] Loop over queries to generate predictions:   0%|          | 0/100 [00:00<?, ?it/s][VR] Loop over queries to generate predictions: 100%|██████████| 100/100 [00:00<00:00, 4607.15it/s]
+[VCMR] Loop over queries to generate predictions:   0%|          | 0/100 [00:00<?, ?it/s][VCMR] Loop over queries to generate predictions:  17%|█▋        | 17/100 [00:00<00:00, 169.66it/s][VCMR] Loop over queries to generate predictions:  60%|██████    | 60/100 [00:00<00:00, 322.45it/s][VCMR] Loop over queries to generate predictions: 100%|██████████| 100/100 [00:00<00:00, 345.54it/s]
+2026-04-20 06:35:58.539:INFO:__main__ - Saving/Evaluating before nms results
+Evaluating for task ['VCMR', 'SVMR', 'VR']
+Running evaluation with task_type VCMR, n results 100; n gt 10895
+Loop over moments:   0%|          | 0/10895 [00:00<?, ?it/s]                                                            Running evaluation with task_type SVMR, n results 100; n gt 10895
+Loop over moments:   0%|          | 0/10895 [00:00<?, ?it/s]                                                            Running evaluation with task_type VR, n results 100; n gt 10895
+Loop over moments:   0%|          | 0/10895 [00:00<?, ?it/s]                                                            2026-04-20 06:35:58.760:INFO:__main__ - metrics_no_nms 
+OrderedDict([   (   'VCMR',
+                    OrderedDict([   ('0.5-r1', 0.0),
+                                    ('0.5-r5', 1.0),
+                                    ('0.5-r10', 3.0),
+                                    ('0.5-r100', 5.0),
+                                    ('0.7-r1', 0.0),
+                                    ('0.7-r5', 1.0),
+                                    ('0.7-r10', 1.0),
+                                    ('0.7-r100', 4.0)])),
+                (   'SVMR',
+                    OrderedDict([   ('0.5-r1', 10.0),
+                                    ('0.5-r5', 14.0),
+                                    ('0.5-r10', 18.0),
+                                    ('0.5-r100', 42.0),
+                                    ('0.7-r1', 5.0),
+                                    ('0.7-r5', 9.0),
+                                    ('0.7-r10', 12.0),
+                                    ('0.7-r100', 28.0)])),
+                (   'VR',
+                    OrderedDict([   ('r1', 4.0),
+                                    ('r5', 9.0),
+                                    ('r10', 13.0),
+                                    ('r100', 54.0)])),
+                (   'VCMR_by_type',
+                    OrderedDict([   ('v-0.5-r1', 0.0),
+                                    ('v-0.5-r5', 0.0),
+                                    ('v-0.5-r10', 1.35),
+                                    ('v-0.5-r100', 2.7),
+                                    ('v-0.7-r1', 0.0),
+                                    ('v-0.7-r5', 0.0),
+                                    ('v-0.7-r10', 0.0),
+                                    ('v-0.7-r100', 2.7),
+                                    ('t-0.5-r1', 0.0),
+                                    ('t-0.5-r5', 0.0),
+                                    ('t-0.5-r10', 0.0),
+                                    ('t-0.5-r100', 0.0),
+                                    ('t-0.7-r1', 0.0),
+                                    ('t-0.7-r5', 0.0),
+                                    ('t-0.7-r10', 0.0),
+                                    ('t-0.7-r100', 0.0),
+                                    ('vt-0.5-r1', 0.0),
+                                    ('vt-0.5-r5', 5.88),
+                                    ('vt-0.5-r10', 11.76),
+                                    ('vt-0.5-r100', 17.65),
+                                    ('vt-0.7-r1', 0.0),
+                                    ('vt-0.7-r5', 5.88),
+                                    ('vt-0.7-r10', 5.88),
+                                    ('vt-0.7-r100', 11.76),
+                                    (   'desc_type_ratio',
+                                        'v 74.0 t 9.0 vt 17.0')])),
+                (   'SVMR_by_type',
+                    OrderedDict([   ('v-0.5-r1', 5.41),
+                                    ('v-0.5-r5', 8.11),
+                                    ('v-0.5-r10', 12.16),
+                                    ('v-0.5-r100', 36.49),
+                                    ('v-0.7-r1', 2.7),
+                                    ('v-0.7-r5', 8.11),
+                                    ('v-0.7-r10', 9.46),
+                                    ('v-0.7-r100', 24.32),
+                                    ('t-0.5-r1', 11.11),
+                                    ('t-0.5-r5', 22.22),
+                                    ('t-0.5-r10', 33.33),
+                                    ('t-0.5-r100', 44.44),
+                                    ('t-0.7-r1', 11.11),
+                                    ('t-0.7-r5', 11.11),
+                                    ('t-0.7-r10', 11.11),
+                                    ('t-0.7-r100', 22.22),
+                                    ('vt-0.5-r1', 29.41),
+                                    ('vt-0.5-r5', 35.29),
+                                    ('vt-0.5-r10', 35.29),
+                                    ('vt-0.5-r100', 64.71),
+                                    ('vt-0.7-r1', 11.76),
+                                    ('vt-0.7-r5', 11.76),
+                                    ('vt-0.7-r10', 23.53),
+                                    ('vt-0.7-r100', 47.06),
+                                    (   'desc_type_ratio',
+                                        'v 74.0 t 9.0 vt 17.0')])),
+                (   'VR_by_type',
+                    OrderedDict([   ('v-r1', 5.41),
+                                    ('v-r5', 9.46),
+                                    ('v-r10', 14.86),
+                                    ('v-r100', 52.7),
+                                    ('t-r1', 0.0),
+                                    ('t-r5', 0.0),
+                                    ('t-r10', 0.0),
+                                    ('t-r100', 55.56),
+                                    ('vt-r1', 0.0),
+                                    ('vt-r5', 11.76),
+                                    ('vt-r10', 11.76),
+                                    ('vt-r100', 58.82),
+                                    (   'desc_type_ratio',
+                                        'v 74.0 t 9.0 vt 17.0')]))])
+2026-04-20 06:35:58.760:INFO:__main__ - metrics_nms 
+None

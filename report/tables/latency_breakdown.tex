@@ -1,0 +1,18 @@
+\begin{table}[t]
+  \centering
+  \caption{Suggested latency decomposition for this repo. Fill the final column with measured values for the run being reported. Offline preprocessing such as subtitle parsing, window construction, and CLIP frame extraction is excluded.}
+  \label{tab:latency-breakdown}
+  \begin{tabular}{p{0.22\linewidth}p{0.46\linewidth}c}
+    \toprule
+    Stage & Description & Time (ms) \\
+    \midrule
+    Query encoding & Sentence-transformer or CLIP text encoding amortized per query & TBD \\
+    Candidate generation & \bm scoring over subtitle windows for the known clip & TBD \\
+    Dense or fusion scoring & Dense similarity, score fusion, or shortlist reranking & TBD \\
+    Visual reranking & CLIP frame-feature lookup and text-visual rescoring, if enabled & TBD \\
+    XML localization & Shared-compaction context encoding and start/end prediction & TBD \\
+    \midrule
+    Total & End-to-end online latency for the reported pipeline & TBD \\
+    \bottomrule
+  \end{tabular}
+\end{table}

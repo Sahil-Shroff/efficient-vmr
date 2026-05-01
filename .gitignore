@@ -1,6 +1,7 @@
 .venv/
 __pycache__/
 outputs/
+artifacts/
 .env
 *.pyc
 data/*

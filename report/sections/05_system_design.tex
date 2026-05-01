@@ -1,0 +1,39 @@
+\section{Systems and Latency Design}
+\label{sec:system-design}
+
+This project is as much a systems exercise as a retrieval one. The central engineering goal is to keep the online path short by moving deterministic work offline, reusing per-video artifacts across queries, and reserving expensive multimodal reasoning for a much smaller temporal context. In the repo, this design appears in both the lightweight subtitle baselines and the heavier \xml pipeline.
+
+\subsection{Offline Data Preparation}
+The offline path begins with subtitle normalization. The window-building preprocessing script first converts the official TVR subtitle JSONL into per-video segment files. During this pass, empty rows are removed, whitespace is normalized, and consecutive duplicate subtitle strings are merged by extending their end timestamps. This step reduces redundant transcript content before retrieval is attempted.
+
+The normalized subtitle segments are then converted into overlapping retrieval windows. In the current repo configuration, each window spans $12$ seconds with a stride of $6$ seconds. A window stores the video identifier, its temporal bounds, and the concatenated text from all subtitle segments that overlap that interval. Because this construction is deterministic and query-independent, it is treated entirely as preprocessing rather than query-time work.
+
+The visual reranking branch also pushes its expensive feature extraction offline. A dedicated preprocessing script samples frames from local video files at a fixed temporal stride, encodes them with CLIP, and saves timestamps plus normalized frame embeddings in compressed \texttt{.npz} files. For \xml, the system reuses the official precomputed video, subtitle, and query features distributed with TVR rather than extracting raw features inside this project.
+
+One practical detail of the implementation is that the repo does not serialize separate BM25 or dense subtitle indexes to disk. Instead, each evaluation script loads the prebuilt window files and lazily constructs a per-video BM25 structure or dense embedding matrix the first time that video is queried. Those objects are then cached in memory and reused for subsequent queries, which avoids repeated setup cost without complicating the preprocessing pipeline.
+
+\subsection{Online Inference Path}
+For the subtitle-window baselines, the online input is a natural-language query together with a known TVR clip. The system first looks up the subtitle windows for that clip. In the \bm baseline, query-time work is limited to scoring those cached windows lexically and returning the top-$k$ spans. In the dense baseline, the query texts are encoded in batches once, the window embedding matrix is reused from cache, and retrieval reduces to a matrix-vector similarity computation followed by ranking.
+
+The fusion branch follows the same access pattern but decomposes latency more explicitly. The code measures \bm scoring time, dense scoring time, and fusion time separately, then combines the two score streams with weighted fusion, reciprocal-rank fusion, or dense reranking over a \bm shortlist. This makes the subtitle baselines useful not only as accuracy references but also as profiling tools for understanding where query-time cost is actually spent.
+
+The visual reranking path adds a second stage after dense subtitle retrieval. A dense shortlist is produced first, and only those candidate windows are rescored with precomputed CLIP frame embeddings from the corresponding video. The query is encoded once with the CLIP text tower, frame features are loaded only for videos that reach the reranking stage, and the final score is a weighted combination of normalized text and visual relevance. This keeps visual access bounded by the candidate set rather than by the full clip timeline.
+
+The \xml path uses the official inference code over the provided HDF5 features, but with an important runtime adaptation. Before context encoding, the repo applies shared compaction to the video and subtitle streams on the same retained timeline. The selected indices are stored as \texttt{retained\_clip\_indices}, both modalities are sliced with those indices, and inference later maps predicted compact start/end positions back to timestamps on the original clip grid. A contiguity mask ensures that predicted spans cannot cross gaps introduced by compaction. As a result, \xml keeps its original multimodal scoring logic while running on shorter aligned sequences.
+
+\subsection{Latency Reduction Strategies}
+Several concrete design choices in the repo target latency directly.
+
+\paragraph{Shift immutable work offline.}
+Subtitle parsing, window construction, and CLIP frame feature extraction are all query-independent, so they are removed from the critical path. This is especially important in TVR because transcript cleanup and video decoding would otherwise dominate any fair measurement of retrieval latency.
+
+\paragraph{Cache aggressively at the video level.}
+The baselines are evaluated over many queries that revisit the same clips. The implementation therefore caches BM25 state, dense subtitle embeddings, and visual features per video after first use. Dense query embeddings are also batched ahead of the main retrieval loop, so the per-query online cost is closer to lookup and scoring than to full re-encoding of every artifact.
+
+\paragraph{Apply expensive models only to shortlists.}
+Both the fusion baselines and the visual reranker reduce cost by concentrating dense or visual scoring on a limited candidate set rather than the full transcript. The same principle carries over to \xml: shared compaction removes large portions of the aligned clip grid before contextual encoding and span scoring. This is the main systems idea behind retrieval-guided \xml inference.
+
+\paragraph{Keep runtime fixes separate from modeling claims.}
+The XML wrappers also include environment-level adjustments needed to make official validation practical on the available machine, such as resolving local feature paths and running with \texttt{--no\_core\_driver} to avoid copying large HDF5 feature files into RAM. These choices matter for reproducibility and end-to-end latency, but they do not change the underlying XML model.
+
+\input{tables/latency_breakdown}

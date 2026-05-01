@@ -1,0 +1,14 @@
+\section{Experimental Setup}
+\label{sec:experimental-setup}
+
+\subsection{Dataset and Splits}
+Describe the \dataset split configuration you use and clarify any differences between official data, local preprocessing artifacts, and external feature assets.
+
+\subsection{Baselines}
+List the baselines in the order they build on one another. For this repo, that likely includes random or oracle sanity checks, sparse subtitle retrieval, dense subtitle retrieval, fusion, visual reranking, and the upstream \xml reference.
+
+\subsection{Implementation Details}
+Document the key hyperparameters, feature backbones, window size and stride choices, hardware, and software environment needed to interpret both quality and runtime.
+
+\subsection{Metrics}
+State exactly how accuracy and runtime are measured, including whether latency numbers are averaged over the validation split, measured with warm caches, or decomposed by stage.

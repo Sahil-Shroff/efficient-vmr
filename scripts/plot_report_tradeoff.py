@@ -11,21 +11,51 @@ from matplotlib.lines import Line2D
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 OUTPUT_PATH = REPO_ROOT / "report" / "figures" / "accuracy_latency_tradeoff.pdf"
+NUM_QUERIES = 10895
+
+
+def _wall_s(ms_per_query: float) -> float:
+    return ms_per_query * NUM_QUERIES / 1000.0
 
 
 def _load_json(path: Path) -> dict:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
-def main() -> None:
-    xml_runs = _load_json(REPO_ROOT / "outputs" / "tvr" / "xml_hierarchical" / "dense_shortlist_xml_eval_summary.json")[
-        "runs"
-    ]
-    hybrid_runs = {
-        row["method"]: row
-        for row in _load_json(REPO_ROOT / "outputs" / "tvr" / "xml_hybrid" / "hybrid_eval_summary.json")["runs"]
+def _load_runs() -> tuple[dict, dict]:
+    xml_path = REPO_ROOT / "outputs" / "tvr" / "xml_hierarchical" / "dense_shortlist_xml_eval_summary.json"
+    hybrid_path = REPO_ROOT / "outputs" / "tvr" / "xml_hybrid" / "hybrid_eval_summary.json"
+    if xml_path.exists() and hybrid_path.exists():
+        xml_runs = _load_json(xml_path)["runs"]
+        hybrid_runs = {row["method"]: row for row in _load_json(hybrid_path)["runs"]}
+        return xml_runs, hybrid_runs
+
+    # Fallback mirrors report/tables/main_results.tex so the figure can be
+    # regenerated even when VM-produced output summaries are not in this checkout.
+    xml_runs = {
+        "full": {"wall_s": _wall_s(7.36), "vcmr_0.5_r1": 0.38},
+        "top1": {"wall_s": _wall_s(4.88), "vcmr_0.5_r1": 1.57},
+        "top5": {"wall_s": _wall_s(4.96), "vcmr_0.5_r1": 1.43},
+        "top10": {"wall_s": _wall_s(5.03), "vcmr_0.5_r1": 1.45},
     }
-    num_queries = 10895
+    hybrid_runs = {
+        "shared_compact_to_xml_keep06": {
+            "wall_s": _wall_s(11.11),
+            "vcmr_r1_05": 0.25,
+            "speedup_vs_full": 0.66,
+        },
+        "dense_to_shared_compact_to_xml_top5_keep06": {
+            "wall_s": _wall_s(10.46),
+            "vcmr_r1_05": 1.17,
+            "speedup_vs_full": 0.70,
+        },
+    }
+    return xml_runs, hybrid_runs
+
+
+def main() -> None:
+    xml_runs, hybrid_runs = _load_runs()
+    num_queries = NUM_QUERIES
     full_wall_s = xml_runs["full"]["wall_s"]
     ours_rows = [
         ("Full XML", xml_runs["full"]["wall_s"] * 1000.0 / num_queries, xml_runs["full"]["vcmr_0.5_r1"], "1.00x"),
@@ -91,7 +121,7 @@ def main() -> None:
         )
 
     ax.annotate(
-        "Ours: top-5\n1.48x faster",
+        "Selected: top-5\n1.48x faster",
         xy=(ours_rows[2][1], ours_rows[2][2]),
         xytext=(6.0, 1.34),
         textcoords="data",
@@ -106,7 +136,7 @@ def main() -> None:
     legend_handles = [
         Line2D([0], [0], marker="o", color="none", markerfacecolor=point_specs["Full XML"]["color"], markeredgecolor="black", markersize=6.5, label="Full XML"),
         Line2D([0], [0], marker="D", color="none", markerfacecolor=point_specs["Dense->XML top-1"]["color"], markeredgecolor="black", markersize=6.0, label="Dense->XML top-1"),
-        Line2D([0], [0], marker="*", color="none", markerfacecolor=point_specs["Dense->XML top-5"]["color"], markeredgecolor="black", markersize=9.0, label="Dense->XML top-5 (ours)"),
+        Line2D([0], [0], marker="*", color="none", markerfacecolor=point_specs["Dense->XML top-5"]["color"], markeredgecolor="black", markersize=9.0, label="Dense->XML top-5 (selected)"),
         Line2D([0], [0], marker="^", color="none", markerfacecolor=point_specs["Dense->XML top-10"]["color"], markeredgecolor="black", markersize=7.0, label="Dense->XML top-10"),
         Line2D([0], [0], marker="s", color="none", markerfacecolor=point_specs["Shared compact XML"]["color"], markeredgecolor="black", markersize=6.5, label="Shared compact XML"),
         Line2D([0], [0], marker="P", color="none", markerfacecolor=point_specs["Dense->compact->XML top-5"]["color"], markeredgecolor="black", markersize=7.0, label="Dense->compact->XML top-5"),
@@ -122,8 +152,8 @@ def main() -> None:
         handletextpad=0.4,
     )
 
-    ax.set_title("Validation Trade-off for XML Variants", fontsize=10, weight="bold")
-    ax.set_xlabel("Latency (ms/query)")
+    ax.set_title("Fixed-Feature Validation Trade-off for XML Variants", fontsize=10, weight="bold")
+    ax.set_xlabel("Validation runtime (ms/query)")
     ax.set_ylabel(r"VCMR R@1, IoU=0.5 (\%)")
     ax.set_xlim(4.5, 11.7)
     ax.set_ylim(0.15, 1.75)

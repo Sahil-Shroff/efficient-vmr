@@ -1,21 +1,21 @@
-\begin{table}[t]
+\begin{table*}[t]
   \centering
-  \scriptsize
-  \setlength{\tabcolsep}{4pt}
-  \caption{Official TVR validation results for the multimodal \xml family. The report's main comparison is between exhaustive full-\xml inference, our dense-shortlist-to-\xml pipeline, and the shared-compaction ablations. Speedup is measured relative to the full-\xml validation sweep.}
+  \small
+  \setlength{\tabcolsep}{6pt}
+  \caption{Official TVR validation results for the multimodal \xml family. Full \xml is the reference; all other rows are our variants. Dense rows use transcript retrieval to shortlist videos before official \xml scoring. Shared compaction is a side ablation. Speedup is measured relative to the full \xml validation sweep over the official TVR val split.}
   \label{tab:main-results}
-  \resizebox{\linewidth}{!}{%
   \begin{tabular}{lccccc}
     \toprule
-    Method & VR R@1 & VCMR R@1@.5 & SVMR R@1@.5 & ms/query & Speedup \\
+    Method & VR R@1 & VCMR R@1@.5 & SVMR R@1@.5 & Val. ms/query & Speedup \\
     \midrule
     Full \xml reference & 1.69 & 0.38 & 15.60 & 7.36 & 1.00$\times$ \\
+    \midrule
+    \multicolumn{6}{l}{\textit{Our variants}} \\
     Dense $\rightarrow$ \xml top-1 & 11.56 & 1.57 & 15.60 & 4.88 & 1.51$\times$ \\
-    \textbf{Dense $\rightarrow$ \xml top-5 (ours)} & \textbf{11.56} & \textbf{1.43} & \textbf{15.60} & \textbf{4.96} & \textbf{1.48$\times$} \\
+    \textbf{Dense $\rightarrow$ \xml top-5 (selected)} & \textbf{11.56} & \textbf{1.43} & \textbf{15.60} & \textbf{4.96} & \textbf{1.48$\times$} \\
     Dense $\rightarrow$ \xml top-10 & 11.56 & 1.45 & 15.60 & 5.03 & 1.46$\times$ \\
     Shared compact \xml ($k=0.6$) & 1.60 & 0.25 & 11.23 & 11.11 & 0.66$\times$ \\
     Dense $\rightarrow$ compact $\rightarrow$ \xml top-5 & 11.56 & 1.17 & 11.56 & 10.46 & 0.70$\times$ \\
     \bottomrule
-  \end{tabular}%
-  }
-\end{table}
+  \end{tabular}
+\end{table*}

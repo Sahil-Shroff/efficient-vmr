@@ -1,18 +1,19 @@
 \begin{table}[t]
   \centering
-  \caption{Average online latency for the reported dense-shortlist-to-XML top-5 validation pipeline. Offline document encoding, subtitle parsing, window construction, and feature extraction are excluded. XML localization is estimated as the residual between end-to-end wall time and the measured retrieval front-end.}
+  \small
+  \setlength{\tabcolsep}{3pt}
+  \renewcommand{\arraystretch}{1.08}
+  \caption{Average fixed-feature validation runtime for the active stages in the dense top-5 $\rightarrow$ \xml pipeline. Offline preprocessing is excluded. The \xml row is estimated as the residual between end-to-end validation wall-clock time and measured dense retrieval time.}
   \label{tab:latency-breakdown}
-  \begin{tabular}{p{0.24\linewidth}p{0.44\linewidth}c}
+  \begin{tabular}{p{0.31\linewidth}p{0.44\linewidth}r}
     \toprule
-    Stage & Description & Time (ms) \\
+    Stage & Validation-time work & ms/query \\
     \midrule
-    Query encoding & MiniLM text encoding averaged over the validation sweep & 0.22 \\
-    Candidate generation & No separate lexical prefilter in the dense-top5 pipeline & 0.00 \\
-    Dense shortlist scoring & Subtitle-embedding similarity and top-5 ranking & 0.17 \\
-    Visual reranking & Disabled in the reported pipeline & 0.00 \\
-    XML localization & Cross-modal localization on the top-5 shortlist (residual estimate) & 4.57 \\
+    Query encoding & MiniLM query embedding & 0.22 \\
+    Dense scoring & Subtitle similarity + top-5 & 0.17 \\
+    \xml localization & Top-5 cross-modal scoring & 4.57 \\
     \midrule
-    Total & End-to-end wall time per query for dense shortlist $\rightarrow$ XML & 4.96 \\
+    Total & End-to-end per query & 4.96 \\
     \bottomrule
   \end{tabular}
 \end{table}

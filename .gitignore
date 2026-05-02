@@ -1,2 +1,10 @@
 .venv/
 __pycache__/
+outputs/
+artifacts/
+.env
+*.pyc
+data/*
+!data/README.md
+third_party/TVRetrieval/baselines/crossmodal_moment_localization/results/
+third_party/TVRetrieval/baselines/crossmodal_moment_localization/debug_results/

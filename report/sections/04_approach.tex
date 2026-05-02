@@ -1,0 +1,33 @@
+\section{Approach}
+\label{sec:approach}
+
+Our method separates cheap textual pruning from expensive multimodal localization. The key design choice is to use subtitle search to reduce the temporal context presented to \xml, while preserving \xml as the final cross-modal decision maker. In parallel, we evaluate text-only retrieval methods as baselines to measure how far cheap subtitle search can go on its own. The most meaningful XML result in this project is obtained in the official VCMR setting rather than in SVMR.
+
+\subsection{Pipeline Overview}
+The full pipeline has two uses. For the subtitle-window baselines, the input is a query, a known clip, its subtitle transcript, and precomputed clip-level features. We first build overlapping subtitle windows from the transcript, score them against the query, and return a ranked shortlist of candidate temporal regions. For \xml, we use the same retrieval idea as a front-end pruning mechanism before running official multimodal localization in the corpus setting. In both cases, predictions are ultimately mapped back to timestamps in the original clip timeline.
+
+This design reflects the actual bottleneck in our setting. Because the video identity is already known, the expensive step is not corpus retrieval but temporal localization within the clip. Subtitle search is therefore used as a pruning mechanism rather than as the final model of record.
+
+\subsection{Subtitle-Window Retrieval Baselines}
+We evaluate three text-first baselines over subtitle windows.
+
+\paragraph{\bm retrieval.}
+The lexical baseline indexes subtitle windows for each clip and ranks them with \bm. It is the cheapest method in the pipeline and provides a strong reference for how much signal is already available from transcript overlap alone.
+
+\paragraph{Dense subtitle retrieval.}
+The dense baseline encodes the query and subtitle windows with a sentence-transformer model and ranks windows by embedding similarity. This baseline tests whether semantic matching over subtitle text is more effective than lexical matching for TVR-style queries.
+
+\paragraph{Fusion.}
+We also evaluate combinations of lexical and dense search, including weighted score fusion, reciprocal-rank fusion, and reranking dense scores over a \bm shortlist. In this project, these methods are treated as retrieval baselines and candidate generators. They are not the main modeling contribution, and in our experiments they do not account for the largest accuracy gains.
+
+\subsection{Cross-Modal Localization with XML}
+\xml is the main multimodal localizer used in this work and serves as the strongest model in our study. In the official TVR setup, it consumes aligned video and subtitle features together with the language query, decomposes the query into modality-sensitive representations, contextualizes video and subtitle streams, and predicts start and end positions on the clip timeline. Its late-fusion design and Convolutional Start-End detector make it a strong reference point for multimodal moment retrieval on \dataset \cite{lei2020tvr}. In our experiments, the XML result we rely on is the VCMR result, not a strong SVMR outcome.
+
+For this project, the important role of \xml is not that we redesign its internal architecture. Instead, we treat it as the high-quality localization model whose cost must be reduced. This is also why the text-only baselines are not sufficient by themselves: they can rank subtitle windows, but they do not replace cross-modal temporal grounding when visual evidence matters.
+
+\subsection{Retrieval-Guided XML Inference}
+Our main adaptation is to use subtitle retrieval to prune the context before invoking \xml. The retrieved subtitle windows are converted into retained temporal regions on the clip grid used by the precomputed features. Because the TVR setup provides aligned embeddings rather than raw videos, this pruning happens over clip-level feature sequences, not over RGB frames. The same retained timeline is applied to both subtitle and video streams so that cross-modal alignment is preserved.
+
+After pruning, \xml runs on the reduced temporal context and predicts the best start and end positions within that compact representation. Those positions are then mapped back to the original clip timeline to produce the final timestamps. Conceptually, this turns subtitle retrieval into a front-end filter for multimodal localization: text narrows the search, and \xml performs the final cross-modal decision that drives the VCMR result.
+
+This retrieval-guided formulation is the central idea of the project. It preserves the strengths of \xml while avoiding unnecessary computation on large portions of the clip that are unlikely to contain the target moment.

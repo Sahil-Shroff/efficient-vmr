@@ -1,0 +1,38 @@
+from __future__ import annotations
+
+from typing import Any
+
+from rank_bm25 import BM25Okapi
+
+from ..utils import simple_tokenize
+
+
+def build_bm25_index(windows: list[dict[str, Any]]) -> tuple[BM25Okapi, list[list[str]]]:
+    tokenized_windows = [simple_tokenize(str(window.get("text", ""))) for window in windows]
+    return BM25Okapi(tokenized_windows), tokenized_windows
+
+
+def score_windows_bm25(*, query: str, bm25: BM25Okapi) -> list[float]:
+    return [float(score) for score in bm25.get_scores(simple_tokenize(query))]
+
+
+def retrieve_top_k_windows(
+    *,
+    query: str,
+    windows: list[dict[str, Any]],
+    bm25: BM25Okapi,
+    top_k: int,
+) -> list[dict[str, Any]]:
+    if not windows:
+        return []
+
+    scores = score_windows_bm25(query=query, bm25=bm25)
+    ranked = sorted(enumerate(scores), key=lambda item: item[1], reverse=True)[:top_k]
+    return [
+        {
+            **windows[idx],
+            "score": float(score),
+            "rank": rank + 1,
+        }
+        for rank, (idx, score) in enumerate(ranked)
+    ]

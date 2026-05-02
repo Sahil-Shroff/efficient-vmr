@@ -1,0 +1,7 @@
+numpy
+opencv-python-headless
+Pillow
+rank-bm25
+sentence-transformers
+tqdm
+transformers

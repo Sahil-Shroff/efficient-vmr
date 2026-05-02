@@ -1,0 +1,18 @@
+\section{Introduction}
+\label{sec:introduction}
+
+Video collections are growing faster than systems can analyze them exhaustively. In practical settings, a user often wants to issue a natural-language query and immediately retrieve the temporal span in a video that matches it. This problem is commonly studied as natural-language video localization or \task. Benchmarks such as \dataset make the task especially realistic because successful retrieval may require reasoning over both visual content and subtitles rather than either modality alone \cite{lei2020tvr}.
+
+This realism comes with a systems cost. Traditional video analytics pipelines could often be optimized around a fixed set of detectors and predicates, but open-ended language queries require more flexible multimodal models. Recent transformer-based approaches have substantially improved temporal localization quality, yet they also increase online computation, memory traffic, and latency because they must score many temporal candidates while processing high-dimensional visual and textual features. The cost becomes even more visible for video, where temporal length compounds the already expensive spatial processing used in modern vision-language models.
+
+This project studies a retrieval-first design for low-latency \task on \dataset. Instead of applying expensive multimodal localization uniformly across the full temporal context, we first use transcript-based retrieval to shrink the search space and then apply \xml, a cross-modal localizer, on the reduced context. We also evaluate several text-only subtitle-window baselines, including \bm, dense retrieval with sentence-transformer embeddings, and their fusion. These baselines provide useful points of comparison for cheap textual search, but they do not account for the main quality gains in our experiments. The main benefit comes from preserving multimodal localization while reducing the temporal context that \xml must score.
+
+The goal of this work is not to propose a completely new localization architecture. The goal is to understand which components provide the best accuracy-latency trade-off under practical constraints, including precomputed video features and limited tolerance for online inference cost. That framing places the project at the intersection of computer vision and systems. The computer vision side concerns robust temporal grounding from natural-language queries, while the systems side concerns how to avoid spending heavy computation on temporal regions that are clearly irrelevant.
+
+\paragraph{Contributions.}
+\begin{itemize}[leftmargin=*]
+  \item We present a modular low-latency \task pipeline that separates cheap subtitle-window retrieval from expensive cross-modal localization.
+  \item We evaluate \bm, dense sentence-transformer retrieval, and their fusion as subtitle-search baselines, and show that these text-only methods are not the main source of improvement.
+  \item We adapt the search procedure around \xml by using transcript retrieval to reduce the temporal search space before heavier multimodal inference.
+  \item We evaluate the system with both localization quality and runtime measurements, treating latency as a first-class metric rather than a secondary implementation detail.
+\end{itemize}

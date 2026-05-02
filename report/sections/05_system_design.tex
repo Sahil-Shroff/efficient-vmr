@@ -3,6 +3,16 @@
 
 This project is as much a systems exercise as a retrieval one. The central engineering goal is to keep the online path short by moving deterministic work offline, reusing per-video artifacts across queries, and reserving expensive multimodal reasoning for a much smaller temporal context. In the repo, this design appears in both the lightweight subtitle baselines and the heavier \xml pipeline.
 
+\Cref{fig:pipeline-overview} summarizes the staged design used in the final system. The visual structure takes inspiration from the late-fusion XML view in the original TVR paper \cite{lei2020tvr}, but the content here is specific to the measured repo pipeline: offline subtitle-window preparation, dense text retrieval, shortlist-based pruning, and \xml refinement over aligned video and subtitle features.
+
+\begin{figure*}[t]
+  \centering
+  \includegraphics[width=\textwidth]{figures/pipeline_overview.pdf}
+  \Description{A full-width architecture diagram of the dense-shortlist-to-XML pipeline. The top lane shows offline subtitle normalization, window building, per-video caching, and official XML feature files. The middle lane shows the online path from a user query to MiniLM encoding, dense subtitle retrieval, a top-5 shortlist, XML localization over query, video, and subtitle streams, and the final moment output. The bottom row reports candidate pruning, speedup, VCMR improvement, and preserved SVMR accuracy for the measured validation operating point.}
+  \caption{Architecture of the dense-shortlist-to-\xml pipeline used in the final report. The diagram follows the XML-style late-fusion perspective from TVR \cite{lei2020tvr}, but redraws the actual repo implementation and annotates it with the measured validation operating point for dense $\rightarrow$ \xml top-5.}
+  \label{fig:pipeline-overview}
+\end{figure*}
+
 \subsection{Offline Data Preparation}
 The offline path begins with subtitle normalization. The window-building preprocessing script first converts the official TVR subtitle JSONL into per-video segment files. During this pass, empty rows are removed, whitespace is normalized, and consecutive duplicate subtitle strings are merged by extending their end timestamps. This step reduces redundant transcript content before retrieval is attempted.
 

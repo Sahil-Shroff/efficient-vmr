@@ -1,4 +1,6 @@
 \section{Conclusion}
 \label{sec:conclusion}
 
-Summarize the main empirical takeaway in a short form: what low-latency setting you studied, what design worked best, and what trade-off the reader should remember. End with one or two concrete next steps, such as better multimodal routing, stronger dense encoders, or more disciplined latency-aware training objectives.
+This report studied low-latency moment retrieval on the \dataset validation split with an explicit focus on reducing the cost of multimodal localization rather than replacing it. The strongest design in this repo is a staged dense-shortlist-to-\xml pipeline. At the main top-5 operating point, it improves VR R@1 from 1.69 to 11.56 and VCMR R@1 at IoU 0.5 from 0.38 to 1.43 while preserving SVMR R@1 at IoU 0.5 at 15.60, and it reduces average runtime from 7.36 to 4.96\,ms/query for a 1.48$\times$ speedup over full \xml.
+
+The key trade-off to remember is that dense subtitle retrieval is most valuable as a routing mechanism, not as a replacement for cross-modal temporal grounding. Cheap text retrieval should decide where the expensive model looks, while \xml remains responsible for final localization quality. The most promising next steps are better learned multimodal routing and stronger retrieval encoders that can raise shortlist recall without giving back the latency savings demonstrated here.

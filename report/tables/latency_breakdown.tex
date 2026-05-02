@@ -1,18 +1,18 @@
 \begin{table}[t]
   \centering
-  \caption{Suggested latency decomposition for this repo. Fill the final column with measured values for the run being reported. Offline preprocessing such as subtitle parsing, window construction, and CLIP frame extraction is excluded.}
+  \caption{Average online latency for the reported dense-shortlist-to-XML top-5 validation pipeline. Offline document encoding, subtitle parsing, window construction, and feature extraction are excluded. XML localization is estimated as the residual between end-to-end wall time and the measured retrieval front-end.}
   \label{tab:latency-breakdown}
-  \begin{tabular}{p{0.22\linewidth}p{0.46\linewidth}c}
+  \begin{tabular}{p{0.24\linewidth}p{0.44\linewidth}c}
     \toprule
     Stage & Description & Time (ms) \\
     \midrule
-    Query encoding & Sentence-transformer or CLIP text encoding amortized per query & TBD \\
-    Candidate generation & \bm scoring over subtitle windows for the known clip & TBD \\
-    Dense or fusion scoring & Dense similarity, score fusion, or shortlist reranking & TBD \\
-    Visual reranking & CLIP frame-feature lookup and text-visual rescoring, if enabled & TBD \\
-    XML localization & Shared-compaction context encoding and start/end prediction & TBD \\
+    Query encoding & MiniLM text encoding averaged over the validation sweep & 0.22 \\
+    Candidate generation & No separate lexical prefilter in the dense-top5 pipeline & 0.00 \\
+    Dense shortlist scoring & Subtitle-embedding similarity and top-5 ranking & 0.17 \\
+    Visual reranking & Disabled in the reported pipeline & 0.00 \\
+    XML localization & Cross-modal localization on the top-5 shortlist (residual estimate) & 4.57 \\
     \midrule
-    Total & End-to-end online latency for the reported pipeline & TBD \\
+    Total & End-to-end wall time per query for dense shortlist $\rightarrow$ XML & 4.96 \\
     \bottomrule
   \end{tabular}
 \end{table}

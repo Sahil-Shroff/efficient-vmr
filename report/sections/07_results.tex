@@ -1,12 +1,26 @@
 \section{Results}
 \label{sec:results}
 
-Use this section to make the accuracy versus latency trade-off legible. Avoid presenting quality metrics without the corresponding runtime context.
+All numbers in this section come from the official \dataset validation split described in \cref{sec:experimental-setup}. The main question is whether a lightweight dense retrieval stage can reduce the cost of \xml without giving up the localization behavior that makes \xml attractive in the first place. Accordingly, \cref{tab:main-results} and \cref{fig:accuracy-latency} focus on the \xml family and report speedup relative to the full-\xml validation sweep.
 
 \input{tables/main_results}
 
+\begin{figure}[t]
+  \centering
+  \includegraphics[width=\linewidth]{figures/accuracy_latency_tradeoff.pdf}
+  \Description{A validation trade-off plot for XML variants. The plot compares full XML, dense-to-XML shortlists of size 1, 5, and 10, and two shared-compaction baselines by latency and VCMR recall at IoU 0.5. A legend identifies the methods, and the top-5 shortlist is highlighted as the main operating point.}
+  \caption{Validation trade-offs for the \xml-stage design choices. The dense-shortlist family improves both latency and corpus-level retrieval quality over full \xml, while the shared-compaction variants move in the opposite direction. The top-5 shortlist is highlighted as our main operating point; exact speedups are listed in \cref{tab:main-results}.}
+  \label{fig:accuracy-latency}
+\end{figure}
+
 \subsection{Accuracy-Latency Trade-off}
-Highlight the operating points that are actually interesting. For example, identify the simplest baseline that already performs well, where fusion helps enough to justify its cost, and when multimodal refinement becomes worthwhile.
+Among the transcript-only front-end options, weighted fusion with $\alpha = 0.25$ is the best validation retriever, but its gains over dense-only retrieval are small. That result matters mostly because it confirms that the main systems leverage is not in squeezing out another fraction of a point from subtitle-window ranking. The more important question is what happens once the chosen retriever controls how much work \xml must do downstream.
+
+The full multimodal \xml baseline exposes the bottleneck clearly. Its within-video localization quality is strong, with SVMR R@1 at IoU 0.5 equal to 15.60, but exhaustive corpus retrieval keeps VR R@1 at only 1.69 and VCMR R@1 at IoU 0.5 at 0.38. It also costs 7.36\,ms/query over the full validation sweep. This is exactly the regime where a staged pipeline should help: replace exhaustive retrieval with a shortlist that preserves useful candidates, then let \xml handle the fine-grained localization.
+
+Our main reported operating point is dense top-5 shortlist $\rightarrow$ \xml. That pipeline raises VR R@1 from 1.69 to 11.56 and VCMR R@1 at IoU 0.5 from 0.38 to 1.43, while fully preserving SVMR R@1 at IoU 0.5 at 15.60. Runtime drops from 7.36\,ms/query for full \xml to 4.96\,ms/query, which is a 1.48$\times$ speedup and is now reported directly in \cref{tab:main-results}. The latency decomposition in \cref{tab:latency-breakdown} shows why this works: only about 0.39\,ms/query is spent on the dense front-end, while the dominant savings come from reducing the amount of expensive multimodal inference. Dense retrieval contributes the video-level recall, and \xml remains the component that delivers the final localization quality.
 
 \subsection{Ablations}
-Reserve this subsection for the design choices that matter most: window size and stride, shortlist depth, fusion weights, retrieval pruning strength, or compact context settings.
+We focus on the two ablations that directly test the \xml-stage design. The first is shortlist depth. Top-1 is the fastest shortlisted setting at 4.88\,ms/query and gives the best VCMR R@1 at IoU 0.5, namely 1.57, for a 1.51$\times$ speedup over full \xml. However, its shortlist video recall is only 11.56\%, which means the system is relying on a very narrow candidate set. Moving to top-5 almost doubles shortlist video recall to 22.29\% with only a 0.08\,ms/query increase in latency, while keeping VR R@1 at 11.56 and fully preserving SVMR R@1 at IoU 0.5. Top-10 pushes shortlist video recall further to 28.44\%, but its VCMR R@1 at IoU 0.5 does not improve over top-5 and the latency edge shrinks to 1.46$\times$. For that reason, top-5 is the cleanest balanced operating point to highlight in the main report.
+
+The second ablation is shared compaction as an alternative way to cut \xml cost. It is informative mainly as negative evidence. Plain shared compaction with keep ratio 0.6 drops SVMR R@1 at IoU 0.5 to 11.23 and is slower than full \xml at 11.11\,ms/query, or only 0.66$\times$ as fast. Adding the dense front-end before shared compaction recovers some corpus-level quality, but it still underperforms dense shortlist $\rightarrow$ \xml, reaching VCMR R@1 at IoU 0.5 of 1.17 and SVMR R@1 at IoU 0.5 of 11.56 at 10.46\,ms/query, which is still only a 0.70$\times$ speedup factor. This means the compaction plumbing works, but the current selector is too crude to compete with hierarchical dense pruning. The strongest systems result in this repo is therefore the staged dense shortlist $\rightarrow$ \xml pipeline rather than shared compaction.

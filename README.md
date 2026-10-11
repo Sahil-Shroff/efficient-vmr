@@ -1,6 +1,35 @@
-# TVR Baselines
+# Efficient Video Moment Retrieval
 
-This branch is dedicated to **TVR (TV show Retrieval)** baselines.
+## Consolidated implementation
+
+`main` includes the subtitle baselines, XML integration, AKF-lite visual selection,
+shared video/subtitle compaction, dense video shortlisting, hybrid evaluation,
+and the final report sources. Earlier experiment branches remain available for history.
+
+- Final report: [report/main.tex](report/main.tex)
+- Dense shortlist design: [notes/xml_hierarchical_dense_shortlist.md](notes/xml_hierarchical_dense_shortlist.md)
+- Hybrid validation notes: [notes/xml_hybrid_validation.md](notes/xml_hybrid_validation.md)
+- Recorded runs: [logs/fullval_runs](logs/fullval_runs), [logs/test_public_runs](logs/test_public_runs), and [logs/final_eval](logs/final_eval)
+
+The subtitle baselines below perform within-clip localization. XML and its
+shortlist/hybrid extensions also support corpus-level retrieval; distinguish
+these tasks when comparing results. Recorded logs include unsuccessful runs
+and are not by themselves evidence that every configuration completed.
+
+With the external TVR features and a trained XML checkpoint installed:
+
+```bash
+bash scripts/run_tvr_xml_hybrid_eval.sh MODEL_DIR_NAME val 5 0.6
+```
+
+The merge was checked with Python parsing, shell syntax checks, and isolated
+checks of configuration flags, shortlist selection, and compact-span masks.
+Full model evaluation requires the external data, checkpoints, and ML runtime.
+
+## Subtitle baseline documentation
+
+
+The baseline workflow targets **TVR (TV show Retrieval)**.
 
 The focus is:
 
@@ -9,7 +38,7 @@ The focus is:
 - clean evaluation and latency reporting
 - a codebase that is easy to extend toward dense retrieval and multimodal fusion later
 
-This repo does **not** use the original TVR codebase as its implementation base. It only uses the TVR paper and official repo as reference for dataset schema, splits, and evaluation conventions.
+The subtitle baselines are implemented independently. The XML integration vendors the official TVR implementation under `third_party/TVRetrieval`.
 
 ## Scope
 
@@ -99,7 +128,7 @@ source .venv/bin/activate
 
 ## Expected Data Layout
 
-See [data/README.md](/home/ext_sash8218_colorado_edu/efficient-vmr/data/README.md) for the expected external TVR data layout.
+See [data/README.md](data/README.md) for the expected external TVR data layout.
 
 In short, place the official TVR metadata and subtitle files under `data/tvr/`.
 
@@ -294,7 +323,7 @@ It also provides a breakdown by query type:
 - The default subtitle source is the official `tvqa_preprocessed_subtitles.jsonl`.
 - Subtitle rows contain `vid_name` plus a `sub` list of timestamped segments.
 - Window construction currently targets **per-clip moment retrieval**, where retrieval is restricted to the query's ground-truth clip.
-- Corpus-level retrieval is intentionally not implemented yet to keep the baseline path simple and readable.
+- Corpus-level retrieval is outside the subtitle baseline path; use the XML evaluation workflow for that task.
 - The dense retriever uses sentence-transformer text embeddings over subtitle windows and shares the same eval pipeline as BM25.
 - The visual reranker expects local video clips under `data/tvr/videos/` or precomputed CLIP frame features under `data/tvr/processed/visual_features/`.
 - Visual reranking is intended as a targeted extension for visually grounded queries, so it defaults to applying only on query type `v`.

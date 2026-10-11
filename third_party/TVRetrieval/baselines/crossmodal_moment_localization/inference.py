@@ -895,6 +895,8 @@ def start_inference():
         normalize_tfeat=not opt.no_norm_tfeat,
         shared_compact_keep_ratio=opt.shared_compact_keep_ratio,
         shared_compact_num_spans=opt.shared_compact_num_spans,
+        context_video_shortlist_path=opt.context_video_shortlist_path,
+        context_video_shortlist_topk=opt.context_video_shortlist_topk,
     )
 
     model = setup_model(opt)

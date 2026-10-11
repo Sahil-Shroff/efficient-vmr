@@ -186,7 +186,8 @@ class StartEndEvalDataset(Dataset):
                  video_duration_idx_path=None, clip_length=None,
                  ctx_mode="video", data_mode="context",
                  h5driver=None, data_ratio=1.0, normalize_vfeat=True, normalize_tfeat=True,
-                 shared_compact_keep_ratio=1.0, shared_compact_num_spans=3):
+                 shared_compact_keep_ratio=1.0, shared_compact_num_spans=3,
+                 context_video_shortlist_path=None, context_video_shortlist_topk=0):
         self.dset_name = dset_name
         self.eval_split_name = eval_split_name
         self.ctx_mode = ctx_mode
@@ -217,6 +218,13 @@ class StartEndEvalDataset(Dataset):
         self.video_data = [{"vid_name": k, "duration": v[0]} for k, v in video_data.items()]
         self.video2idx = {k: v[1] for k, v in video_data.items()}
         self.clip_length = clip_length
+        self.shared_compact_vid_names = None
+
+        if context_video_shortlist_path is not None and context_video_shortlist_topk > 0:
+            context_keep_vid_names, shared_compact_vid_names = self.get_context_keep_and_compact_vid_names(
+                context_video_shortlist_path, context_video_shortlist_topk)
+            self.video_data = [e for e in self.video_data if e["vid_name"] in context_keep_vid_names]
+            self.shared_compact_vid_names = shared_compact_vid_names
 
         self.use_video = "video" in self.ctx_mode
         self.use_sub = "sub" in self.ctx_mode
@@ -285,6 +293,23 @@ class StartEndEvalDataset(Dataset):
         if not selected:
             return np.arange(valid_length, dtype=np.int64)
         return np.asarray(sorted(set(selected)), dtype=np.int64)
+
+    def get_context_keep_and_compact_vid_names(self, shortlist_path, shortlist_topk):
+        shortlist_payload = load_json(shortlist_path)
+        idx2video = {idx: vid_name for vid_name, idx in self.video2idx.items()}
+        compact_vid_names = set()
+        for row in shortlist_payload.get("VR", []):
+            for pred in row.get("predictions", [])[:shortlist_topk]:
+                vid_name = idx2video.get(int(pred[0]))
+                if vid_name is not None:
+                    compact_vid_names.add(vid_name)
+
+        context_keep_vid_names = set(compact_vid_names)
+        for query in self.query_data:
+            vid_name = query.get("vid_name")
+            if vid_name is not None:
+                context_keep_vid_names.add(vid_name)
+        return context_keep_vid_names, compact_vid_names
 
     def set_data_mode(self, data_mode):
         """context or query"""
@@ -376,10 +401,16 @@ class StartEndEvalDataset(Dataset):
         else:
             model_inputs["sub_feat"] = torch.zeros((2, 2))
 
-        retained_clip_indices = np.arange(ctx_l, dtype=np.int64)
-        if self.use_video and self.use_sub:
+        if raw_video_feat is not None:
             raw_video_feat = raw_video_feat[:ctx_l]
+        if raw_sub_feat is not None:
             raw_sub_feat = raw_sub_feat[:ctx_l]
+
+        retained_clip_indices = np.arange(ctx_l, dtype=np.int64)
+        should_shared_compact = self.use_video and self.use_sub and self.shared_compact_keep_ratio < 1.0
+        if should_shared_compact and self.shared_compact_vid_names is not None:
+            should_shared_compact = meta["vid_name"] in self.shared_compact_vid_names
+        if should_shared_compact:
             retained_clip_indices = self.select_shared_compact_indices(
                 raw_video_feat,
                 keep_ratio=self.shared_compact_keep_ratio,

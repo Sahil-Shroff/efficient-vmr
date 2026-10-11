@@ -1,0 +1,2 @@
+TVR oracle_window:   0%|          | 0/10895 [00:00<?, ?it/s]TVR oracle_window:  39%|███▉      | 4293/10895 [00:00<00:00, 42919.19it/s]TVR oracle_window:  79%|███████▉  | 8613/10895 [00:00<00:00, 43081.00it/s]TVR oracle_window: 100%|██████████| 10895/10895 [00:00<00:00, 35774.94it/s]
+outputs/tvr/final_eval/sanity/oracle_window_val.json

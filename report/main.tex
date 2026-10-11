@@ -1,4 +1,4 @@
-\documentclass[sigconf,review,anonymous,nonacm]{acmart}
+\documentclass[sigconf,nonacm]{acmart}
 
 \settopmatter{printfolios=true,printccs=false,printacmref=false}
 \renewcommand\footnotetextcopyrightpermission[1]{}
@@ -12,10 +12,18 @@
 \usepackage{xspace}
 \usepackage{enumitem}
 \usepackage{microtype}
+\usepackage{xcolor}
 \usepackage[capitalize]{cleveref}
 
 \graphicspath{{figures/}}
 \sisetup{detect-all}
+\definecolor{RepoLinkBlue}{HTML}{0B5CAD}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=black,
+  citecolor=black,
+  urlcolor=RepoLinkBlue
+}
 
 \input{macros}
 \input{metadata}

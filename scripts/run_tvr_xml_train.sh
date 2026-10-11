@@ -23,6 +23,9 @@ if [[ ! -d "${default_data_root}" && -d "${xml_root}/data" ]]; then
 fi
 data_root="${TVR_DATA_DIR:-${default_data_root}}"
 default_feature_root="data/tvr_feature_release"
+if [[ ! -d "${default_feature_root}" && -d "/mnt/tvr_disk/data/tvr_feature_release" ]]; then
+    default_feature_root="/mnt/tvr_disk/data/tvr_feature_release"
+fi
 if [[ ! -d "${default_feature_root}" && -d "/home/jupyter/data/tvr_feature_release" ]]; then
     default_feature_root="/home/jupyter/data/tvr_feature_release"
 fi

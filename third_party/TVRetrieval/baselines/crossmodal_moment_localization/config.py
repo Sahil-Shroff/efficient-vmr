@@ -185,6 +185,10 @@ class BaseOptions(object):
                                  help="Shared video+subtitle compaction keep ratio. 1.0 disables compaction.")
         self.parser.add_argument("--shared_compact_num_spans", type=int, default=3,
                                  help="Number of contiguous spans to keep for shared compaction.")
+        self.parser.add_argument("--context_video_shortlist_path", type=str, default=None,
+                                 help="Optional VR shortlist JSON used to restrict eval context videos.")
+        self.parser.add_argument("--context_video_shortlist_topk", type=int, default=0,
+                                 help="How many videos per query to keep when restricting eval context videos.")
 
     def display_save(self, opt):
         args = vars(opt)
@@ -218,7 +222,9 @@ class BaseOptions(object):
                                "max_pred_l", "min_pred_l", "max_vcmr_video", "external_inference_vr_res_path",
                                "akf_keep_ratio", "akf_selection_strategy", "akf_num_spans",
                                "akf_score_dump_path", "shared_compact_keep_ratio",
-                               "shared_compact_num_spans"]:
+                               "shared_compact_num_spans", "context_video_shortlist_path",
+                               "context_video_shortlist_topk", "desc_bert_path",
+                               "sub_bert_path", "vid_feat_path"]:
                     setattr(opt, arg, saved_options[arg])
             # opt.no_core_driver = True
         else:
